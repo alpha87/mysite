@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "简讯的个人资源库"
+title = "KnX Hub"
 
 [params]
   displayName = "EN"
