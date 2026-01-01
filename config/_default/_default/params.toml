@@ -178,4 +178,4 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # userId = ""
 
 [advertisement]
-  # adsense = ""
+  adsense = "ca-pub-5265952723806029"
