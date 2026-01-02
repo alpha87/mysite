@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sora on KnX Hub</title>
-    <link>http://localhost:1313/tags/sora/</link>
+    <link>https://knxhub.top/tags/sora/</link>
     <description>Recent content in Sora on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/sora/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>解锁AI视频革命：Sora学习资源全攻略，从入门到精通最全合集</title>
-      <link>http://localhost:1313/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</link>
+      <link>https://knxhub.top/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</guid>
+      <guid>https://knxhub.top/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</guid>
       <description>OpenAI的Sora正颠覆创意世界！本合集为你系统梳理Sora学习路径，从底层原理到实操案例，一网打尽所有核心资源，带你抢占AI视频创作先机。</description>
       
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>志愿填报 on KnX Hub</title>
-    <link>http://localhost:1313/tags/%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5/</link>
+    <link>https://knxhub.top/tags/%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5/</link>
     <description>Recent content in 志愿填报 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2025年高考志愿避坑指南汇总</title>
-      <link>http://localhost:1313/resources/learning-resources/2025-gaokao-zhiyuan-bikeng-zhinan/</link>
+      <link>https://knxhub.top/resources/learning-resources/2025-gaokao-zhiyuan-bikeng-zhinan/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/learning-resources/2025-gaokao-zhiyuan-bikeng-zhinan/</guid>
+      <guid>https://knxhub.top/resources/learning-resources/2025-gaokao-zhiyuan-bikeng-zhinan/</guid>
       <description>2025年高考志愿填报核心避坑要点汇总，包括位次定位、专业选择、梯度设置、招生章程解读等，帮助考生避免常见填报误区，科学规划志愿策略。</description>
       
     </item>

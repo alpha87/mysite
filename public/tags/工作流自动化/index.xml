@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>工作流自动化 on KnX Hub</title>
-    <link>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <link>https://knxhub.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
     <description>Recent content in 工作流自动化 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Coze AI 爆火指南：零代码打造 AI 智能体，从入门到进阶实战全攻略</title>
-      <link>http://localhost:1313/resources/ai-tools/coze-ai-agent-full-course-guide/</link>
+      <link>https://knxhub.top/resources/ai-tools/coze-ai-agent-full-course-guide/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/ai-tools/coze-ai-agent-full-course-guide/</guid>
+      <guid>https://knxhub.top/resources/ai-tools/coze-ai-agent-full-course-guide/</guid>
       <description>Coze（扣子）是新一代 AI Agent 开发平台。无论你是否有编程基础，都能快速搭建各类 AI 应用。本合集提供从入门到强化的全套课程，带你掌握 AI 智能体搭建的核心技术。</description>
       
     </item>

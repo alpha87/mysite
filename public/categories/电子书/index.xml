@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电子书 on KnX Hub</title>
-    <link>http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
+    <link>https://knxhub.top/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
     <description>Recent content in 电子书 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>《杨黎光大案纪实系列》全集：深度还原张子强、叶继欢香港顶级富豪绑架案内幕</title>
-      <link>http://localhost:1313/resources/ebooks/yang-liguang-crime-case-record-series/</link>
+      <link>https://knxhub.top/resources/ebooks/yang-liguang-crime-case-record-series/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/ebooks/yang-liguang-crime-case-record-series/</guid>
+      <guid>https://knxhub.top/resources/ebooks/yang-liguang-crime-case-record-series/</guid>
       <description>绑架香港顶级富豪、勒索16亿巨款、百公斤炸药走私……杨黎光以极其细腻的笔触，带你亲临那个险象环生的犯罪现场，揭开世纪罪犯张子强与叶继欢集团覆灭的惊天内幕。</description>
+      
+    </item>
+    
+    <item>
+      <title>DK百科图书合集：20多本经典权威百科，开启全龄段视觉知识盛宴</title>
+      <link>https://knxhub.top/resources/ebooks/dk-encyclopedia-20-books-complete-collection/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://knxhub.top/resources/ebooks/dk-encyclopedia-20-books-complete-collection/</guid>
+      <description>被誉为‘从出生到年老的生活指南’！DK百科合集收录20多本权威图书，以震撼的视觉插图与丰富的专业信息，带你探索自然、历史、科学的奥秘，是每个家庭书架必备的知识宝库。</description>
       
     </item>
     
