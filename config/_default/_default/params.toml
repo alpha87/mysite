@@ -152,7 +152,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   websiteid = "a2be60bd-e723-44b5-ab7a-4c1454cd2197"
   domain = "knxhub.top"
   dataDomains = "knxhub.top"
-  scriptName = "https://cloud.umami.is/script.js"
+  scriptName = "script.js"
   enableTrackEvent = true
 
 [selineAnalytics]
