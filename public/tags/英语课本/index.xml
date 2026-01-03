@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>英语课本 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC/</link>
+    <link>http://localhost:1313/tags/%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC/</link>
     <description>Recent content in 英语课本 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>高中全套英语课本精华整合：语法/词汇/应试技巧一网打尽，学霸提分利器</title>
-      <link>https://knxhub.top/resources/learning-resources/senior-high-school-english-complete-guide/</link>
+      <link>http://localhost:1313/resources/learning-resources/senior-high-school-english-complete-guide/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/learning-resources/senior-high-school-english-complete-guide/</guid>
+      <guid>http://localhost:1313/resources/learning-resources/senior-high-school-english-complete-guide/</guid>
       <description>这份高中英语精华整合包，将枯燥的课本知识转化为系统的提分攻略。从基础词汇到高级语法，配合实战应试技巧，是高中生逆袭英语高分的必备资源。</description>
       
     </item>

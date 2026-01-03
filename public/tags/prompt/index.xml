@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt on KnX Hub</title>
+    <link>http://localhost:1313/tags/prompt/</link>
+    <description>Recent content in Prompt on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/prompt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DeepSeek 提示词官方课：教你一指令去AI味，掌握深度思维Prompt秘籍</title>
+      <link>http://localhost:1313/resources/ai-tools/deepseek-official-prompt-course-mastering-ai-content/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/deepseek-official-prompt-course-mastering-ai-content/</guid>
+      <description>别让生硬的AI味毁了你的内容！DeepSeek官方提示词课程全解析，教你如何通过精准指令调优模型输出。一个指令解决AI痕迹，掌握提示词工程核心逻辑，让你的AI工具真正成为生产力助手。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

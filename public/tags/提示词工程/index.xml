@@ -2,29 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>提示词工程 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/</link>
+    <link>http://localhost:1313/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/</link>
     <description>Recent content in 提示词工程 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DeepSeek 提示词官方课：教你一指令去AI味，掌握深度思维Prompt秘籍</title>
+      <link>http://localhost:1313/resources/ai-tools/deepseek-official-prompt-course-mastering-ai-content/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/deepseek-official-prompt-course-mastering-ai-content/</guid>
+      <description>别让生硬的AI味毁了你的内容！DeepSeek官方提示词课程全解析，教你如何通过精准指令调优模型输出。一个指令解决AI痕迹，掌握提示词工程核心逻辑，让你的AI工具真正成为生产力助手。</description>
+      
+    </item>
     
     <item>
       <title>解锁AI视频革命：Sora学习资源全攻略，从入门到精通最全合集</title>
-      <link>https://knxhub.top/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</link>
+      <link>http://localhost:1313/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</guid>
+      <guid>http://localhost:1313/resources/ai-tools/sora-ai-video-learning-guide-full-collection/</guid>
       <description>OpenAI的Sora正颠覆创意世界！本合集为你系统梳理Sora学习路径，从底层原理到实操案例，一网打尽所有核心资源，带你抢占AI视频创作先机。</description>
       
     </item>
     
     <item>
       <title>DeepSeek从入门到精通秘籍 - 系统化指导手册</title>
-      <link>https://knxhub.top/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</link>
+      <link>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</guid>
+      <guid>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</guid>
       <description>DeepSeek系统化使用指南，从基础操作到高级应用，涵盖核心功能、高效技巧、常见误区及避坑要点，帮助用户快速上手并精通DeepSeek，提升工作效率。</description>
       
     </item>

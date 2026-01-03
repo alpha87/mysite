@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>发音规律 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E5%8F%91%E9%9F%B3%E8%A7%84%E5%BE%8B/</link>
+    <link>http://localhost:1313/tags/%E5%8F%91%E9%9F%B3%E8%A7%84%E5%BE%8B/</link>
     <description>Recent content in 发音规律 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E5%8F%91%E9%9F%B3%E8%A7%84%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8F%91%E9%9F%B3%E8%A7%84%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>60集英语启蒙动画合集：自然拼读精华磨耳朵，带孩子轻松攻克听力关</title>
-      <link>https://knxhub.top/resources/learning-resources/60-episodes-english-phonics-animation-collection/</link>
+      <link>http://localhost:1313/resources/learning-resources/60-episodes-english-phonics-animation-collection/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/learning-resources/60-episodes-english-phonics-animation-collection/</guid>
+      <guid>http://localhost:1313/resources/learning-resources/60-episodes-english-phonics-animation-collection/</guid>
       <description>这套60集精选英语动画，是孩子磨耳朵、练听力的绝佳伴侣。内容聚焦自然拼读核心规律，让孩子在观看生动故事的同时，潜移默化地掌握地道发音，爱上开口说英语。</description>
       
     </item>

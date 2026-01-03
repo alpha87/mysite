@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>入门指南 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</link>
+    <link>http://localhost:1313/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</link>
     <description>Recent content in 入门指南 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DeepSeek从入门到精通秘籍 - 系统化指导手册</title>
-      <link>https://knxhub.top/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</link>
+      <link>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</guid>
+      <guid>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</guid>
       <description>DeepSeek系统化使用指南，从基础操作到高级应用，涵盖核心功能、高效技巧、常见误区及避坑要点，帮助用户快速上手并精通DeepSeek，提升工作效率。</description>
       
     </item>

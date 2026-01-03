@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>动画学数学 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E5%8A%A8%E7%94%BB%E5%AD%A6%E6%95%B0%E5%AD%A6/</link>
+    <link>http://localhost:1313/tags/%E5%8A%A8%E7%94%BB%E5%AD%A6%E6%95%B0%E5%AD%A6/</link>
     <description>Recent content in 动画学数学 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E5%8A%A8%E7%94%BB%E5%AD%A6%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8A%A8%E7%94%BB%E5%AD%A6%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>用动画片学奥数【完结】：激发孩子数学潜能的趣味思维课</title>
-      <link>https://knxhub.top/resources/learning-resources/donghuapian-xue-aoshu-wanjie-ziyuan/</link>
+      <link>http://localhost:1313/resources/learning-resources/donghuapian-xue-aoshu-wanjie-ziyuan/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/learning-resources/donghuapian-xue-aoshu-wanjie-ziyuan/</guid>
+      <guid>http://localhost:1313/resources/learning-resources/donghuapian-xue-aoshu-wanjie-ziyuan/</guid>
       <description>《用动画片学奥数》完结版资源分享，通过动画形式将抽象奥数知识具象化，每集解锁一个知识点，循序渐进培养孩子数学逻辑，是家长辅导孩子数学学习的绝佳趣味教材。</description>
       
     </item>

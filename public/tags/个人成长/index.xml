@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>个人成长 on KnX Hub</title>
-    <link>https://knxhub.top/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
+    <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
     <description>Recent content in 个人成长 on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>《学好英语让你月入50w》完结版：揭秘高价值变现路径，打破职场收入天花板</title>
-      <link>https://knxhub.top/resources/side-hustle/english-monetization-high-income-strategy/</link>
+      <link>http://localhost:1313/resources/side-hustle/english-monetization-high-income-strategy/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/side-hustle/english-monetization-high-income-strategy/</guid>
+      <guid>http://localhost:1313/resources/side-hustle/english-monetization-high-income-strategy/</guid>
       <description>英语不仅是交流工具，更是财富倍增器。本课程揭秘如何通过英语能力切入高价值商业赛道，突破传统职场低薪困局，实现在家也能月入高薪的闭环路径。</description>
+      
+    </item>
+    
+    <item>
+      <title>斯坦福大学最火心理学课：凯利·麦格尼格尔《自控力》高清电子书下载</title>
+      <link>http://localhost:1313/resources/ebooks/the-willpower-instinct-ebook-download/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ebooks/the-willpower-instinct-ebook-download/</guid>
+      <description>自控力是可以像肌肉一样训练的！源自斯坦福大学最火爆的心理学课程，作者凯利·麦格尼格尔用科学实验教你如何识破大脑诱惑、建立自控习惯，是一本提升生活掌控力的实战型手册。</description>
       
     </item>
     
