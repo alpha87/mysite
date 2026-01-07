@@ -4,7 +4,37 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/python-3-14-new-features-analysis/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/2025-dedao-annual-book-list-guide/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -34,12 +64,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resources/learning-resources/zhihu-748-top-high-praise-articles-collection/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -226,12 +250,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resources/game-resources/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/ebooks/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Python 3.14 新特性深度解析：模板字符串、多解释器与性能革命</title>
+      <link>http://localhost:1313/blog/python-3-14-new-features-analysis/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/python-3-14-new-features-analysis/</guid>
+      <description>Python 3.14 并非简单的版本迭代，而是对开发者生产力的一次深度重构。本文深入探讨了模板字符串带来的安全革新、多解释器的‘民主化’进程以及标注延迟求值对运行时开销的优化，带你领略 Python 进化之美。</description>
+      
+    </item>
+    
+    <item>
+      <title>2025得到年度图书榜单：精选好书推荐与深度阅读指南</title>
+      <link>http://localhost:1313/resources/ebooks/2025-dedao-annual-book-list-guide/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ebooks/2025-dedao-annual-book-list-guide/</guid>
+      <description>2025年得到年度图书榜单重磅发布！本文精选年度最值得阅读的优秀书籍，提供深度阅读指南与知识提升策略，助力每一位终身学习者在知识的海洋中精准导航，实现跨越式成长。</description>
+      
+    </item>
     
     <item>
       <title>DeepSeek 提示词官方课：教你一指令去AI味，掌握深度思维Prompt秘籍</title>

@@ -16,13 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "副业资料"
-  pageRef = "side-hustle"
+  name = "学习资料"
+  pageRef = "learning-resources"
   weight = 10
 
 [[main]]
-  name = "学习资料"
-  pageRef = "learning-resources"
+  name = "副业资料"
+  pageRef = "side-hustle"
   weight = 10
 
 [[main]]
@@ -41,6 +41,12 @@
   parent = "其他"
   pageRef = "ebooks"
   weight = 10
+
+[[subnavigation]]
+  name = "My Blog"
+  pre = "blogger"
+  pageRef = "Blog"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
