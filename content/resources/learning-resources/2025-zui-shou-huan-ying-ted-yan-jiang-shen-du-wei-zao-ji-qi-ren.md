@@ -11,18 +11,18 @@ summary: "精选2025年最受欢迎的TED演讲合集，涵盖深度伪造识别
 slug: "2025-zui-shou-huan-ying-ted-yan-jiang-shen-du-wei-zao-ji-qi-ren"
 ---
 
-{< button href="https://pan.quark.cn/s/ac07008c134a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ac07008c134a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ac07008c134a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 2025年，全球的目光再次聚焦于TED舞台，一系列前瞻性演讲引发了广泛共鸣与讨论。我们精选了年度最受欢迎的TED演讲合集，这些演讲不仅深刻探讨了当下最尖端的技术挑战，如如何有效识别日益复杂的深度伪造视频，以及人类思维的奥秘与解读可能性，更触及了改变我们日常生活的突破性创新，包括机器人技术的飞速发展及其对未来的影响，以及延长食品保鲜期的新方法。这些充满洞见的思想盛宴，旨在激发您的思考，拓宽您的视野，并引导您探索未来世界的无限可能。立即获取这些启迪人心的内容，把握2025年最前沿的知识与思考。
 
-{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}
+{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
 免费领取大流量卡
-{< /button >}
+{{< /button >}}

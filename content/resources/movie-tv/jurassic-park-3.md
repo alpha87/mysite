@@ -11,18 +11,18 @@ summary: "《侏罗纪公园3》带您重返恐龙肆虐的索纳岛。古生物
 slug: "jurassic-park-3"
 ---
 
-{< button href="https://pan.quark.cn/s/92d3d3f3ad9d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/92d3d3f3ad9d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/92d3d3f3ad9d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《侏罗纪公园3》是史蒂文·斯皮尔伯格经典科幻系列电影的第三部力作，继续将观众带入一个由史前巨兽主宰的惊险世界。影片讲述了古生物学家阿兰·格兰特博士，在一次看似简单的私人飞机任务中，意外被骗至危机四伏的索纳岛。这座曾是恐龙培育基地的岛屿，如今已成为各种凶猛恐龙的自由领地。为了营救一对失踪的少年，格兰特博士和他的团队必须在这片充满未知威胁的丛林中求生，并与前所未见的巨型棘龙、成群结队的翼龙以及其他史前掠食者展开一场又一场惊心动魄的较量。本片以其紧张刺激的剧情、逼真的恐龙特效和扣人心弦的生存挑战，再次展现了人类在强大自然面前的渺小与勇气，是科幻冒险电影爱好者不容错过的经典之作。
 
-{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}
+{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
 免费领取大流量卡
-{< /button >}
+{{< /button >}}

@@ -11,18 +11,18 @@ summary: "2025年度最佳TED播客精选，涵盖生活技巧、科学前沿、
 slug: "2025-niandu-zuijia-ted-bokebangdan"
 ---
 
-{< button href="https://pan.quark.cn/s/3a353628352d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a353628352d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a353628352d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 隆重推出2025年度最佳TED播客榜单，这是一份精心策划的合集，旨在引领你深入探索塑造未来一年的思想浪潮。从实用的生活技巧到令人惊叹的突破性科学发现，再到与各行业专家及文化偶像的深度对话，这份榜单内容包罗万象。你将不仅学会如何有效战胜自我怀疑，探究海藻在减少甲烷排放方面的创新潜力，更能汲取宝贵经验，培养那些能让你持续进步的日常习惯。无论是寻求个人成长、拓宽知识边界，还是激发创新思维，这些TED播客都将成为你不可或缺的智慧源泉，助你轻松获取新知，不断升级自我。
 
-{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}
+{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
 免费领取大流量卡
-{< /button >}
+{{< /button >}}

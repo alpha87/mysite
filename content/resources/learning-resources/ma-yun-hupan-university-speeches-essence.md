@@ -11,18 +11,18 @@ summary: "这份《马云湖畔大学讲话52集全》珍贵资源，是马云�
 slug: "ma-yun-hupan-university-speeches-essence-for-strugglers"
 ---
 
-{< button href="https://pan.quark.cn/s/a7cac0a8cb98" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a7cac0a8cb98" target="_blank" >}}
 点击获取马云湖畔大学演讲精华
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a7cac0a8cb98
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 马云的每次公开亮相都备受瞩目，更何况是他在湖畔大学的内部演讲？这份珍贵的**《马云湖畔大学讲话52集全》**，是马云在面向中国顶尖企业家和未来领袖的课堂上，倾囊相授的智慧结晶。内容涵盖了他对商业趋势的深刻洞察、企业管理的核心哲学、卓越领导力的培养秘诀，以及面对挑战时的战略思考。无论是创业路上的迷茫，还是职场发展中的瓶颈，这些演讲都能为你带来全新的视角和启发。对于所有在奋斗中的人而言，这不仅仅是一份学习资料，更是一剂精神的强心针，指引你洞察商业本质，激发内在潜能，加速个人与企业成长。
 
-{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}
+{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
 免费领取大流量卡
-{< /button >}
+{{< /button >}}
