@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepfake on KnX Hub</title>
+    <link>http://localhost:1313/tags/deepfake/</link>
+    <description>Recent content in Deepfake on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/deepfake/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2025年度最受欢迎TED演讲合集：深度伪造、机器人与未来洞察</title>
+      <link>http://localhost:1313/resources/learning-resources/2025-zui-shou-huan-ying-ted-yan-jiang-shen-du-wei-zao-ji-qi-ren/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/2025-zui-shou-huan-ying-ted-yan-jiang-shen-du-wei-zao-ji-qi-ren/</guid>
+      <description>精选2025年最受欢迎的TED演讲合集，涵盖深度伪造识别、机器人技术、思维解读和食品保鲜等前沿议题。探索全球顶尖思想，洞察未来趋势，助您拓宽视野，激发创新思维，获取2025年最新知识。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>播客推荐 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E6%92%AD%E5%AE%A2%E6%8E%A8%E8%8D%90/</link>
+    <description>Recent content in 播客推荐 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%92%AD%E5%AE%A2%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2025年度最佳TED播客榜单：启发性思维与个人成长指南</title>
+      <link>http://localhost:1313/resources/learning-resources/2025-niandu-zuijia-ted-bokebangdan/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/2025-niandu-zuijia-ted-bokebangdan/</guid>
+      <description>2025年度最佳TED播客精选，涵盖生活技巧、科学前沿、专家访谈及个人成长，助你克服挑战、拓宽视野、培养积极习惯。一份不可多得的智慧宝库，立即获取，开启你的学习之旅。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

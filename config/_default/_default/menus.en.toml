@@ -21,24 +21,30 @@
   weight = 10
 
 [[main]]
-  name = "副业资料"
-  pageRef = "side-hustle"
-  weight = 10
-
-[[main]]
   name = "影视资料"
   pageRef = "movie-tv"
   weight = 10
 
 [[main]]
+  name = "副业资料"
+  pageRef = "side-hustle"
+  weight = 10
+
+[[main]]
+  name = "副业资料"
+  parent = "更多资源"
+  pageRef = "side-hustle"
+  weight = 10
+
+[[main]]
   name = "游戏资源"
-  parent = "其他"
+  parent = "更多资源"
   pageRef = "game-resources"
   weight = 10
 
 [[main]]
   name = "电子书"
-  parent = "其他"
+  parent = "更多资源"
   pageRef = "ebooks"
   weight = 10
 
