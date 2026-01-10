@@ -7,7 +7,317 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hadoop</title>
+      <link>http://localhost:1313/tags/hadoop/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hadoop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IC卡分析</title>
+      <link>http://localhost:1313/tags/ic%E5%8D%A1%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ic%E5%8D%A1%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PDF合集</title>
+      <link>http://localhost:1313/tags/pdf%E5%90%88%E9%9B%86/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pdf%E5%90%88%E9%9B%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python教程</title>
+      <link>http://localhost:1313/tags/python%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python数据分析</title>
+      <link>http://localhost:1313/tags/python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RFID技术</title>
+      <link>http://localhost:1313/tags/rfid%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rfid%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>http://localhost:1313/tags/spark/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/spark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>刷梯神器</title>
+      <link>http://localhost:1313/tags/%E5%88%B7%E6%A2%AF%E7%A5%9E%E5%99%A8/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%88%B7%E6%A2%AF%E7%A5%9E%E5%99%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>卡片克隆</title>
+      <link>http://localhost:1313/tags/%E5%8D%A1%E7%89%87%E5%85%8B%E9%9A%86/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8D%A1%E7%89%87%E5%85%8B%E9%9A%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>商业智能</title>
+      <link>http://localhost:1313/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>图灵丛书</title>
+      <link>http://localhost:1313/tags/%E5%9B%BE%E7%81%B5%E4%B8%9B%E4%B9%A6/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%9B%BE%E7%81%B5%E4%B8%9B%E4%B9%A6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>大数据分析</title>
+      <link>http://localhost:1313/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>学习路径</title>
+      <link>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>安防技术</title>
+      <link>http://localhost:1313/tags/%E5%AE%89%E9%98%B2%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%AE%89%E9%98%B2%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>实战案例</title>
+      <link>http://localhost:1313/tags/%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>技术书籍</title>
+      <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据修改</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E4%BF%AE%E6%94%B9/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E4%BF%AE%E6%94%B9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据可视化</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据建模</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>数据科学</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>架构设计</title>
+      <link>http://localhost:1313/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>梯控工具</title>
+      <link>http://localhost:1313/tags/%E6%A2%AF%E6%8E%A7%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%A2%AF%E6%8E%A7%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>梯控软件</title>
+      <link>http://localhost:1313/tags/%E6%A2%AF%E6%8E%A7%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%A2%AF%E6%8E%A7%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>电子书下载</title>
+      <link>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>电梯卡解密</title>
+      <link>http://localhost:1313/tags/%E7%94%B5%E6%A2%AF%E5%8D%A1%E8%A7%A3%E5%AF%86/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%94%B5%E6%A2%AF%E5%8D%A1%E8%A7%A3%E5%AF%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>硬件研究</title>
+      <link>http://localhost:1313/tags/%E7%A1%AC%E4%BB%B6%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%A1%AC%E4%BB%B6%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>程序人生</title>
+      <link>http://localhost:1313/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>算法学习</title>
+      <link>http://localhost:1313/tags/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>编程开发</title>
+      <link>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>计算机经典</title>
+      <link>http://localhost:1313/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1TB空间</title>
+      <link>http://localhost:1313/tags/1tb%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/1tb%E7%A9%BA%E9%97%B4/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GUI界面</title>
@@ -70,11 +380,41 @@
     </item>
     
     <item>
+      <title>不限速网盘</title>
+      <link>http://localhost:1313/tags/%E4%B8%8D%E9%99%90%E9%80%9F%E7%BD%91%E7%9B%98/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E4%B8%8D%E9%99%90%E9%80%9F%E7%BD%91%E7%9B%98/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>云存储</title>
+      <link>http://localhost:1313/tags/%E4%BA%91%E5%AD%98%E5%82%A8/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E4%BA%91%E5%AD%98%E5%82%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>低代码</title>
       <link>http://localhost:1313/tags/%E4%BD%8E%E4%BB%A3%E7%A0%81/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%E4%BD%8E%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>免费领空间</title>
+      <link>http://localhost:1313/tags/%E5%85%8D%E8%B4%B9%E9%A2%86%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%85%8D%E8%B4%B9%E9%A2%86%E7%A9%BA%E9%97%B4/</guid>
       <description></description>
       
     </item>
@@ -100,11 +440,61 @@
     </item>
     
     <item>
-      <title>数据可视化</title>
-      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <title>夸克APP</title>
+      <link>http://localhost:1313/tags/%E5%A4%B8%E5%85%8Bapp/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <guid>http://localhost:1313/tags/%E5%A4%B8%E5%85%8Bapp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>夸克网盘</title>
+      <link>http://localhost:1313/tags/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>新用户福利</title>
+      <link>http://localhost:1313/tags/%E6%96%B0%E7%94%A8%E6%88%B7%E7%A6%8F%E5%88%A9/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%96%B0%E7%94%A8%E6%88%B7%E7%A6%8F%E5%88%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>网盘扩容</title>
+      <link>http://localhost:1313/tags/%E7%BD%91%E7%9B%98%E6%89%A9%E5%AE%B9/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%BD%91%E7%9B%98%E6%89%A9%E5%AE%B9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>资源存储</title>
+      <link>http://localhost:1313/tags/%E8%B5%84%E6%BA%90%E5%AD%98%E5%82%A8/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E8%B5%84%E6%BA%90%E5%AD%98%E5%82%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>软件教程</title>
+      <link>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/</guid>
       <description></description>
       
     </item>
@@ -435,16 +825,6 @@
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%E5%8E%BBai%E5%91%B3/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>夸克网盘</title>
-      <link>http://localhost:1313/tags/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98/</guid>
       <description></description>
       
     </item>
@@ -2535,16 +2915,6 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E7%A4%BC%E4%BB%AA/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>电子书下载</title>
-      <link>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD/</guid>
       <description></description>
       
     </item>

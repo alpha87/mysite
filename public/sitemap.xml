@@ -4,6 +4,48 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/ti-kong-gong-ju-he-ji-download/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/tu-ling-cheng-xu-she-ji-cong-shu-pdf-collection/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/da-shu-ju-fen-xi-jing-pin-zi-liao-he-ji/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/quark-wangpan-mianfei-lingqu-1tb-kongjian-jiaocheng/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -17,18 +59,6 @@
   <url>
     <loc>http://localhost:1313/blog/nicegui-python-web-framework-guide/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/ebooks/</loc>
-    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/</loc>
-    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -64,12 +94,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resources/learning-resources/2100-excel-templates-for-efficiency/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/learning-resources/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -431,6 +455,12 @@
   <url>
     <loc>http://localhost:1313/resources/learning-resources/2025-zui-shou-huan-ying-ted-yan-jiang-shen-du-wei-zao-ji-qi-ren/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/disclaimer/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
