@@ -55,8 +55,14 @@
   weight = 20
 
 [[subnavigation]]
+  name = "新手提示"
+  pre = "fediverse"
+  pageRef = "Tips"
+  weight = 20
+
+[[subnavigation]]
   name = "免责声明"
-  pre = "phone"
+  pre = "circle-info"
   pageRef = "Disclaimer"
   weight = 20
 

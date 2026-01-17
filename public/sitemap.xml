@@ -4,7 +4,85 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/burmester-2025-car-music-collection-download/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/2026-ai-movie-explanation-automation-guide/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/high-quality-american-tv-shows-collection-2026/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/32-sets-bbq-technology-collection-guide/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/the-usborne-first-thousand-words-in-english-resource/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/desperate-housewives-full-seasons-english-learning/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/best-decompress-software-winrar-bandizip-7zip/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/junior-high-english-vocabulary-comprehensive-guide/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,19 +105,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/learning-resources/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resources/ebooks/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -63,6 +129,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tips/</loc>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resources/ebooks/huang-ren-xun-ying-wei-da-zhi-xin-ebook/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -77,12 +149,6 @@
   <url>
     <loc>http://localhost:1313/resources/ebooks/2025-dedao-annual-book-list-guide/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/ai-tools/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -207,12 +273,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resources/movie-tv/pirates-of-the-caribbean-1-5-complete-collection/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -250,12 +310,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resources/movie-tv/zhen-huan-zhuan-4k-uhd-full-collection/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/movie-tv/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

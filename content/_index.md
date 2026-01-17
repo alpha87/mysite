@@ -6,6 +6,6 @@ type: "section"
 layout: "page"
 ---
 
-A curated hub for tools · resources · long-term value.
+tools · resources · long-term value.
 
 精选资源 · 长期价值
