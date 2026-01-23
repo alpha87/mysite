@@ -36,6 +36,3 @@ slug: "sleep-economy-white-noise-livestream-guide"
 
 本资源已为你打包了**全套高清助眠素材库、AI 白噪音音源以及傻瓜式的开播软件工具**。无论你是带娃的宝妈，还是想赚外快的副业党，这都是一个可以快速落地并见效的优质项目。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

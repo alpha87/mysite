@@ -34,6 +34,3 @@ slug: "junior-high-english-vocabulary-comprehensive-guide"
 
 立即下载这套电子版资料，开启你的高效提分之旅！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

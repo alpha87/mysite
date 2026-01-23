@@ -41,4 +41,3 @@ slug: "100-coze-workflows-collection-download"
 
 ![100个Coze工作流合集](https://s2.loli.net/2025/12/09/3lj7rNMFyakHudW.jpg)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

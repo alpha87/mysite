@@ -38,6 +38,3 @@ slug: "chinese-traditional-fitness-and-health-resource-pack"
 
 不必追求高强度的器械训练，每天只需 15 分钟练习八段锦或太极拳，你就能感受到身体气血的流动与活力的回归。立即收藏这份健康宝库，开启你的传统养生之旅。
 
-{{< button href="[https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e](https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e)" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

@@ -37,4 +37,3 @@ AI 功能全面解锁：特别集成了最新的 AI 创意辅助工具。你可�
 
 无论你是刚入行的新手设计师，还是需要处理大量视频素材的自媒体达人，这套稳定、好用的 Adobe 全家桶合集都将是你本地电脑里最值得珍藏的“生产力工具包”。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

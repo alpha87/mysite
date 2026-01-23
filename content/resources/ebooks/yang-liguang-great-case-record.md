@@ -39,4 +39,3 @@ slug: "yang-liguang-crime-case-record-series"
 
 关于张子强是否真的死于刑场，还是如同传闻般隐姓埋名逃亡海外？这份全集将为你提供最权威、最详实的解答。跟随杨黎光的笔触，让我们一同回到那个险象环生、充满枭雄气息的时代。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

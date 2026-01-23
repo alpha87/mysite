@@ -37,4 +37,3 @@ slug: "video-editing-self-study-complete-workflow"
 
 与其在网上搜碎片化的教程，不如静下心来跟这套系统课程走一遍。只要跟着实操，你会发现从“剪辑小白”到“视频高手”的距离，其实并不遥远。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

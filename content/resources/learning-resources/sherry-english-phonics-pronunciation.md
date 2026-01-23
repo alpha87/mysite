@@ -36,6 +36,3 @@ slug: "sherry-english-phonics-pronunciation-trilogy"
 
 这不仅仅是一套课程，更是一次彻底重构英语思维的机会。无论你是想给孩子做英语启蒙，还是成年人想重塑口语标准度，这套资源都是目前市面上极具性价比的选择。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

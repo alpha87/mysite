@@ -37,4 +37,3 @@ slug: "musk-gates-celebrity-english-speech-pack"
 
 与其死记硬背枯燥的例句，不如听听这些改变世界的人在说什么。每天听一段，你会发现，地道的英语口语和格局的提升，其实可以同步发生。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

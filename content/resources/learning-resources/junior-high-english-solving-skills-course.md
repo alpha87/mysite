@@ -37,4 +37,3 @@ slug: "junior-high-english-problem-solving-masterclass"
 
 这套资源是我个人自购分享的，质量非常扎实。它能帮你从“题海”中抽身，建立起一套完整的解题思维体系。掌握了正确的方法，英语高分其实远比你想象的要简单！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

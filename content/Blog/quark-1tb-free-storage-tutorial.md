@@ -71,6 +71,3 @@ slug: "quark-wangpan-mianfei-lingqu-1tb-kongjian-jiaocheng"
 
 > **温馨提示**：活动可能随时调整，建议尽快领取。确保网络环境稳定，避免操作中断。如遇问题可联系夸克网盘官方客服。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

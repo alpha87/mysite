@@ -33,4 +33,3 @@ slug: "avatar-the-last-airbender-english-learning"
 
 无论你是想重温童年经典，还是寻找高质量的英语磨耳朵素材，《降世神通》都是你的不二之选。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

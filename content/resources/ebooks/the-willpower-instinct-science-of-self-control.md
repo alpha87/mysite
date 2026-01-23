@@ -38,6 +38,3 @@ slug: "the-willpower-instinct-ebook-download"
 
 如果你想在这个充满干扰的时代，掌握**少做后悔事、多做成就事**的秘诀，遇见那个坚定、清醒、能掌控自己的你，那么这本书绝对是你的必读之选。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

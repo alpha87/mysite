@@ -42,4 +42,3 @@ slug: "2025-gaokao-math-foundation-problem-sets"
 
 无论你是想要夯实基础的学生，还是在寻找高质量题库的老师，这套资料都能为你提供最扎实的支撑，助你在2025高考中稳拿基础分，冲刺高分段。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

@@ -43,4 +43,3 @@ slug: "sherry-english-learning-system-collection"
 
 如果你希望孩子在英语起步阶段就拥有一口地道的发音，不再走弯路，那么这份雪梨老师的“黄金三角体系”全合集就是你一直在寻找的宝藏。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

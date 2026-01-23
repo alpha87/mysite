@@ -37,4 +37,3 @@ slug: "2026-mayan-yuandan-ppt-templates-collection"
 
 无论是学校班级联欢、企业年会，还是社区庆典，这套素材包都能为您提供全方位的方案支持。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

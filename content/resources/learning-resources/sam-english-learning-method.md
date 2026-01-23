@@ -39,4 +39,3 @@ slug: "sam-devil-dad-english-learning-methodology"
 
 无论你是英语小白，还是希望在职场中更进一步的进阶者，恶魔奶爸 Sam 的这套方法都能帮你少走几年弯路，真正实现英语能力的质变。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

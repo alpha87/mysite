@@ -39,4 +39,3 @@ slug: "coze-ai-agent-full-course-guide"
 
 在这个 AI 赋能万物的时代，掌握 AI Agent 的构建能力，就相当于掌握了未来数字世界的生存秘籍。这套涵盖入门、进阶到强化的全系统课程，将是你从 AI 使用者转变为 AI 开发者的关键跳板。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

@@ -43,4 +43,3 @@ slug: "sora-ai-video-learning-guide-full-collection"
 
 在这个“技术红利期”，谁能率先掌握 Sora，谁就拥有了未来内容市场的通行证。这份攻略将是你弯道超车的核心支撑！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

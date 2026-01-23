@@ -39,6 +39,3 @@ slug: "zhen-huan-zhuan-4k-uhd-full-collection"
 * **细节控福音**：演员细微的眼神变化和表情张力在超高清下被放大，更能直观感受到孙俪、陈建斌、蔡少芬等实力派演员的演技对撞。
 * **永久存读**：作为“电子榨菜”的鼻祖，无论什么时候翻出来重温，4K 版本都能给你全新的震撼。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

@@ -33,6 +33,3 @@ slug: "32-sets-bbq-technology-collection-guide"
 
 无论你是想在夜市摆摊开启副业，还是准备正式投身餐饮行业，这套系统化的技术合集都将是你最坚实的商业后盾。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

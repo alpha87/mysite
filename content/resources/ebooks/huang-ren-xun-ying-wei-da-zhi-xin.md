@@ -30,6 +30,3 @@ slug: "huang-ren-xun-ying-wei-da-zhi-xin-ebook"
 
 无论你是科技行业的从业者、正在寻找方向的创业者，还是对人工智能发展感兴趣的普通读者，这本书都能为你提供宝贵的深度见解。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

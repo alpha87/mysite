@@ -37,4 +37,3 @@ slug: "leo-the-wildlife-ranger-kids-english-resource"
 
 教育的本质是点燃火焰。通过 Leo 的冒险之旅，让英语不再是枯燥的字母组合，而是一把带孩子解锁奇妙自然世界的钥匙。快和孩子一起开启这场知识满满的亲子共学之旅吧！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

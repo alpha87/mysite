@@ -39,4 +39,3 @@ slug: "e-commerce-operations-spreadsheets-collection"
 
 ![电商运营表格](https://s2.loli.net/2025/10/29/pDtUcsO2wYqmb7H.png)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

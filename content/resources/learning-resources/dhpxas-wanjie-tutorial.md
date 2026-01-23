@@ -25,4 +25,3 @@ slug: "donghuapian-xue-aoshu-wanjie-ziyuan"
 
 ![](https://s2.loli.net/2025/10/29/HCorFNK8ksQBa7M.png)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

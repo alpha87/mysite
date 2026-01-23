@@ -37,6 +37,3 @@ slug: "xianyu-discount-card-profit-strategy"
 
 无论你是刚入行的小白，还是在寻找新项目的电商老兵，这套教程都提供了非常详细的避坑指南和实操步骤。学会这套逻辑，你不仅可以在闲鱼赚钱，还可以将经验迁移到其他流量平台，开启更多副业可能！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

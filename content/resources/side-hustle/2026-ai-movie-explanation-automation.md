@@ -37,6 +37,3 @@ slug: "2026-ai-movie-explanation-automation-guide"
 
 本资源包涵盖了当前最尖端的AI视频工具包、实操教学视频以及起号避坑指南，助你快速切入2026年最赚钱的副业赛道。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

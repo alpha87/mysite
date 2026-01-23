@@ -37,4 +37,3 @@ slug: "60-episodes-english-phonics-animation-collection"
 
 学习小贴士： 建议家长每天固定一个时间（如早餐后或睡前）给孩子播放1-2集。不需要强迫孩子背诵，只需让他们放松地看、开心地听。坚持一段时间，你会惊喜地发现孩子开始模仿动画里的发音，甚至能尝试读出一些从未见过的简单单词。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

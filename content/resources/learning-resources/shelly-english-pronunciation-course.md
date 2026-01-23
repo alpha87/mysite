@@ -27,6 +27,3 @@ slug: "shelly-english-pronunciation-course-review"
 
 实践数据显示，超过90%的学员在完成课程后，不仅在发音准确性上有显著提升，听力理解能力也同步增强。课程采用循序渐进的教学设计，从基础音标到连读弱读，再到语调节奏，全面提升英语口语流利度。无论是职场人士还是学生群体，都能通过这一体系打破口语障碍，实现真正的英语交流自信。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

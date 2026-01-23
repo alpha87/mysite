@@ -41,4 +41,3 @@ slug: "red-alert-2-classic-versions-collection"
 
 “基洛夫空艇已抵达！” 熟悉的旋律再次响起，无论你是想重温战役剧情，还是想跟 AI 来一场大乱斗，这份完美兼容合集都能带你一秒回到二十年前。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

@@ -25,4 +25,3 @@ slug: "plants-vs-zombies-chinese-portable-version"
 
 本次分享的是中文免安装绿色版，特别针对现在的 Windows 10 和 Windows 11 系统进行了兼容性优化。玩家将通过武装 49 种功能各异的植物，在冒险、小游戏、益智、生存及禅意花园五种模式中，抵御 26 种搞怪僵尸的入侵。无论是在草坪、泳池还是屋顶，每一场战斗都需要你精妙的排兵布阵。游戏解压后运行主程序即可启动，无需安装，不占注册表，非常适合作为电脑里的长期备用解压神器。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

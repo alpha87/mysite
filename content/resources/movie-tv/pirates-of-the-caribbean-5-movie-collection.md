@@ -25,4 +25,3 @@ slug: "pirates-of-the-caribbean-1-5-complete-collection"
 
 该系列成功塑造了影史上最著名的角色之一——由约翰尼·德普倾情演绎的杰克·斯派罗船长。从神秘的黑珍珠号诅咒，到恐怖的戴维·琼斯之心，再到寻找不老泉和海神的波塞冬之戟，每一部都充满了惊险的剑斗、幽默的对白以及震撼的视觉特效。汉斯·季默（Hans Zimmer）操刀的经典配乐更是将航海冒险的史诗感拉满。本次提供的合集为超清蓝光版本，无论是作为老粉重温，还是新观众入坑，都是最完美的画质选择。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

@@ -45,4 +45,3 @@ slug: "ps-plugins-one-click-installer-collection"
 
 立即保存这套价值不菲的工具箱，让你的 Photoshop 真正成为无所不能的设计神器！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

@@ -45,4 +45,3 @@ slug: "dk-encyclopedia-20-books-complete-collection"
 
 DK 曾说，他们的愿景是创作“使读者能够理解每一个主题”的图书。现在，这套价值不菲的视觉宝库就在你的面前，立即保存，开启你的全学科探索之旅！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

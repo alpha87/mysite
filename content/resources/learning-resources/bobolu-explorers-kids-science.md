@@ -37,4 +37,3 @@ slug: "bobolu-explorers-science-animation-collection"
 
 如果您正在寻找能够兼顾趣味性与教育意义的“电子保姆”，或者是希望在周末与孩子开启一段科学之旅，《博博鲁探险队》绝对是家庭早教与科学启蒙的最佳伴侣。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

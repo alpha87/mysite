@@ -39,6 +39,3 @@ AI 提示词工程：如何通过 DeepSeek 批量产出高质量、垂直领域�
 
 在这个时代，掌握工具的使用方法就是掌握了印钞机的入场券。只要你会用 DeepSeek 解决问题，再复杂的资料整理都能变成高价值的付费资源。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

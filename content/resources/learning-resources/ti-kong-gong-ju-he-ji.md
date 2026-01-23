@@ -33,6 +33,3 @@ slug: "ti-kong-gong-ju-he-ji-download"
 
 无论是用于丢失卡片的补办研究，还是针对物业安防系统的合规性测试，本合集都能为你提供强大的技术支持。请务必在法律法规允许的范围内使用相关技术，切勿用于非法用途。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

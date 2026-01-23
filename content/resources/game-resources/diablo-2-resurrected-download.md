@@ -25,4 +25,3 @@ slug: "diablo-2-resurrected-full-download-resources"
 
 玩家可以在亚马逊、刺客、野蛮人、德鲁伊、死灵法师、圣骑士和法师七大职业中自由选择，挑战盘踞在庇护之地的恐惧之王。无论你是想重温当年的“奶牛关”，还是想再次体验“MF”（寻找魔法物品）的快感，这个版本都能带给你最极致的受难与成长体验。本次提供的资源下载方便，解压即玩，支持离线模式。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

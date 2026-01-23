@@ -39,4 +39,3 @@ slug: "english-monetization-high-income-strategy"
 
 如果你正深陷职场内卷、收入遇到瓶颈，不妨换个赛道思考。当你拥有了流利的英语和与之匹配的商业思维，全世界的市场都将成为你的提款机。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

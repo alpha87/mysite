@@ -38,4 +38,3 @@ slug: "easy-fluent-english-for-kids-guide"
 
 ![](https://s2.loli.net/2025/10/15/KMEmVn1B8R7X2Gu.png)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

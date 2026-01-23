@@ -29,6 +29,4 @@ slug: "2025-dedao-annual-book-list-guide"
 
 ![2025得到年度图书榜单](https://s2.loli.net/2026/01/03/WtNCvYsQU8Of35k.jpg)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}
+

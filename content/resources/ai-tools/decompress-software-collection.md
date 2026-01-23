@@ -45,6 +45,3 @@ slug: "best-decompress-software-winrar-bandizip-7zip"
 
 无论你是需要解压大型游戏包，还是压缩办公文档发邮件，这三款神器组合都能让你随心所欲，压得稳、解得快！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

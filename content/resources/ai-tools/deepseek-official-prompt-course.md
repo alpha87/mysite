@@ -38,6 +38,3 @@ slug: "deepseek-official-prompt-course-mastering-ai-content"
 
 ![DeepSeek.jpeg](https://s2.loli.net/2026/01/02/uVklmhS71fodFHR.jpg)
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

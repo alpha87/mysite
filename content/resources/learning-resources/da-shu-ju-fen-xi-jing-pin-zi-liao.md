@@ -34,6 +34,3 @@ slug: "da-shu-ju-fen-xi-jing-pin-zi-liao-he-ji"
 
 无论你是希望跨行转岗的新手，还是想要深造的技术大牛，这套资料都能为你提供系统性的参考方案。请结合实际项目多加练习，将理论转化为实操能力。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

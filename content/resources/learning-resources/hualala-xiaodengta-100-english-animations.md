@@ -37,4 +37,3 @@ slug: "hualala-xiaodengta-100-lessons-english-animation"
 
 无论你是正在寻找启蒙素材的宝妈宝爸，还是希望提升孩子英语兴趣的家长，这套百集动画合集都是一套性价比极高的“电子伴读”。每天一集，让孩子在欢笑中轻松开口，自信表达！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

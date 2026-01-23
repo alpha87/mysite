@@ -43,6 +43,3 @@ DeepSeek作为国产AI大模型的领军者，凭借强大的推理能力和中�
 
 通过掌握这些核心技巧，用户可大幅提升工作效率，将DeepSeek从"聊天工具"升级为"智能助手"，真正实现AI赋能工作与学习。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

@@ -45,4 +45,3 @@ slug: "daniel-wu-american-english-pronunciation-course"
 
 这不仅是一份英语资料，更是一份提升个人格调的养成计划。立即保存，让吴彦祖成为你的私人外教，开启你的地道美音进阶之路！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

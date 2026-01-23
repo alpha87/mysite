@@ -39,4 +39,3 @@ slug: "daniel-tigers-neighborhood-full-resource-pack"
 
 与其说这是一部动画，不如说这是一套送给孩子的社交与情感指南。让老虎丹尼尔走进你的家，陪伴孩子在欢乐与歌声中，学会如何成为一个有礼貌、懂情绪、爱生活的快乐宝贝。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

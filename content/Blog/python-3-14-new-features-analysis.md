@@ -49,6 +49,3 @@ slug: "python-3-14-new-features-analysis"
 
 还是依旧热爱 Python！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

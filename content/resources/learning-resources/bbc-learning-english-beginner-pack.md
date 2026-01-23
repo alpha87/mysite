@@ -39,4 +39,3 @@ slug: "bbc-learning-english-for-beginners-collection"
 
 不要再被厚重的单词书束缚。只要每天坚持一点点，你会惊奇地发现，那些曾经听起来像天书的英语，正在变得像母语一样亲切、简单。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

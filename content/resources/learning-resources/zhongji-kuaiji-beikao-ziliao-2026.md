@@ -31,4 +31,3 @@ slug: "zhongji-kuaiji-kaoshi-beikao-ziliao-download"
 
 备考之路贵在坚持，拥有系统化的资料可以让你的努力事半功倍。建议大家先保存到网盘，按计划分阶段复习。祝大家都能顺利拿证，一考过三科！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

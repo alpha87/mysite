@@ -45,4 +45,3 @@ slug: "jianli-moban-heji-bianxian-project"
 
 对于有执行力的同学来说，这不仅是一份求职工具，更是一个低门槛起步的虚拟资源创业项目。立即行动，利用信息差开启你的变现之路！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}} 免费领取大流量卡 {{< /button >}}

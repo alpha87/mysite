@@ -40,6 +40,3 @@ slug: "tu-ling-cheng-xu-she-ji-cong-shu-pdf-collection"
 
 **请在下载后的 24 小时内自行从您的设备中删除。如原作者或版权方认为本分享侵犯了您的合法权益，请联系我们，我们将第一时间处理并删除相关链接。**
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

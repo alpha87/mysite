@@ -35,6 +35,3 @@ slug: "lego-nexo-knights-english-learning-resources"
 
 无论是培养听力灵敏度，还是提升口语表达力，这套 1-3 季的全集资源都是家长们不容错过的“双语教育神器”！
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}

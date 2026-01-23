@@ -36,6 +36,4 @@ slug: "800-english-words-for-everyday-life"
 
 无论你是准备出国旅游、提升职业竞争力，还是单纯想看懂无字幕美剧，这 800 个核心词汇都是你不可逾越的必修课。
 
-{{< button href="https://h5.lot-ml.com/ProductEn/Index/6b863f1808d9e75e" target="_blank" >}}
-免费领取大流量卡
-{{< /button >}}
+
