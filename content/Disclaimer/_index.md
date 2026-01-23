@@ -27,3 +27,7 @@ layout : "page"
 ### 四、 协议修订
 
 本站保留随时修改本声明的权利，且无需另行通知。修订后的声明自公布之日起生效。建议用户定期查看本页面以了解最新条款。
+
+{{< button href="mailto:servers@knxhub.top" target="_blank" >}}
+点击发送邮件给我
+{{< /button >}}
