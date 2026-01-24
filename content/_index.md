@@ -6,6 +6,6 @@ type: "section"
 layout: "page"
 ---
 
-tools · resources · long-term value.
+tools · resources · value.
 
 精选资源 · 长期价值
