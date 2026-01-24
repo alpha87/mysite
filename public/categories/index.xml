@@ -5,24 +5,14 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on KnX Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-CN</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>学习资源</title>
-      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI工具</title>
       <link>http://localhost:1313/categories/ai%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/ai%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
@@ -32,9 +22,29 @@
     <item>
       <title>副业兼职</title>
       <link>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</link>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>学习资源</title>
+      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>影视音乐</title>
+      <link>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E9%9F%B3%E4%B9%90/</guid>
       <description></description>
       
     </item>

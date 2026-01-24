@@ -4,19 +4,91 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/jianqiao-shaoer-yingyu-yubeiji-download/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/longman-side-by-side-book1-full-resource/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/2026-chaoge-d-class-comprehensive-application-fast-track/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/windows-office-one-click-permanent-activator/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/jay-chou-music-movie-full-collection/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/resources/learning-resources/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/open-source-pdf-converter-formula-table-pro/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/zhang-quanling-mingzhu-lingdu-jihua/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/street-vending-startup-complete-tutorial/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustle/ai-writing-course-for-career-efficiency/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/resources/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,31 +117,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/ai-tools/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resources/side-hustle/32-sets-bbq-technology-collection-guide/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resources/learning-resources/the-usborne-first-thousand-words-in-english-resource/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/movie-tv/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
