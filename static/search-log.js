@@ -1,8 +1,10 @@
 (function () {
+  const API_URL = "https://submit.knxhub.top/api/log_search";
+
   function sendLog(keyword) {
     if (!keyword || keyword.trim() === "") return;
 
-    fetch("/api/log_search", {
+    fetch(API_URL, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -10,6 +12,7 @@
       body: JSON.stringify({
         keyword: keyword.trim(),
         page: window.location.pathname,
+        referrer: document.referrer,
         user_agent: navigator.userAgent,
         time: new Date().toISOString(),
       }),
@@ -27,7 +30,6 @@
 
     sendLog(keyword);
 
-    // 跳转到原搜索页
     window.location.href = "/search/?q=" + encodeURIComponent(keyword.trim());
   }
 
@@ -35,7 +37,6 @@
     const input = document.getElementById("search-query");
     if (!input) return;
 
-    // 监听回车键
     input.addEventListener("keydown", function (e) {
       if (e.key === "Enter") {
         e.preventDefault();
@@ -43,7 +44,6 @@
       }
     });
 
-    // 如果页面有 form，防止默认提交
     const form = input.closest("form");
     if (form) {
       form.addEventListener("submit", function (e) {
@@ -52,7 +52,6 @@
       });
     }
 
-    // 暴露全局函数（防止主题内部调用）
     window.doSearch = doSearch;
   }
 
