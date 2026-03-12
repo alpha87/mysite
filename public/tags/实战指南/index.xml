@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>实战指南 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 实战指南 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenClaw极简部署教程：快速上手实战指南</title>
+      <link>http://localhost:1313/resources/ai-tools/openclaw-quick-deployment-guide/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/openclaw-quick-deployment-guide/</guid>
+      <description>本教程提供OpenClaw的极简快速部署步骤，从环境准备到成功运行，手把手教你解决部署过程中的常见问题，实现高效上手。</description>
+      
+    </item>
+    
+    <item>
+      <title>创业案例1000例：成功与失败案例深度解析与创业实战指南</title>
+      <link>http://localhost:1313/resources/learning-resources/chuangye-anli-1000li-jiexi-yu-zhinan/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/chuangye-anli-1000li-jiexi-yu-zhinan/</guid>
+      <description>本资源汇集1000个真实创业案例，深度解析成功与失败的关键因素，提供行业分析与实战策略，旨在为创业者提供宝贵的经验借鉴与风险预警，助力创业之路更加稳健。</description>
+      
+    </item>
+    
+    <item>
+      <title>夏鹏年入百万认知课程：实现思维跃升与财富增长的实战指南</title>
+      <link>http://localhost:1313/resources/learning-resources/xia-peng-nian-ru-bai-wan-ren-zhi-ke-cheng-shi-zhan-zhi-nan/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/xia-peng-nian-ru-bai-wan-ren-zhi-ke-cheng-shi-zhan-zhi-nan/</guid>
+      <description>夏鹏年入百万认知课程完整资源，提供从思维底层重构到财富实战的全面指导，助力实现认知跃迁与收入突破的终极指南。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

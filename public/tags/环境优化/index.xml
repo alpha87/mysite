@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环境优化 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E7%8E%AF%E5%A2%83%E4%BC%98%E5%8C%96/</link>
+    <description>Recent content in 环境优化 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%8E%AF%E5%A2%83%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>中国风水55讲：揭秘千年玄术与现代生活智慧</title>
+      <link>http://localhost:1313/resources/learning-resources/chinese-fengshui-55-lectures/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/chinese-fengshui-55-lectures/</guid>
+      <description>《中国风水55讲》完整课程，系统讲解千年风水玄术的核心理论与现代生活实践应用，涵盖家居、办公、财运等多方面布局技巧，是学习传统智慧、优化生活环境的实用指南。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

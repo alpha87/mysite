@@ -11,7 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "AI 相关"
+  name = "🔍 强力搜索本站资源"
+  pageRef = "search"
+  weight = 5
+
+[[main]]
+  name = "AI 与工具"
   pageRef = "ai-tools"
   weight = 10
 
@@ -27,13 +32,8 @@
 
 [[main]]
   name = "副业资料"
-  pageRef = "side-hustle"
-  weight = 10
-
-[[main]]
-  name = "副业资料"
   parent = "更多资源"
-  pageRef = "side-hustle"
+  pageRef = "side-hustles"
   weight = 10
 
 [[main]]
@@ -48,17 +48,12 @@
   pageRef = "ebooks"
   weight = 10
 
-[[subnavigation]]
-  name = "My Blog"
-  pre = "blogger"
-  pageRef = "Blog"
-  weight = 20
 
 [[subnavigation]]
   name = "新手提示"
   pre = "fediverse"
   pageRef = "Tips"
-  weight = 20
+  weight = 10
 
 [[subnavigation]]
   name = "免责声明"

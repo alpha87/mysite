@@ -1,5 +1,6 @@
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
+<<<<<<< HEAD
 <div id="search"></div>
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
@@ -11,4 +12,18 @@
       pageSize: 10,
     });
   });
+=======
+
+<div id="search"></div>
+
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+  new PagefindUI({
+    element: "#search",
+    showSubResults: true,
+    showImages: false,
+    excerptLength: 30
+  });
+});
+>>>>>>> 92bd3152f4c726551e051cb958306e52cb2346dc
 </script>

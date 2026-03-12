@@ -11,10 +11,10 @@
     
     <item>
       <title>职场人必备AI写作课：从零开始高效生成专业文案全流程指南</title>
-      <link>http://localhost:1313/resources/side-hustle/ai-writing-course-for-career-efficiency/</link>
+      <link>http://localhost:1313/resources/side-hustles/ai-writing-course-for-career-efficiency/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/side-hustle/ai-writing-course-for-career-efficiency/</guid>
+      <guid>http://localhost:1313/resources/side-hustles/ai-writing-course-for-career-efficiency/</guid>
       <description>本课程系统讲解如何利用AI工具高效完成职场全场景写作任务。从逻辑构思到成品润色，提供全流程操作指南，助你告别写作焦虑，实现办公效率的跨越式提升。</description>
       
     </item>
@@ -40,12 +40,32 @@
     </item>
     
     <item>
+      <title>AI大语言模型ChatGPT从0到1打造私人智能英语学习助手</title>
+      <link>http://localhost:1313/resources/ai-tools/ai-chatgpt-english-learning-assistant/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/ai-chatgpt-english-learning-assistant/</guid>
+      <description>利用ChatGPT从零打造私人智能英语学习助手的完整指南，包含模型应用、提示词技巧与实战部署，旨在通过AI技术实现高效、个性化的英语能力提升。</description>
+      
+    </item>
+    
+    <item>
       <title>DeepSeek从入门到精通秘籍 - 系统化指导手册</title>
       <link>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/resources/ai-tools/deepseek-rumen-dao-jingtong-miji/</guid>
       <description>DeepSeek系统化使用指南，从基础操作到高级应用，涵盖核心功能、高效技巧、常见误区及避坑要点，帮助用户快速上手并精通DeepSeek，提升工作效率。</description>
+      
+    </item>
+    
+    <item>
+      <title>职场人必备AI写作指南：文案生产流水线化实战手册</title>
+      <link>http://localhost:1313/resources/ai-tools/ai-writing-guide-for-workplace-professionals/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/ai-writing-guide-for-workplace-professionals/</guid>
+      <description>本指南为职场人士提供了一套完整的AI写作流水线化解决方案，从工具选择、提示词设计到工作流搭建，帮助你将文案生产从手工劳动升级为高效、稳定的自动化流程，显著提升内容产出效率与质量。</description>
       
     </item>
     

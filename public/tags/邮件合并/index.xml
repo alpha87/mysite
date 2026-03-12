@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邮件合并 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E9%82%AE%E4%BB%B6%E5%90%88%E5%B9%B6/</link>
+    <description>Recent content in 邮件合并 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%82%AE%E4%BB%B6%E5%90%88%E5%B9%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Word高效办公课程：快速精通文档排版与自动化操作全攻略</title>
+      <link>http://localhost:1313/resources/learning-resources/word-gaoxiao-bangong-kecheng-paiban-zidonghua/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/word-gaoxiao-bangong-kecheng-paiban-zidonghua/</guid>
+      <description>本课程系统讲解Word高效办公的核心技能，包括专业文档排版、样式模板应用、邮件合并及宏录制等自动化操作，助你快速精通Word，大幅提升工作效率。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

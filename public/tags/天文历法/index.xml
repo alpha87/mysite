@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>天文历法 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E5%A4%A9%E6%96%87%E5%8E%86%E6%B3%95/</link>
+    <description>Recent content in 天文历法 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%A4%A9%E6%96%87%E5%8E%86%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>北京国家图书馆藏书合集｜211GB：古籍数字典藏资源全收录</title>
+      <link>http://localhost:1313/resources/ebooks/beijing-national-library-collection-211gb/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ebooks/beijing-national-library-collection-211gb/</guid>
+      <description>北京国家图书馆推出的211GB超大规模古籍数字典藏合集，系统收录了涵盖文学、历史、哲学、天文等多领域的珍贵文献，为传统文化爱好者与研究者提供一站式数字资源宝库。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

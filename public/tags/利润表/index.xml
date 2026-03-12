@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>利润表 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E5%88%A9%E6%B6%A6%E8%A1%A8/</link>
+    <description>Recent content in 利润表 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%88%A9%E6%B6%A6%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>财务报表轻松看懂教程：快速掌握企业真实经营状况分析技巧</title>
+      <link>http://localhost:1313/resources/learning-resources/caiwu-baobiao-qingsong-kandong-jiaocheng/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/caiwu-baobiao-qingsong-kandong-jiaocheng/</guid>
+      <description>本教程提供一套快速看懂财务报表的方法，详细解读三大核心报表，教你分析关键财务指标，从而准确判断企业的真实盈利能力、偿债能力和运营状况，为投资和商业决策提供支持。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

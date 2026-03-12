@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>副业兼职</title>
+      <link>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>学习资源</title>
+      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>副业搞钱</title>
@@ -30,16 +50,6 @@
     </item>
     
     <item>
-      <title>学习资源</title>
-      <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>影视资源</title>
       <link>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
@@ -55,16 +65,6 @@
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/ai%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>副业兼职</title>
-      <link>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/%E5%89%AF%E4%B8%9A%E5%85%BC%E8%81%8C/</guid>
       <description></description>
       
     </item>
@@ -185,6 +185,26 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>影视剧集</title>
+      <link>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E5%89%A7%E9%9B%86/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E5%BD%B1%E8%A7%86%E5%89%A7%E9%9B%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>电子书资源</title>
+      <link>http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</guid>
       <description></description>
       
     </item>

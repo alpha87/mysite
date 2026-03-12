@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BBC 6 Minute English on KnX Hub</title>
+    <link>http://localhost:1313/tags/bbc-6-minute-english/</link>
+    <description>Recent content in BBC 6 Minute English on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bbc-6-minute-english/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BBC 6 Minute English 2021-2025 大合集：全球热门英语听力学习资源</title>
+      <link>http://localhost:1313/resources/learning-resources/bbc-6-minute-english-2021-2025-collection/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/bbc-6-minute-english-2021-2025-collection/</guid>
+      <description>提供BBC 6 Minute English 2021至2025年完整大合集下载，包含音频与文本，是系统提升英语听力与综合能力的优质免费资源。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

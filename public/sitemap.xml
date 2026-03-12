@@ -4,7 +4,37 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/jianying-pro-video-editing-full-course/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/kids-english-animation-collection-guide/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15,7 +45,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/ai-baokuan-guoxue-shipin-tutorial/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/ai-baokuan-guoxue-shipin-tutorial/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -27,7 +57,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/chrome-installation-package-side-hustle/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/chrome-installation-package-side-hustle/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,19 +69,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/learning-resources/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/side-hustle/xiaohongshu-annual-meeting-template-side-hustle/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/xiaohongshu-annual-meeting-template-side-hustle/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -64,12 +82,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/resources/movie-tv/88-rare-documentaries-collection-download/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -123,13 +135,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/street-vending-startup-complete-tutorial/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/street-vending-startup-complete-tutorial/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/ai-writing-course-for-career-efficiency/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/ai-writing-course-for-career-efficiency/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -147,7 +159,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/2026-ai-movie-explanation-automation-guide/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/2026-ai-movie-explanation-automation-guide/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -159,7 +171,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/32-sets-bbq-technology-collection-guide/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/32-sets-bbq-technology-collection-guide/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -285,7 +297,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/english-monetization-high-income-strategy/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/english-monetization-high-income-strategy/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -363,7 +375,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/jianli-moban-heji-bianxian-project/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/jianli-moban-heji-bianxian-project/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -399,7 +411,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/xianyu-discount-card-profit-strategy/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/xianyu-discount-card-profit-strategy/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -495,19 +507,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/sleep-economy-white-noise-livestream-guide/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/sleep-economy-white-noise-livestream-guide/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/resources/learning-resources/sherry-english-learning-system-collection/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/learning-resources/video-editing-self-study-complete-workflow/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -525,7 +531,127 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/resources/side-hustles/2026-xianyu-operations-skills-3-0/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/english-for-everyday-activities-quankao-shu-kouyu-tisheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/chinese-fengshui-culture-100-episodes-documentary-quark/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/zhongguo-pianshu-jiemi-sanjiu-liumishu-gufa-jingdian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/the-vampire-diaries-season-1-8-complete-download/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/evil-heart-2024-russian-crime-series/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/tango-pua-collection-badboy-academy/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/murder-memory-korean-movie-download/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/the-big-bang-theory-complete-seasons-zhongying-shuangzi/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/man-ultimate-king-training-pengzu-strong-kidney-fitness/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/jingjixue-yuanli-manhua-ban-quan7ce/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/meishi-yingyu-wanmei-fayin-ke/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/english-grammar-complete-course-50-lessons/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/new-oriental-ielts-vip-7-class/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/minjian-gushi-wenziban-quanji/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/0-cost-electronic-seal-generator-side-hustle-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resources/ai-tools/100-coze-workflows-collection-download/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/100-sentences-7000-ielts-words-pdf-audio-video/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/100-ted-talks-print-edition-video-audio-pdf/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/12306-ticket-script-automation-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/2025-jianying-professional-video-editing-course/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -537,7 +663,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/resources/ai-tools/2025-latest-black-tech-toolbox-da-hunjian-system/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resources/learning-resources/2025-gaokao-math-foundation-problem-sets/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/2026-guo-sheng-kao-heji-ziliao/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/2026-ai-animation-production-complete-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/2026-new-year-9-grid-material/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -549,13 +699,79 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/learning-resources/bbc-vegesaurs-english-animation-for-kids-download/</loc>
+    <loc>http://localhost:1313/resources/ebooks/300-plus-digital-bullet-journal-templates/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/deepseek-feishu-batch-processing-tutorial/</loc>
+    <loc>http://localhost:1313/resources/learning-resources/800-renqing-shigu-bikeng-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/800-hearts-mind-social-navigation-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/899-weight-loss-course-break-poverty-cycle/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-chatgpt-english-learning-assistant/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-zhi-chu-zhi-yu-xi-dong-hua-vlog-jiao-cheng-bian-xian-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-shortvideo-youtube-usd-bianxian-quangonglue/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-video-restoration-tool-xianyu-gaokejiadan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-folk-stories-herbal-medicine-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/bbc-6-minute-english-2021-2025-collection/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/bbc-vegesaurs-english-animation-for-kids-1-3-season/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/bilibili-mathematics-wonderland-journey-resource-download/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/deepseek-feishu-batch-processing-tutorial/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -567,13 +783,319 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/e-commerce-operations-spreadsheets-collection/</loc>
+    <loc>http://localhost:1313/resources/learning-resources/ellen-english-grammar-course-100-lessons-50-camp/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/github-quangongneng-shizhan-jiaoxue/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/iphone-movie-filming-course-yingshijufeng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/nanobanana-gaojie-tishici-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/notion-template-passive-income-xiaohongshu/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/openclaw-quick-deployment-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/xianyu-potplayer-zengqiangban-ziyuanbao-bianxian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/pr-premiere-pro-complete-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/ps-quantao-chajianbao-bianxian-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/python-quan-zhan-kai-fa-jiao-cheng-ru-men-dao-jing-tong/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/raz-fenji-yuedu-quantao-ziyuan-yingyu-qimeng-bibei/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/sam-super-english-course-collection/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/the-usborne-first-thousand-words-in-english/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/tv-software-collection-quark/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/windows-super-settings-tool-yijian-youhua/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/word-gaoxiao-bangong-kecheng-paiban-zidonghua/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/xhsspider-xiaohongshu-data-collection-tool/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/sanye-photoshop-master-class/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/chinese-fengshui-55-lectures/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/lebo-touping-jiesuoban-xianyu-rexiao-tool/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/hibernate-setting-self-media-practical-guide-case-study/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/game-resources/grand-theft-auto-single-game-sales-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/pipibubu-huanqiu-shijie-zhongwen-donghua-xiazai/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/free-video-toolbox-compress-convert-audio/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/free-slimming-yoga-private-lesson-course/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/e-commerce-operations-spreadsheets-collection/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/wechat-official-account-100k-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/gongzhonghao-piliang-xiazai-gongju/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/wechat-official-account-traffic-owner-money-making-copywriting/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/64gua-life-philosophy-strategy/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/chuangye-anli-1000li-jiexi-yu-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/beijing-four-high-school-english-classroom/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/beijing-national-library-collection-211gb/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/chi-chu-zuanshiji-boqi-yinshi-qingdan-yingdu-fanbei/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/xiyinli-geming-zhinan-nanren-yue-fangdekai/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/resources/learning-resources/shelly-english-pronunciation-course-review/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/ximalaya-fufei-yinpin-zhishi-tisheng-heji/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/xia-peng-nian-ru-bai-wan-ren-zhi-ke-cheng-shi-zhan-zhi-nan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/toutiao-ai-banzhuan-xinsilu-ai-zidong-jianji-yuanchuang-shipin/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/wedding-intro-video-ai-template-niche-market/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/xueweigui-ielts-9-point-king-class-resource/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/xiaohongshu-ai-huihua-gongzuoliu-ziyuan-fenxiang/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/xiaohongshu-baomai-zhongyi-guji-baodian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/xiaohongshu-xunipin-anli-chaijie-zhiwudazhanjiangshi/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/xiaohongshu-xunixiangmu-zhishuceshi-wanfa/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/xiaohongshu-xunxiangmu-zhishuceshi-wanfa/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/youer-qimeng-yingyu-bibei-ziliao-donghua-zhenren-shipin-wanzheng-taozhuang/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/30-psychological-training-for-adult-mindset-upgrade/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/shouji-sheying-goutu-cong-xinshou-dao-dashi/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/toefl-preparation-complete-resources-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/jielu-shijie-benzhi-9-ben-dianfuxing-shuji/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/shuju-huifu-gongju-xianyu-resouce/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/shuju-huifu-gongju-xianyu-resource-free-download/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -591,13 +1113,259 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/resources/learning-resources/mingri-lianai-jiedu-nvrenxin-gaoqing-shang-goutong-qinggan-xiyin/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/complete-flirting-tutorial-collection-find-wife-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/zui-quan-hangye-fenlei-dianzishu-heji-1620-ben/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/yousheng-duwu-daquan-remen-ip-zhuming-zhubo-jingdian-wenxue/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/yongjiu-mianfei-tingge-shenqi/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/gann-theory-core-stock-video-tutorial-18-ji-haiyue/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/youtube-dankoe-2026-one-person-company-complete-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/taobao-tv-karaoke-software-info-gap/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/taobao-xiaohongshu-hongshu-dianshang-shicao-ke/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/taobao-hot-sale-english-memory-course/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/taobao-7wan-yuan-shaoer-biancheng-heji-bianxian-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/tsinghua-primary-school-english-animation-resources/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/aishang-qinggan-lianai-jingpinke/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/oxford-reading-tree-school-edition-quanjiaoziyuan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resources/learning-resources/donghuapian-xue-aoshu-wanjie-ziyuan/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/shipinhao-zhonglaonian-saidao-shoubashou-jiaoxue/</loc>
+    <loc>http://localhost:1313/resources/learning-resources/slimming-yoga-private-lesson-collection-1080p-video-music/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/million-blogger-ai-anime-course/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/baijiahao-ai-automated-income/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/zhishixingqiu-ziyuan-chaoquan-heji/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/shilaoshi-jiadian-weixiu-kecheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/suiipian-shijian-quanshen-baohan-jianshen-shipin-jiaocheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/social-ecommerce-friend-circle-monetization-video-tutorial/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/newbery-award-collection-1922-2024/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/jueban-guji-dianzishu-heji-13dalei-gaoqing-saomiaoban/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/jueban-zhencang-2000nian-yiqian-laokeben-quantao/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/laonianren-biaoqingbao-zhizuo-kecheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/laohu-shuxue-1-6-nianji-shuxue-siwei-xunlianke/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/laogao-xiaomo-youtube-exclusive-videos/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/ai-writing-guide-for-workplace-professionals/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/26-parenting-psychology-methods-guide/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/tencent-yuanbao-wenwen-fencheng-zhuanqian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/shipinjianji-zixue-wanzheng-liucheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/shipinhao-xiazai-gongju-diannaoban-shoujiban-xianyu-xiaohongshu-bianxian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/shipinhao-zhonglaonian-saidao-shoubashou-jiaoxue/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/shipinhao-baokuan-xiazai-shenqi-yijian-qushuiyin-4k/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/shipinhao-lanhai-xiaozhong-wanfa-shicao-zhinan/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/google-earth-pro-v7-3-permanent-professional-edition/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ai-tools/doubao-zhiling-tishici-heji-latest-collection/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/caiwu-baobiao-qingsong-kandong-jiaocheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/word-hidden-tips-video-course/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/ebooks/chaoxiyou-zhencang-daojia-ziliao-heji-522-ben/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/xianyu-dianshang-heji-5tao-zhengjia-kecheng/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/side-hustles/xianyu-lingjichu-jingxihua-yunying-baoli-wanfa/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -609,7 +1377,43 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/resources/learning-resources/suibian-yi-zuo-jiao-zuocai-100-dao-cai/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/wechat-official-account-zero-to-profit/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/xiaoyunjie-goutong-biaoda-ke-zhichang-gao-qingshang-duihua-luoji-xunlian/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/top-foreign-teacher-practical-spoken-english-course/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/resources/learning-resources/bobolu-explorers-science-animation-collection/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/learning-resources/art-of-flattery-workplace-survival-strategies/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/movie-tv/elon-musk-2026-interview-complete-bilingual/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -627,7 +1431,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/youtube-2000-usd-yingli-shizhan/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/youtube-2000-usd-yingli-shizhan/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -657,8 +1461,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/side-hustle/yanchanghui-wunao-banzhuan-xiangmu-lingtouzi-lingmenkan/</loc>
+    <loc>http://localhost:1313/resources/side-hustles/yanchanghui-wunao-banzhuan-xiangmu-lingtouzi-lingmenkan/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/search/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

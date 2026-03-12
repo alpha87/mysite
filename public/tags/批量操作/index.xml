@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>批量操作 on KnX Hub</title>
+    <link>http://localhost:1313/tags/%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/</link>
+    <description>Recent content in 批量操作 on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>超实用Word隐藏技巧视频课：10倍提升文档处理效率</title>
+      <link>http://localhost:1313/resources/learning-resources/word-hidden-tips-video-course/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/word-hidden-tips-video-course/</guid>
+      <description>一套超实用的Word隐藏技巧视频课程，详细讲解高效排版、批量处理和自动化操作等核心技能，助你10倍提升文档处理效率。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

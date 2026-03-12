@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midjourney on KnX Hub</title>
+    <link>http://localhost:1313/tags/midjourney/</link>
+    <description>Recent content in Midjourney on KnX Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/midjourney/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2026最强AI动画制作全流程教学：不画画、不建模、不学AE，纯AI10分钟搞定</title>
+      <link>http://localhost:1313/resources/ai-tools/2026-ai-animation-production-complete-guide/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/2026-ai-animation-production-complete-guide/</guid>
+      <description>本教程详细讲解2026年利用AI工具制作动画的全流程，从脚本到成片无需专业基础，涵盖脚本生成、分镜、AI绘图、动画生成及配音剪辑，助你10分钟内完成一部动画短片。</description>
+      
+    </item>
+    
+    <item>
+      <title>NanoBanana高阶提示词：AI绘画与内容创作终极指南</title>
+      <link>http://localhost:1313/resources/ai-tools/nanobanana-gaojie-tishici-zhinan/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/nanobanana-gaojie-tishici-zhinan/</guid>
+      <description>NanoBanana高阶提示词资源包，提供大量适用于Midjourney、Stable Diffusion等AI绘画工具的优质提示词模板，旨在帮助创作者突破瓶颈，高效生成惊艳的视觉内容。</description>
+      
+    </item>
+    
+    <item>
+      <title>小红书AI绘画工作流资源分享：9.9元700条现成工作流免费获取</title>
+      <link>http://localhost:1313/resources/ai-tools/xiaohongshu-ai-huihua-gongzuoliu-ziyuan-fenxiang/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/ai-tools/xiaohongshu-ai-huihua-gongzuoliu-ziyuan-fenxiang/</guid>
+      <description>本文分享一份原价9.9元的小红书AI绘画工作流资源包，内含700条现成工作流，涵盖多种AI工具和风格，提供免费获取的夸克网盘链接，帮助用户快速入门并提升AI绘画创作效率。</description>
+      
+    </item>
+    
+    <item>
+      <title>百万博主AI漫剧教程：快手大V系列课程全解析</title>
+      <link>http://localhost:1313/resources/learning-resources/million-blogger-ai-anime-course/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/learning-resources/million-blogger-ai-anime-course/</guid>
+      <description>百万博主AI漫剧制作与快手运营系列课程，详细讲解AI漫画生成、剧情脚本、视频剪辑及平台运营全流程，助力创作者从零打造爆款内容。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
