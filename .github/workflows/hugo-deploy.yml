@@ -1,0 +1,59 @@
+# GitHub Pages 部署工作流
+# 搭配 Cloudflare CDN 使用：CNAME → alpha87.github.io (Proxied)
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# 权限：让 GitHub Actions 可以部署到 Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只跑一个部署
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive  # 拉取 blowfish 主题
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.7'
+          extended: true
+
+      - name: Setup Node.js (for Pagefind)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build site
+        run: bash build.sh
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: https://knxhub.top
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
