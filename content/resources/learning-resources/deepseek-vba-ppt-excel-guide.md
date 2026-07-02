@@ -1,8 +1,8 @@
 ---
 title: "DeepSeek+VBA代码：5分钟自动生成PPT Excel图表，打工人效率翻倍指南"
 description: "结合DeepSeek与VBA代码，手把手教你5分钟自动生成PPT图表和Excel报告，解锁高效办公新技能。涵盖VBA编程、自动化模板、数据可视化技巧，助力打工人提升工作效率，轻松应对职场任务。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["学习资源"]
 tags: ["DeepSeek", "VBA代码", "PPT自动生成", "Excel图表", "高效办公", "自动化模板", "数据可视化", "打工人效率", "Excel教程", "VBA编程", "办公效率提升"]

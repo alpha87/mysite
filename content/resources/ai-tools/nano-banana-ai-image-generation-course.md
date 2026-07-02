@@ -2,8 +2,8 @@
 ---
 title: "Nano Banana AI图片生成实战课：轻松掌握商用级出图技巧"
 description: "Nano Banana AI图片生成实战课程，从零开始学习AI绘画，掌握商用级图片生成技巧，包括模型选择、提示词工程、参数调整、风格化处理等核心技能，快速提升出图效率与质量。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-13
+lastmod: 2026-03-13
 draft: false
 categories: ["AI工具"]
 tags: ["Nano Banana", "AI图片生成", "AI绘画", "商用级出图", "提示词工程", "模型训练", "参数调整", "风格化处理", "Stable Diffusion", "实战课程"]

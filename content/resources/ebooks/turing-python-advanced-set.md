@@ -2,8 +2,8 @@
 ---
 title: "图灵程序设计丛书：Python 高手进阶之路（套装全10册）"
 description: "图灵程序设计丛书Python进阶套装，包含10本精选Python技术书籍，覆盖Web开发、数据分析、机器学习、自动化脚本等核心领域，适合中高级Python开发者系统提升编程能力，从入门到精通的完整学习路线。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 categories: ["电子书"]
 tags: ["图灵程序设计丛书", "Python进阶", "Python书籍", "Python编程", "Web开发", "数据分析", "机器学习", "自动化脚本", "编程学习", "技术提升"]

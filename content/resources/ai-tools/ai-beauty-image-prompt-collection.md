@@ -2,8 +2,8 @@
 ---
 title: "AI生成美女图片提示词大全：千张参考图+精准提示词库完整资源包"
 description: "AI生成美女图片提示词大全资源包，包含千张高质量美女参考图与精准提示词库，涵盖多种风格、场景、细节描述，帮助用户快速掌握Stable Diffusion、Midjourney等AI绘画工具生成理想美女图片的核心技巧与关键词组合。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-14
+lastmod: 2026-03-14
 draft: false
 categories: ["AI工具"]
 tags: ["AI绘画", "AI生成图片", "美女图片", "提示词", "Prompt", "Stable Diffusion", "Midjourney", "参考图", "词库", "AI艺术", "数字艺术", "图像生成"]

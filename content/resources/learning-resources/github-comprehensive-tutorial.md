@@ -2,8 +2,8 @@
 ---
 title: "GitHub全功能实战教学：从入门到进阶的系统课程"
 description: "一套完整的GitHub实战教程，涵盖仓库创建、分支管理、PR协作、Issues、Actions自动化、Pages建站等核心功能，结合开源项目协作与效率工具，系统讲解GitHub使用场景与高级技巧。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-11
+lastmod: 2026-03-11
 draft: false
 categories: ["学习资源"]
 tags: ["GitHub教程", "GitHub入门", "GitHub进阶", "版本控制", "Git操作", "仓库管理", "分支管理", "Pull Request", "Issues", "GitHub Actions", "GitHub Pages", "开源协作", "开发工具", "效率提升"]

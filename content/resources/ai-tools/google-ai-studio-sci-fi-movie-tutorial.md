@@ -1,8 +1,8 @@
 ---
 title: "Google AI Studio生成教程：从零制作精彩刺激的科幻大片"
 description: "Google AI Studio科幻电影生成教程，从脚本创作、场景设计、AI视频生成到后期制作全流程，零基础也能快速掌握AI科幻大片制作技巧，包含实用工具推荐和实战案例分享。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-04-29
+lastmod: 2026-04-29
 draft: false
 categories: ["AI工具"]
 tags: ["Google AI Studio", "AI视频生成", "科幻大片制作", "AI教程", "视频生成工具", "AI创作", "科幻电影", "AI工具", "视频制作教程", "AI视频"]

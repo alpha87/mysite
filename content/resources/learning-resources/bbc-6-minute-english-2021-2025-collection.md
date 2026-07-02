@@ -1,8 +1,8 @@
 ---
 title: "BBC 6 Minute English 2021-2025合集：全球热门听力节目大汇总"
 description: "BBC 6 Minute English 2021至2025年大合集，包含五年间所有热门听力节目，适合英语学习者练习听力和口语，资源丰富，下载即用，提升英语水平必备。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-21
+lastmod: 2026-02-21
 draft: false
 categories: ["学习资源"]
 tags: ["BBC 6 Minute English", "英语听力", "英语学习资源", "听力节目", "BBC英语", "2021-2025合集", "英语口语", "英语练习", "学习资料"]

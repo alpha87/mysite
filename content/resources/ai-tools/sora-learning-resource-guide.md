@@ -1,8 +1,8 @@
 ---
 title: "解锁AI视频革命：Sora学习资源全攻略，从入门到精通最全合集"
 description: "深度解析OpenAI Sora视频生成模型，提供全方位的学习资源汇总。涵盖Sora基础原理、提示词工程（Prompt Engineering）、爆款案例拆解、必备插件工具等，助你快速掌握AI视频创作核心技术。"
-date: 2026-01-01
-lastmod: 2026-01-01
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["Sora", "OpenAI", "AI视频生成", "视频创作", "提示词工程", "人工智能", "视频剪辑", "创意设计", "AI教程", "爆款视频"]

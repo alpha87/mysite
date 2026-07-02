@@ -2,8 +2,8 @@
 ---
 title: "美丽毒素 The Beauty 电影资源分享"
 description: "电影《美丽毒素》(The Beauty) 高清资源下载，一部探讨人性与美的惊悚剧情片，提供夸克网盘下载链接，方便影迷收藏观看。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 categories: ["电影电视剧"]
 tags: ["美丽毒素", "The Beauty", "电影下载", "惊悚片", "资源分享", "夸克网盘", "高清电影", "剧情片"]

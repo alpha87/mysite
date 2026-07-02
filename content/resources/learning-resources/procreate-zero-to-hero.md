@@ -2,8 +2,8 @@
 ---
 title: "零基础上手Procreate（完结）完整教程"
 description: "Procreate零基础入门到精通完结版教程，涵盖画笔设置、图层管理、绘画技巧、动画制作等核心功能，适合iPad绘画新手快速掌握数字绘画技能。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["学习资源"]
 tags: ["Procreate教程", "零基础绘画", "iPad绘画", "数字绘画", "绘画技巧", "图层管理", "画笔设置", "动画制作", "手绘入门", "绘画学习"]

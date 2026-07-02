@@ -2,8 +2,8 @@
 ---
 title: "DeepSeek接入Office、WPS、Word、Excel、PPT打工人神器"
 description: "DeepSeek接入Office、WPS、Word、Excel、PPT完整教程，实现AI智能写作、数据分析、自动化办公，提升工作效率10倍。支持中文指令操作，零门槛上手，打工人必备神器。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["AI工具"]
 tags: ["DeepSeek", "Office集成", "WPS集成", "Word", "Excel", "PPT", "AI办公", "自动化办公", "智能写作", "数据分析", "办公效率", "打工人神器"]

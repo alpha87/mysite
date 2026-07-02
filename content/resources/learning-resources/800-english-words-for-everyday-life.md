@@ -1,8 +1,8 @@
 ---
 title: "零基础必备：YouTube爆火 800个英语生活核心词汇精讲"
 description: "精选YouTube热门英语教学视频《800 English Words for Everyday Life》详细介绍。涵盖日常起居、工作社交、购物旅游等全场景高频词汇，配合地道发音与场景应用，是英语初学者快速建立语感与词汇量的最佳学习资源。"
-date: 2026-01-19
-lastmod: 2026-01-19
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["英语学习", "英语词汇", "日常英语", "YouTube资源", "零基础英语", "单词记忆", "生活英语", "英语听力", "高效学习", "英语自学"]

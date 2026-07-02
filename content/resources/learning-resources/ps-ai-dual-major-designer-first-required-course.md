@@ -1,8 +1,8 @@
 ---
 title: "PS+AI双专业：设计师的第一门必修课（完结）"
 description: "系统学习Photoshop和Illustrator双软件技能，从基础操作到高级技巧全覆盖，适合设计师入门到进阶的必修课程，课程完结版含全部资源和实战项目。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["学习资源"]
 tags: ["Photoshop", "Illustrator", "设计师", "必修课", "双专业", "设计软件", "实战项目", "基础操作", "高级技巧", "设计教程", "平面设计"]

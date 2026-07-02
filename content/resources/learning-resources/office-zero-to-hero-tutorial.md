@@ -2,8 +2,8 @@
 ---
 title: "Office系列零基础从入门到精通教程"
 description: "全面的Office系列教程，从零基础起步到精通掌握Word、Excel、PowerPoint三大核心办公软件，涵盖文档排版、公式函数、演示设计等实用技能，助你快速提升办公效率。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 categories: ["学习资源"]
 tags: ["Office教程", "Word技巧", "Excel函数", "PowerPoint设计", "办公软件", "零基础入门", "办公效率", "文档排版", "数据处理", "演示制作"]

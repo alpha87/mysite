@@ -1,8 +1,8 @@
 ---
 title: "《English for Everyday Activities》三册全：告别哑巴英语，真实场景开口说"
 description: "《English for Everyday Activities》全套三册PDF资源下载，围绕真实生活场景设计，将英语学习融入日常使用，帮助学习者从课本句型跨越到实际交流，彻底告别哑巴英语，实现流利口语表达。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["英语学习", "口语提升", "哑巴英语", "生活场景英语", "英语教材", "PDF资源", "日常英语", "交流技巧", "语言学习", "学习资料"]

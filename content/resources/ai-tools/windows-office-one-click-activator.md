@@ -1,8 +1,8 @@
 ---
 title: "Windows + Office 一键永久激活工具：全版本通用，10秒自动完成"
 description: "分享一款强力全自动Windows及Office激活工具，支持全版本一键永久激活。10秒内快速解决系统未授权、激活过期及弹窗提醒问题，全程无需手动配置，安全稳定，是官方激活的最佳替代方案。"
-date: 2026-01-23
-lastmod: 2026-01-23
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["Windows激活", "Office激活", "激活工具", "永久激活", "系统工具", "装机必备", "数字权利激活", "KMS激活", "软件资源"]

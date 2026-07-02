@@ -1,8 +1,8 @@
 ---
 title: "秋叶Office三合一精华课：Word/Excel/PPT全精通，职场效率倍增器"
 description: "秋叶Office三合一400节精华课程，系统涵盖Word文档排版、Excel数据透视与公式、PPT视觉设计。专为行政、人力、财务岗设计，将复杂办公操作傻瓜化，助你告别低效加班，实现升职加薪。"
-date: 2026-01-01
-lastmod: 2026-01-01
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["秋叶Office", "Excel教程", "PPT设计", "Word排版", "办公效率", "职场技能", "升职加薪", "自动化办公", "行政必备", "数据整理"]

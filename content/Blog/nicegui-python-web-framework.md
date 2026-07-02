@@ -1,8 +1,8 @@
 ---
 title: "NiceGUI 教学：告别前端，用纯 Python 打造高颜值 Web 界面应用"
 description: "深度评测 Python Web 界面库 NiceGUI。详细介绍如何使用 NiceGUI 进行后端优先开发，涵盖组件布局、数据绑定、自动化测试及多端部署。适合数据看板、智能家居及 Python 脚本可视化。"
-date: 2026-01-09
-lastmod: 2026-01-09
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["开发技术", "Python教程"]
 tags: ["NiceGUI", "Python", "Web开发", "低代码", "GUI界面", "前端框架", "数据可视化", "后端开发", "UI设计", "Python库推荐"]

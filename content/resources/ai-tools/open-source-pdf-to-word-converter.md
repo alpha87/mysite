@@ -1,8 +1,8 @@
 ---
 title: "开源PDF转换神器：精准还原公式表格，告别乱码崩溃，支持Word/Markdown一键导出"
 description: "分享一款强力开源PDF转换工具，深度解析PDF结构。完美解决PDF转Word中的公式乱码、表格错位等痛点。支持LaTeX公式识别、多格式导出，无水印、无额度限制，办公科研必备。"
-date: 2026-01-23
-lastmod: 2026-01-23
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["PDF转换", "开源软件", "OCR识别", "LaTeX公式", "办公效率", "PDF转Word", "Markdown转换", "生产力工具", "公式识别"]

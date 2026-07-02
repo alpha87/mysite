@@ -1,8 +1,8 @@
 ---
 title: "AE超能力学院 - 小莫入门到精通（完结）"
 description: "AE超能力学院由小莫老师主讲的After Effects从入门到精通完结教程，覆盖AE基础操作、动画制作、特效合成、表达式应用等核心技能，适合零基础用户系统学习AE软件。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["学习资源"]
 tags: ["AE教程", "After Effects", "小莫", "AE超能力学院", "AE入门到精通", "AE动画", "AE特效", "表达式", "AE基础", "视觉特效", "动态设计", "软件教程"]

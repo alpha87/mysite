@@ -2,8 +2,8 @@
 ---
 title: "Seedance2.0学习资料包全攻略：AI短剧创作提示词与资源指南"
 description: "Seedance2.0完整学习资料包与提示词指南，包含近期因AI短剧而备受关注的Seedance工具全攻略，涵盖资源获取、核心功能解析、视频创作应用技巧，助力视频领域创作者快速上手AI短剧制作。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-16
+lastmod: 2026-03-16
 draft: false
 categories: ["AI工具"]
 tags: ["Seedance2.0", "AI短剧", "学习资料", "提示词", "视频创作", "AI工具", "资源包", "视频生成", "人工智能", "内容创作"]

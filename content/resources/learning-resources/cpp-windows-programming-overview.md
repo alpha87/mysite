@@ -2,8 +2,8 @@
 ---
 title: "C++ Windows编程概述：从基础入门到实战应用"
 description: "全面概述C++在Windows平台上的编程技术，涵盖Win32 API、MFC、COM组件和现代UWP开发，讲解开发环境搭建、窗口创建、消息处理、绘图基础等核心知识点，为Windows桌面应用开发提供系统指南。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 categories: ["学习资源"]
 tags: ["C++", "Windows编程", "Win32 API", "MFC", "COM组件", "桌面应用开发", "窗口创建", "消息处理", "绘图基础", "Visual Studio", "UWP开发", "核心编程", "开发环境搭建"]

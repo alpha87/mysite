@@ -1,8 +1,8 @@
 ---
 title: "Python 3.14 新特性深度解析：模板字符串、多解释器与性能革命"
 description: "深度解析 Python 3.14 核心更新，涵盖 PEP 750 模板字符串（t-strings）、PEP 734 多解释器并发模型及标注延迟求值等性能优化，探讨 Python 在安全编程与多核性能上的重大突破。"
-date: 2026-01-07
-lastmod: 2026-01-07
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["Python 3.14", "后端开发", "PEP 750", "并发编程", "性能优化", "编程语言趋势", "技术前瞻", "多解释器"]

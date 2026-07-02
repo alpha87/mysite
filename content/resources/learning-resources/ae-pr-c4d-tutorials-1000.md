@@ -2,8 +2,8 @@
 ---
 title: "AE+PR+C4D教程1000集，B站最全面最用心AE+PR+C4D教程"
 description: "B站最全面的AE+PR+C4D教程合集，共1000集，涵盖After Effects、Premiere Pro和Cinema 4D软件操作技巧，从入门到精通，适合视频剪辑、特效制作和三维动画学习者免费获取。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 categories: ["学习资源"]
 tags: ["AE教程", "PR教程", "C4D教程", "B站教程", "视频剪辑", "特效制作", "三维动画", "After Effects", "Premiere Pro", "Cinema 4D", "免费教程", "1000集教程"]

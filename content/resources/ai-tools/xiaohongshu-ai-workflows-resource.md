@@ -2,8 +2,8 @@
 ---
 title: "小红书AI绘画工作流资源分享：9.9元700条现成工作流免费获取"
 description: "分享一份超值的小红书AI绘画工作流资源，内含700条现成工作流，原价9.9元，现提供免费获取方式。资源包含Stable Diffusion、Midjourney等多种AI绘画工具的工作流模板，涵盖人物、风景、插画等多种风格，适合AI绘画新手快速上手和创作者提升效率。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-21
+lastmod: 2026-02-21
 draft: false
 categories: ["AI工具"]
 tags: ["AI绘画", "小红书资源", "Stable Diffusion", "Midjourney", "工作流模板", "AI工具", "绘画教程", "效率提升", "免费资源", "网盘分享"]

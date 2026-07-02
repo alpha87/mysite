@@ -2,8 +2,8 @@
 ---
 title: "AI绘画全新课程：COMFYUI+PS革命性工作流，小白变大神全攻略"
 description: "AI绘画全新课程，COMFYUI与Photoshop结合的革命性工作流教学，从零基础到精通，详细讲解AI绘画工具使用、工作流搭建、参数设置与高级技巧，帮助每个人轻松上手，快速成为AI绘画高手。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-14
+lastmod: 2026-03-14
 draft: false
 categories: ["AI工具"]
 tags: ["AI绘画", "COMFYUI", "Photoshop", "AI工作流", "绘画教程", "Stable Diffusion", "AI艺术", "图像生成", "新手入门", "参数设置", "高级技巧", "创意设计"]

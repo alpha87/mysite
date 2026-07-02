@@ -1,8 +1,8 @@
 ---
 title: "DeepSeek从入门到精通秘籍 - 系统化指导手册"
 description: "DeepSeek使用全攻略，涵盖基础操作、核心功能、高效技巧、常见误区及避坑指南，从零基础到精通，手把手教你快速上手DeepSeek，拒绝无效学习，直击重点。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["DeepSeek", "AI工具", "使用教程", "入门指南", "高级应用", "避坑指南", "提示词工程", "联网搜索", "深度思考"]

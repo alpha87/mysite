@@ -1,8 +1,8 @@
 ---
 title: "Adobe 全家桶永久版下载：PS/PR/AE/AI 全系列一键安装，设计师必备工具合集"
 description: "最新版 Adobe 全家桶资源下载，涵盖 Photoshop (PS)、Premiere Pro (PR)、After Effects (AE)、Illustrator (AI) 等全系软件。支持一键安装、免订阅终身使用，包含最新 AI 创意填充功能，稳定不闪退，设计师与剪辑师速存。"
-date: 2026-01-01
-lastmod: 2026-01-01
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["Adobe全家桶", "PS下载", "PR教程", "设计工具", "破解版软件", "视频剪辑", "平面设计", "AE特效", "AI绘画", "软件合集"]

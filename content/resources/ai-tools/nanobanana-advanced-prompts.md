@@ -1,8 +1,8 @@
 ---
 title: "NanoBanana高阶提示词：AI绘画与内容创作终极指南"
 description: "NanoBanana高阶提示词资源包，专为AI绘画与内容创作设计，包含大量精心调校的提示词模板，适用于Midjourney、Stable Diffusion、DALL-E等主流AI工具，帮助用户快速生成高质量图像，提升创作效率与艺术表现力。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["NanoBanana", "AI提示词", "AI绘画", "Midjourney", "Stable Diffusion", "DALL-E", "内容创作", "图像生成", "提示工程", "艺术设计", "AI资源"]

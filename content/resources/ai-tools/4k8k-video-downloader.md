@@ -2,8 +2,8 @@
 ---
 title: "一键下载4K8K超高清视频工具：支持1000+视频网站免费下载"
 description: "一款强大的视频下载工具，支持一键下载4K、8K超高清画质视频，兼容YouTube、Bilibili、抖音、TikTok等1000+国内外主流视频网站，提供免费高速下载服务。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-13
+lastmod: 2026-03-13
 draft: false
 categories: ["AI工具"]
 tags: ["视频下载", "4K下载", "8K下载", "高清视频", "视频工具", "YouTube下载", "Bilibili下载", "抖音下载", "TikTok下载", "免费下载工具", "视频解析", "批量下载", "在线视频下载"]

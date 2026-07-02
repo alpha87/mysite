@@ -1,8 +1,8 @@
 ---
 title: "Seedance2.0全攻略：从入门到精通的完整提示词体系"
 description: "Seedance2.0完整教学指南，提供从基础概念、核心功能到高级应用的系统化提示词工程教程，包含实战案例、优化技巧和资源下载，帮助用户快速掌握AI绘画提示词的精髓。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-13
+lastmod: 2026-03-13
 draft: false
 categories: ["AI工具"]
 tags: ["Seedance2.0", "AI绘画", "提示词工程", "Stable Diffusion", "Midjourney", "AI艺术", "教程指南", "从入门到精通", "资源下载", "实战案例", "参数优化", "风格控制"]

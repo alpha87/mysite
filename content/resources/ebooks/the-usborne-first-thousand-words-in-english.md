@@ -1,8 +1,8 @@
 ---
 title: "The Usborne First Thousand Words in English：儿童英语启蒙场景单词书"
 description: "推荐《The Usborne First Thousand Words in English》儿童英语单词书，通过卧室、厨房、浴室、医院、公园、学校、旅行、交通等日常生活场景图解，轻松掌握1000个实用英语词汇，是幼儿英语启蒙和词汇积累的宝藏资源。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["电子书"]
 tags: ["英语单词书", "儿童英语启蒙", "Usborne出版社", "场景化学习", "英语词汇", "幼儿教育", "图解词典", "日常生活单词", "英语学习资源", "亲子共读"]

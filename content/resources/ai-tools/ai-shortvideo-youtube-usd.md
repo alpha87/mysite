@@ -2,8 +2,8 @@
 ---
 title: "AI短视频YouTube美金变现全攻略：热门风口AI赛道玩法详解"
 description: "探索AI短视频YouTube美金变现的完整指南，涵盖AI赛道热门玩法、工具选择、内容创作策略与变现技巧，提供从0到1的实操教学，助你快速抓住AI风口实现收益增长。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-02-16
+lastmod: 2026-02-16
 draft: false
 categories: ["AI工具"]
 tags: ["AI短视频", "YouTube变现", "AI赛道", "美金收益", "内容创作", "AI工具", "视频制作", "副业赚钱", "风口项目", "自动化运营"]

@@ -1,8 +1,8 @@
 ---
 title: "发现宝藏英语单词书：The Usborne First Thousand Words 场景化记忆全攻略"
 description: "深度评测经典英语启蒙书《The Usborne First Thousand Words in English》，涵盖卧室、厨房、医院等生活全场景单词。提供夸克网盘资源下载，适合少儿启蒙及成人零基础词汇积累。"
-date: 2026-01-16
-lastmod: 2026-01-16
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["学习资源"]
 tags: ["英语学习", "单词背诵", "Usborne", "场景英语", "英语启蒙", "学习工具", "原版书推荐", "实用英语", "零基础英语", "教育资源"]

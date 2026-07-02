@@ -1,8 +1,8 @@
 ---
 title: "DeepSeek 提示词官方课：教你一指令去AI味，掌握深度思维Prompt秘籍"
 description: "DeepSeek官方出品提示词课程，核心解决AI生成内容僵硬、AI味重等痛点。涵盖深度思维指令编写、角色扮演、任务拆解及去AI化润色技巧，助你充分发挥DeepSeek大模型潜力，产出极具人性的高质量内容。"
-date: 2026-01-02
-lastmod: 2026-01-02
+date: 2026-02-12
+lastmod: 2026-02-12
 draft: false
 categories: ["AI工具"]
 tags: ["DeepSeek", "提示词工程", "Prompt", "AI润色", "去AI味", "官方教程", "生产力工具", "人工智能"]

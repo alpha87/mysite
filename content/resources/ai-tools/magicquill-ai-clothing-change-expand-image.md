@@ -2,8 +2,8 @@
 ---
 title: "MagicQuill AI换装与扩图软件：模型下载与使用教程全指南"
 description: "MagicQuill AI换装与扩图软件详细教程，提供模型下载、安装步骤、换装操作指南、图像扩展技巧及常见问题解决，帮助用户轻松掌握AI图像编辑与生成技术。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-29
+lastmod: 2026-03-29
 draft: false
 categories: ["AI工具"]
 tags: ["MagicQuill", "AI换装", "AI扩图", "AI图像编辑", "AI模型", "软件教程", "图像生成", "AI工具下载", "Stable Diffusion", "AI绘画"]

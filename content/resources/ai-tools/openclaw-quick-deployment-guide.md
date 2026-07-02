@@ -1,8 +1,8 @@
 ---
 title: "OpenClaw极简部署教程：快速上手实战指南"
 description: "OpenClaw快速部署实战教程，详细步骤解析从环境准备到成功运行，涵盖依赖安装、配置调整、常见问题解决，帮助开发者高效部署OpenClaw项目。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-03-10
+lastmod: 2026-03-10
 draft: false
 categories: ["AI工具"]
 tags: ["OpenClaw", "部署教程", "AI工具部署", "快速上手", "实战指南", "环境配置", "依赖安装", "问题解决", "开发工具", "开源项目"]

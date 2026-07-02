@@ -2,8 +2,8 @@
 ---
 title: "Python小白也能听懂的入门课（完结）：零基础轻松学会编程"
 description: "专为Python零基础学习者打造的入门课程，从基础语法到实战项目，手把手教你掌握Python编程核心知识。课程完结，内容涵盖变量、循环、函数、文件操作等关键知识点，适合编程完全零基础的小白学习者。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-02
+lastmod: 2026-07-02
 draft: false
 categories: ["学习资源"]
 tags: ["Python入门", "零基础编程", "Python教程", "编程学习", "小白学Python", "Python基础", "编程课程", "完结课程", "Python变量", "Python循环", "Python函数"]
