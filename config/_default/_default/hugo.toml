@@ -69,3 +69,4 @@ googleAnalytics = "G-BLXY7D31CV"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+disableAliases = true
