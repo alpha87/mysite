@@ -11,7 +11,7 @@ title = "KnX Hub"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "KnX Hub - 专注夸克网盘资源分享，提供海量学习教程、电子书、影视资源免费获取"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]

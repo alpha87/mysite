@@ -19,6 +19,7 @@ replyByEmail = false
 
 mainSections = ["resources"]
 # robots = ""
+keywords = ["夸克网盘资源分享", "夸克网盘", "资源分享"]
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
