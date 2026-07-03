@@ -23,30 +23,34 @@
 [[main]]
   name = "学习资料"
   pageRef = "learning-resources"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "影视资料"
   pageRef = "movie-tv"
-  weight = 10
+  weight = 30
+
+[[main]]
+  name = "更多资源"
+  weight = 40
 
 [[main]]
   name = "副业资料"
   parent = "更多资源"
   pageRef = "side-hustles"
-  weight = 10
+  weight = 41
 
 [[main]]
   name = "游戏资源"
   parent = "更多资源"
   pageRef = "game-resources"
-  weight = 10
+  weight = 42
 
 [[main]]
   name = "电子书"
   parent = "更多资源"
   pageRef = "ebooks"
-  weight = 10
+  weight = 43
 
 
 [[subnavigation]]

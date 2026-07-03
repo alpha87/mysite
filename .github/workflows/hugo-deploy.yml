@@ -31,7 +31,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.147.7'
+          hugo-version: '0.162.1'
           extended: true
 
       - name: Setup Node.js (for Pagefind)

@@ -2,7 +2,7 @@
 title: "Blog"
 description: "在这里，我分享如何利用 Python 技术提升效率，并探索程序员的多种副业可能，让技术真正转化为价值。"
 keywords: ["Python", "编程入门", "副业赚钱", "自动化脚本", "科技博主"]
-slug: "ebooks"
+slug: "blog"
 type: "section"
 ---
 
