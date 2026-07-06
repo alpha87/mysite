@@ -4,6 +4,3 @@
 [submodule "themes/blowfish"]
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
-[submodule "themes/lotusdocs"]
-	path = themes/lotusdocs
-	url = https://github.com/colinwilson/lotusdocs
