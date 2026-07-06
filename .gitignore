@@ -1,3 +1,4 @@
 public/
 resources/
+bin/
 .hugo_build.lock

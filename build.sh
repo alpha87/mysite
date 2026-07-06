@@ -1,6 +1,35 @@
 #!/bin/bash
 set -e
 
+# Pin Hugo version (Blowfish theme requires >0.122, CF Pages default 0.147.7 has type issues)
+HUGO_VERSION="0.155.3"
+ARCH=$(uname -m)
+OS=$(uname -s | tr '[:upper:]' '[:lower:]')
+
+# Detect if we need to download Hugo (on CF Pages Linux, or the system version is wrong)
+NEED_DOWNLOAD=false
+if [ "$OS" = "linux" ]; then
+    # On CF Pages or any Linux build environment
+    if ! command -v hugo &> /dev/null || ! hugo version | grep -q "v${HUGO_VERSION}"; then
+        NEED_DOWNLOAD=true
+    fi
+fi
+
+if [ "$NEED_DOWNLOAD" = true ]; then
+    echo "=== Installing Hugo ${HUGO_VERSION} ==="
+    mkdir -p bin
+    if [ "$ARCH" = "aarch64" ] || [ "$ARCH" = "arm64" ]; then
+        HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-arm64.tar.gz"
+    else
+        HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+    fi
+    echo "Downloading from ${HUGO_URL}..."
+    curl -sL "$HUGO_URL" | tar xz -C ./bin hugo 2>/dev/null
+    chmod +x ./bin/hugo
+    export PATH="./bin:$PATH"
+    echo "Using Hugo $(hugo version)"
+fi
+
 echo "=== Step 1: Hugo build ==="
 hugo
 
