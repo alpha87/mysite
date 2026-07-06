@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>资源导航与合集 on 夸克网盘资源分享</title>
-    <link>https://knxhub.top/resources/</link>
+    <link>http://localhost:1313/resources/</link>
     <description>Recent content in 资源导航与合集 on 夸克网盘资源分享</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://knxhub.top/resources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>贵族转生 ～得天眷顾一出生就获得最强力量～ 动漫资源</title>
-      <link>https://knxhub.top/resources/anime-resources/tensei-kizoku-yuusha/</link>
+      <link>http://localhost:1313/resources/anime-resources/tensei-kizoku-yuusha/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://knxhub.top/resources/anime-resources/tensei-kizoku-yuusha/</guid>
+      <guid>http://localhost:1313/resources/anime-resources/tensei-kizoku-yuusha/</guid>
       <description>贵族转生～得天眷顾一出生就获得最强力量～动漫资源分享，包含动画、漫画资源免费下载，异世界转生题材中的经典之作，讲述贵族少年转生后获得最强力量的热血冒险故事。</description>
       
     </item>

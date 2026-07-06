@@ -30,11 +30,11 @@ slug: "quark-wangpan-mianfei-lingqu-1tb-kongjian-jiaocheng"
 ### 第一步：打开专属链接
 使用手机浏览器访问夸克网盘专属领取页面。
 
-{{< button href="https://pan.quark.cn/s/c132511287dc" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/b61e9ff90eaf" target="_blank" >}}
 领取 1TB 扩容空间
 {{< /button >}}
 
-[点击此链接领取 1TB 扩容空间](https://pan.quark.cn/s/c132511287dc)
+[点击此链接领取 1TB 扩容空间](https://pan.quark.cn/s/b61e9ff90eaf)
 
 ### 第二步：注册新账户
 1. 在页面点击"保存到网盘"按钮
@@ -54,7 +54,7 @@ slug: "quark-wangpan-mianfei-lingqu-1tb-kongjian-jiaocheng"
 
 ## 四、常见问题解答
 
-**Q：老用户能领取吗？** A：不能直接领取，但可以通过本链接**https://pan.quark.cn/s/c132511287dc**邀请新用户参与活动。
+**Q：老用户能领取吗？** A：不能直接领取，但可以通过本链接 **https://pan.quark.cn/s/b61e9ff90eaf** 邀请新用户参与活动。
 
 **Q：注册后空间没到账怎么办？** A：检查是否满足所有条件：新设备、新手机号、验证码登录、24小时内完成。
 
