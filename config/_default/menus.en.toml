@@ -17,17 +17,17 @@
 
 [[main]]
   name = "AI 与工具"
-  pageRef = "ai-tools"
+  pageRef = "resources/ai-tools"
   weight = 10
 
 [[main]]
   name = "学习资料"
-  pageRef = "learning-resources"
+  pageRef = "resources/learning-resources"
   weight = 20
 
 [[main]]
   name = "影视资料"
-  pageRef = "movie-tv"
+  pageRef = "resources/movie-tv"
   weight = 30
 
 [[main]]
@@ -37,19 +37,19 @@
 [[main]]
   name = "副业资料"
   parent = "更多资源"
-  pageRef = "side-hustles"
+  pageRef = "resources/side-hustles"
   weight = 41
 
 [[main]]
   name = "游戏资源"
   parent = "更多资源"
-  pageRef = "game-resources"
+  pageRef = "resources/game-resources"
   weight = 42
 
 [[main]]
   name = "电子书"
   parent = "更多资源"
-  pageRef = "ebooks"
+  pageRef = "resources/ebooks"
   weight = 43
 
 
