@@ -1,25 +1,30 @@
-# -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
-
-theme = "blowfish"
-baseURL = "https://knxhub.top/"
-defaultContentLanguage = "en"
-locale = "zh-CN"
-
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-
+baseURL = 'https://knxhub.top/'
+defaultContentLanguage = 'en'
+locale = 'zh-CN'
+title = '夸克网盘资源分享'
+enableEmoji = true
 enableRobotsTXT = true
-
-# 生成摘要字数
 summaryLength = 0
 
-buildDrafts = false
-buildFuture = false
+[module]
+    replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
 
-enableEmoji = true
-
-googleAnalytics = "G-BLXY7D31CV"
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
 
 [pagination]
   pagerSize = 100
@@ -55,4 +60,5 @@ googleAnalytics = "G-BLXY7D31CV"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
 disableAliases = true

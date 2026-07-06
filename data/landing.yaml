@@ -1,0 +1,24 @@
+# Site landing page configuration
+
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  title: "夸克网盘资源分享"
+  subtitle: 精选 **AI 工具**、**电子书**、**学习资料**、**影视资源** 等高质量资源，持续更新中。
+
+  ctaButton:
+    icon: menu_book
+    btnText: "浏览资源"
+    url: "/docs/"
+
+featureGrid:
+  enable: false
+  weight: 20
+  template: feature grid
+
+imageCompare:
+  enable: false
+  weight: 30
+  template: image compare
