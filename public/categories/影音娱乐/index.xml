@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>影音娱乐 on KnX Hub</title>
-    <link>http://localhost:1313/categories/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/</link>
-    <description>Recent content in 影音娱乐 on KnX Hub</description>
+    <title>影音娱乐 on 夸克网盘资源分享</title>
+    <link>http://localhost:56321/categories/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/</link>
+    <description>Recent content in 影音娱乐 on 夸克网盘资源分享</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56321/categories/%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>精选282首抖音KTV必点伤感热门歌曲</title>
+      <link>http://localhost:56321/resources/movie-tv/douyin-ktv-sad-songs-282/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56321/resources/movie-tv/douyin-ktv-sad-songs-282/</guid>
+      <description>精选282首抖音KTV必点伤感热门歌曲合集，涵盖抖音爆款、华语流行、经典老歌，适合K歌、情感释放和派对氛围，一键下载享不停。</description>
+      
+    </item>
     
     <item>
       <title>宫斗剧巅峰之作《甄嬛传》：全76集4K超高清重制版，珍藏级画质下载</title>
-      <link>http://localhost:1313/resources/movie-tv/zhen-huan-zhuan-4k-uhd-full-collection/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <link>http://localhost:56321/resources/movie-tv/zhen-huan-zhuan-4k-uhd-full-collection/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/movie-tv/zhen-huan-zhuan-4k-uhd-full-collection/</guid>
+      <guid>http://localhost:56321/resources/movie-tv/zhen-huan-zhuan-4k-uhd-full-collection/</guid>
       <description>宫斗剧天花板《甄嬛传》4K高清修复版来袭！全76集完整收录，极致画质还原清宫权谋斗争细节。跟随甄嬛一起经历选秀入宫到执掌后宫的传奇一生，体验每一个镜头下的服化道匠心。</description>
       
     </item>
