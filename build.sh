@@ -2,7 +2,7 @@
 set -e
 
 # Pin Hugo version (Blowfish theme requires >0.122, CF Pages default 0.147.7 has type issues)
-HUGO_VERSION="0.155.3"
+HUGO_VERSION="0.162.1"
 ARCH=$(uname -m)
 OS=$(uname -s | tr '[:upper:]' '[:lower:]')
 
