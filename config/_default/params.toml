@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "github"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableA11y = false
@@ -19,6 +19,7 @@ replyByEmail = false
 
 mainSections = ["resources"]
 # robots = ""
+keywords = ["夸克网盘资源分享", "夸克网盘", "资源分享"]
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
@@ -52,7 +53,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "background.png" # used in: hero, and card
+  homepageImage = "background.webp" # used in: hero, and card
   showRecent = true
   showRecentItems = 9
   showMoreLink = true
@@ -63,7 +64,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
@@ -84,7 +85,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = false
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
