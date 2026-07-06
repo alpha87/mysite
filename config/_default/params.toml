@@ -12,14 +12,14 @@ autoSwitchAppearance = false
 enableA11y = false
 enableSearch = true
 enableCodeCopy = true
-enableStructuredBreadcrumbs = false
+enableStructuredBreadcrumbs = true
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
 
 replyByEmail = false
 
 mainSections = ["resources"]
 # robots = ""
-keywords = ["夸克网盘资源分享", "夸克网盘", "资源分享"]
+keywords = ["夸克网盘资源分享", "夸克网盘", "资源分享", "免费资源", "AI工具", "电子书下载", "学习资料", "影视资源", "副业赚钱", "游戏资源", "网盘资源", "免费下载", "夸克网盘免费空间", "自学教程", "软件工具"]
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
