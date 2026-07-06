@@ -2,8 +2,8 @@
 ---
 title: "Excel 36节课：从小白到高手的系统进阶学习指南"
 description: "涵盖Excel从零基础到高级应用的36节系统课程，包含数据录入、函数公式、数据透视表、图表制作、VBA自动化等核心模块，帮助学习者全面掌握Excel操作技巧，提升工作效率。"
-date: 2025-12-31
-lastmod: 2025-12-31
+date: 2026-07-05
+lastmod: 2026-07-05
 draft: false
 categories: ["学习资源"]
 tags: ["Excel教程", "Excel进阶", "Excel函数", "数据透视表", "VBA自动化", "Excel图表", "Excel技巧", "办公软件", "Office学习", "数据分析"]
