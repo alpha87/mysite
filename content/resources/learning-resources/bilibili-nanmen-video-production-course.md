@@ -1,4 +1,3 @@
-
 ---
 title: "B站南门录像厅·剪辑+拍摄全能视频创作课（新手友好）完整资源"
 description: "B站南门录像厅出品的剪辑与拍摄全能视频创作课，专为新手设计。从基础拍摄技巧到专业剪辑，系统化学习视频创作全流程。本课程涵盖相机操作、构图、运镜、剪辑软件使用、调色、音频处理等核心模块，助你快速掌握视频制作技能。"
@@ -11,15 +10,15 @@ keywords: ["B站南门录像厅", "视频创作课", "剪辑拍摄教程", "新�
 summary: "B站南门录像厅出品的剪辑与拍摄全能视频创作课，涵盖从基础拍摄到专业剪辑的完整流程，适合零基础新手系统学习视频创作。资源含拍摄构图、运镜、剪辑软件操作、调色与音频处理等核心内容。"
 slug: "bilibili-nanmen-luxiangting-video-production-course"
 ---
-{< button href="https://pan.quark.cn/s/0e89d8935d10" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0e89d8935d10" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0e89d8935d10
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

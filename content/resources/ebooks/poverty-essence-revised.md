@@ -1,4 +1,3 @@
-
 ---
 title: "《贫穷的本质：我们为什么摆脱不了贫穷》(修订版) 深度解读"
 description: "诺贝尔经济学奖得主阿比吉特·班纳吉与埃丝特·迪弗洛经典之作《贫穷的本质》修订版全面解读，深入分析贫困陷阱、健康、教育、信贷等核心议题，揭示贫穷难以摆脱的深层原因，适合经济学爱好者、扶贫工作者、政策研究者阅读。"
@@ -37,15 +36,15 @@ slug: "poverty-essence-revised"
 
 ## 📥 资源下载
 
-{< button href="https://pan.quark.cn/s/4a4966dc0809" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4a4966dc0809" target="_blank" >}}
 点击获取电子书
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4a4966dc0809
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 📝 结语
 

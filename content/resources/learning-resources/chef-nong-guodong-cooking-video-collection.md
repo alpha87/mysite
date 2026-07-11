@@ -1,4 +1,3 @@
-
 ---
 title: "厨师长农国栋做菜教学视频合集大全"
 description: "厨师长农国栋全套做菜教学视频合集，涵盖川菜、湘菜、粤菜、家常菜等数百道经典菜品，从食材处理到火候掌握，详细讲解每一步操作技巧，适合家庭烹饪爱好者、厨师初学者及想提升厨艺的人群收藏学习。"
@@ -11,15 +10,15 @@ keywords: ["农国栋做菜教学", "农国栋视频合集", "厨师长做菜教
 summary: "厨师长农国栋全套做菜教学视频合集，数百道经典菜品从食材处理到火候掌握逐一详解，包含川菜、湘菜、粤菜及家常菜，是家庭烹饪与厨艺提升的绝佳资源。"
 slug: "chef-nong-guodong-cooking-video-collection"
 ---
-{< button href="https://pan.quark.cn/s/be18bb6d860b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/be18bb6d860b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/be18bb6d860b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 厨师长农国栋是谁？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《贫穷的本质：我们为什么摆脱不了贫穷》(修订版) 电子书资源分享"
 description: "诺贝尔经济学奖得主阿比吉特·班纳吉与埃斯特·迪弗洛经典著作《贫穷的本质》修订版电子书资源，深入剖析贫穷根源与陷阱，提供经济学视角的贫困解决方案，适合发展经济学、社会政策研究者及关注贫困问题读者下载阅读。"
@@ -11,15 +10,15 @@ keywords: ["贫穷的本质", "贫穷的本质电子书", "贫穷陷阱", "阿�
 summary: "诺贝尔经济学奖得主经典著作《贫穷的本质》修订版电子书资源，系统分析贫穷根源、贫穷陷阱与脱贫策略，适合经济学研究者、社会政策制定者及对贫困问题感兴趣的读者阅读。"
 slug: "poor-economics-essence-revised-edition"
 ---
-{< button href="https://pan.quark.cn/s/d4aa9c8737b0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d4aa9c8737b0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d4aa9c8737b0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

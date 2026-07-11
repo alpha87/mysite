@@ -1,4 +1,3 @@
-
 ---
 title: "24个绘本阅读秘籍，从小提升孩子阅读力，做高情商宝宝（完结）"
 description: "24个绘本阅读秘籍完整合集，从选书技巧、互动方法到阅读习惯养成，详细解析如何通过亲子共读提升孩子阅读力、语言表达能力和情商。包含每本绘本的讲读要点、提问技巧和拓展游戏，适合0-6岁家长系统学习。"
@@ -11,15 +10,15 @@ keywords: ["绘本阅读秘籍", "提升阅读力", "高情商宝宝", "亲子�
 summary: "24个绘本阅读秘籍完整合集，涵盖选书、互动、习惯养成全流程，通过亲子共读有效提升孩子阅读力和情商，内含每本绘本的讲读要点和拓展游戏，适合0-6岁家长系统实践。"
 slug: "24-picture-book-reading-tips"
 ---
-{< button href="https://pan.quark.cn/s/1d941c8d8d8d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1d941c8d8d8d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1d941c8d8d8d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 绘本阅读：开启孩子智慧的钥匙
 

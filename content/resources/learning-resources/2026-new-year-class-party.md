@@ -1,4 +1,3 @@
-
 ---
 title: "2026马年元旦班级联欢会全套资源方案"
 description: "2026年马年元旦班级联欢会完整策划方案，包含活动流程、节目单推荐、互动游戏、主持词、布置创意及互动环节，适合中小学班级使用，帮助老师轻松组织一场热闹有意义的联欢会。"
@@ -11,15 +10,15 @@ keywords: ["2026元旦班级联欢会", "马年联欢会", "班级元旦活动�
 summary: "2026年马年元旦班级联欢会全套资源方案，涵盖活动流程、节目单、互动游戏、主持词、教室布置及注意事项，帮助班主任快速组织一场精彩纷呈的班级联欢会。"
 slug: "2026-new-year-class-party"
 ---
-{< button href="https://pan.quark.cn/s/efab402fb9dc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/efab402fb9dc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/efab402fb9dc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么需要一份专业的班级联欢会方案？
 

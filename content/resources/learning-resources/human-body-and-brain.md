@@ -1,4 +1,3 @@
-
 ---
 title: "人体与大脑：从基础结构到认知科学完整指南"
 description: "人体与大脑学习资源全面解析，涵盖人体解剖学、神经科学、大脑功能分区、认知科学基础等核心知识，附赠高清图表电子书，适合医学爱好者、教育工作者及自我提升者阅读收藏。"
@@ -11,15 +10,15 @@ keywords: ["人体与大脑", "人体解剖学", "大脑结构功能", "神经�
 summary: "人体与大脑学习资源完整指南，从骨骼肌肉到神经网络，从大脑分区到认知机制，系统梳理人体结构与大脑功能的奥秘。附赠高清图解电子书，适合医学生、教师、家长及自我提升学习者。"
 slug: "human-body-and-brain-guide"
 ---
-{< button href="https://pan.quark.cn/s/f8e6c05e6319" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f8e6c05e6319" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f8e6c05e6319
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么学习人体与大脑？
 

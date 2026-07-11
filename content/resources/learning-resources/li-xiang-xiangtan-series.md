@@ -1,4 +1,3 @@
-
 ---
 title: "李翔详谈系列全集（22部）商业访谈深度解析：创业思维与商业逻辑"
 description: "李翔详谈系列全集22部，涵盖多位知名企业家、创业者的一对一深度访谈，包括张勇、左晖、曹德旺等，解析商业思维、创业心法、管理策略、行业洞察，是学习商业逻辑与个人成长的珍贵资源。"
@@ -11,15 +10,15 @@ keywords: ["李翔详谈系列全集", "李翔详谈22部", "商业访谈资源"
 summary: "李翔详谈系列全集22部，深度访谈张勇、左晖、曹德旺等顶尖企业家，系统解析商业思维、创业心法、管理策略与行业洞察，是学习商业逻辑和个人成长的珍贵资源集合。"
 slug: "li-xiang-xiangtan-series"
 ---
-{< button href="https://pan.quark.cn/s/4be74b0e8944" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4be74b0e8944" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4be74b0e8944
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "学而思小学数学思维创新大通关：视频讲解+配套书籍全解析"
 description: "学而思《小学数学思维创新大通关》全解析，包含视频讲解与配套书籍详解，从计算、几何、应用题到逻辑推理，覆盖1-6年级核心思维训练，助力孩子数学思维提升与奥数竞赛准备。"
@@ -11,15 +10,15 @@ keywords: ["学而思小学数学思维创新大通关", "小学数学思维训�
 summary: "学而思《小学数学思维创新大通关》完整资源，内含视频讲解与配套书籍，系统覆盖计算、几何、应用题、逻辑推理等核心板块，适合1-6年级学生进行数学思维系统训练与奥数竞赛准备。"
 slug: "xueersi-math-innovation-breakthrough"
 ---
-{< button href="https://pan.quark.cn/s/879f5ea3e26c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/879f5ea3e26c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/879f5ea3e26c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

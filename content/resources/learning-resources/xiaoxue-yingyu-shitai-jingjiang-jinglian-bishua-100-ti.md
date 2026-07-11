@@ -1,4 +1,3 @@
-
 ---
 title: "2025版《小学英语·时态精讲精练&必刷100题》"
 description: "2025版小学英语时态精讲精练资源，涵盖小学阶段所有英语时态知识点，配100道必刷题，帮助孩子系统掌握时态用法，提升英语成绩。适合小学生、家长辅导、教师备课使用。"
@@ -19,12 +18,12 @@ slug: "xiaoxue-yingyu-shitai-jingjiang-jinglian-bishua-100-ti"
 
 如果你想让孩子在小学英语时态上不再“踩坑”，这份精讲精练+必刷100题就是最实用的选择。立即保存，让孩子轻松拿下小学英语时态！
 
-{< button href="https://pan.quark.cn/s/14fca1828e29" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/14fca1828e29" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/14fca1828e29
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

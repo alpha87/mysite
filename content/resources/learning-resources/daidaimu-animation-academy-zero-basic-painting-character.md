@@ -1,4 +1,3 @@
-
 ---
 title: "代代木动画学院零基础绘画课程（角色篇）——从入门到精通"
 description: "代代木动画学院出品的零基础绘画课程角色篇，系统讲解人物角色绘制技巧，包括头部结构、身体比例、动态姿势、服装褶皱及色彩搭配，适合绘画新手和动画爱好者学习。"
@@ -11,15 +10,15 @@ keywords: ["代代木动画学院零基础绘画", "角色绘画教程", "零基
 summary: "代代木动画学院零基础绘画课程（角色篇），系统教授从头部结构到全身动态、服装色彩的人物绘制全流程，适合零基础学员快速掌握角色绘画核心技巧。"
 slug: "daidaimu-animation-academy-zero-basic-painting-character"
 ---
-{< button href="https://pan.quark.cn/s/c384760781c3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c384760781c3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c384760781c3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

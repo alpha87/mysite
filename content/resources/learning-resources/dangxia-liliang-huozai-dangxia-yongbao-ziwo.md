@@ -1,4 +1,3 @@
-
 ---
 title: "当下的力量丨活在当下，拥抱真正的自我"
 description: "《当下的力量》是埃克哈特·托勒的经典灵性成长著作，教你摆脱思维束缚、停止焦虑内耗，通过活在当下的练习找回内在平静与真实自我。完整电子版资源分享。"
@@ -11,15 +10,15 @@ keywords: ["当下的力量", "The Power of Now", "活在当下", "拥抱真实�
 summary: "《当下的力量》埃克哈特·托勒经典之作，教你停止思维内耗、跳出焦虑循环，通过简单的当下觉察练习找回内心宁静与真实自我。附电子版资源。"
 slug: "dangxia-liliang-huozai-dangxia-yongbao-ziwo"
 ---
-{< button href="https://pan.quark.cn/s/f9c0fa472c2e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f9c0fa472c2e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f9c0fa472c2e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否常常陷入这样的状态——为过去的遗憾反复懊悔，为未来的不确定持续焦虑，却唯独无法安住于此刻？《当下的力量》（The Power of Now）正是为解决这一困境而生。作者埃克哈特·托勒用深刻而平实的语言，揭示了我们痛苦的核心来源：对思维的过度认同。
 

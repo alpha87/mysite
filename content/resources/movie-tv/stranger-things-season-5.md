@@ -1,4 +1,3 @@
-
 ---
 title: "怪奇物语第五季：剧情闭环、全新反派与衍生剧前瞻（附资源）"
 description: "怪奇物语第五季完整介绍，剧情与第一季闭环，霍金斯小镇核心，威尔成关键角色。首集引入新反派，全季共八集每集90-120分钟，分三阶段上线。另有衍生剧开发计划。提供夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["怪奇物语第五季", "Stranger Things Season 5", "怪奇物语资
 summary: "怪奇物语第五季全解读：剧情与第一季完美闭环，威尔成为核心人物；首集引入全新反派，全季8集每集超长时长，分三阶段上线。后续还将开发衍生剧。附夸克网盘资源链接，可保存下载。"
 slug: "stranger-things-season-5"
 ---
-{< button href="https://pan.quark.cn/s/38eca40680bf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/38eca40680bf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/38eca40680bf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 怪奇物语第五季：终极回归，剧情闭环
 

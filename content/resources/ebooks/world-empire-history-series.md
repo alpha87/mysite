@@ -1,4 +1,3 @@
-
 ---
 title: "世界帝国史系列套装：全球帝国兴衰史与文明演进全景解析"
 description: "世界帝国史系列套装深度梳理从罗马帝国、蒙古帝国到大英帝国等世界主要帝国的崛起、鼎盛与衰落，剖析权力更迭、军事扩张、经济制度与文化融合，结合史料与前沿研究，帮助读者构建全球帝国史观，理解现代世界格局的深层根源。"
@@ -11,15 +10,15 @@ keywords: ["世界帝国史系列", "帝国史套装", "历史书籍推荐", "�
 summary: "世界帝国史系列套装深度梳理从罗马帝国、蒙古帝国到大英帝国等世界主要帝国的兴衰历程，剖析权力、军事、经济与文化因素，帮助读者理解现代世界格局的深层根源。"
 slug: "world-empire-history-series"
 ---
-{< button href="https://pan.quark.cn/s/3540b5937262" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3540b5937262" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3540b5937262
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 世界帝国史系列套装：一部纵贯千年的权力史诗
 

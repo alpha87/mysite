@@ -1,4 +1,3 @@
-
 ---
 title: "《孙子兵法》(100集)完整版：经典智慧与谋略深度解读"
 description: "《孙子兵法》100集完整版音频课程，涵盖始计、作战、谋攻、军形、兵势、虚实、军争、九变、行军、地形、九地、火攻、用间等十三篇逐集精讲，助你领悟兵家智慧用于现代决策、职场竞争与人生规划。"
@@ -11,15 +10,15 @@ keywords: ["孙子兵法100集", "孙子兵法完整版", "孙子兵法音频", 
 summary: "《孙子兵法》100集完整版音频课程，逐篇精讲十三篇核心思想，从始计到用间，系统讲解兵家智慧。适合职场人、管理者、创业者学习，将古代谋略应用于现代竞争与决策中。"
 slug: "sunzi-bingfa-100-ji"
 ---
-{< button href="https://pan.quark.cn/s/f2c37a00179b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f2c37a00179b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f2c37a00179b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

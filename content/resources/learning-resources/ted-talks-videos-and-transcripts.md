@@ -1,4 +1,3 @@
-
 ---
 title: "TED精选演讲视频+双语文稿合集：提升英语与思维视野的最佳资源"
 description: "TED精选演讲视频与双语文稿合集，涵盖科技、心理、教育、领导力等高频话题，提供可下载的高清视频与逐字逐句中英对照文稿，适合英语学习、演讲模仿、思维启发与个人成长，附夸克网盘链接永久保存。"
@@ -11,15 +10,15 @@ keywords: ["TED演讲视频", "TED合集", "双语演讲稿", "英语听力材�
 summary: "TED精选演讲视频与双语文稿合集，覆盖科技、心理、教育、领导力等高频话题，高清视频搭配逐字中英对照文稿，助你提升英语听说读写能力、学习演讲结构与表达技巧，同时拓展知识边界。资源可直接下载，保存后永久有效。"
 slug: "ted-talks-videos-and-transcripts-collection"
 ---
-{< button href="https://pan.quark.cn/s/81800c1dbe55" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/81800c1dbe55" target="_blank" >}}
 点击获取TED精选演讲资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/81800c1dbe55
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## TED演讲凭什么值得反复观看？
 

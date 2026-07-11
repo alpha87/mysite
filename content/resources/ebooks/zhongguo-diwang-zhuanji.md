@@ -1,4 +1,3 @@
-
 ---
 title: "中国帝王传记套装5册：读透帝王权谋与历史兴衰"
 description: "中国帝王传记套装5册完整资源分享，涵盖秦始皇、汉武帝、唐太宗、宋太祖、明太祖等千古帝王生平，深度解析帝王权谋、治国方略与历史兴衰，适合历史爱好者、学生、职场人士阅读珍藏。"
@@ -11,15 +10,15 @@ keywords: ["中国帝王传记套装", "帝王传记推荐", "历史人物传记
 summary: "中国帝王传记套装5册，涵盖秦始皇、汉武帝、唐太宗、宋太祖、明太祖五位千古帝王，深入剖析其生平事迹、权谋手段与治国策略，是历史爱好者和学生不可错过的经典读物。"
 slug: "zhongguo-diwang-zhuanji-taozhuang"
 ---
-{< button href="https://pan.quark.cn/s/e23e91497c28" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/e23e91497c28" target="_blank" >}}
 点击获取资源
-{< /button >}}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e23e91497c28
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 📚 中国帝王传记（套装5册）——一部浓缩的帝王权谋史
 

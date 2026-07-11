@@ -1,0 +1,1 @@
+(function(){"use strict";var e=[];window.addEventListener("beforeprint",function(){for(var n=document.querySelectorAll("details:not([open])"),t=0;t<n.length;t++)n[t].open=!0,e.push(n[t])}),window.addEventListener("afterprint",function(){for(var t=0;t<e.length;t++)e[t].open=!1;e=[]})})()

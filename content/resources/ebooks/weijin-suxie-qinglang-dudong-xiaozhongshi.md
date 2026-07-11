@@ -1,4 +1,3 @@
-
 ---
 title: "魏晋速写：轻松读懂小众史"
 description: "《魏晋速写：轻松读懂小众史》是一本以通俗易懂的方式解读魏晋时期历史的电子书资源。本书打破传统历史书籍的枯燥框架，用简洁生动的语言讲述名士风流、政权更迭与思想碰撞，适合历史爱好者、学生及想快速了解魏晋文化的读者。包含夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["魏晋速写 轻松读懂小众史", "魏晋历史电子书", "小�
 summary: "《魏晋速写：轻松读懂小众史》电子书资源，用轻松语言解读魏晋时期名士风流与历史变迁，适合历史爱好者。夸克网盘链接提供下载。"
 slug: "weijin-suxie-qinglang-dudong-xiaozhongshi"
 ---
-{< button href="https://pan.quark.cn/s/965039268064" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/965039268064" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/965039268064
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

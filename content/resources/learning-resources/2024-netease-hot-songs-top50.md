@@ -10,15 +10,15 @@ keywords: ["2024网易云热歌Top50", "网易云音乐年度歌单", "2024热�
 summary: "2024年网易云热歌Top50完整歌单，涵盖年度流行金曲、抖音爆款、热门原创，提供夸克网盘无损下载，音乐爱好者必备资源。"
 slug: "2024-netease-hot-songs-top50"
 ---
-{< button href="https://pan.quark.cn/s/2a2a17d31844" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2a2a17d31844" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2a2a17d31844
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2024年网易云热歌Top50：年度最火歌曲精选合集
 

@@ -1,4 +1,3 @@
-
 ---
 title: "中华传武擒拿术教程合集：从入门到精通实战技巧"
 description: "中华传统武术擒拿术完整教程合集，包含分筋错骨手、小擒拿、大擒拿、关节锁控等核心技法，由多位武术名家教学，适合零基础爱好者、武术教练及防身需求者学习。教程涵盖基本功训练、实战应用、发力技巧与拆解分析，帮助系统掌握传武擒拿精髓。"
@@ -11,15 +10,15 @@ keywords: ["中华传武擒拿术教程合集", "传统武术擒拿教学", "擒
 summary: "中华传统武术擒拿术完整教程合集，涵盖分筋错骨手、小擒拿、大擒拿、关节锁控等核心技法，多位武术名家亲自讲解示范，从基本功到实战应用全面覆盖，适合零基础到进阶的系统学习。"
 slug: "zhonghua-chuanwu-qinnashu-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/fd242f10df12" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fd242f10df12" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fd242f10df12
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 中华传武擒拿术教程合集简介
 

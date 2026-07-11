@@ -1,4 +1,3 @@
-
 ---
 title: "中国手语培训教程：从零基础到日常交流全攻略"
 description: "中国手语培训教程完整指南，涵盖手语基础字母、日常词汇、常用短语以及对话练习，适合零基础学习者系统掌握手语技能，助力无障碍沟通与公益事业发展。"
@@ -11,15 +10,15 @@ keywords: ["中国手语培训教程", "手语学习入门", "手语零基础教
 summary: "中国手语培训教程完整指南，从基础字母、日常词汇到常用短语和对话练习，系统教学帮助零基础学习者快速掌握手语技能，促进与听障人士的无障碍沟通。"
 slug: "zhongguo-shouyu-peixun-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/aee72bc22f47" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/aee72bc22f47" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/aee72bc22f47
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 手语的意义与学习价值
 

@@ -10,15 +10,15 @@ keywords: ["无名指电影", "悬疑电影推荐", "高分电影下载", "剧�
 summary: "《无名指》悬疑电影深度解析与资源分享，包含剧情介绍、角色分析、观影感悟，并提供夸克网盘下载链接。"
 slug: "wumingzhi-xuanyi-dianying-ziyuan"
 ---
-{< button href="https://pan.quark.cn/s/cb2c84d185c7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb2c84d185c7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb2c84d185c7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 无名指：一部不容错过的悬疑佳作
 

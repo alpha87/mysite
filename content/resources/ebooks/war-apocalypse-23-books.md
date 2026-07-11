@@ -1,4 +1,3 @@
-
 ---
 title: "战争启示录：真相、冲突与死亡（共23册）——经典战争历史与军事著作合集"
 description: "战争启示录系列电子书合集共23册，涵盖从古代到现代的重大战争、军事战略、冲突真相与人性反思。包括《战争论》《孙子兵法》《二战全史》《世界大战》等经典著作，适合历史爱好者、军事迷、战略研究者及广大读者收藏阅读，深入理解战争本质与人类命运。"
@@ -11,15 +10,15 @@ keywords: ["战争启示录", "23册电子书", "战争历史书籍", "军事战
 summary: "战争启示录系列电子书合集共23册，收录从古至今的战争经典著作，涵盖战略战术、战役战史与人性反思，助你深刻理解战争的真相、冲突与死亡。适用于历史研究、军事学习与读书收藏。"
 slug: "war-apocalypse-23-books"
 ---
-{< button href="https://pan.quark.cn/s/91330343eb57" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/91330343eb57" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/91330343eb57
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 战争启示录：真相、冲突与死亡（共23册）
 

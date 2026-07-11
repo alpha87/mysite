@@ -1,4 +1,3 @@
-
 ---
 title: "计算机二级资料合集(114GB)：全国计算机等级考试全套备考资源"
 description: "114GB计算机二级考试资料合集，涵盖MS Office、Python、C语言等科目，包含真题题库、视频教程、模拟软件、考试大纲、考点总结，适合零基础到高分冲刺，2026年最新版备考资源一站式下载。"
@@ -11,15 +10,15 @@ keywords: ["计算机二级资料合集", "计算机二级备考资源", "全国
 summary: "114GB计算机二级考试资料合集，涵盖MS Office、Python、C语言等科目，包含真题题库、视频教程、模拟软件、考试大纲、考点总结，一站式备考资源下载。"
 slug: "computer-level-exam-resources"
 ---
-{< button href="https://pan.quark.cn/s/098cde84652d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/098cde84652d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/098cde84652d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 计算机二级考试资料合集介绍
 

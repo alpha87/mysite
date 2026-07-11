@@ -1,4 +1,3 @@
-
 ---
 title: "价值千元的育儿书籍资源合集：经典育儿书单免费分享"
 description: "精选价值千元的育儿书籍资源合集，涵盖蒙台梭利、正面管教、游戏力、儿童心理学等经典著作，附夸克网盘永久保存链接，帮助家长系统学习科学育儿知识，提升亲子沟通与教育能力。"
@@ -11,15 +10,15 @@ keywords: ["育儿书籍推荐", "价值千元育儿书", "经典育儿书单", 
 summary: "精选价值千元的育儿书籍资源合集，涵盖蒙台梭利、正面管教、游戏力、儿童心理学等经典著作，附夸克网盘永久保存链接，帮助家长系统学习科学育儿知识，提升亲子沟通与教育能力。"
 slug: "valuable-parenting-books"
 ---
-{< button href="https://pan.quark.cn/s/d8d2a304d447" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d8d2a304d447" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d8d2a304d447
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 育儿是每个家庭的头等大事，而一本好的育儿书籍往往能带来颠覆性的教育理念。本次分享的“价值千元的育儿书籍”资源合集，汇集了市面上最受家长欢迎的经典著作，从蒙台梭利的感官教育到正面管教的和善坚定，从游戏力的情绪疗愈到儿童心理学的成长规律，每一本都经过千万家庭验证，是科学育儿的必读之作。
 

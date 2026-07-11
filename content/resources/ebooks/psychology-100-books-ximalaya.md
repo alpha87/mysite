@@ -1,4 +1,3 @@
-
 ---
 title: "心理学必读的100本经典 | 喜马讲书演播版"
 description: "心理学必读的100本经典书籍合集，由喜马讲书演播团队精心制作，涵盖心理学入门、社会心理学、认知心理学、发展心理学等领域，适合心理学爱好者、学生和专业人士收听学习。"
@@ -11,15 +10,15 @@ keywords: ["心理学必读100本", "心理学经典书籍", "喜马讲书心理
 summary: "心理学必读的100本经典书籍合集，喜马讲书演播版，涵盖心理学各领域经典著作，方便随时随地收听学习。"
 slug: "psychology-100-books-ximalaya"
 ---
-{< button href="https://pan.quark.cn/s/abb94dfb2253" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/abb94dfb2253" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/abb94dfb2253
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 心理学是一门研究人类行为和心理过程的科学，无论是自我成长、人际沟通还是职业发展，心理学知识都能提供深刻的洞察。对于初学者和进阶者来说，系统阅读经典著作是快速构建知识体系的最佳路径。
 

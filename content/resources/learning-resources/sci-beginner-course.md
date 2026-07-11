@@ -1,4 +1,3 @@
-
 ---
 title: "SCI新手必备课（共12节）——从零开始掌握科研论文写作与发表"
 description: "12节SCI新手课程，系统讲解科研论文选题、文献检索、实验设计、数据分析、图表制作、写作技巧、投稿选刊、回复审稿意见等全流程，帮助科研新手快速掌握SCI论文写作与发表的核心方法。"
@@ -11,15 +10,15 @@ keywords: ["SCI论文写作", "科研入门课程", "SCI新手课程", "论文�
 summary: "12节SCI新手课程，从选题到发表全流程系统教学，涵盖文献检索、实验设计、数据分析、图表制作、写作技巧、投稿选刊等核心内容，帮助科研新手快速掌握SCI论文写作与发表的方法。"
 slug: "sci-beginner-course"
 ---
-{< button href="https://pan.quark.cn/s/2774c8fb783f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2774c8fb783f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2774c8fb783f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

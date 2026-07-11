@@ -1,4 +1,3 @@
-
 ---
 title: "信息可视化PPT模板合集：职场汇报与数据展示必备利器"
 description: "海量信息可视化PPT模板合集，涵盖数据图表、流程图、时间轴、对比分析等场景，适合职场汇报、项目演示、年终总结等场景，帮助办公人员提升PPT设计美感，征服领导，升职加薪必备资源。"
@@ -11,15 +10,15 @@ keywords: ["信息可视化PPT模板", "PPT模板合集", "职场PPT模板", "�
 summary: "海量信息可视化PPT模板合集，涵盖数据图表、流程图、时间轴、对比分析等场景，专为职场人士打造，提升PPT设计感与说服力，一键获取升职加薪神器。"
 slug: "info-visualization-ppt-templates-collection"
 ---
-{< button href="https://pan.quark.cn/s/02136a2b0997" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/02136a2b0997" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/02136a2b0997
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这份信息可视化PPT模板合集？
 

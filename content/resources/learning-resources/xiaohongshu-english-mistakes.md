@@ -1,4 +1,3 @@
-
 ---
 title: "小红书爆火的英语易错知识点合集｜付费资料分享"
 description: "小红书爆火的英语易错知识点完整合集，涵盖时态混淆、介词误用、词义辨析、固定搭配错误等高频考点，适合英语学习者、考研党、四六级考生以及备考雅思托福的用户，帮助快速突破语法盲区，提升英语应试能力与写作水平。"
@@ -11,15 +10,15 @@ keywords: ["小红书英语易错知识点", "英语易错点合集", "英语语
 summary: "小红书爆火的英语易错知识点合集，系统整理时态、介词、词义、固定搭配等高频易错点，助你快速突破语法盲区，提升考试与写作能力。"
 slug: "xiaohongshu-english-mistakes-collection"
 ---
-{< button href="https://pan.quark.cn/s/47cd001eb570" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/47cd001eb570" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/47cd001eb570
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么这套《小红书爆火的英语易错知识点》值得收藏？
 

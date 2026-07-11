@@ -1,4 +1,3 @@
-
 ---
 title: "唯库《一次性学透Excel函数》完整教程：从入门到精通"
 description: "唯库出品的Excel函数系统教程，覆盖VLOOKUP、SUMIF、INDEX、MATCH等核心函数，通过实战案例讲解数据处理技巧，适合职场办公人员快速提升Excel技能，包含配套练习文件和知识点笔记。"
@@ -11,15 +10,15 @@ keywords: ["一次性学透Excel函数", "唯库Excel教程", "Excel函数大全
 summary: "唯库《一次性学透Excel函数》教程，系统讲解Excel常用函数，从基础到高级，结合真实办公场景案例，帮助学员快速掌握VLOOKUP、SUMIF、INDEX、MATCH等核心函数的实际应用，提升数据处理与自动化办公能力。"
 slug: "yici-xing-xuetou-excel-hanshu"
 ---
-{< button href="https://pan.quark.cn/s/014a088da671" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/014a088da671" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/014a088da671
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

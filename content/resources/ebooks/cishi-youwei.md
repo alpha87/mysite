@@ -1,4 +1,3 @@
-
 ---
 title: "《此生有味》电子书下载：品味人生百态，温暖心灵之作"
 description: "《此生有味》是一本关于人生感悟与情感体验的电子书，通过细腻的文字描绘生活中的酸甜苦辣，引导读者在平凡中发现滋味，在困境中寻找力量。适合所有热爱阅读、渴望心灵成长的读者。"
@@ -11,15 +10,15 @@ keywords: ["此生有味电子书", "此生有味书评", "人生感悟书籍", 
 summary: "《此生有味》电子书免费下载，一本关于人生感悟与情感体验的温暖之作，细腻描绘生活百态，帮助读者在平凡中寻找滋味、在困境中汲取力量，是心灵成长与治愈系读者的优质选择。"
 slug: "cishi-youwei"
 ---
-{< button href="https://pan.quark.cn/s/dbd37aa082fc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dbd37aa082fc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dbd37aa082fc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《此生有味》
 

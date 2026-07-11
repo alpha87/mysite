@@ -1,4 +1,3 @@
-
 ---
 title: "2025年自媒体实战营：DeepSeek、即梦AI、Midjourney系统教程与案例实操全攻略"
 description: "2025自媒体实战营完整教程，涵盖DeepSeek文本生成、即梦AI视频创作、Midjourney图像设计三大AI工具的系统教学与真实案例实操，帮助自媒体人快速掌握AI提效方法，从0到1打造爆款内容，实现高效变现。"

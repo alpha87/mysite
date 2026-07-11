@@ -1,4 +1,3 @@
-
 ---
 title: "办公室路主任：职场必备生存法则全攻略"
 description: "办公室路主任深度解析职场生存法则，包括办公室政治、向上管理、沟通技巧、时间管理、职业规划等核心内容，帮助职场人避开常见陷阱，快速提升职场竞争力。"
@@ -11,15 +10,15 @@ keywords: ["职场生存法则", "办公室政治", "向上管理", "职场沟�
 summary: "办公室路主任分享的职场必备生存法则，涵盖办公室政治、沟通技巧、向上管理、职业规划等核心内容，帮助职场人避开陷阱，快速成长。"
 slug: "zhichang-shengcun-faze"
 ---
-{< button href="https://pan.quark.cn/s/e5291749e361" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e5291749e361" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e5291749e361
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要职场生存法则？
 

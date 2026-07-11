@@ -1,4 +1,3 @@
-
 ---
 title: "蛋白检测技术实验视频高清教程：Western Blot、ELISA、免疫组化全覆盖"
 description: "蛋白检测技术实验高清视频教程，涵盖Western Blot、ELISA、免疫组化（IHC）等主流实验方法。从样本制备到结果分析，手把手教学，适合生物医学专业学生及科研人员快速掌握实验操作核心要点。"
@@ -11,15 +10,15 @@ keywords: ["蛋白检测技术实验视频", "Western Blot操作教程", "ELISA�
 summary: "蛋白检测技术实验高清视频教程，系统讲解Western Blot、ELISA、免疫组化三大主流方法，由资深实验员演示每一步操作，适合生物专业学生及科研人员系统学习。"
 slug: "protein-detection-technique-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/fb40e54c3e32" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fb40e54c3e32" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fb40e54c3e32
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 蛋白检测技术实验视频高清教程简介
 

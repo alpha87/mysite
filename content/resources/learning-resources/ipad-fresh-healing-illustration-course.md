@@ -1,4 +1,3 @@
-
 ---
 title: "22节iPad清新治愈质感插画课程"
 description: "22节iPad清新治愈质感插画课程完整教学，从基础笔刷到高级氛围渲染，涵盖治愈系插画构图、色彩搭配、光影处理、植物动物人物绘制等核心技法，适合零基础小白快速掌握数字插画。"
@@ -11,15 +10,15 @@ keywords: ["iPad插画教程", "治愈系插画", "清新质感插画", "数字�
 summary: "22节iPad清新治愈质感插画课程，从零基础到独立创作，系统讲解笔刷运用、构图、色彩、光影、植物动物人物绘制及氛围渲染，适合所有想用iPad画出治愈感插画的初学者。"
 slug: "ipad-fresh-healing-illustration-course"
 ---
-{< button href="https://pan.quark.cn/s/8ce7c915dfd6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ce7c915dfd6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8ce7c915dfd6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "B站GenJi全能剪辑师入门班：PR+AU+AE从0到1系统教程"
 description: "B站精品课《GenJi是真想教会你：PR+AU+AE全能剪辑师入门班》完整资源，涵盖Premiere剪辑、Audition音频处理、After Effects特效合成全流程教学，适合零基础新手快速掌握视频剪辑与后期制作核心技能，附完整课程下载链接。"
@@ -11,15 +10,15 @@ keywords: ["GenJi课程", "PR+AU+AE教程", "全能剪辑师入门", "B站剪辑
 summary: "B站精品课《GenJi是真想教会你：PR+AU+AE全能剪辑师入门班》完整资源，涵盖PR剪辑、AU音频、AE特效全流程，零基础系统学习视频后期制作，附夸克网盘下载链接。"
 slug: "bilibili-genji-pr-au-ae-editing-course"
 ---
-{< button href="https://pan.quark.cn/s/0ec6354bd2a5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0ec6354bd2a5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0ec6354bd2a5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

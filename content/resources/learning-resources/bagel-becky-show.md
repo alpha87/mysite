@@ -1,4 +1,3 @@
-
 ---
 title: "BBC少儿英语启蒙动画《百吉尔与贝基 The Bagel & Becky Show》"
 description: "BBC出品的少儿英语启蒙动画《百吉尔与贝基 The Bagel & Becky Show》，适合儿童英语学习，通过趣味故事和角色互动帮助孩子提升英语听力和口语能力。资源可在夸克网盘下载。"

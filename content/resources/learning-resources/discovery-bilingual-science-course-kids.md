@@ -1,4 +1,3 @@
-
 ---
 title: "Discovery双语科学启蒙课《探索·好奇少年的双语科学世界》音视频+配套资料"
 description: "Discovery双语科学启蒙课《探索·好奇少年的双语科学世界》全套音视频及配套资料，涵盖自然科学、物理、化学、生物等多领域，中英双语授课，适合6-12岁儿童科学启蒙，培养好奇心和探索精神。"
@@ -11,15 +10,15 @@ keywords: ["Discovery双语科学启蒙课", "探索好奇少年", "双语科学
 summary: "Discovery双语科学启蒙课《探索·好奇少年的双语科学世界》全套资源，包括高清视频、音频及配套练习资料，中英双语讲解科学原理，激发儿童好奇心，适合6-12岁孩子进行科学启蒙和双语学习。"
 slug: "discovery-bilingual-science-course-kids"
 ---
-{< button href="https://pan.quark.cn/s/4b7a981215f7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4b7a981215f7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4b7a981215f7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

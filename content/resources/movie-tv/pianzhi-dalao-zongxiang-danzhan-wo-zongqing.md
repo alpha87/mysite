@@ -1,4 +1,3 @@
-
 ---
 title: "《偏执大佬总想独占我&纵情》79集完整版：兰岚&王奕然主演甜宠短剧资源分享"
 description: "热门短剧《偏执大佬总想独占我&纵情》79集全，由兰岚、王奕然领衔主演。霸道总裁与职场女主的极限拉扯，反转不断、甜虐交织。夸克网盘高清资源，保存即永久，免费在线观看。"
@@ -11,15 +10,15 @@ keywords: ["偏执大佬总想独占我纵情", "兰岚王奕然短剧", "79集�
 summary: "《偏执大佬总想独占我&纵情》79集全资源，兰岚、王奕然演绎霸道总裁独宠女主、虐心虐身又甜到炸裂的短剧。夸克网盘链接，保存即永久，立即获取全集观看。"
 slug: "pianzhi-dalao-zongxiang-danzhan-wo-zongqing-79-ji"
 ---
-{< button href="https://pan.quark.cn/s/0f4dc4465aa9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0f4dc4465aa9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0f4dc4465aa9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 短剧简介
 

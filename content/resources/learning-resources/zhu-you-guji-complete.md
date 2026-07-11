@@ -1,4 +1,3 @@
-
 ---
 title: "绝版古籍·祝由全套：古代秘术手抄本完整收录"
 description: "祝由术是中国古代巫医结合的秘传法术，全套包含符咒、禁法、治病秘方等珍贵手抄本。本资源为绝版古籍高清扫描版，适合中医爱好者、玄学研究者、传统文化收藏者学习参考。"
@@ -11,15 +10,15 @@ keywords: ["祝由术全套", "祝由古籍", "古代医术", "符咒秘术", "�
 summary: "祝由术是中国古代巫医结合的秘传法术，全套包含符咒、禁法、治病秘方等珍贵手抄本。本资源为绝版古籍高清扫描版，适合中医爱好者、玄学研究者、传统文化收藏者学习参考。"
 slug: "zhu-you-guji-complete"
 ---
-{< button href="https://pan.quark.cn/s/b8e4e978df71" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b8e4e978df71" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b8e4e978df71
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 祝由术·源远流长的古代秘术
 

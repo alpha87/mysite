@@ -1,4 +1,3 @@
-
 ---
 title: "成龙电影合集72部：经典动作片全收录"
 description: "成龙电影合集72部完整收录，包括《警察故事》《A计划》《醉拳》《尖峰时刻》《十二生肖》等经典动作片，全高清资源打包下载，适合成龙影迷收藏。"
@@ -11,15 +10,15 @@ keywords: ["成龙电影合集", "成龙经典电影", "成龙72部", "警察故
 summary: "成龙电影合集72部完整收录，从早期功夫喜剧到好莱坞大片，全高清资源打包，一次收藏成龙所有代表作。"
 slug: "jackie-chan-72-movies"
 ---
-{< button href="https://pan.quark.cn/s/b40e8fadd9d1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b40e8fadd9d1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b40e8fadd9d1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 成龙电影合集72部简介
 

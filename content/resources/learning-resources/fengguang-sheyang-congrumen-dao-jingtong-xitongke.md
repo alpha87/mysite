@@ -1,4 +1,3 @@
-
 ---
 title: "风光摄影从入门到精通系统课"
 description: "风光摄影系统课程完整指南，涵盖相机操作、光线运用、构图技巧、后期处理、拍摄实战等核心模块，从零基础到精通，适合所有热爱自然风光摄影的学习者，帮助掌握风光摄影全流程技巧与方法。"
@@ -11,15 +10,15 @@ keywords: ["风光摄影系统课", "摄影从入门到精通", "风光摄影技
 summary: "风光摄影从入门到精通系统课程，涵盖相机操作、光线运用、构图技巧、后期处理、拍摄实战等核心模块，适合所有热爱自然风光摄影的学习者，帮助快速掌握风光摄影全流程技巧。"
 slug: "fengguang-sheyang-congrumen-dao-jingtong-xitongke"
 ---
-{< button href="https://pan.quark.cn/s/cef6fd320bc7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cef6fd320bc7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cef6fd320bc7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

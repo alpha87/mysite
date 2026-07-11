@@ -1,4 +1,3 @@
-
 ---
 title: "少儿珠心算学习资源：从入门到精通"
 description: "少儿珠心算完整学习指南，涵盖珠心算基础知识、训练方法、脑力开发好处及实用资源推荐，帮助家长和孩子快速入门并提升心算能力、专注力和逻辑思维，配套夸克网盘资源一键获取。"
@@ -11,15 +10,15 @@ keywords: ["少儿珠心算", "珠心算入门", "心算教学方法", "儿童�
 summary: "少儿珠心算完整学习指南，涵盖珠心算基础知识、训练方法、脑力开发好处及实用资源推荐，帮助家长和孩子快速入门并提升心算能力、专注力和逻辑思维。"
 slug: "children-abacus-mental-arithmetic"
 ---
-{< button href="https://pan.quark.cn/s/6d94ee6ee631" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d94ee6ee631" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d94ee6ee631
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是珠心算？
 

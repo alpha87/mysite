@@ -1,4 +1,3 @@
-
 ---
 title: "全球好书100本喜马拉雅有声读物合集｜在线畅听完整版"
 description: "100本全球好书喜马拉雅有声读物合集，涵盖文学经典、商业思维、自我成长、历史人文、心理学等多领域，在线即可免费收听，适合通勤、睡前、运动时碎片化学习，快速提升认知与内涵。"
@@ -11,15 +10,15 @@ keywords: ["全球好书100本喜马拉雅", "喜马拉雅有声书合集", "免
 summary: "100本全球好书喜马拉雅有声读物合集，涵盖文学、商业、心理、历史等类别，在线即可免费收听，碎片时间快速提升自我。"
 slug: "global-top-100-books-ximalaya-audio"
 ---
-{< button href="https://pan.quark.cn/s/6d73f43218d9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d73f43218d9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d73f43218d9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 🎧 100本全球好书，随时随地“听”起来
 

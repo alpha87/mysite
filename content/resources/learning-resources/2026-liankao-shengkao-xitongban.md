@@ -1,4 +1,3 @@
-
 ---
 title: "2026联考省考系统班：公务员考试全程备考资料合集"
 description: "2026年公务员联考省考系统班完整备考资料，涵盖行测、申论、面试等全科网课，包含名师精讲、真题解析、模拟题库、时政热点等模块，适合零基础到冲刺阶段考生，助你高效备考一举上岸。"
@@ -11,15 +10,15 @@ keywords: ["2026联考省考系统班", "公务员考试备考资料", "省考�
 summary: "2026年公务员联考省考系统班完整备考资料，覆盖行测、申论、面试全流程，包含名师精讲、真题解析、模拟题库与时政热点，零基础也能高效备考，助你冲刺上岸。"
 slug: "2026-liankao-shengkao-xitongban"
 ---
-{< button href="https://pan.quark.cn/s/f484a75442d2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f484a75442d2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f484a75442d2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2026联考省考系统班介绍
 

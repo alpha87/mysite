@@ -11,15 +11,15 @@ keywords: ["早点知道会幸福的那些事", "豆瓣评分7.8", "幸福书籍
 summary: "《早点知道会幸福的那些事》豆瓣7.8分，一部值得反复阅读的幸福哲学书。从心态、关系到自我成长，带你提前领悟那些能改变人生的道理。本文提供书籍简介、核心感悟及夸克网盘资源，方便读者获取。"
 slug: "zaodian-zhidao-hui-xingfu-7-8"
 ---
-{< button href="https://pan.quark.cn/s/33f2b469a614" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/33f2b469a614" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/33f2b469a614
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾在深夜辗转反侧，后悔如果早点明白某个道理，人生会不会完全不同？《早点知道会幸福的那些事》正是这样一本帮你“提前开悟”的书。它没有说教，而是用一个个贴近生活的故事和深刻的洞见，温柔地告诉你：幸福不是偶然，而是一系列可以学习和选择的智慧。
 

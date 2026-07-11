@@ -1,4 +1,3 @@
-
 ---
 title: "邵艾伦雅思口语训练营：实战提分课程60节完整版"
 description: "邵艾伦雅思口语训练营60节实战提分课程，涵盖口语技巧、高频话题、发音纠正、逻辑构建、模拟考试等核心模块。适合雅思5.5分冲刺7分及以上的考生，系统提升口语流利度与准确性，附赠完整课程资源与夸克网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["邵艾伦雅思口语训练营", "雅思口语实战提分", "IELTS 
 summary: "邵艾伦雅思口语训练营60节实战提分课程资源，涵盖口语高频话题、发音纠正、逻辑构建与模考，适合5.5-7分冲刺，附夸克网盘下载链接。"
 slug: "allen-shao-ielts-speaking-course"
 ---
-{< button href="https://pan.quark.cn/s/b95f7a4de30c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b95f7a4de30c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b95f7a4de30c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

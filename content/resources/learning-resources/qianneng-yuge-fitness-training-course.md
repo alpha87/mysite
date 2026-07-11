@@ -1,4 +1,3 @@
-
 ---
 title: "潜能宇哥健身系统训练自学课程：从入门到精通的完整指南"
 description: "潜能宇哥健身系统训练自学课程完整介绍，涵盖科学训练体系、动作详解、饮食搭配和进阶计划，适合零基础到中级健身者，帮助你在家或健身房系统掌握健身知识，高效达成增肌减脂目标。"
@@ -11,15 +10,15 @@ keywords: ["潜能宇哥健身课程", "健身系统训练自学", "健身教学
 summary: "潜能宇哥健身系统训练自学课程全面解析，包含科学训练体系、动作详解、饮食搭配和进阶计划，从零基础到中级健身者一应俱全，助你系统掌握健身知识，高效增肌减脂。"
 slug: "qianneng-yuge-fitness-training-course"
 ---
-{< button href="https://pan.quark.cn/s/79f60f30e578" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/79f60f30e578" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/79f60f30e578
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

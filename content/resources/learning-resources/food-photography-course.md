@@ -1,4 +1,3 @@
-
 ---
 title: "悄悄变大神的美食摄影必修课：从手机到单反的全流程进阶指南"
 description: "美食摄影必修课资源大全，涵盖手机与单反摄影技巧、布光构图、后期调色、场景搭建等核心内容，适合0基础到进阶的摄影爱好者，助你拍出令人垂涎的美食大片。"
@@ -11,15 +10,15 @@ keywords: ["美食摄影必修课", "手机美食摄影", "单反美食摄影", 
 summary: "美食摄影必修课资源大全，从手机到单反全覆盖，包含布光、构图、后期调色、场景搭建等核心内容，助0基础到进阶的摄影爱好者拍出令人垂涎的美食大片。"
 slug: "food-photography-course"
 ---
-{< button href="https://pan.quark.cn/s/cb831aa14a5d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb831aa14a5d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb831aa14a5d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是不是也遇到过这样的情况：明明做了一桌好菜，拍出来却毫无食欲；看了无数教程，照片依然平淡无奇；手机里几百张美食照，却没有一张能发朋友圈。别担心，这套《悄悄变大神的美食摄影必修课》就是为你准备的——从最基础的设备选择到高阶的场景设计，手把手教你拍出令人惊艳的美食大片。
 

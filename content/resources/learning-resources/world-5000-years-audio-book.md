@@ -1,4 +1,3 @@
-
 ---
 title: "儿童历史启蒙有声读物《世界上下5000年》：听故事学历史"
 description: "《世界上下5000年》儿童历史启蒙有声读物，涵盖古埃及、古希腊、古罗马、中国历史等世界文明故事，专业配音，适合3-12岁孩子睡前听、路上听，培养历史兴趣和人文素养。"
@@ -11,15 +10,15 @@ keywords: ["世界上下5000年有声读物", "儿童历史启蒙", "世界历�
 summary: "《世界上下5000年》儿童历史启蒙有声读物，精选世界各大文明经典历史故事，专业播音员配音，帮助孩子在聆听中建立历史框架，激发探索世界的兴趣。"
 slug: "world-5000-years-audio-book"
 ---
-{< button href="https://pan.quark.cn/s/b2d23c1496fb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b2d23c1496fb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b2d23c1496fb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择《世界上下5000年》有声读物？
 

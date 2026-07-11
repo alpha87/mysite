@@ -1,4 +1,3 @@
- 
 ---
 title: "续修四库全书 1800册 104GB 上海古籍出版社影印本"
 description: "续修四库全书全套1800册电子版下载，上海古籍出版社影印本，总容量104GB，涵盖经史子集四部，是研究中国古典文献的重要资源，适合古籍爱好者、学术研究者收藏。"
@@ -11,15 +10,15 @@ keywords: ["续修四库全书", "上海古籍出版社影印本", "古籍电子
 summary: "续修四库全书全套1800册电子版，上海古籍出版社影印，104GB，包含经史子集四部，是研究中国古典文献的重要资源，提供夸克网盘下载。"
 slug: "xuxiu-siku-quanshu-1800-ce-104gb-yingyinben"
 ---
-{< button href="https://pan.quark.cn/s/a182efd64112" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a182efd64112" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a182efd64112
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 续修四库全书简介
 

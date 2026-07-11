@@ -1,4 +1,3 @@
-
 ---
 title: "2026考研专业课社会工作高端班：全科辅导与备考策略"
 description: "2026考研社会工作专业高端班课程资源，涵盖专业课核心考点解析、真题精讲、答题技巧训练和冲刺阶段规划，帮助考生系统掌握社会工作理论、方法与社会政策，高效备考稳拿高分。"
@@ -11,15 +10,15 @@ keywords: ["2026考研社会工作", "社会工作考研高端班", "考研专�
 summary: "2026考研社会工作专业高端班课程资源，系统讲解专业课核心考点、真题精讲、答题技巧与冲刺规划，助力考生高效备考，稳拿高分。"
 slug: "2026-kaoyan-shehuigongzuo-gaoduanban"
 ---
-{< button href="https://pan.quark.cn/s/2c1f535717f9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2c1f535717f9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2c1f535717f9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程资源介绍
 

@@ -1,4 +1,3 @@
-
 ---
 title: "25年社工初级+中级+高级考试全套资源包(127GB) 备考资料合集"
 description: "2025年社会工作者职业资格考试全套备考资料，涵盖初级、中级、高级三个级别共127GB高清视频课程、历年真题、电子教材、思维导图、考点速记手册等，适合零基础考生系统复习，助力高效通关。"
@@ -12,15 +11,15 @@ summary: "2025年社工初级+中级+高级全套备考资料合集，127GB超�
 slug: "social-worker-exam-127gb-resources"
 ---
 
-{< button href="https://pan.quark.cn/s/a92ec43f20f6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a92ec43f20f6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a92ec43f20f6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2025年社工考试全套备考资源（127GB）介绍
 

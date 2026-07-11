@@ -1,4 +1,3 @@
-
 ---
 title: "蛋白检测技术实验视频高清教程：Western Blot、ELISA、免疫共沉淀等核心方法"
 description: "完整蛋白检测技术实验视频教程，涵盖Western Blot、ELISA、免疫共沉淀、蛋白质印迹分析等主流方法，从样本制备到结果分析全程高清教学，适合生物医学专业学生和科研人员，帮助快速掌握实验操作关键技巧与常见问题解决方法。"
@@ -11,15 +10,15 @@ keywords: ["蛋白检测技术实验视频", "Western Blot教程", "ELISA操作�
 summary: "完整蛋白检测技术实验视频教程，系统讲解Western Blot、ELISA、免疫共沉淀等经典技术的实验原理、操作步骤、常见问题与解决方案，高清实拍教学，从样本制备到结果分析一应俱全，帮助科研人员和学生快速提升实验操作水平。"
 slug: "protein-detection-technique-video-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/1892e962508f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1892e962508f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1892e962508f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 蛋白检测技术是生物医学研究中不可或缺的基础实验技能，广泛应用于蛋白质表达分析、蛋白质相互作用研究、信号转导通路解析等领域。本套高清实验视频教程系统梳理了当前最主流的蛋白检测方法，包括Western Blot（蛋白质印迹）、ELISA（酶联免疫吸附试验）、免疫共沉淀（Co-IP）、蛋白质免疫荧光染色、蛋白质定量分析等，并涵盖从样本制备到最终结果解读的全流程操作。
 

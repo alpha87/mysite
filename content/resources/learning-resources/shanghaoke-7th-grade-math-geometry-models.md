@@ -1,4 +1,3 @@
-
 ---
 title: "【上好课】七年级数学上册几何模型系列（人教版2024）完整版"
 description: "人教版2024七年级数学上册几何模型系列全套资源，包含经典几何模型讲解、解题技巧、例题精讲与配套练习，适合初中生自学、家长辅导及教师备课使用，助你轻松掌握初中几何核心模型。"
@@ -11,15 +10,15 @@ keywords: ["七年级数学上册几何模型", "人教版2024几何", "初中�
 summary: "人教版2024七年级数学上册几何模型系列全套资源，涵盖常见几何模型、解题方法、例题精讲与配套练习，适合初中生、家长和教师使用。"
 slug: "shanghaoke-7th-grade-math-geometry-models"
 ---
-{< button href="https://pan.quark.cn/s/043c669857d1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/043c669857d1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/043c669857d1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

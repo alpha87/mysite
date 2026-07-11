@@ -1,4 +1,3 @@
-
 ---
 title: "2025年网络工程师全套资源（186GB）| 考证学习资料合集"
 description: "2025年网络工程师备考全套资源，涵盖华为、思科认证、软考网络工程师、CCNA/CCNP、HCIA/HCIP等课程，含视频教程、题库、实验文档、电子书，共186GB，适合零基础到进阶学习者。"
@@ -11,15 +10,15 @@ keywords: ["网络工程师资源", "2025网络工程师", "华为认证资料",
 summary: "2025年网络工程师全套备考资源合集，186GB涵盖华为/思科认证、软考网络工程师、CCNA/CCNP/HCIA/HCIP等视频课程、题库、实验文档及电子书，适合零基础到进阶学习者，点击获取下载链接。"
 slug: "network-engineer-2025-resources"
 ---
-{< button href="https://pan.quark.cn/s/24a5d7958e53" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/24a5d7958e53" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/24a5d7958e53
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

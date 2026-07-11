@@ -1,4 +1,3 @@
-
 ---
 title: "《亦仁百问百答》生财有术星球问答2017-2024合集：创业与副业实战精华"
 description: "《亦仁百问百答》生财有术星球问答2017-2024合集，收录近8年创业、副业、赚钱项目的实战问答，涵盖电商、自媒体、AI、投资等多个领域，助你快速掌握生财有术核心方法论，寻找赚钱机会。"
@@ -11,15 +10,15 @@ keywords: ["亦仁百问百答合集", "生财有术问答", "创业赚钱", "�
 summary: "《亦仁百问百答》生财有术星球问答2017-2024合集，整理近8年创业副业精华，涵盖电商、自媒体、AI赚钱、投资等领域，帮助副业新手和创业者快速获取实战经验，发现赚钱机会。"
 slug: "yiren-baiwen-baida-shengcaiyoushu-2017-2024"
 ---
-{< button href="https://pan.quark.cn/s/9ea293b38272" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9ea293b38272" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9ea293b38272
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

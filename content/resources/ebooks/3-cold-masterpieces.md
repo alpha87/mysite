@@ -1,4 +1,3 @@
-
 ---
 title: "3本冷门神作，读完仿佛就像换了个脑子"
 description: "3本鲜为人知的冷门神作，涵盖思维升级、认知重构与人性洞察，读完让你脑洞大开、脱胎换骨。内含夸克网盘资源，一键保存永久有效。"
@@ -11,15 +10,15 @@ keywords: ["冷门神作", "改变思维的书", "认知升级", "书籍推荐",
 summary: "3本鲜为人知的冷门神作，从思维陷阱、认知偏差到人性真相，每本都能让你对世界产生全新理解。读完如同换了个脑子，开启高阶思考模式。"
 slug: "3-ben-lengmen-shenzuo"
 ---
-{< button href="https://pan.quark.cn/s/e028774fb9ca" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e028774fb9ca" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e028774fb9ca
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 第一本：《思考，快与慢》——丹尼尔·卡尼曼
 

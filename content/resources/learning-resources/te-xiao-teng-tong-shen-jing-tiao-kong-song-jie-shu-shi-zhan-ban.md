@@ -1,4 +1,3 @@
-
 ---
 title: "特效疼痛神经调控松解术实战班：第9期完整课程资源"
 description: "第9期特效疼痛神经调控松解术实战班全套课程资源，涵盖疼痛机制解析、神经调控技术、筋膜松解手法、实操演示及临床案例分析，适合康复医师、针灸推拿师、疼痛科医生及中医爱好者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["特效疼痛神经调控松解术", "疼痛治疗课程", "神经调
 summary: "第9期特效疼痛神经调控松解术实战班课程资源，系统讲解疼痛机制、神经调控理论与松解手法，包含大量实操演示与临床案例，适合康复、疼痛、针灸领域从业者及爱好者深度学习。"
 slug: "te-xiao-teng-tong-shen-jing-tiao-kong-song-jie-shu-shi-zhan-ban"
 ---
-{< button href="https://pan.quark.cn/s/c0a8e593f9bc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c0a8e593f9bc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c0a8e593f9bc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

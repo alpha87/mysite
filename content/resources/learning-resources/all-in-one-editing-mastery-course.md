@@ -1,4 +1,3 @@
-
 ---
 title: "全能剪辑高手训练营：剪辑思维+达芬奇调色+拍摄技巧一站教学"
 description: "全能剪辑高手训练营完整教学资源，涵盖剪辑思维构建、达芬奇调色实战、拍摄技巧提升三大模块，从零基础到进阶，系统掌握视频创作全流程，提供独家学习资料包，助你快速成为剪辑高手。"
@@ -11,15 +10,15 @@ keywords: ["全能剪辑高手训练营", "剪辑思维训练", "达芬奇调色
 summary: "全能剪辑高手训练营，一站式学习剪辑思维、达芬奇调色与拍摄技巧，适合零基础至进阶学员，系统提升视频创作能力，附赠独家学习资料包。"
 slug: "quanneng-jianji-gaoshou-xunlianying"
 ---
-{< button href="https://pan.quark.cn/s/37d6b8a48829" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/37d6b8a48829" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/37d6b8a48829
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 课程简介
 

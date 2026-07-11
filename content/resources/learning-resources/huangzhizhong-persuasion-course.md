@@ -1,4 +1,3 @@
-
 ---
 title: "黄执中表达学院《说服力课》：高效沟通与影响力提升全攻略"
 description: "黄执中表达学院《说服力课》完整资源分享，涵盖说服技巧、沟通策略、逻辑表达、影响力构建等核心内容。深入学习说服六脉神剑、情感诉求、逻辑论证等模块，适合职场沟通、商务谈判、公众演讲等场景，帮助普通人掌握顶级说服艺术。"
@@ -11,15 +10,15 @@ keywords: ["黄执中说服力课", "表达学院", "说服技巧", "沟通能�
 summary: "黄执中表达学院《说服力课》完整资源，系统讲解说服六脉神剑、情感诉求、逻辑论证等核心模块，帮助职场人士、演讲者、谈判者从根本上提升说服力与影响力，适合所有希望掌握高效沟通艺术的人学习。"
 slug: "huangzhizhong-biaodaxueyuan-shuofuli-ke"
 ---
-{< button href="https://pan.quark.cn/s/8ffa74792c5a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ffa74792c5a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8ffa74792c5a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 
@@ -50,8 +49,8 @@ slug: "huangzhizhong-biaodaxueyuan-shuofuli-ke"
 
 本次分享的夸克网盘资源包含课程**全部视频+课件+配套练习册**，约15G高清内容，支持在线播放和下载离线学习。
 
-{< button href="https://pan.quark.cn/s/8ffa74792c5a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ffa74792c5a" target="_blank" >}}
 立即领取资源
-{< /button >}
+{{< /button >}}
 
 > 注意：如果链接失效，请尝试更换浏览器或稍后重试，也可直接保存至自己的网盘。

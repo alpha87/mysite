@@ -1,4 +1,3 @@
-
 ---
 title: "《论语》32集完整版：国学经典精讲与人生智慧"
 description: "《论语》32集完整版资源，涵盖孔子及其弟子语录精讲，从修身齐家到治国平天下。适合国学爱好者、学生、职场人士学习传统文化智慧，高清音视频教学，助你深入理解儒家思想精髓。"
@@ -11,15 +10,15 @@ keywords: ["论语全集", "论语32集", "国学经典教程", "孔子语录精
 summary: "《论语》32集完整版资源，系统讲解孔子及其弟子核心思想，从修身齐家到治国平天下，高清音视频教学，适合国学爱好者、学生、职场人士深度研习传统文化智慧。"
 slug: "lunyu-32-ji"
 ---
-{< button href="https://pan.quark.cn/s/148fbf0c7414" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/148fbf0c7414" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/148fbf0c7414
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Stata入门教程37集视频+讲义+数据+do文件：零基础到实证分析全攻略"
 description: "Stata入门教程全套37集视频课程，配套详细讲义、数据文件和do文件，涵盖数据管理、描述性统计、回归分析、绘图、面板数据等核心内容，适合经济学、社会学、公共卫生等专业学生和研究人员，从零基础到独立完成实证分析。"
@@ -11,15 +10,15 @@ keywords: ["Stata入门教程", "Stata视频课程", "Stata学习资源", "计�
 summary: "Stata入门教程全套37集视频课程，配套讲义、数据和do文件，系统讲解数据管理、描述统计、回归分析、面板数据等核心内容，适合零基础学员快速掌握Stata实证分析技能。"
 slug: "stata-tutorial-beginner"
 ---
-{< button href="https://pan.quark.cn/s/bf09aaae93e9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bf09aaae93e9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bf09aaae93e9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

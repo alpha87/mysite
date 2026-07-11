@@ -10,15 +10,15 @@ keywords: ["豆瓣音乐TOP热榜", "无损音乐合集", "经典专辑", "数�
 summary: "收录豆瓣音乐TOP热榜上数千首经典无损音乐，涵盖华语、欧美、日韩等主流流派，全部为FLAC/APE格式，是HiFi发烧友和音乐爱好者的必备收藏。每首歌曲均附带专辑信息和曲目列表，支持在线试听与下载，资源不断更新。"
 slug: "douban-top-music-collection"
 ---
-{< button href="https://pan.quark.cn/s/a5ca7bb9b3e6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a5ca7bb9b3e6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a5ca7bb9b3e6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 专辑介绍
 

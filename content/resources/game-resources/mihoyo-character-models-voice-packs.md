@@ -1,4 +1,3 @@
-
 ---
 title: "MiHoYo Character Models and Voice Packs Collection (Genshin Impact, Zenless Zone Zero, Honkai: Star Rail) 115GB"
 description: "A comprehensive collection of MiHoYo game character models and voice packs from Genshin Impact, Zenless Zone Zero, and Honkai: Star Rail, totaling 115GB. Perfect for 3D modeling enthusiasts, game developers, fan artists, and voice actors seeking high-quality assets for study, reference, or creative projects."
@@ -11,15 +10,15 @@ keywords: ["米哈游角色模型", "原神模型", "绝区零模型", "星穹�
 summary: "115GB米哈游三巨头角色模型与语音包合集，覆盖原神、绝区零、星穹铁道，包含高精度角色模型、动作文件、完整角色语音等，适合3D学习、同人创作、游戏开发参考。"
 slug: "mihoyo-character-models-voice-packs-collection"
 ---
-{< button href="https://pan.quark.cn/s/db4aa139886e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/db4aa139886e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/db4aa139886e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 米哈游角色模型与语音包合集：115GB的创意宝库
 
@@ -42,15 +41,15 @@ slug: "mihoyo-character-models-voice-packs-collection"
 
 由于文件体积较大（共 115GB），建议使用夸克网盘客户端分批下载。网盘链接长期有效，但为避免链接失效，请尽快转存到自己网盘。
 
-{< button href="https://pan.quark.cn/s/db4aa139886e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/db4aa139886e" target="_blank" >}}
 立即下载 115GB 合集
-{< /button >}
+{{< /button >}}
 
 > 重要提示：本资源仅供学习交流使用，请勿用于商业用途。所有素材版权归上海米哈游网络科技股份有限公司所有。
 
-{< alert icon="info" cardColor="#457b9d" iconColor="#f1faee" textColor="#f1faee" >}
+{{< alert icon="info" cardColor="#457b9d" iconColor="#f1faee" textColor="#f1faee" >}}
 如果链接失效，请评论或私信告知，我们会第一时间补充。
-{< /alert >}
+{{< /alert >}}
 
 ## 结语
 

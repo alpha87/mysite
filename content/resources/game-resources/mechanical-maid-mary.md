@@ -1,4 +1,3 @@
-
 ---
 title: "机械女仆·玛丽"
 description: "机械女仆·玛丽游戏角色模组资源下载，包含精致建模、定制服装与特殊技能，适配多款热门游戏，安装简单，体验独特的机械女仆战斗与陪伴玩法，夸克网盘高速下载。"
@@ -11,15 +10,15 @@ keywords: ["机械女仆·玛丽", "机械女仆玛丽", "游戏角色MOD", "机
 summary: "机械女仆·玛丽是一款精美的游戏角色模组，融合机械美学与女仆元素，提供完整的人物模型、专属技能与互动功能。支持主流游戏平台，下载后按指引安装即可体验。"
 slug: "mechanical-maid-mary"
 ---
-{< button href="https://pan.quark.cn/s/f42deb7d198b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f42deb7d198b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f42deb7d198b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ---
 

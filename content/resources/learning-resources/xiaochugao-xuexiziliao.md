@@ -10,15 +10,15 @@ keywords: ["小初高学习资料", "全学段精品资料", "高清可打印资
 summary: "小初高全学段精品学习资料整理集，囊括小学、初中、高中各年级各学科的高清可打印资料，含真题试卷、知识点总结、作文素材、公式大全等，为家长和老师提供一站式学习资源下载。"
 slug: "xiaochugao-xuexiziliao"
 ---
-{< button href="https://pan.quark.cn/s/cb3418d24b80" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb3418d24b80" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb3418d24b80
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资料概览
 

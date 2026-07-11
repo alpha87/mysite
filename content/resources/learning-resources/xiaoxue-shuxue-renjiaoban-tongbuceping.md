@@ -1,4 +1,3 @@
-
 ---
 title: "25秋1-6年级数学上册人教版《一本同步训练自主测评卷》"
 description: "2025年秋季人教版小学数学同步训练自主测评卷，涵盖1-6年级上册，包含单元测评、期中期末测试，题目贴近教材，适合学生巩固知识和家长辅导使用。"
@@ -11,15 +10,15 @@ keywords: ["小学数学同步训练", "人教版测评卷", "25秋数学上册"
 summary: "2025年秋季人教版小学数学同步训练自主测评卷，覆盖1-6年级上册，含单元测评、期中期末测试，题目紧贴教材，帮助孩子系统巩固知识，适合学生自测和家长辅导。"
 slug: "xiaoxue-shuxue-renjiaoban-tongbuceping"
 ---
-{< button href="https://pan.quark.cn/s/40c909bb376b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/40c909bb376b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/40c909bb376b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

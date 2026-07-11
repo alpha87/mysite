@@ -1,4 +1,3 @@
-
 ---
 title: "《易经》43集完整视频教程：国学经典智慧入门到精通"
 description: "《易经》43集完整视频教程，涵盖周易六十四卦解读、阴阳五行基础、风水命理入门等核心内容，适合国学爱好者、传统文化学习者、易学入门者。高清画质，系统讲解，从零基础到精通一网打尽。"
@@ -11,15 +10,15 @@ keywords: ["易经43集", "易经视频教程", "周易六十四卦详解", "易
 summary: "《易经》43集完整视频教程，系统讲解周易六十四卦、阴阳五行、风水命理等国学核心知识，高清画质，从入门到精通，适合所有国学爱好者自学使用。"
 slug: "yijing-43-episodes"
 ---
-{< button href="https://pan.quark.cn/s/e75c80a2f3e1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e75c80a2f3e1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e75c80a2f3e1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

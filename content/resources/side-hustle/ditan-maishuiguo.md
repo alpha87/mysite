@@ -1,4 +1,3 @@
-
 ---
 title: "地摊卖水果：摆摊创业卖水果必学技巧"
 description: "地摊卖水果实战指南，涵盖选址策略、进货渠道、定价技巧、保鲜方法和促销手段，帮助摆摊创业者快速掌握卖水果的核心技能，实现稳定收入。"
@@ -11,15 +10,15 @@ keywords: ["地摊卖水果技巧", "摆摊卖水果攻略", "水果摆摊选址
 summary: "地摊卖水果完整技巧指南，从选址、进货到保鲜、促销，手把手教你摆摊卖水果的核心方法，适合小本创业者快速上手。"
 slug: "ditan-maishuiguo"
 ---
-{< button href="https://pan.quark.cn/s/c8b467a6f4a8" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/c8b467a6f4a8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c8b467a6f4a8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 地摊卖水果：新手必学的五大核心技巧
 

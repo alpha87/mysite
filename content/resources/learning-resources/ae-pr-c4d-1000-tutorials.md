@@ -1,4 +1,3 @@
-
 ---
 title: "B站最全面AE+PR+C4D教程1000集：从入门到精通"
 description: "全网最全面的AE+PR+C4D视频教程合集，共1000集，涵盖After Effects特效合成、Premiere Pro剪辑调色、C4D三维建模动画等核心内容，附赠素材插件，零基础可学，适合自学、职场提升和创意工作者。"
@@ -11,15 +10,15 @@ keywords: ["AE+PR+C4D教程", "B站全套教程", "视频剪辑自学", "特效�
 summary: "B站最全面的AE+PR+C4D教程1000集，从基础操作到高级技巧，涵盖After Effects特效合成、Premiere Pro剪辑调色、C4D三维建模动画等核心内容，附赠素材和插件，适合零基础自学和进阶提升。"
 slug: "ae-pr-c4d-1000-tutorials"
 ---
-{< button href="https://pan.quark.cn/s/197c6f30e45a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/197c6f30e45a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/197c6f30e45a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

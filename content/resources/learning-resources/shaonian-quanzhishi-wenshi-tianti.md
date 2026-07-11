@@ -1,4 +1,3 @@
-
 ---
 title: "少年全知识文史天梯：青少年文史知识体系完整版资源"
 description: "少年全知识文史天梯是一套专为青少年打造的文史综合学习资源，涵盖中国历史、世界历史、古代文学、诗词歌赋、文化常识、哲学思想等模块，从先秦到近现代，形成完整的知识阶梯。适合中小学生、文史爱好者系统性提升人文素养，备战考试或拓展视野。资源包含图文、思维导图、音频讲解等多种形式，网盘直接下载。"
@@ -11,15 +10,15 @@ keywords: ["少年全知识文史天梯", "青少年文史学习资源", "文史
 summary: "少年全知识文史天梯是一套专为青少年打造的文史综合学习资源，涵盖历史、文学、文化常识等模块，形成完整知识阶梯，适合系统性提升人文素养。"
 slug: "shaonian-quanzhishi-wenshi-tianti"
 ---
-{< button href="https://pan.quark.cn/s/7d00416d1c9a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7d00416d1c9a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7d00416d1c9a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 少年全知识文史天梯：为什么值得每个青少年拥有？
 

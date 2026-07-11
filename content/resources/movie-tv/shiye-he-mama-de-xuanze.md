@@ -1,4 +1,3 @@
-
 ---
 title: "事业和妈妈的选择 & 妈妈我回来了（60集全）"
 description: "情感励志短剧《事业和妈妈的选择》与《妈妈我回来了》共60集，讲述亲情与事业抉择的催泪故事，高清全集资源免费分享。"
@@ -11,15 +10,15 @@ keywords: ["事业和妈妈的选择全集", "妈妈我回来了全集", "短剧
 summary: "60集情感短剧《事业和妈妈的选择》与《妈妈我回来了》高清全集，讲述在事业与亲情之间艰难抉择的感人故事，夸克网盘直接保存。"
 slug: "shiye-he-mama-de-xuanze-60ji"
 ---
-{< button href="https://pan.quark.cn/s/bc49eff9b2a7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bc49eff9b2a7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bc49eff9b2a7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 短剧《事业和妈妈的选择》与《妈妈我回来了》全60集，是一部聚焦当代年轻人困境的现实主义情感作品。故事围绕主人公林悦展开，她是一位充满抱负的职场新人，在大城市努力打拼，却在事业上升期接到母亲病重的消息。面对高强度的项目 deadlines 与照顾母亲的两难，每一次选择都牵动人心。与此同时，《妈妈我回来了》以女儿回归家庭后的视角，细腻刻画了母女之间因长期分离产生的隔阂、误解与最终和解。两剧相互呼应，完整呈现了从离开到回归的情感闭环。
 

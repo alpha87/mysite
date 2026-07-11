@@ -11,15 +11,15 @@ keywords: ["职场江湖不为人知的故事", "职场电子书", "职场潜规
 summary: "《职场江湖：那些不为人知的故事》共10册电子书合集，涵盖职场潜规则、晋升秘籍、人际关系、面试技巧、创业故事等，助你避开职场暗礁，实现快速成长。"
 slug: "zhi-chang-jiang-hu-10-ebooks"
 ---
-{< button href="https://pan.quark.cn/s/56547a282a84" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/56547a282a84" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/56547a282a84
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

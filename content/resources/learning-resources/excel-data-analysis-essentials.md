@@ -1,4 +1,3 @@
-
 ---
 title: "《Excel数据分析+数据整理+数据呈现》-高手必备宝典"
 description: "全面掌握Excel数据分析、数据整理与数据呈现的实用宝典，涵盖数据清洗、函数公式、透视表、图表制作、商业分析案例等核心内容，适合职场人士、学生及数据分析爱好者系统提升Excel技能。"
@@ -11,15 +10,15 @@ keywords: ["Excel数据分析宝典", "数据整理方法", "数据呈现技巧"
 summary: "《Excel数据分析+数据整理+数据呈现》是一本从零到高手的数据分析实战指南，系统讲解数据清洗、函数公式、透视表、图表制作及商业分析案例，帮助读者高效处理数据、洞察业务价值。"
 slug: "excel-data-analysis-essentials"
 ---
-{< button href="https://pan.quark.cn/s/183a613a7c5e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/183a613a7c5e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/183a613a7c5e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 在当今数字化办公时代，Excel早已不再只是一个简单的表格工具，而是数据分析、业务决策和效率提升的核心利器。无论你是职场新人还是资深管理者，掌握Excel的数据分析、数据整理与数据呈现，都能让你从海量数据中快速提炼价值，成为团队中不可或缺的“数据高手”。这本《Excel数据分析+数据整理+数据呈现》正是为此而生的实战宝典。
 

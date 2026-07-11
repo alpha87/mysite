@@ -1,4 +1,3 @@
-
 ---
 title: "暴走漫画：讲故事也是一种超能力（完结）"
 description: "暴走漫画系列完结篇深度解读，剖析如何通过讲故事将恶搞与幽默升华为超能力，盘点王尼玛经典名场面与创作幕后，附全套资源夸克网盘下载，适合暴走漫画粉丝与内容创作者。"
@@ -11,15 +10,15 @@ keywords: ["暴走漫画", "暴走大事件", "王尼玛", "讲故事超能力",
 summary: "暴走漫画系列完结篇深度解读，从讲故事到超能力的升维，盘点王尼玛经典名场面与创作幕后，附夸克网盘全套资源。"
 slug: "baozoumanhua-gushi-gaizhi-nengli-wanjie"
 ---
-{< button href="https://pan.quark.cn/s/34b276e02b90" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/34b276e02b90" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/34b276e02b90
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 暴走漫画：当恶搞遇见叙事的力量
 

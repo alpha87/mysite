@@ -1,4 +1,3 @@
-
 ---
 title: "极速瘦身有氧操(1)：高效燃脂训练视频教程"
 description: "极速瘦身有氧操(1)完整教程，包含高效燃脂动作、全身塑形训练、零基础可跟练的减肥操视频资源。适合居家健身、办公室运动，快速减脂瘦身。夸克网盘直接下载。"
@@ -11,15 +10,15 @@ keywords: ["极速瘦身有氧操", "有氧操减脂", "减肥操视频", "居�
 summary: "极速瘦身有氧操(1)高效燃脂训练视频教程，零基础可跟练，包含全身塑形动作，适合居家或办公室健身。夸克网盘直接下载，保存即永久。"
 slug: "extreme-fat-loss-aerobics-1"
 ---
-{< button href="https://pan.quark.cn/s/f965a58a55bd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f965a58a55bd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f965a58a55bd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 极速瘦身有氧操(1) — 高效燃脂，快速塑形
 

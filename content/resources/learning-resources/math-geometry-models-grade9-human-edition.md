@@ -1,4 +1,3 @@
-
 ---
 title: "九年级数学上册几何模型系列（人教版）完整资源包"
 description: "人教版九年级数学上册几何模型系列精讲，涵盖全等三角形、相似三角形、圆与切线、动点问题等高频考点模型，配有经典例题、变式训练和解题模板，帮助初中生突破几何难点，提升中考数学成绩。"
@@ -11,15 +10,15 @@ keywords: ["九年级数学上册几何模型", "人教版九年级数学", "初
 summary: "人教版九年级数学上册几何模型系列完整资源包，系统性梳理全等、相似、圆、动点等高频几何模型，搭配经典例题与变式训练，助力初中生高效攻克几何难关。"
 slug: "math-geometry-models-grade9-human-edition"
 ---
-{< button href="https://pan.quark.cn/s/62a71d740b77" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/62a71d740b77" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/62a71d740b77
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么几何模型是九年级数学的“分水岭”？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "最简化英语语法课：轻松掌握核心语法体系"
 description: "最简化英语语法课资源分享，将复杂语法提炼为最简体系，适合零基础、职场人士和自学者快速突破语法障碍。包含夸克网盘下载链接，助你高效学习英语语法。"
@@ -11,15 +10,15 @@ keywords: ["最简化英语语法课", "英语语法简化", "语法学习资源
 summary: "最简化英语语法课资源分享，将复杂语法提炼为最简体系，适合零基础、职场人士和自学者。提供夸克网盘下载，助你高效掌握英语语法核心。"
 slug: "simplified-english-grammar"
 ---
-{< button href="https://pan.quark.cn/s/7ab77fa782b8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7ab77fa782b8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7ab77fa782b8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要最简化英语语法课？
 

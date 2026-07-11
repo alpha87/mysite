@@ -1,4 +1,3 @@
-
 ---
 title: "人妻约会指南（李新野）"
 description: "李新野《人妻约会指南》完整电子书资源，系统讲解与成熟女性约会的核心技巧、心理洞察与实战策略，涵盖约会策划、沟通话术、关系推进等内容，适合情感进阶学习者参考。"
@@ -11,15 +10,15 @@ keywords: ["人妻约会指南", "李新野 电子书", "成熟女性约会", "�
 summary: "李新野《人妻约会指南》电子书，全面解析与成熟女性约会的策略与技巧，从心理洞察到实战话术，助你掌握高质量约会的核心方法。"
 slug: "renqi-yuehui-zhinan-lixinye"
 ---
-{< button href="https://pan.quark.cn/s/ac31bd1285a1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ac31bd1285a1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ac31bd1285a1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

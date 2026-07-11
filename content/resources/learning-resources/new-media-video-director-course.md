@@ -1,4 +1,3 @@
-
 ---
 title: "新媒体视频导演课程｜零基础学导演思维（脚本 分镜 全流程+实战案例）"
 description: "网易云课堂新媒体视频导演课程完整指南，从导演思维、脚本创作到分镜设计、全流程实战，结合真实案例解析短视频制作核心技能，适合零基础学员快速掌握新媒体导演必备能力。"
@@ -11,15 +10,15 @@ keywords: ["新媒体视频导演课程", "零基础学导演思维", "短视频
 summary: "网易云课堂新媒体视频导演课程，零基础学习导演思维、脚本创作、分镜设计与全流程实战，通过真实案例解析短视频制作核心技能，助你快速成为合格的新媒体视频导演。"
 slug: "new-media-video-director-course"
 ---
-{< button href="https://pan.quark.cn/s/eb9a06ac7636" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb9a06ac7636" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb9a06ac7636
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

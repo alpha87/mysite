@@ -1,4 +1,3 @@
-
 ---
 title: "乐乐课堂-地理大百科：中小学地理学习必备资源"
 description: "乐乐课堂地理大百科全套视频教程，覆盖初中和高中地理核心知识点，采用动画教学形式，生动直观。适合学生自学、家长辅导及老师备课，帮助快速掌握地球地图、气候、区域地理等难点。"
@@ -11,15 +10,15 @@ keywords: ["乐乐课堂地理大百科", "初中地理视频", "高中地理课
 summary: "乐乐课堂地理大百科全套视频资源，动画形式讲解初中高中地理核心知识点，适合学生、家长、老师使用，网盘保存即永久有效。"
 slug: "lele-classroom-geography-encyclopedia"
 ---
-{< button href="https://pan.quark.cn/s/87a56b0853c6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/87a56b0853c6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/87a56b0853c6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 乐乐课堂是国内知名的K12在线教育平台，其「地理大百科」系列以动画形式呈现中学地理全部重要知识点，深受学生和家长好评。这套视频课程将枯燥的地理概念转化为生动有趣的动画故事，帮助学习者轻松理解地球运动、经纬网、气候类型、世界地理分区、中国地理等核心内容。
 

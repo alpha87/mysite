@@ -1,4 +1,3 @@
-
 ---
 title: "父母与孩子沟通相处五门必修大课[MP3]"
 description: "父母与孩子沟通相处的完整音频课程，涵盖亲子沟通技巧、情绪管理、正面管教、冲突化解、倾听艺术五大必修模块，适合0-18岁孩子家长学习，帮助建立健康亲子关系，提升家庭教育质量。"
@@ -11,15 +10,15 @@ keywords: ["父母与孩子沟通相处课程", "亲子沟通技巧", "家庭教
 summary: "父母与孩子沟通相处五门必修大课MP3，涵盖亲子沟通、情绪管理、正面管教、冲突化解、倾听艺术，帮助家长掌握科学育儿方法，构建和谐亲子关系。"
 slug: "fumu-yu-haizi-goutong-wumen-bixiu-dake"
 ---
-{< button href="https://pan.quark.cn/s/c07dd4188f2d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c07dd4188f2d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c07dd4188f2d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

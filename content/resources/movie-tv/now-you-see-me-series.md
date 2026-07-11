@@ -1,4 +1,3 @@
-
 ---
 title: "惊天魔盗团系列 4K蓝光原盘珍藏版 中文字幕 国英双语 资源下载"
 description: "惊天魔盗团系列（Now You See Me）4K蓝光原盘珍藏版资源下载，包含中文字幕、国英双语配音，画质顶级，收藏必备。四骑士魔术、天眼组织、FBI追捕，好莱坞高智商悬疑犯罪大片，百度网盘、夸克网盘直接获取。"
@@ -11,15 +10,15 @@ keywords: ["惊天魔盗团系列", "惊天魔盗团资源", "4K蓝光下载", "
 summary: "惊天魔盗团系列（Now You See Me）4K蓝光原盘珍藏版，中文字幕、国英双语，画质顶级。四骑士高智商魔术犯罪，天眼组织、FBI追捕，快节奏悬疑反转，收藏必备。夸克网盘直接获取。"
 slug: "now-you-see-me-series-4k-bluray-collection"
 ---
-{< button href="https://pan.quark.cn/s/c99557b13f5e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c99557b13f5e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c99557b13f5e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 惊天魔盗团系列 4K蓝光原盘珍藏版 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《鬼中医》千古怪病 奇门诡方 237集 无极故事播音"
 description: "《鬼中医》是一部由无极故事播音的奇幻有声小说，共237集，讲述了身怀绝技的鬼中医以奇门诡方治疗各种千古怪病的精彩故事。融合中医文化、悬疑推理与民间传说，情节曲折离奇，人物刻画生动，是收听学习中医知识、体验刺激情节的绝佳选择。"
@@ -11,15 +10,15 @@ keywords: ["鬼中医有声小说", "无极故事", "千古怪病", "奇门诡�
 summary: "《鬼中医》由无极故事播音，237集精彩演绎千古怪病与奇门诡方，融合中医文化与悬疑推理，是收听学习中医知识、体验刺激情节的绝佳选择。"
 slug: "guizhongyi-237ji"
 ---
-{< button href="https://pan.quark.cn/s/4c0a593cc069" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4c0a593cc069" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4c0a593cc069
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

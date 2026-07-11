@@ -1,4 +1,3 @@
-
 ---
 title: "小刚老师外贸如何快速0-1认知课"
 description: "小刚老师外贸从0到1认知课完整指南，涵盖外贸行业基础入门、客户开发、谈判技巧、订单操作与风险控制，帮助新手快速建立外贸认知体系并实现首单突破。"
@@ -11,15 +10,15 @@ keywords: ["外贸0-1认知课", "小刚老师外贸", "外贸新手教程", "�
 summary: "小刚老师外贸从0到1认知课，系统讲解外贸行业认知、客户开发、谈判、订单操作与风险控制，帮助零基础学员快速建立外贸体系并实现首单。"
 slug: "xiaogang-teacher-foreign-trade-0-1-course"
 ---
-{< button href="https://pan.quark.cn/s/e97fe4c6d6c5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e97fe4c6d6c5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e97fe4c6d6c5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

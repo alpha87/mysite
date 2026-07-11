@@ -1,4 +1,3 @@
-
 ---
 title: "抖音汤小团漫游中国历史系列：趣味历史启蒙课视频资源"
 description: "抖音汤小团漫游中国历史系列完整版视频合集，用趣味动画和讲故事的方式激发孩子对中国历史的兴趣，适合5-12岁儿童历史启蒙，包含夏商周到明清的经典历史故事，让历史学习不再枯燥。"
@@ -11,15 +10,15 @@ keywords: ["汤小团漫游中国历史", "抖音历史启蒙", "儿童历史资
 summary: "抖音汤小团漫游中国历史系列趣味历史启蒙课视频合集，覆盖夏商周到明清的经典故事，用生动动画和趣味讲解降低历史门槛，适合5-12岁孩子观看，是家庭历史启蒙的优质资源。"
 slug: "douyin-tangxiaotuan-manyou-zhongguo-lishi"
 ---
-{< button href="https://pan.quark.cn/s/dd06ae674308" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dd06ae674308" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dd06ae674308
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

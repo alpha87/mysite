@@ -1,4 +1,3 @@
-
 ---
 title: "周杰伦黑胶高品质无损音乐合集：华语乐坛经典收藏"
 description: "周杰伦黑胶高品质无损音乐合集，收录《七里香》《叶惠美》《十一月的萧邦》等经典专辑，FLAC无损格式，黑胶转录版本，音质纯净。适合音乐发烧友、周杰伦粉丝收藏，百度网盘/夸克网盘下载。"
@@ -29,14 +28,14 @@ slug: "zhou-jielun-heijiao-wusun-yinyue-heji"
 - 体积：约X GB（具体视专辑数量）
 - 附带封面及元数据
 
-{< button href="https://pan.quark.cn/s/25fb8c970ac7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/25fb8c970ac7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/25fb8c970ac7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 **温馨提示：** 请尽快保存到自己的网盘，避免链接失效。资源仅供个人收藏与交流，请支持正版音乐。

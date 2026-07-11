@@ -1,4 +1,3 @@
-
 ---
 title: "极速瘦身有氧操：高效燃脂跟练视频合集"
 description: "极速瘦身有氧操资源合集，包含全套跟练视频、动作讲解和燃脂计划，适合居家减肥、办公室碎片运动，无需器械，每天15分钟快速燃烧卡路里，助力马甲线、翘臀和全身塑形。"
@@ -11,15 +10,15 @@ keywords: ["极速瘦身有氧操", "高效燃脂", "居家减肥运动", "有�
 summary: "极速瘦身有氧操完整视频资源，涵盖多种燃脂动作组合，适合新手与进阶人群，无需器械，每天15分钟在家轻松瘦身，附赠详细动作讲解和运动计划建议。"
 slug: "jisu-shoushen-youyangcao"
 ---
-{< button href="https://pan.quark.cn/s/e6d89476843a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e6d89476843a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e6d89476843a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

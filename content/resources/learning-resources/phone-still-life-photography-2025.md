@@ -1,4 +1,3 @@
-
 ---
 title: "2025手机静物摄影实战课：从构图布光到AI辅助拍出爆款作品"
 description: "2025年最实用的手机静物摄影实战课程，涵盖经典构图法则、专业布光技巧、道具搭配秘诀，以及AI辅助修图与创意生成。从零基础到高阶玩法，助你轻松拍摄高质感静物照片，打造爆款视觉作品。"
@@ -11,15 +10,15 @@ keywords: ["手机静物摄影实战课", "手机摄影构图布光", "AI辅助�
 summary: "2025年手机静物摄影实战课完整教学，从构图法则、布光技巧到AI辅助创作，系统讲解如何用手机拍出高质感爆款静物作品，适合电商卖家、自媒体博主及摄影爱好者。"
 slug: "phone-still-life-photography-2025"
 ---
-{< button href="https://pan.quark.cn/s/22b5d61d5189" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/22b5d61d5189" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/22b5d61d5189
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

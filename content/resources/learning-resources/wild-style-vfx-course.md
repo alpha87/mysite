@@ -1,4 +1,3 @@
-
 ---
 title: "野路子特效课：像P图一样“P”视频（完结）"
 description: "一套另辟蹊径的视频特效制作课程，无需专业软件基础，教你像P图一样轻松P视频，快速掌握剪映/PR/AE中的野路子特效技巧，零基础也能做出电影级视觉效果。"
@@ -11,15 +10,15 @@ keywords: ["野路子特效课", "像P图一样P视频", "视频特效教程", "
 summary: "野路子特效课是一套独特的视频特效制作课程，教你用简单的操作实现复杂视觉效果，像P图一样P视频。覆盖剪映、PR、AE三大主流软件，从入门到进阶，零基础也能轻松掌握。"
 slug: "wild-style-vfx-course"
 ---
-{< button href="https://pan.quark.cn/s/b71faa0aa18e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b71faa0aa18e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b71faa0aa18e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

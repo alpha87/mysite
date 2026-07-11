@@ -1,4 +1,3 @@
-
 ---
 title: "小张教你发3分SCI文章（共49节）"
 description: "小张教学团队倾力打造的发SCI文章全流程实战课程，共49节精品内容，从选题、实验设计、数据分析、论文写作到投稿修回，手把手教你发表3分SCI论文，适合科研小白和急需发文的研究生、博士生。"
@@ -11,15 +10,15 @@ keywords: ["SCI发表教程", "3分SCI文章", "科研论文写作", "SCI投稿�
 summary: "小张教你发3分SCI文章49节完整课程，涵盖选题、实验、数据分析、写作、投稿全流程，手把手带教，适合科研新人快速掌握SCI发表核心要点。"
 slug: "xiao-zhang-fa-3fen-sci-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/5a0c82123017" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5a0c82123017" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5a0c82123017
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概述
 

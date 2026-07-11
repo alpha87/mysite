@@ -1,4 +1,3 @@
-
 ---
 title: "种植养殖技术书籍大全：从入门到精通的经典必读书单"
 description: "全面收录种植养殖技术书籍大全，涵盖农作物种植、果蔬栽培、畜牧养殖、水产养殖、特种养殖等方向，精选经典实用书籍，帮助农业从业者、创业者系统学习种养殖技术，实现高效生产与增收。"
@@ -11,15 +10,15 @@ keywords: ["种植养殖技术书籍", "种植技术书籍推荐", "养殖技术
 summary: "全面收录种植养殖技术书籍大全，涵盖农作物、果蔬、畜牧、水产、特种养殖等方向，精选经典实用书籍，助你系统学习种养殖技术。"
 slug: "farming-and-breeding-books-collection"
 ---
-{< button href="https://pan.quark.cn/s/048ca55d46cb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/048ca55d46cb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/048ca55d46cb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这套种植养殖技术书籍？
 

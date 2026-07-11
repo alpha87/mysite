@@ -1,4 +1,3 @@
-
 ---
 title: "儿童教育小灯塔系列合集：优质早教动画视频资源全收录"
 description: "儿童教育小灯塔系列合集完整收录，涵盖海底探险、恐龙世界、宇宙奥秘、成语故事、历史启蒙等热门主题，适合3-12岁儿童观看，寓教于乐，培养学习兴趣，家长必备早教资源。"
@@ -11,15 +10,15 @@ keywords: ["儿童教育小灯塔合集", "小灯塔早教", "儿童动画资源
 summary: "儿童教育小灯塔系列合集，收录海底探险、恐龙世界、宇宙奥秘、成语故事、历史启蒙等热门主题动画，适合3-12岁儿童，寓教于乐，激发学习兴趣，保存即永久观看。"
 slug: "ertong-jiaoyu-xiaodengta-heji"
 ---
-{< button href="https://pan.quark.cn/s/598b58b89584" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/598b58b89584" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/598b58b89584
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 小灯塔系列合集介绍
 

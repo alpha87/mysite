@@ -1,4 +1,3 @@
-
 ---
 title: "炳易《杨公择日课程》16集完整版：传统择日秘法教学"
 description: "炳易老师亲授杨公择日课程16集完整版，系统讲解杨公择日秘法，包括天干地支、五行生克、神煞运用、择日步骤和实战案例，适合风水爱好者、易学从业者、择日师学习，掌握正宗杨公择日技术。"
@@ -11,15 +10,15 @@ keywords: ["杨公择日课程", "炳易杨公择日", "择日秘法教学", "�
 summary: "炳易老师亲授杨公择日课程16集完整版，系统讲解杨公择日秘法，涵盖天干地支、五行生克、神煞运用、择日步骤和实战案例，适合风水爱好者、易学从业者、择日师学习。"
 slug: "bingyi-yanggong-zeri-kecheng-16ji"
 ---
-{< button href="https://pan.quark.cn/s/7db9977974a3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7db9977974a3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7db9977974a3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程介绍
 

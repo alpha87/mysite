@@ -1,4 +1,3 @@
-
 ---
 title: "学位英语备考资料：精选真题+核心词汇+语法精讲，助你高效通关"
 description: "学位英语考试备考资料合集，涵盖历年真题、高频词汇、语法精讲、写作模板及模拟试题，适合成人学士学位英语考生使用。资料基于最新考纲整理，帮助考生快速掌握考试重点，提升应试能力，顺利通过学位英语考试。"
@@ -11,15 +10,15 @@ keywords: ["学位英语备考", "学位英语真题", "成人学士学位英语
 summary: "学位英语考试备考资料合集，包含历年真题、核心词汇、语法精讲、写作模板及模拟试题，基于最新考纲整理，帮助考生系统复习，高效通关。"
 slug: "degree-english-exam-preparation"
 ---
-{< button href="https://pan.quark.cn/s/9c6499affd26" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9c6499affd26" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9c6499affd26
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 学位英语考试是成人高等教育本科毕业生申请学士学位的必要条件之一，难度介于大学英语三级与四级之间。对于很多离开校园多年的在职考生来说，如何高效备考、抓住核心考点是关键。
 

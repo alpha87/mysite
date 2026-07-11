@@ -1,4 +1,3 @@
-
 ---
 title: "《大师写给你的科学通识课》套装共6册：顶尖科学家带你轻松入门科学世界"
 description: "《大师写给你的科学通识课》套装共6册，涵盖物理、化学、生物、天文、数学、地球科学六大领域，由爱因斯坦、费曼、霍金等世界级大师执笔，用通俗易懂的语言讲解深奥科学原理，是零基础读者提升科学素养的必读书单。"
@@ -11,15 +10,15 @@ keywords: ["大师写给你的科学通识课", "科学通识课套装", "科普
 summary: "《大师写给你的科学通识课》套装共6册，由爱因斯坦、费曼、霍金等世界级科学家撰写，用通俗语言讲解物理、化学、生物、天文、数学、地球科学，适合所有希望轻松入门科学世界的读者。"
 slug: "master-science-books"
 ---
-{< button href="https://pan.quark.cn/s/ddd6578db02a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ddd6578db02a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ddd6578db02a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐这套《大师写给你的科学通识课》？
 

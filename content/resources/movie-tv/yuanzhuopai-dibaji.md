@@ -1,4 +1,3 @@
-
 ---
 title: "圆桌派 第八季：深度对谈与智慧碰撞"
 description: "圆桌派第八季完整收录，窦文涛携手马未都、许子东、周轶君等文化名嘴，围绕社会热点、人生哲学、科技发展等话题展开深度对谈。本资源提供高清全集，夸克网盘直链下载，保存即永久有效。"
@@ -11,15 +10,15 @@ keywords: ["圆桌派第八季", "圆桌派下载", "圆桌派全集", "窦文�
 summary: "圆桌派第八季完整资源，窦文涛主持，马未都、许子东、周轶君等文化人深度对谈，聚焦社会热点与人生智慧。夸克网盘高速下载，永久有效。"
 slug: "yuanzhuopai-dibaji"
 ---
-{< button href="https://pan.quark.cn/s/9a14a40317e9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9a14a40317e9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9a14a40317e9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 节目简介
 

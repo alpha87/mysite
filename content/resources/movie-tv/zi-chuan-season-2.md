@@ -1,4 +1,3 @@
-
 ---
 title: "紫川第二季：国产热血动漫续作全季资源下载"
 description: "紫川第二季完整版资源，国产奇幻战争动画续作，讲述紫川秀、斯特林等主角在乱世中的权谋与热血战斗，画质提升剧情紧凑，提供夸克网盘超清全集下载，无需会员即可在线观看。"
@@ -11,15 +10,15 @@ keywords: ["紫川第二季下载", "紫川第二季夸克", "紫川动画续集
 summary: "紫川第二季完整版资源，延续第一季的史诗级奇幻战争剧情，紫川秀、斯特林等角色在帝国内忧外患中展开权谋与热血对决。提供夸克网盘超清全集下载，无需会员、即存即看，适合所有国产动漫爱好者。"
 slug: "zi-chuan-season-2"
 ---
-{< button href="https://pan.quark.cn/s/e4379a0b7dca" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e4379a0b7dca" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e4379a0b7dca
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 紫川第二季：热血权谋再升级，国产动画口碑佳作
 

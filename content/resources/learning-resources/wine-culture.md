@@ -1,4 +1,3 @@
-
 ---
 title: "酒文化全指南：从历史渊源到品鉴礼仪，一篇读懂中国酒道"
 description: "全面解析酒文化的历史、酿造工艺、品鉴技巧与社交礼仪，涵盖白酒、黄酒、红酒等主流酒类，深度解读酒桌文化、敬酒顺序、酒令游戏等传统习俗，并附赠珍藏版酒文化电子书资源。"
@@ -11,15 +10,15 @@ keywords: ["酒文化指南", "中国酒文化", "白酒知识", "酒桌礼仪",
 summary: "全面解析酒文化的历史、酿造工艺、品鉴技巧与社交礼仪，涵盖白酒、黄酒、红酒等主流酒类，深度解读酒桌文化、敬酒顺序、酒令游戏等传统习俗，并附赠珍藏版酒文化电子书资源。"
 slug: "jiu-wen-hua-quan-zhi-nan"
 ---
-{< button href="https://pan.quark.cn/s/9091bf1dfb9c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9091bf1dfb9c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9091bf1dfb9c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、酒的文化起源
 

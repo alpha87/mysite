@@ -1,4 +1,3 @@
-
 ---
 title: "《易筋经与洗髓经》程克锦扫描版电子书：中医养生气功经典"
 description: "《易筋经与洗髓经》程克锦扫描版电子书，完整收录两大气功经典，包含详尽的动作图解与功法讲解。适合中医爱好者、气功修炼者、养生人群学习参考，高清扫描版本便于阅读与收藏。"
@@ -11,15 +10,15 @@ keywords: ["易筋经与洗髓经", "易筋经扫描版", "洗髓经电子书", 
 summary: "《易筋经与洗髓经》程克锦扫描版电子书，完整收录两大气功经典，含详尽动作图解与功法讲解，适合中医爱好者、气功修炼者、养生人群学习参考。"
 slug: "yijinjing-yisui-jing-chengkejin-scan"
 ---
-{< button href="https://pan.quark.cn/s/4b7fdd286cbc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4b7fdd286cbc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4b7fdd286cbc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

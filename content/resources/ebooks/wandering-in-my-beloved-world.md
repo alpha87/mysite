@@ -1,4 +1,3 @@
-
 ---
 title: "《在我热爱的世界上游荡》——一部治愈心灵的散文集"
 description: "《在我热爱的世界上游荡》是一本充满诗意与哲思的散文集，作者以细腻笔触记录旅途中的自然风光、人间烟火与内心独白，适合渴望慢生活、热爱文学与自我疗愈的读者。本书电子版已上线，提供夸克网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["在我热爱的世界上游荡", "散文集 电子书", "治愈系�
 summary: "《在我热爱的世界上游荡》是一本治愈心灵的散文集，记录旅途中的风景与感悟，适合热爱文学、追求内心平静的读者。提供夸克网盘电子版下载。"
 slug: "wandering-in-my-beloved-world"
 ---
-{< button href="https://pan.quark.cn/s/78731b3191e3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/78731b3191e3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/78731b3191e3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

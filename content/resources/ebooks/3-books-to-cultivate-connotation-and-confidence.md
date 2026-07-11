@@ -1,4 +1,3 @@
-
 ---
 title: "3本书帮你变得有内涵、强大自信：气场是可以修炼的"
 description: "推荐3本提升个人内涵与自信的经典书籍，从心理学、社交技巧到自我成长，手把手教你修炼强大气场。适合内向者、职场新人及渴望改变的人阅读。附夸克网盘资源链接。"
@@ -11,15 +10,15 @@ keywords: ["内涵提升书籍", "自信修炼", "气场修炼方法", "推荐�
 summary: "推荐3本提升个人内涵与自信的经典书籍，涵盖心理学、社交技巧与自我成长，帮助内向者、职场新人修炼强大气场。含夸克网盘资源。"
 slug: "3-books-to-cultivate-connotation-and-confidence"
 ---
-{< button href="https://pan.quark.cn/s/db40507fe95d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/db40507fe95d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/db40507fe95d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾羡慕那些在人群中从容不迫、说话自带气场的人？其实，气场并非天生，而是可以通过后天修炼获得的。今天我为大家推荐三本经典书籍，从内涵、自信到社交魅力，一步步帮你打造强大气场。
 

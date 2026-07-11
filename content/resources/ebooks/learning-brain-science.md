@@ -1,4 +1,3 @@
-
 ---
 title: "《学习力脑科学》：科学提升学习效率，掌握大脑记忆法则"
 description: "《学习力脑科学》深度解析大脑学习机制，从注意力管理、记忆巩固、知识构建到高效输出，提供科学的学习策略与实操方法，适合学生、职场人士和教育工作者提升学习力。"
@@ -11,15 +10,15 @@ keywords: ["学习力脑科学", "提高学习效率", "大脑记忆方法", "�
 summary: "《学习力脑科学》结合脑科学研究成果，从注意力、记忆、构建、输出四个维度系统讲解高效学习法则，提供可落地的训练方法，帮助读者科学提升学习效率，建立终身学习能力。"
 slug: "learning-brain-science"
 ---
-{< button href="https://pan.quark.cn/s/d327dd83e282" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d327dd83e282" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d327dd83e282
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要读《学习力脑科学》？
 

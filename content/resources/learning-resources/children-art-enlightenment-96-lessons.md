@@ -1,4 +1,3 @@
-
 ---
 title: "儿童美术启蒙96课：从涂鸦到创作的系统绘画教程"
 description: "儿童美术启蒙96课完整资源分享，涵盖线条、色彩、形状、创意绘画等96节系统课程，适合3-12岁儿童，从零基础涂鸦到独立创作，培养观察力、想象力和审美能力。附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["儿童美术启蒙96课", "儿童绘画教程", "少儿美术资源"
 summary: "儿童美术启蒙96课完整资源，96节系统课程涵盖线条、色彩、形状、创意绘画等内容，适合3-12岁儿童，从零基础到独立创作，培养观察力与想象力。夸克网盘免费下载。"
 slug: "children-art-enlightenment-96-lessons"
 ---
-{< button href="https://pan.quark.cn/s/b79620dd281e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b79620dd281e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b79620dd281e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

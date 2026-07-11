@@ -1,4 +1,3 @@
-
 ---
 title: "15节教你如何制作一张漂亮的电子表格：从基础美化到高级呈现"
 description: "完整的电子表格美化教程，15节系统课程从0到1教你制作专业级漂亮表格，涵盖条件格式、图表设计、数据可视化、配色排版、函数应用等核心技巧，适合职场办公、数据分析、报表制作等多种场景。"
@@ -11,15 +10,15 @@ keywords: ["Excel表格美化", "电子表格教程", "漂亮表格制作", "Exc
 summary: "15节系统课程，教你从基础到高级制作专业漂亮的电子表格，涵盖条件格式、数据可视化、图表美化、配色排版等核心技能，适合所有需要提升Excel表格审美与实用性的人群。"
 slug: "excel-beautiful-spreadsheet-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/2f24f40b3da2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2f24f40b3da2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2f24f40b3da2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要学会制作漂亮的电子表格？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "从零开始做外贸教程套装：新手入门到订单成交全流程"
 description: "从零开始做外贸教程套装，涵盖外贸入门基础知识、客户开发、谈判技巧、报关物流、风险防范等核心模块，适合外贸新手系统学习，快速掌握外贸全流程，实现从零到成交的跨越。"
@@ -11,15 +10,15 @@ keywords: ["从零开始做外贸教程", "外贸新手入门", "外贸全流程
 summary: "从零开始做外贸教程套装，系统讲解外贸入门知识、客户开发、谈判、报关、物流等核心模块，帮助外贸新手快速掌握全流程，实现订单从0到1的突破。"
 slug: "conglingkaishi-zuowaimao-jiaocheng-taozhuang"
 ---
-{< button href="https://pan.quark.cn/s/1c4a4adce010" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1c4a4adce010" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1c4a4adce010
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 外贸新手如何从零起步？
 

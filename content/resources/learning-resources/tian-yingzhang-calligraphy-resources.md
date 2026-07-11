@@ -1,4 +1,3 @@
-
 ---
 title: "田英章硬笔软笔书法教程合集：毛笔字帖+视频教学+PDF下载"
 description: "田英章硬笔书法与软笔书法全集，包含字帖、视频教程、高清扫描PDF，适合从零基础到进阶的书法爱好者学习楷书、行书技法，提供电子版资源下载，高效提升田楷书写水平。"
@@ -11,15 +10,15 @@ keywords: ["田英章硬笔书法", "田英章软笔书法", "田楷教程", "�
 summary: "田英章硬笔与软笔书法综合资源合集，涵盖字帖、视频教程、高清PDF，系统学习田楷楷书技法，适合各阶段书法爱好者。"
 slug: "tian-yingzhang-calligraphy-resources"
 ---
-{< button href="https://pan.quark.cn/s/22e30bee543c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/22e30bee543c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/22e30bee543c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 田英章书法资源合集介绍
 

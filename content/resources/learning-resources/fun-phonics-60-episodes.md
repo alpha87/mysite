@@ -1,4 +1,3 @@
-
 ---
 title: "60集自然拼读动画片 Fun Phonics 完整资源分享"
 description: "自然拼读动画片Fun Phonics全套60集资源，涵盖字母发音、元音组合、辅音组合及高频词拼读规则，配合卡通形象和韵律歌谣，帮助3-8岁儿童轻松掌握英语自然拼读技巧，适合家庭英语启蒙和亲子学习。"
@@ -11,15 +10,15 @@ keywords: ["60集自然拼读动画片", "Fun Phonics下载", "自然拼读教�
 summary: "60集自然拼读动画片Fun Phonics完整资源，系统讲解字母、元音、辅音及高频词拼读规则，配合韵律歌谣与卡通互动，适合3-8岁儿童英语启蒙，帮助孩子自然建立拼读能力和语感。"
 slug: "fun-phonics-60episodes"
 ---
-{< button href="https://pan.quark.cn/s/098cf3891236" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/098cf3891236" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/098cf3891236
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

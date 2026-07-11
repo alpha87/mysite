@@ -1,4 +1,3 @@
-
 ---
 title: "《西班牙语文学译丛》(套装十册)"
 description: "《西班牙语文学译丛》套装十册完整版，收录博尔赫斯、马尔克斯、聂鲁达等西语文学大师经典代表作，涵盖拉丁美洲魔幻现实主义、诗歌、小说等多种体裁，是西班牙语学习者与文学爱好者的必藏精品书单，高清PDF格式可下载。"
@@ -11,15 +10,15 @@ keywords: ["西班牙语文学译丛", "西语文学套装", "拉美文学经典
 summary: "《西班牙语文学译丛》套装十册完整收录西语世界最具影响力的文学经典，从博尔赫斯的迷宫宇宙到马尔克斯的马孔多小镇，从聂鲁达的情诗到洛尔迦的吉普赛谣曲，高清PDF格式，适合西班牙语学习者、文学研究者及资深读者收藏。"
 slug: "spanish-literature-collection"
 ---
-{< button href="https://pan.quark.cn/s/7e5bd3dd5539" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e5bd3dd5539" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e5bd3dd5539
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么这套译丛值得收藏？
 

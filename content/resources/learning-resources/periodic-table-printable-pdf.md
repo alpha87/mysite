@@ -1,4 +1,3 @@
-
 ---
 title: "化学元素周期表图示版+文字版：高清可打印PDF下载"
 description: "化学元素周期表高清图示版与文字版PDF资源，无损放大，适合打印学习。包含完整元素信息、清晰排版，适用于学生、教师及化学爱好者，提升记忆效率。"
@@ -11,15 +10,15 @@ keywords: ["化学元素周期表", "高清打印PDF", "元素周期表下载", 
 summary: "化学元素周期表图示版+文字版PDF，无损放大清晰可打印，适合学生、教师和化学爱好者学习使用。9.83MB高清资源，包含完整元素符号、原子序数、相对原子质量等信息。"
 slug: "periodic-table-printable-pdf"
 ---
-{< button href="https://pan.quark.cn/s/1906446ed9a9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1906446ed9a9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1906446ed9a9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

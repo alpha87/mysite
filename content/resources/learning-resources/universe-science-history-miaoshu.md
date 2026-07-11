@@ -1,4 +1,3 @@
-
 ---
 title: "人人都能懂的宇宙科技简史：淼叔开脑洞"
 description: "由淼叔主讲的宇宙科技简史科普资源，从宇宙大爆炸、恒星演化到黑洞、相对论与量子力学，用通俗易懂的语言和脑洞大开的视角，带零基础读者轻松理解宇宙奥秘与人类航天探索历程。适合科学爱好者、学生及所有对宇宙好奇的读者。"
@@ -11,15 +10,15 @@ keywords: ["宇宙科技简史 淼叔", "宇宙科普书籍", "人人能懂的�
 summary: "淼叔带来的宇宙科技简史科普资源，用通俗语言和脑洞视角讲解宇宙大爆炸、恒星演化、黑洞、相对论与量子力学，以及人类航天探索，适合零基础读者快速建立宇宙科学认知体系。"
 slug: "universe-science-history-miaoshu"
 ---
-{< button href="https://pan.quark.cn/s/94ecb74dcfe7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/94ecb74dcfe7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/94ecb74dcfe7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 人人都能懂的宇宙科技简史：淼叔开脑洞
 

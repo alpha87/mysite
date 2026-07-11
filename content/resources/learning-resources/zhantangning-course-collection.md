@@ -1,4 +1,3 @@
-
 ---
 title: "詹唐宁合集课程（340G）完整版：国学经典与生命智慧系统学习"
 description: "詹唐宁老师全套课程资源合集，共340G，涵盖国学经典、生命智慧、家庭教育、心灵成长等多领域系统教学。包含音视频讲座、实操课程、读书会等丰富内容，适合追求自我提升、教育子女、学习传统文化的用户下载学习。提供夸克网盘链接，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["詹唐宁", "詹唐宁课程", "詹唐宁合集", "詹唐宁全套",
 summary: "詹唐宁老师全套课程资源合集，共340G，涵盖国学经典、生命智慧、家庭教育、心灵成长等多领域系统教学，提供夸克网盘永久保存链接。"
 slug: "zhantangning-course-collection-340g"
 ---
-{< button href="https://pan.quark.cn/s/33efa2a8d715" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/33efa2a8d715" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/33efa2a8d715
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 詹唐宁老师是谁？
 

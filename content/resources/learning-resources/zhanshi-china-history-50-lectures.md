@@ -1,4 +1,3 @@
-
 ---
 title: "施展中国史纲50讲（完结）：深度解读中国历史脉络与逻辑"
 description: "施展中国史纲50讲完整课程资源，从先秦到现代系统梳理中国历史演变逻辑，帮助你建立宏大的历史观和认知框架，适合历史爱好者、学者及所有想理解中国发展轨迹的学习者。"
@@ -11,15 +10,15 @@ keywords: ["施展中国史纲50讲", "中国史纲50讲下载", "中国历史�
 summary: "施展中国史纲50讲完整课程资源，系统梳理中国历史从先秦到现代的核心逻辑与演变脉络，帮助你建立宏大而清晰的历史认知框架，适合历史爱好者和学习者。"
 slug: "zhanshi-china-history-50-lectures"
 ---
-{< button href="https://pan.quark.cn/s/4956c6548494" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4956c6548494" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4956c6548494
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

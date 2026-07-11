@@ -1,4 +1,3 @@
-
 ---
 title: "《都是她的错》(全8集)｜2025美国悬疑剧情神作豆瓣9.2"
 description: "2025年最新美国悬疑剧情迷你剧《都是她的错》全8集资源分享，豆瓣评分高达9.2，剧情反转不断、演技炸裂，夸克网盘高清下载，喜欢悬疑推理的观众不可错过。"
@@ -11,15 +10,15 @@ keywords: ["都是她的错", "It's All Her Fault", "2025美剧", "悬疑剧情"
 summary: "2025年备受好评的美国悬疑剧情迷你剧《都是她的错》全8集资源，豆瓣评分9.2，剧情紧凑、层层反转，夸克网盘提供高清下载，悬疑爱好者必看。"
 slug: "its-all-her-fault-2025"
 ---
-{< button href="https://pan.quark.cn/s/c62167b37c4b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c62167b37c4b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c62167b37c4b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧集简介
 

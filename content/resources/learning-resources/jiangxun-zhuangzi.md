@@ -1,4 +1,3 @@
-
 ---
 title: "蒋勋细说庄子（完结）：国学经典音频课程完整版"
 description: "蒋勋细说庄子完结版音频课程，深入浅出讲解庄子哲学思想，涵盖逍遥游、齐物论、养生主等经典篇章，融合美学与人生智慧，适合国学爱好者、哲学学习者在线收听学习。"
@@ -11,15 +10,15 @@ keywords: ["蒋勋细说庄子", "庄子音频教程", "国学经典学习", "�
 summary: "蒋勋细说庄子完结版音频课程，完整讲解庄子哲学思想，结合美学与生活智慧，适合国学爱好者、哲学学习者收听学习，帮助深入理解庄子智慧。"
 slug: "jiangxun-xishuo-zhuangzi"
 ---
-{< button href="https://pan.quark.cn/s/1c6dbeb15afd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1c6dbeb15afd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1c6dbeb15afd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

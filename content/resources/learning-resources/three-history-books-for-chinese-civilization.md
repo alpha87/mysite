@@ -1,4 +1,3 @@
-
 ---
 title: "三本历史书看懂中国上下五千年：从文明起源到近代巨变"
 description: "推荐三本通俗易懂的经典历史读物，帮助读者快速掌握中国上下五千年文明脉络，涵盖《中国通史》《万历十五年》《半小时漫画中国史》，适合历史入门、知识拓展和考试备考。"
@@ -11,15 +10,15 @@ keywords: ["中国历史书推荐", "看懂五千年历史", "历史入门书籍
 summary: "推荐三本经典历史读物——《中国通史》《万历十五年》《半小时漫画中国史》，用不同视角串起中国上下五千年文明脉络，适合快速建立历史框架、理解关键转折点。"
 slug: "three-history-books-for-chinese-civilization"
 ---
-{< button href="https://pan.quark.cn/s/996e2eb1f926" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/996e2eb1f926" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/996e2eb1f926
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 中国上下五千年，浩如烟海的历史事件与人物，如何快速抓住本质？其实，不需要啃完二十四史，选对三本经典，就能串起整个文明脉络。以下三本书，分别从宏观通史、微观切片和趣味漫画三个维度，帮你轻松建立历史认知框架。
 

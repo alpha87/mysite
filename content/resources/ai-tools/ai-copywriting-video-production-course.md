@@ -1,4 +1,3 @@
-
 ---
 title: "AI文案创作与AI视频制作实战课"
 description: "系统学习AI文案创作与AI视频制作全套技能，从ChatGPT、Claude等工具深度应用到Sora、Runway、剪映智能剪辑实战，包含小红书爆款文案、短视频脚本、电商带货视频等真实案例，0基础也能快速上手，掌握AI内容创作的底层逻辑与变现方法。"
@@ -11,15 +10,15 @@ keywords: ["AI文案创作实战课", "AI视频制作实战课", "AI文案教程
 summary: "系统学习AI文案创作与AI视频制作全套技能，涵盖ChatGPT、Claude深度应用，Sora、Runway、剪映智能剪辑实战，包括小红书爆款文案、短视频脚本、电商带货视频等真实案例，0基础快速上手，掌握AI内容创作的底层逻辑与变现方法。"
 slug: "ai-copywriting-video-production-course"
 ---
-{< button href="https://pan.quark.cn/s/c42d5fd8fc0d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c42d5fd8fc0d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c42d5fd8fc0d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

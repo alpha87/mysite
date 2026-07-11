@@ -1,4 +1,3 @@
-
 ---
 title: "36节课带你变身情感达人：高情商沟通+告别冷场尬聊"
 description: "帮你提升情商的36节系统课程，涵盖高情商沟通技巧、倾听艺术、情绪管理、冲突化解、社交破冰、亲密关系经营等核心模块。告别冷场和尬聊，轻松拥有好人缘，成为人人都喜欢的沟通高手。"
@@ -11,15 +10,15 @@ keywords: ["高情商沟通课程", "学习沟通技巧", "告别尬聊", "聊�
 summary: "36节系统课程教你高情商沟通技巧，涵盖倾听、情绪管理、冲突化解、社交破冰等模块。从告别冷场尬聊到经营亲密关系，一步步带你成为人人都喜欢的情感达人。"
 slug: "qinggan-daren-36jie-gaoqing-shang-goutong"
 ---
-{< button href="https://pan.quark.cn/s/c5e256b11b00" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c5e256b11b00" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c5e256b11b00
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

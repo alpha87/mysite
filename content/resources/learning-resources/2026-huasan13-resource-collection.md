@@ -1,4 +1,3 @@
-
 ---
 title: "2026花生十三资料大合集：行测申论全科备考资源"
 description: "2026花生十三资料大合集，涵盖行测、申论、真题解析、模考卷等完整备考资源。本资源合集由花生十三团队整理，适合公务员考试备考者使用，包含网课视频、电子版教材、练习题等，可配合夸克网盘直接获取。"
@@ -11,15 +10,15 @@ keywords: ["花生十三资料合集", "2026公考备考", "行测申论", "公�
 summary: "2026花生十三资料大合集，包含行测、申论、真题、模考等完整备考资源，由花生十三团队整理，适合公务员考试备考者通过夸克网盘直接获取。"
 slug: "2026-huasan13-resource-collection"
 ---
-{< button href="https://pan.quark.cn/s/fa74a8982bd3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fa74a8982bd3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fa74a8982bd3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2026花生十三资料大合集：公考备考的“核武器”
 

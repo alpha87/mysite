@@ -1,4 +1,3 @@
-
 ---
 title: "《汉武帝的外儒内法》：揭秘古代帝王权术与儒法结合的治国智慧"
 description: "《汉武帝的外儒内法》深度解析汉武帝刘彻如何将儒家仁义与法家权术巧妙融合，开创大一统帝国。本书从政治、经济、军事、文化多维度剖析外儒内法的统治策略，揭示古代帝王平衡术的深层逻辑，是理解中国政治智慧与历史规律的必读佳作。"
@@ -11,15 +10,15 @@ keywords: ["汉武帝外儒内法", "汉武帝治国策略", "外儒内法书籍
 summary: "《汉武帝的外儒内法》深度解析汉武帝刘彻如何将儒家仁义与法家权术巧妙融合，开创大一统帝国。从政治、经济、军事、文化多维度剖析统治策略，揭示古代帝王平衡术的深层逻辑，是理解中国政治智慧与历史规律的必读佳作。"
 slug: "hanwudi-wairuneifa"
 ---
-{< button href="https://pan.quark.cn/s/de7050cbfb2f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/de7050cbfb2f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/de7050cbfb2f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《汉武帝的外儒内法》是一本深入剖析中国古代帝王权术与治国哲学的经典之作。本书以汉武帝刘彻的统治生涯为主线，系统揭示了“外儒内法”这一独特统治模式的形成、运作与深远影响。
 

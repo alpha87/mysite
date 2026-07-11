@@ -1,4 +1,3 @@
-
 ---
 title: "全套学车教程：从零基础到拿证的一站式学习指南"
 description: "全套学车教程涵盖科目一至科目四全流程教学，包含驾考理论速记技巧、科目二倒车入库与侧方停车实操要点、科目三路考细节以及科目四安全文明驾驶知识点，帮助学员高效备考，顺利拿取驾照。"
@@ -11,15 +10,15 @@ keywords: ["全套学车教程", "学车技巧", "驾考攻略", "科目一速�
 summary: "全套学车教程，从科目一到科目四全流程教学视频与图文讲解，包含理论速记、场地实操、路考细节及安全文明驾驶，助您快速掌握驾驶技能，顺利通过驾考。"
 slug: "quan-tao-xue-che-jiao-cheng"
 ---
-{< button href="https://pan.quark.cn/s/83973c67c0df" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/83973c67c0df" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/83973c67c0df
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择这套学车教程？
 
@@ -58,9 +57,9 @@ slug: "quan-tao-xue-che-jiao-cheng"
 
 教程内容已打包上传至夸克网盘，包含全套教学视频、PDF教材、题库资源。点击下方按钮即可保存，永久有效。
 
-{< button href="https://pan.quark.cn/s/83973c67c0df" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/83973c67c0df" target="_blank" >}}
 立即获取全套学车教程
-{< /button >}
+{{< /button >}}
 
 > 如果链接失效，请尝试刷新页面或重新点击按钮。
 

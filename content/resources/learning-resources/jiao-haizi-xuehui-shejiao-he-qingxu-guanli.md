@@ -1,4 +1,3 @@
-
 ---
 title: "教孩子学会社交和情绪管理：儿童社交情绪教育启蒙课程"
 description: "儿童社交情绪教育启蒙课程，专为3-12岁孩子设计，通过情景游戏、绘本故事和互动练习，帮助孩子掌握情绪识别、同理心培养、冲突解决和社交礼仪，全面提升孩子的社交能力和情绪管理能力，家长可同步学习引导技巧。"
@@ -11,15 +10,15 @@ keywords: ["儿童社交情绪教育", "孩子情绪管理", "社交技能训练
 summary: "儿童社交情绪教育启蒙课程，涵盖情绪识别、同理心培养、冲突解决和社交礼仪，通过游戏和绘本帮助孩子提升社交情绪能力，家长同步学习引导技巧。"
 slug: "jiao-haizi-xuehui-shejiao-he-qingxu-guanli"
 ---
-{< button href="https://pan.quark.cn/s/433ab44725f4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/433ab44725f4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/433ab44725f4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《教孩子学会社交和情绪管理》是一套专为3-12岁儿童打造的社交情绪教育启蒙课程，旨在帮助孩子从小建立良好的社交能力和情绪管理能力。课程由资深儿童教育专家与心理咨询师联合研发，融合了发展心理学、社会学习理论及游戏治疗的核心方法，让孩子在轻松愉快的氛围中学会认识情绪、表达感受、换位思考以及解决同伴冲突。
 

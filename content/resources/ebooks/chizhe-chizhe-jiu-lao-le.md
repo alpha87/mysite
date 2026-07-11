@@ -1,4 +1,3 @@
-
 ---
 title: "《吃着吃着就老了》陈晓卿美食散文集：舌尖上的中国导演力作"
 description: "陈晓卿《吃着吃着就老了》完整电子书资源，收录舌尖上的中国导演走遍大江南北的美食故事与人生感悟，幽默真挚的散文集，包含地方小吃、市井味道、乡土记忆，适合美食爱好者、文学读者、旅行控收藏阅读。"
@@ -11,15 +10,15 @@ keywords: ["吃着吃着就老了 电子书", "陈晓卿 散文集", "美食书�
 summary: "陈晓卿《吃着吃着就老了》电子书下载，舌尖上的中国导演力作，收录走遍全国的美食故事与人生感悟，幽默真挚，适合所有热爱美食与生活的读者。"
 slug: "chizhe-chizhe-jiu-lao-le"
 ---
-{< button href="https://pan.quark.cn/s/ea02234ff61c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ea02234ff61c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ea02234ff61c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

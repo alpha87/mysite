@@ -1,4 +1,3 @@
-
 ---
 title: "种殖养殖技术书籍大全：从入门到精通分类整理"
 description: "种殖养殖技术书籍大全，涵盖种植技术（蔬菜、果树、大田作物）与养殖技术（猪牛羊、鸡鸭鹅、水产）两大类，包含病害防治、科学管理、高效生产等方向，适合农业从业者、学生、爱好者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["种殖养殖技术书籍大全", "种植技术书籍", "养殖技术
 summary: "种殖养殖技术书籍大全分类整理，包含种植与养殖两大板块，覆盖蔬菜、果树、大田作物以及家畜、家禽、水产等常见品种，同时提供病害防治、科学管理等实用内容，是农业从业者与爱好者的必备参考资源。"
 slug: "zhongzhi-yangzhi-jishu-shuji-daquan"
 ---
-{< button href="https://pan.quark.cn/s/36f8009a8309" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/36f8009a8309" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/36f8009a8309
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 种殖养殖技术书籍大全
 

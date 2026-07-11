@@ -1,4 +1,3 @@
-
 ---
 title: "斑马百科英语启蒙高清动画片S1-S4全套课程(176GB)"
 description: "斑马百科英语启蒙高清动画片S1-S4全套课程资源，共176GB，涵盖四个级别完整内容，适合2-8岁儿童英语启蒙。动画生动有趣，结合自然拼读、词汇、句型等核心知识点，帮助孩子在沉浸式环境中建立英语语感和听说能力。"
@@ -11,15 +10,15 @@ keywords: ["斑马百科英语启蒙", "英语启蒙动画片", "斑马百科S1"
 summary: "斑马百科英语启蒙高清动画片S1-S4全套课程，176GB超大容量，覆盖2-8岁儿童英语启蒙关键期。动画精美，内容系统，含自然拼读、词汇、句型等模块，让孩子在快乐中掌握英语。"
 slug: "banma-yingyu-qimeng-animation-s1-s4"
 ---
-{< button href="https://pan.quark.cn/s/46886d131081" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/46886d131081" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/46886d131081
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 斑马百科英语启蒙高清动画片S1-S4全套课程(176GB)
 

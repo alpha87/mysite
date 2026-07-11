@@ -1,4 +1,3 @@
-
 ---
 title: "KET全真题满分冲刺课程 | 褚连一10讲精讲"
 description: "褚连一老师KET全真题满分冲刺课程10讲完整版，包含最新真题逐题精讲、高频考点归纳、易错题避坑指南和考场实战技巧，帮助考生高效备考，冲击满分。"
@@ -11,15 +10,15 @@ keywords: ["KET全真题", "KET满分冲刺", "褚连一KET", "KET10讲", "剑�
 summary: "褚连一老师KET全真题满分冲刺课程10讲完整版，最新真题逐题精讲+高频考点归纳+易错题避坑+考场技巧，帮助考生高效备考冲击满分。"
 slug: "ket-quanzhenti-manfen-chongci-chulianyi"
 ---
-{< button href="https://pan.quark.cn/s/5cd6ef349f91" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5cd6ef349f91" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5cd6ef349f91
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

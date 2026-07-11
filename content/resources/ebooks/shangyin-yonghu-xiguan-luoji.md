@@ -1,4 +1,3 @@
-
 ---
 title: "《上瘾：让用户养成使用习惯的四大产品逻辑》"
 description: "《上瘾》经典产品设计书籍，详细拆解触发、行动、多变的奖赏、投入四大核心逻辑，帮助产品经理、运营人员理解如何让用户形成使用习惯，提升产品留存与粘性。"
@@ -11,15 +10,15 @@ keywords: ["上瘾 产品设计", "用户习惯养成", "四大产品逻辑", "�
 summary: "《上瘾》经典产品设计书籍，详细拆解触发、行动、多变的奖赏、投入四大核心逻辑，帮助产品经理、运营人员理解如何让用户形成使用习惯，提升产品留存与粘性。"
 slug: "shangyin-yonghu-xiangguan-xiguan-luoji"
 ---
-{< button href="https://pan.quark.cn/s/2b0e949ba503" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2b0e949ba503" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2b0e949ba503
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

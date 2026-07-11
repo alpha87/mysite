@@ -1,4 +1,3 @@
-
 ---
 title: "米小圈睡前故事406集完整版：儿童睡前有声读物大全"
 description: "米小圈睡前故事406集完整资源，专为3-8岁儿童打造的有声读物合集。包含米小圈上学记、米小圈脑筋急转弯等多系列故事，陪伴孩子快乐入睡，培养想象力和阅读习惯。"
@@ -11,15 +10,15 @@ keywords: ["米小圈睡前故事", "米小圈406集", "儿童睡前故事", "�
 summary: "米小圈睡前故事406集完整资源，涵盖米小圈上学记、脑筋急转弯等系列，帮助3-8岁儿童培养睡前习惯、想象力和语言能力，家长必备的亲子有声读物。"
 slug: "mi-xiaoquan-bedtime-stories"
 ---
-{< button href="https://pan.quark.cn/s/59b66564aeb3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/59b66564aeb3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/59b66564aeb3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 米小圈睡前故事——陪伴孩子快乐入睡
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《蓝月亮》2025美国传记剧情片 豆瓣7.0 在线观看与下载"
 description: "《蓝月亮》2025年美国传记剧情片，豆瓣评分7.0，深入刻画传奇人物的跌宕人生。提供夸克网盘资源，附高清下载链接及剧情解析，电影爱好者不容错过的年度传记佳作。"
@@ -11,15 +10,15 @@ keywords: ["蓝月亮电影", "2025传记片", "美国剧情片", "豆瓣7.0", "
 summary: "《蓝月亮》2025年美国传记剧情片，豆瓣评分7.0，讲述传奇人物的真实故事。夸克网盘提供高清资源，点击获取在线观看与下载链接。"
 slug: "blue-moon-2025-movie"
 ---
-{< button href="https://pan.quark.cn/s/3bb83c572ee6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3bb83c572ee6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3bb83c572ee6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

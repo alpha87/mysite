@@ -1,4 +1,3 @@
-
 ---
 title: "《哈佛通识读本：写给普通人的必修课》(全6册) 完整资源分享"
 description: "《哈佛通识读本：写给普通人的必修课》全6册电子书资源，涵盖人文、社科、自然科学等通识领域，每册由哈佛顶尖教授编写，深入浅出帮助普通人建立跨学科知识体系，适合终身学习者和知识爱好者收藏阅读。"
@@ -11,15 +10,15 @@ keywords: ["哈佛通识读本电子书", "哈佛通识读本PDF", "哈佛通识
 summary: "《哈佛通识读本：写给普通人的必修课》全6册电子书资源，涵盖人文、社科、自然科学等通识领域，由哈佛顶尖教授编写，适合所有渴望拓宽知识边界的读者，帮助快速建立跨学科知识体系。"
 slug: "harvard-general-education-books-6-volumes"
 ---
-{< button href="https://pan.quark.cn/s/ffc7c2bd8c58" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ffc7c2bd8c58" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ffc7c2bd8c58
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐这套书？
 

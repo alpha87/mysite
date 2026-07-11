@@ -1,4 +1,3 @@
-
 ---
 title: "工作、消费主义和新穷人：齐格蒙特·鲍曼对现代社会的深刻洞察"
 description: "本书是著名社会学家齐格蒙特·鲍曼的代表作之一，深度剖析消费社会中的工作伦理与贫困问题，揭示现代人如何被工作与消费双重绑架，以及新穷人群体在全球化浪潮中的生存困境。适合社会学爱好者、职场人士、关注社会公平的读者。"
@@ -11,15 +10,15 @@ keywords: ["工作消费主义和新穷人 pdf", "齐格蒙特鲍曼 工作消�
 summary: "齐格蒙特·鲍曼的《工作、消费主义和新穷人》是一本揭示现代社会底层逻辑的社会学经典。本书从工作伦理出发，分析消费主义如何制造出“新穷人”，并探讨全球化背景下贫困问题的演变。无论你是想理解社会结构，还是反思个人处境，这本书都能带来深刻启发。"
 slug: "work-consumerism-and-the-new-poor"
 ---
-{< button href="https://pan.quark.cn/s/5c941ff6fc21" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5c941ff6fc21" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5c941ff6fc21
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 简介
 

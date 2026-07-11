@@ -1,4 +1,3 @@
-
 ---
 title: "有钱人的共识：精英人群内部传阅开悟神书《醒与悟》"
 description: "揭秘精英阶层秘而不传的开悟神书《醒与悟》，从思维觉醒到行为重塑，解读财富、权力与人生境界的底层逻辑，助你打破认知天花板，掌握精英心法。"
@@ -11,15 +10,15 @@ keywords: ["醒与悟书籍", "精英内阅书单", "开悟书籍推荐", "认�
 summary: "精英人群内部传阅的开悟神书《醒与悟》深度解读，揭示富人圈里口耳相传的认知密码，从思维觉醒到行为重塑，帮你打破收入天花板，进入更高人生境界。"
 slug: "xing-yu-wu-elite-enlightenment-book"
 ---
-{< button href="https://pan.quark.cn/s/ff6f021ef1c4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ff6f021ef1c4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ff6f021ef1c4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么说这本书是“开悟神书”？
 

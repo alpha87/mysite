@@ -1,4 +1,3 @@
-
 ---
 title: "钢琴纯音乐迷必备歌单167首无损音乐合集[320K MP3][675Ｍ]"
 description: "钢琴纯音乐爱好者必备的167首无损音乐合集，包含经典钢琴曲、现代钢琴曲、电影配乐、轻音乐等，320K MP3高品质音质，共675MB。适用于学习、工作、冥想、放松、阅读等场景，帮助提升专注力、缓解压力。"
@@ -11,15 +10,15 @@ keywords: ["钢琴纯音乐", "无损音乐", "钢琴曲合集", "320K MP3下载
 summary: "钢琴纯音乐爱好者必备的167首无损音乐合集，320K MP3高品质音质，涵盖经典与现代钢琴曲，适合学习、工作、冥想等场景，下载保存随时聆听。"
 slug: "gangqin-chunyinyue-wusun-yinyue-heji"
 ---
-{< button href="https://pan.quark.cn/s/7e4bf80ae364" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e4bf80ae364" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e4bf80ae364
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 钢琴纯音乐是世界上最美妙的音乐形式之一，它能用黑白琴键描绘出最细腻的情感画面。这套精心整理的 **167首无损音乐合集**，专为钢琴纯音乐迷量身打造，全部采用 **320K MP3** 高品质音质，总容量约 **675MB**，让你在每一个需要音乐陪伴的时刻都能沉浸其中。
 

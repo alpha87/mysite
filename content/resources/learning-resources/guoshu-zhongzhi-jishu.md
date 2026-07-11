@@ -1,4 +1,3 @@
-
 ---
 title: "果树种植技术从入门到精通：选种、栽培、管护全指南"
 description: "全面系统的果树种植技术教程，涵盖品种选择、土壤改良、水肥管理、修剪整形、病虫害防治等核心环节，适合家庭园艺和果园规模化种植，帮助种植者提高产量和果实品质。"
@@ -11,15 +10,15 @@ keywords: ["果树种植技术", "果树栽培", "果树品种选择", "果树�
 summary: "系统讲解果树种植从选种到收获的全流程技术，包括适地适树原则、土壤酸碱度调节、基肥追肥方案、常见修剪手法、病虫害生物防治策略，以及不同果树（苹果、梨、桃、柑橘等）的差异化管护要点。"
 slug: "guoshu-zhongzhi-jishu"
 ---
-{< button href="https://pan.quark.cn/s/8961085a29ed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8961085a29ed" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8961085a29ed
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、品种选择与适地适树
 

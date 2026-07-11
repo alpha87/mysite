@@ -1,4 +1,3 @@
-
 ---
 title: "影像君《短视频画质提升私教课》：从入门到精通的画质优化全攻略"
 description: "影像君《短视频画质提升私教课》完整资源，涵盖视频拍摄技巧、后期调色、降噪锐化、曝光控制等核心内容，手把手教你提升短视频画质，适合自媒体创作者、短视频从业者及摄影爱好者系统学习画质优化方法。"
@@ -11,15 +10,15 @@ keywords: ["短视频画质提升私教课", "影像君", "视频画质优化", 
 summary: "影像君《短视频画质提升私教课》完整资源，系统讲解视频画质优化核心技巧，从拍摄前期设置到后期调色、降噪锐化、曝光控制，手把手教你打造高画质短视频，适合所有希望提升视频质量的创作者。"
 slug: "yingxiangjun-duanshipin-huazhi-tisheng-sijiaoke"
 ---
-{< button href="https://pan.quark.cn/s/3f675a5d2714" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3f675a5d2714" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3f675a5d2714
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 在短视频创作竞争日益激烈的今天，画质已成为决定用户停留时长和账号权重的重要因素。影像君的《短视频画质提升私教课》是一套系统、专业、实操性极强的视频画质优化教程，专为想要突破画质瓶颈的创作者设计。
 

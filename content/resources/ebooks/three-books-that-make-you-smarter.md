@@ -10,15 +10,15 @@ keywords: ["能让人变聪明的书", "思维提升书籍推荐", "认知心理
 summary: "三本提升大脑潜能的经典书籍推荐，涵盖逻辑思维、认知心理学与系统思考，深度解析每本书的核心观点、阅读价值与实践方法，助你打破思维局限，提升学习效率与决策能力。"
 slug: "three-books-that-make-you-smarter"
 ---
-{< button href="https://pan.quark.cn/s/1dd94625f1f3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1dd94625f1f3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1dd94625f1f3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 常说“读书改变命运”，但真正能重塑大脑、提升思维深度的书并不多。今天推荐三本经过时间验证的经典，它们从不同维度切入——逻辑、认知、系统——读完你会发现自己的思考方式发生了质变。每本书都配有电子版资源，在夸克网盘即可保存。
 

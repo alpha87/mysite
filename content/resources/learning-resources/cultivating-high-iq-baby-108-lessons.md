@@ -1,4 +1,3 @@
-
 ---
 title: "培育高智商宝宝：父母必修108课"
 description: "《培育高智商宝宝：父母必修108课》完整育儿资源，涵盖0-6岁宝宝智力开发、语言启蒙、情商培养、专注力训练等108个核心课程，帮助父母系统掌握科学育儿方法，让孩子赢在起跑线。"
@@ -11,15 +10,15 @@ keywords: ["培育高智商宝宝", "父母必修108课", "宝宝智力开发", 
 summary: "《培育高智商宝宝：父母必修108课》是一套专为0-6岁宝宝父母设计的系统育儿课程，涵盖智力开发、语言启蒙、情商培养、专注力训练等108个核心课题，每课配有实操方法、游戏互动和课后练习，帮助父母轻松掌握科学育儿技巧，有效提升宝宝的综合能力。"
 slug: "cultivating-high-iq-baby-108-lessons"
 ---
-{< button href="https://pan.quark.cn/s/456c6b81f3ed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/456c6b81f3ed" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/456c6b81f3ed
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 
@@ -56,8 +55,8 @@ slug: "cultivating-high-iq-baby-108-lessons"
 
 课程内容全部整理在夸克网盘中，包含108课视频讲解、配套PDF讲义、游戏素材包和音频版，方便您随时随地学习。点击下方按钮即可保存：
 
-{< button href="https://pan.quark.cn/s/456c6b81f3ed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/456c6b81f3ed" target="_blank" >}}
 立即保存课程
-{< /button >}
+{{< /button >}}
 
 **温馨提示**：网盘链接有时效，请尽快转存至您的网盘，保存后永久有效。如有问题，欢迎留言交流。

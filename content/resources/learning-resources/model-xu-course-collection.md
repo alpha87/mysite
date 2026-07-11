@@ -1,4 +1,3 @@
-
 ---
 title: "模特徐课程合集：从零基础到专业模特的完整教程"
 description: "模特徐课程合集，涵盖模特走秀技巧、形体训练、拍照姿势、舞台表现力等全方位教程，适合零基础学员快速掌握模特专业技能，提升气质与自信。"
@@ -50,12 +49,12 @@ slug: "model-xu-course-collection"
 
 本合集所有课程均为高清视频，配合详细图文笔记，边学边练，快速见效。现在通过以下链接即可获取全部课程资源。
 
-{< button href="https://pan.quark.cn/s/015997fd18e8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/015997fd18e8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/015997fd18e8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

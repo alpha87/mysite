@@ -1,4 +1,3 @@
-
 ---
 title: "清北小学学霸专题系列资料包：助力孩子冲刺名校的学习资源"
 description: "清北小学学霸专题系列资料包，涵盖语数英三科核心知识点、思维训练、真题模拟等，由清北学霸团队精心整理，帮助小学生夯实基础、拓展能力、冲刺名校，适合1-6年级学生使用。"
@@ -11,15 +10,15 @@ keywords: ["清北小学学霸资料包", "小学学习资料", "清北学霸专
 summary: "清北小学学霸专题系列资料包，含语数英三科考点、思维训练与真题模拟，清北学霸团队整理，适合1-6年级学生夯实基础、冲刺名校。"
 slug: "qingbei-primary-school-study-materials"
 ---
-{< button href="https://pan.quark.cn/s/a849436bc3d9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a849436bc3d9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a849436bc3d9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 清北小学学霸专题系列资料包介绍
 

@@ -1,4 +1,3 @@
-
 ---
 title: "茅盾文学奖精选集24册套装：中国当代文学巅峰巨作合集"
 description: "茅盾文学奖精选集24册套装完整收录，涵盖《平凡的世界》《白鹿原》《尘埃落定》等经典获奖作品，中国当代文学巅峰之作，电子书合集资源，适合文学爱好者、学生阅读、收藏与学习研究。"
@@ -11,15 +10,15 @@ keywords: ["茅盾文学奖精选集", "茅盾文学奖套装", "获奖文学作
 summary: "茅盾文学奖精选集24册套装，收录中国当代文学最高荣誉获奖作品，包括《平凡的世界》《白鹿原》《尘埃落定》等经典，电子版合集，方便阅读与收藏。"
 slug: "maodun-wenxuejiang-jingxuanji-24ce"
 ---
-{< button href="https://pan.quark.cn/s/3cde42283d60" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3cde42283d60" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3cde42283d60
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 茅盾文学奖精选集24册套装：中国当代文学的巅峰巨作
 

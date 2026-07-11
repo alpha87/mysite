@@ -1,4 +1,3 @@
-
 ---
 title: "售价800元的小学初中数学和奥数资料：从基础到竞赛的完整学习包"
 description: "这套价值800元的小学初中数学及奥数资料合集，涵盖1-9年级核心知识点、奥数思维训练、经典题型解析与真题演练，适合学生系统提升数学能力，备战竞赛或升学考试，家长与教师必备的数学教辅资源。"
@@ -11,15 +10,15 @@ keywords: ["小学初中数学奥数资料", "800元数学资源", "小学数学
 summary: "价值800元的小学初中数学及奥数资料合集，覆盖1-9年级数学核心内容与奥数专题，含经典题型、竞赛真题、解题技巧，是学生系统提升数学能力的优质资源包。"
 slug: "math-olympiad-resources-800"
 ---
-{< button href="https://pan.quark.cn/s/03305e00d1b9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/03305e00d1b9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/03305e00d1b9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 📚 资源简介
 

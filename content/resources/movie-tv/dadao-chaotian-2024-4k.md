@@ -10,15 +10,15 @@ keywords: ["大道朝天 2024 4K", "大道朝天电视剧", "猫腻小说改编"
 summary: "大道朝天2024年4K超高清版本完整影视资源，改编自猫腻同名小说，讲述井九穿越修真世界的传奇故事。顶级特效、紧凑剧情、实力演员阵容，4K画质带来极致视听盛宴。"
 slug: "dadao-chaotian-2024-4k"
 ---
-{< button href="https://pan.quark.cn/s/efa7a554da66" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/efa7a554da66" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/efa7a554da66
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧情简介
 

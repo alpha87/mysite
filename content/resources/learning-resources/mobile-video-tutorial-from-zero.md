@@ -10,15 +10,15 @@ keywords: ["手机短视频教程", "短视频拍摄技巧", "后期剪辑教程
 summary: "从设备准备到发布成片，手机短视频入门全攻略。详细讲解拍摄运镜技巧、剪映剪辑操作，结合真实案例，零基础也能快速上手。"
 slug: "mobile-video-tutorial-from-zero"
 ---
-{< button href="https://pan.quark.cn/s/db1a3ed9f1ff" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/db1a3ed9f1ff" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/db1a3ed9f1ff
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么人人都该学手机短视频？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "体能之巅3亚洲大挑战：完整资源分享与观赛指南"
 description: "Netflix热门真人秀《体能之巅》第三季亚洲大挑战全季资源，包含高清视频下载链接、参赛选手介绍、比赛项目解析及观赛技巧，适合健身爱好者和综艺迷收藏。"
@@ -11,15 +10,15 @@ keywords: ["体能之巅3亚洲大挑战", "Netflix体能之巅", "亚洲大挑�
 summary: "Netflix热门真人秀《体能之巅》第三季亚洲大挑战全季资源分享，涵盖高清下载链接、参赛选手背景、比赛亮点及观赛建议，让你不错过任何精彩瞬间。"
 slug: "tinengzhidian3-asia-challenge"
 ---
-{< button href="https://pan.quark.cn/s/72d7e5b45558" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/72d7e5b45558" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/72d7e5b45558
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《体能之巅》系列是Netflix制作的全球现象级体育竞技真人秀，第三季「亚洲大挑战」将舞台扩展至全亚洲，集结了来自日本、韩国、中国、泰国、印度等地的100位顶尖体能强者。他们将在极限力量、耐力、敏捷、爆发力等项目中展开残酷对决，争夺“亚洲最强体能者”的称号。
 

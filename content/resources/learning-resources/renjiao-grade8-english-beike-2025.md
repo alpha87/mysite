@@ -1,4 +1,3 @@
-
 ---
 title: "25秋人教版八年级英语上册备课资源（课件+教案+词汇+音频）"
 description: "2025年秋季人教版八年级英语上册备课资源完整合集，包含全册课件、详细教案、词汇表及配套音频，覆盖Unit1-Unit10所有单元，方便教师备课、学生预习、家长辅导，助力英语教学高效提升。"
@@ -11,15 +10,15 @@ keywords: ["人教版八年级英语上册备课资源", "八年级英语上册�
 summary: "2025年秋季人教版八年级英语上册备课资源完整合集，包含全册课件、教案、词汇表及配套音频，适用教师备课、学生预习与家长辅导。"
 slug: "renjiao-grade8-english-beike-2025"
 ---
-{< button href="https://pan.quark.cn/s/6ec39e9c3dbd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6ec39e9c3dbd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6ec39e9c3dbd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

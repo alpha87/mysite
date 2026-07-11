@@ -1,4 +1,3 @@
-
 ---
 title: "2026版《53高考基础题》英语、数学、物理 高清电子版下载"
 description: "2026版《53高考基础题》英语、数学、物理三科高清电子版，涵盖基础题型训练、知识点梳理、真题改编，适合高三学生巩固基础、突破薄弱环节，提供夸克网盘直接下载。"
@@ -11,15 +10,15 @@ keywords: ["53高考基础题2026", "53高考基础题电子版", "高考英语�
 summary: "2026版《53高考基础题》英语、数学、物理三科高清电子版，由曲一线精心编写，聚焦基础题型与核心考点，配详细解析，适合高三学生一轮复习及基础薄弱者使用。"
 slug: "53-gaokao-jichuti-2026-yingyu-shuxue-wuli"
 ---
-{< button href="https://pan.quark.cn/s/6e620b361bd1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6e620b361bd1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6e620b361bd1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

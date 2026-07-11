@@ -1,4 +1,3 @@
-
 ---
 title: "B站课程《高手的黑箱》：AI时代的学习思考与创作方法论"
 description: "《高手的黑箱》B站课程完整资源，深入探讨AI时代的高效学习方法、批判性思维训练、创作方法论及知识管理技巧。适合学习者、创作者、自媒体人及所有希望提升认知效率的人群，附夸克网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["高手的黑箱 B站", "AI时代学习思考", "创作方法论课�
 summary: "《高手的黑箱》B站课程完整资源，系统讲解AI时代如何高效学习、深度思考与持续创作。涵盖信息筛选、思维模型、创作流程、知识管理等核心模块，帮助学习者突破认知瓶颈，提升个人竞争力。"
 slug: "bilibili-gaoshou-heixiang-ai-learning"
 ---
-{< button href="https://pan.quark.cn/s/16762fc3768a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/16762fc3768a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/16762fc3768a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

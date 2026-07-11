@@ -1,4 +1,3 @@
-
 ---
 title: "高途课堂+名师到家 1-6年级资源合集（287GB）小学全科学习资料"
 description: "高途课堂与名师到家联合推出的1-6年级完整学习资源合集，287GB超全资料涵盖语文、数学、英语等全科课程，包括教学视频、习题、试卷等，适合小学家长和孩子自主学习与提升。"
@@ -11,15 +10,15 @@ keywords: ["高途课堂资源合集", "名师到家小学资源", "1-6年级学
 summary: "高途课堂与名师到家联合推出的1-6年级完整学习资源合集，287GB超全资料涵盖语文数学英语等全科课程，包含教学视频、习题试卷、知识点总结等，是小学家长给孩子辅导、孩子自主学习的优质资源宝库。"
 slug: "gaotu-classroom-1-6-resources-collection"
 ---
-{< button href="https://pan.quark.cn/s/c0207fbd552e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c0207fbd552e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c0207fbd552e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

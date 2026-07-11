@@ -1,4 +1,3 @@
-
 ---
 title: "曾国藩的识人用人术 - 吴晓波频道：洞察人心，成就事业的智慧宝典"
 description: "吴晓波频道深度解读曾国藩识人用人术，从面相、谈吐、行为细节到用人策略，全面解析晚清名臣的用人之道。本书结合现代职场与领导力，提供可落地的识人方法，助你识人辨才、知人善任，打造高效团队。"
@@ -11,15 +10,15 @@ keywords: ["曾国藩识人用人术", "吴晓波频道曾国藩", "识人术", 
 summary: "吴晓波频道深度解读曾国藩识人用人术，从面相、谈吐、行为细节到用人策略，全面解析晚清名臣的用人之道。本书结合现代职场与领导力，提供可落地的识人方法，助你识人辨才、知人善任，打造高效团队。"
 slug: "zengguofan-shi-ren-yong-ren-shu-wuxiaobo"
 ---
-{< button href="https://pan.quark.cn/s/2c0054143fc2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2c0054143fc2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2c0054143fc2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于曾国藩的识人用人术
 

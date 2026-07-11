@@ -1,4 +1,3 @@
-
 ---
 title: "宝宝推拿按摩抚触 视频教程合集：新手父母必备护理指南"
 description: "宝宝推拿按摩抚触完整视频教程合集，涵盖婴幼儿全身抚触、常见病推拿手法、日常保健按摩等教学内容，适合0-6岁宝宝家长学习，由专业育儿师详细示范，帮助宝宝增强免疫力、促进发育、缓解不适。"
@@ -11,15 +10,15 @@ keywords: ["宝宝推拿按摩抚触视频教程", "婴儿抚触教程", "小儿
 summary: "宝宝推拿按摩抚触完整视频教程合集，由专业育儿师示范，涵盖全身抚触、常见病推拿、日常保健等，帮助新手父母掌握科学护理方法，促进宝宝健康发育。"
 slug: "baobao-tuina-anmo-fuchu-shipinjiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/d774eb0aefbd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d774eb0aefbd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d774eb0aefbd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

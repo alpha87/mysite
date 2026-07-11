@@ -1,4 +1,3 @@
-
 ---
 title: "Fun Phonics 60集自然拼读动画片：儿童英语启蒙必备资源"
 description: "Fun Phonics 60集自然拼读动画片全集资源分享，专为英语启蒙儿童设计，通过生动有趣的动画故事帮助孩子掌握字母发音、拼读规则，适合3-8岁孩子在家学习使用。零基础也能轻松上手，配套视频资源可直接观看下载。"
@@ -11,15 +10,15 @@ keywords: ["Fun Phonics 60集", "自然拼读动画", "儿童英语启蒙动画"
 summary: "Fun Phonics 60集自然拼读动画片资源分享，涵盖字母发音、CVC拼读、长元音等核心知识点，通过动画故事激发孩子英语学习兴趣，零基础儿童也能轻松入门。资源可在线观看或下载保存。"
 slug: "fun-phonics-60-episodes-natural-spelling-animation"
 ---
-{< button href="https://pan.quark.cn/s/d6a6c61da876" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d6a6c61da876" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d6a6c61da876
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 Fun Phonics 是一套专为英语启蒙儿童设计的自然拼读动画片，共包含60集精彩内容。每一集都以生动有趣的动画故事为载体，系统教授英语字母的发音、拼读规则以及常见单词的拼写组合。无论是刚接触英语的3岁宝宝，还是正在学习拼读的小学生，都能在轻松愉快的氛围中打下坚实的英语基础。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "八段锦：古法养生补元气，摆脱亚健康"
 description: "八段锦完整教学指南，涵盖历史起源、动作分解、呼吸心法及日常练习要点。通过柔和缓慢的八式动作疏通经络、调和气血，帮助现代人缓解压力、改善睡眠、提升免疫力，从根源上摆脱亚健康状态。"
@@ -11,15 +10,15 @@ keywords: ["八段锦教学", "八段锦动作分解", "八段锦呼吸法", "�
 summary: "八段锦完整教学指南，从历史起源到动作分解、呼吸心法，详细讲解八式动作的练习要点与养生机理。适合久坐上班族、中老年及所有希望改善体质、补充元气的人，每天15分钟轻松摆脱亚健康。"
 slug: "baduanjin-gufa-yangsheng"
 ---
-{< button href="https://pan.quark.cn/s/97abf0f33a9a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/97abf0f33a9a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/97abf0f33a9a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 保存链接，资源长期有效
-{< /alert >}
+{{< /alert >}}
 
 八段锦是一套传承千年的健身气功，由八组柔和连贯的动作组成，通过舒展筋骨、调理呼吸、按摩脏腑，达到**补元气、通经络、平阴阳**的效果。现代人长期久坐、压力大、熬夜，容易气虚、腰酸背痛、失眠多梦，八段锦正是改善这些亚健康症状的绝佳选择。
 

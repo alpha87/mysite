@@ -1,4 +1,3 @@
-
 ---
 title: "电脑组装、维护、维修 全能一本通（全彩版）"
 description: "一本覆盖电脑硬件组装、日常维护、故障维修全流程的全彩图解指南。从CPU、主板、显卡等核心配件选型到整机组装调试，从系统优化到常见蓝屏、死机、硬件不识别等问题排查修复，手把手教您成为电脑达人，适合DIY爱好者、运维人员及零基础入门读者。"
@@ -11,15 +10,15 @@ keywords: ["电脑组装维修全书", "电脑硬件维修教程", "电脑组装
 summary: "电脑组装、维护、维修全能一本通（全彩版）——全面图解电脑硬件选型、组装、系统优化与故障维修，适合新手及进阶用户，助您快速掌握电脑全栈技能。"
 slug: "computer-assembly-maintenance-repair-handbook"
 ---
-{< button href="https://pan.quark.cn/s/0a77f19e425a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0a77f19e425a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0a77f19e425a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、为什么推荐这本《电脑组装、维护、维修 全能一本通》？
 

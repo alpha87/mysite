@@ -1,4 +1,3 @@
-
 ---
 title: "2025王者荣耀十周年共创之夜：晚会完整回放与高清壁纸下载"
 description: "2025王者荣耀十周年共创之夜晚会完整回放，包含精彩演出、明星嘉宾、经典瞬间回顾，附赠多张精美4K壁纸，限时夸克网盘下载，王者荣耀粉丝必收藏。"
@@ -11,15 +10,15 @@ keywords: ["王者荣耀十周年共创之夜", "王者荣耀晚会回放", "王
 summary: "2025王者荣耀十周年共创之夜晚会完整回放资源，包含所有精彩节目与明星互动，同时提供多张精美4K壁纸，通过夸克网盘一键保存，永久有效。"
 slug: "2025-king-glory-10th-anniversary-gala"
 ---
-{< button href="https://pan.quark.cn/s/61d1e9277b24" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/61d1e9277b24" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/61d1e9277b24
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 晚会回顾：十年荣耀，共创未来
 

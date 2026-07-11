@@ -1,4 +1,3 @@
-
 ---
 title: "唤醒秦帝国：兵马俑考古纪录片全解，带你亲临秦始皇陵发掘现场"
 description: "一部深度还原秦始皇陵兵马俑发掘历程的纪录片，从1974年农民打井偶然发现到震惊世界的第八大奇迹，全程记录考古学家如何唤醒沉睡两千年的秦帝国军阵。附夸克网盘高清资源，不容错过。"
@@ -11,15 +10,15 @@ keywords: ["秦始皇陵兵马俑纪录片", "兵马俑发掘全过程", "唤醒
 summary: "一部深度还原秦始皇陵兵马俑发掘历程的纪录片，完整记录1974年发现到成为世界奇迹的全过程，展现考古学家如何唤醒沉睡两千年的秦帝国军阵。附夸克网盘高清资源。"
 slug: "wake-up-qin-empire-terracotta-warriors-documentary"
 ---
-{< button href="https://pan.quark.cn/s/a6c5488304ff" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a6c5488304ff" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a6c5488304ff
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 穿越两千年的震撼：当秦军阵重现人间
 

@@ -1,4 +1,3 @@
-
 ---
 title: "中国历代书法字帖书籍大全：从入门到精通的必备资源"
 description: "中国历代书法字帖书籍大全资源合集，收录从秦汉到明清各朝代名家经典字帖，包括王羲之、颜真卿、柳公权、欧阳询、赵孟頫等大师作品，适合书法爱好者、学生、教师收藏学习，提供高清电子版下载。"
@@ -11,15 +10,15 @@ keywords: ["中国历代书法字帖", "书法字帖书籍大全", "历代名家
 summary: "中国历代书法字帖书籍大全资源合集，收录从秦汉到明清各朝代名家经典字帖，高清电子版，涵盖楷、行、草、隶、篆五大书体，适合书法爱好者、学生、教师收藏学习，从入门到精通的必备资源。"
 slug: "zhongguo-lidai-shufa-zitie-daquan"
 ---
-{< button href="https://pan.quark.cn/s/6f61c2580aac" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6f61c2580aac" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6f61c2580aac
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

@@ -1,4 +1,3 @@
-
 ---
 title: "儿童科普动画《奇妙的世界》120集全：激发孩子科学好奇心"
 description: "《奇妙的世界》是一部专为儿童打造的科普动画，共120集，涵盖天文地理、生物自然、科学原理等丰富主题。画面生动有趣，语言通俗易懂，适合3-12岁孩子观看，帮助培养科学思维和探索精神。提供高清网盘资源，一键保存永久有效。"
@@ -11,15 +10,15 @@ keywords: ["儿童科普动画推荐", "奇妙的世界动画", "儿童科学启
 summary: "《奇妙的世界》120集儿童科普动画，涵盖天文、地理、生物等主题，画面精美，语言易懂，是3-12岁孩子科学启蒙的优质资源。网盘保存，永久有效。"
 slug: "wonderful-world-children-science-animation-120-episodes"
 ---
-{< button href="https://pan.quark.cn/s/9de4b027f29b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9de4b027f29b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9de4b027f29b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 动画简介
 

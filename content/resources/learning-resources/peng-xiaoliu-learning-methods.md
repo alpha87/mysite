@@ -1,4 +1,3 @@
-
 ---
 title: "彭小六：普通人业余时间让收入翻10倍的学习方法（完结）"
 description: "彭小六完整版学习方法课程，专为业余时间有限的普通人设计，涵盖高效学习、知识管理、时间分配、副业变现等核心模块。从输入到输出，从积累到转化，手把手教你利用碎片时间实现收入翻倍，告别无效努力。"
@@ -11,15 +10,15 @@ keywords: ["彭小六学习方法", "业余时间赚钱", "收入翻10倍", "普
 summary: "彭小六完整版学习方法课程，专为业余时间有限的普通人设计，从高效学习、知识管理到副业变现，手把手教你利用碎片时间实现收入翻倍，告别无效努力。"
 slug: "peng-xiaoliu-learning-methods"
 ---
-{< button href="https://pan.quark.cn/s/d553982c59b5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d553982c59b5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d553982c59b5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么这套学习方法值得每个普通人收藏？
 

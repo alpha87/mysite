@@ -1,4 +1,3 @@
-
 ---
 title: "海豚知道-随糖冷艺创始人邹锋：35套精品课程资源"
 description: "海豚知道平台随糖冷艺创始人邹锋的35套完整课程资源，涵盖冷饮、甜品、糖水、烘焙等实用技能，适合创业者、家庭制作和餐饮从业者学习，提供从基础到进阶的系统化教学。"
@@ -11,15 +10,15 @@ keywords: ["海豚知道随糖冷艺", "邹锋课程", "冷饮甜品教程", "�
 summary: "海豚知道平台随糖冷艺创始人邹锋的35套精品课程资源，涵盖冷饮、甜品、糖水、烘焙等实用技能，适合创业者、家庭制作和餐饮从业者系统学习。夸克网盘直链，保存即永久。"
 slug: "haitun-zhidao-suitang-lengyi-zoufeng-35tao"
 ---
-{< button href="https://pan.quark.cn/s/3d84df8b9d5a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3d84df8b9d5a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3d84df8b9d5a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

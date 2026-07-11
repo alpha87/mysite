@@ -1,4 +1,3 @@
-
 ---
 title: "2025职场写作课：公文 简历 PPT技巧零基础教程+模板资源"
 description: "2025最新职场写作课程，涵盖公文写作、简历优化、PPT设计三大核心技能，零基础可学，配套海量模板资源。从职场小白到写作达人，系统掌握公文格式规范、简历亮点提炼、PPT逻辑呈现，附赠高逼格简历模板与PPT模板，助你职场竞争力飙升。"
@@ -11,15 +10,15 @@ keywords: ["2025职场写作课", "公文写作教程", "简历模板下载", "P
 summary: "2025最新职场写作课程，涵盖公文写作、简历优化、PPT设计三大核心技能，零基础可学，配套海量模板资源。系统掌握公文格式规范、简历亮点提炼、PPT逻辑呈现，助你职场竞争力飙升。"
 slug: "2025-zhichang-xiezuoke"
 ---
-{< button href="https://pan.quark.cn/s/4d3508907bea" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4d3508907bea" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4d3508907bea
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

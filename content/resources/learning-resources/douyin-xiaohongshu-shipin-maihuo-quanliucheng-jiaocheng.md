@@ -1,4 +1,3 @@
-
 ---
 title: "抖音+小红书饰品卖货营销全流程教程"
 description: "从0到1的抖音和小红书饰品卖货全流程教程，涵盖账号搭建、选品策略、内容创作、营销引流、转化变现等核心环节，附赠实操案例与避坑指南，帮助新手快速上手饰品电商副业。"
@@ -11,15 +10,15 @@ keywords: ["抖音饰品卖货教程", "小红书饰品营销", "饰品电商全
 summary: "抖音+小红书饰品卖货营销全流程教程，从0到1覆盖账号搭建、选品策略、内容创作、营销引流、转化变现等核心环节，附赠实操案例与避坑指南，助你快速开启饰品电商副业。"
 slug: "douyin-xiaohongshu-shipin-maihuo-quanliucheng-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/63882cb31f38" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/63882cb31f38" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/63882cb31f38
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 教程简介
 

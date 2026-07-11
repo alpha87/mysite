@@ -1,4 +1,3 @@
-
 ---
 title: "PLC编程入门精通73节全套教程：从零基础到工业自动化高手"
 description: "73节PLC编程全套教程，涵盖西门子、三菱等主流品牌，从基础指令到复杂项目实战，适合零基础学员系统学习工业自动化控制编程，提供全套视频资源与编程案例，助你快速掌握PLC编程核心技能。"
@@ -11,15 +10,15 @@ keywords: ["PLC编程入门", "PLC教程全集", "工业自动化编程", "西�
 summary: "73节PLC编程全套教程，覆盖西门子、三菱等主流品牌，从基础指令到复杂项目实战，适合零基础学员系统学习工业自动化控制编程，提供全套视频资源与编程案例，助你快速掌握PLC编程核心技能。"
 slug: "plc-programming-course"
 ---
-{< button href="https://pan.quark.cn/s/3bfc86235515" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3bfc86235515" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3bfc86235515
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # PLC编程入门精通73节全套教程：从零基础到工业自动化高手
 

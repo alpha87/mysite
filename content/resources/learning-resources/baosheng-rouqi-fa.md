@@ -1,4 +1,3 @@
-
 ---
 title: "救命保生揉脐法9集视频手法课程：中医脐疗养生完整教程"
 description: "救命保生揉脐法9集视频课程完整版，包含揉脐手法、脐疗法原理、常见病调理、养生保健等核心内容。由中医专家手把手教学，无需基础，每天10分钟，调理脾胃、改善亚健康、增强免疫力。附带夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["救命保生揉脐法视频", "揉脐法教程", "脐疗手法视频
 summary: "救命保生揉脐法9集视频课程完整版，涵盖揉脐手法、脐疗原理、常见病调理等核心内容，由中医专家手把手教学，每天10分钟，调理脾胃、改善亚健康、增强免疫力，附夸克网盘下载。"
 slug: "baosheng-rouqi-fa"
 ---
-{< button href="https://pan.quark.cn/s/28a9fa66d92e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/28a9fa66d92e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/28a9fa66d92e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 救命保生揉脐法——古老中医智慧的现代应用
 

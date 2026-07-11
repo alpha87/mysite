@@ -1,4 +1,3 @@
-
 ---
 title: "李想·产品实战16讲：从0到1掌握产品经理核心技能"
 description: "李想·产品实战16讲完结版，系统讲解产品经理从需求分析、产品设计到项目管理的全流程实战方法，包含大量真实案例和落地工具，适合产品新人及进阶产品经理系统学习产品思维与实战技巧。"
@@ -11,15 +10,15 @@ keywords: ["李想产品实战", "产品经理课程", "产品实战16讲", "产
 summary: "李想·产品实战16讲完结版，系统讲解产品经理从需求分析、产品设计到项目管理的全流程实战方法，包含大量真实案例和落地工具，适合产品新人及进阶产品经理系统学习产品思维与实战技巧。"
 slug: "lixiang-product-practice-16-lectures"
 ---
-{< button href="https://pan.quark.cn/s/dab1f53a2f70" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dab1f53a2f70" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dab1f53a2f70
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "绝版古籍-祝由全套：失传千年的中医符咒治病秘法"
 description: "绝版祝由术全套古籍电子版，包含祝由十三科、符咒秘法、治病心法等珍贵内容，适合中医爱好者、传统文化研究者、民间疗法实践者收藏学习，原汁原味还原古代祝由术精髓。"
@@ -11,15 +10,15 @@ keywords: ["祝由术古籍", "祝由全套电子书", "绝版中医古籍", "�
 summary: "绝版祝由术全套古籍电子版，包含祝由十三科、符咒秘法、治病心法等珍贵内容，让您一窥古代医家符咒治病的奥秘，适合中医爱好者、传统文化研究者收藏学习。"
 slug: "jueban-guji-zhuyou-quantao"
 ---
-{< button href="https://pan.quark.cn/s/81dffb489503" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/81dffb489503" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/81dffb489503
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 什么是祝由术？
 

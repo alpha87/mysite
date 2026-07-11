@@ -1,4 +1,3 @@
-
 ---
 title: "《慢煮生活》汪曾祺经典散文集：在烟火气中寻找诗意人生"
 description: "《慢煮生活》是汪曾祺先生的散文精选集，收录《五味》《故乡的食物》《端午的鸭蛋》等名篇。全书以美食、草木、人情为主题，传递从容平和的生活美学。PDF电子版免费下载，夸克网盘直链保存。"
@@ -11,15 +10,15 @@ keywords: ["慢煮生活 PDF", "汪曾祺散文", "生活美学书籍", "人间�
 summary: "《慢煮生活》汪曾祺经典散文集，收录《五味》《故乡的食物》等名篇。从美食到草木，从人情到世态，汪老以淡雅笔触诠释生活之美。提供PDF电子版下载，点击获取夸克网盘资源。"
 slug: "manzhu-shenghuo-wangzengqi-sanwenji"
 ---
-{< button href="https://pan.quark.cn/s/31db32772ba9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/31db32772ba9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/31db32772ba9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

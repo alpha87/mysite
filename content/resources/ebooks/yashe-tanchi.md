@@ -1,4 +1,3 @@
-
 ---
 title: "雅舍谈吃：梁实秋美食散文集精华解读与下载"
 description: "梁实秋经典美食散文集《雅舍谈吃》完整电子版资源分享，包含全书精华内容解读、作者创作背景、饮食文化赏析及下载方式，适合文学爱好者、美食文化研究者收藏。"
@@ -11,15 +10,15 @@ keywords: ["雅舍谈吃全文", "梁实秋散文", "美食文学", "中国饮�
 summary: "梁实秋先生经典美食散文集《雅舍谈吃》电子版，收录数十篇关于北京、江南等地传统美食的散文，文字典雅幽默，不仅记录食物滋味，更融入历史文化与人生感悟，适合文学与美食爱好者品读。"
 slug: "yashe-tanchi"
 ---
-{< button href="https://pan.quark.cn/s/8f1a195c278e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8f1a195c278e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8f1a195c278e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

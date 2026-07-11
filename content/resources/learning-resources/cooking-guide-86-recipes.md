@@ -1,4 +1,3 @@
-
 ---
 title: "86道菜谱烹饪指南：从家常菜到宴客菜，一站式学习大全"
 description: "包含86道经典菜谱的详细烹饪指南，涵盖家常菜、宴客菜、快手菜、汤羹甜品等分类，每道菜配有清晰步骤和技巧要点，适合新手和家庭主妇快速提升厨艺，附赠电子版下载链接。"
@@ -11,15 +10,15 @@ keywords: ["86道菜谱", "烹饪指南", "家常菜做法", "宴客菜谱", "�
 summary: "86道经典菜谱烹饪指南，涵盖家常菜、宴客菜、快手菜、汤羹甜品，详细步骤与技巧，适合新手和家庭主妇，附夸克网盘下载。"
 slug: "86-recipes-cooking-guide"
 ---
-{< button href="https://pan.quark.cn/s/31c04267a381" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/31c04267a381" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/31c04267a381
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 菜谱概览
 

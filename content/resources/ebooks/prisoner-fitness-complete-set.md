@@ -1,4 +1,3 @@
-
 ---
 title: "囚徒健身全集（共4册）"
 description: "囚徒健身全集（共4册）完整版分享，包含囚徒健身、囚徒健身2、囚徒健身3、囚徒健身4，全套PDF电子书资源，徒手健身经典教程，从基础到高阶动作详解，无需器械在家就能练出强壮体魄，适合所有健身爱好者。"
@@ -11,15 +10,15 @@ keywords: ["囚徒健身全集", "囚徒健身全套", "徒手健身书籍", "�
 summary: "囚徒健身全集（共4册）高清PDF电子书，包含囚徒健身1-4全套教程，徒手健身经典之作，从俯卧撑、深蹲到引体向上，系统讲解六艺十式训练法，无需器械在家轻松练出强悍体能。"
 slug: "prisoner-fitness-complete-set"
 ---
-{< button href="https://pan.quark.cn/s/e952831f5bd5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e952831f5bd5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e952831f5bd5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

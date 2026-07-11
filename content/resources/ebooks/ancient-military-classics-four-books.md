@@ -1,4 +1,3 @@
-
 ---
 title: "古代军事著作合集：司马法＋孙子兵法＋吴子＋三略 套装共四册"
 description: "中国古代军事经典《司马法》《孙子兵法》《吴子》《三略》四册合集电子版，涵盖先秦至汉初兵家思想精华，适合军事研究者、历史爱好者、管理者学习借鉴，领悟古人的战略智慧与现代应用。"
@@ -11,15 +10,15 @@ keywords: ["古代军事著作", "司马法", "孙子兵法", "吴子", "三略"
 summary: "中国古代军事经典《司马法》《孙子兵法》《吴子》《三略》四册合集电子版，涵盖先秦至汉初兵家思想精华，适合军事研究者、历史爱好者、管理者学习借鉴，领悟古人的战略智慧与现代应用。"
 slug: "ancient-military-classics-four-books"
 ---
-{< button href="https://pan.quark.cn/s/507f75229eb5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/507f75229eb5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/507f75229eb5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 古代军事经典四册套装介绍
 

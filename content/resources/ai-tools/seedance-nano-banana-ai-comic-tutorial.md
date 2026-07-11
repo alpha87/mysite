@@ -1,4 +1,3 @@
-
 ---
 title: "Seedance 2.0 + Nano Banana：全流程复刻爆款AI漫剧教程"
 description: "使用Seedance 2.0和Nano Banana工具，从剧本生成、分镜设计到视频制作，全流程复刻爆款AI漫剧的详细教程，涵盖角色设定、运动补帧、风格迁移等关键技巧，适合AI创作爱好者和短视频创作者。"

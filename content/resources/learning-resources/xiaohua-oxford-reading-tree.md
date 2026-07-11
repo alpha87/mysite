@@ -1,4 +1,3 @@
-
 ---
 title: "跟着晓华读牛津树：0基础英语启蒙分级阅读资源分享"
 description: "跟随晓华老师轻松开启牛津树分级阅读之旅，适合0基础儿童英语启蒙。本资源提供全套牛津树电子版音频、绘本、点读包，手把手指导亲子共读方法，搭配自然拼读训练，让孩子在趣味故事中快速提升英语听说读写能力。"
@@ -11,15 +10,15 @@ keywords: ["牛津树资源", "晓华牛津树", "英语启蒙资源", "分级�
 summary: "跟随晓华老师轻松开启牛津树分级阅读之旅，全套牛津树电子版音频、绘本、点读包资源分享。适合0基础儿童英语启蒙，手把手指导亲子共读方法，搭配自然拼读训练，让孩子在趣味故事中快速提升英语听说读写能力。"
 slug: "xiaohua-oxford-reading-tree"
 ---
-{< button href="https://pan.quark.cn/s/02df1311dd98" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/02df1311dd98" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/02df1311dd98
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐跟着晓华读牛津树？
 

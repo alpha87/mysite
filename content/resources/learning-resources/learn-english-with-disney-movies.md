@@ -1,4 +1,3 @@
-
 ---
 title: "跟着迪士尼电影学习英语｜外教精讲课，边看动画边练口语"
 description: "精选迪士尼经典电影外教精讲课，通过《冰雪奇缘》《疯狂动物城》《狮子王》等热门影片，外教逐句拆解地道表达、连读弱读技巧、文化背景，适合各级别英语学习者，让学习像看电影一样轻松有趣。"
@@ -11,15 +10,15 @@ keywords: ["迪士尼电影英语", "外教精讲", "英语听力提升", "口�
 summary: "跟着迪士尼经典电影学英语的外教精讲课合集，外教逐句拆解地道表达、发音技巧与文化背景，适合从初级到高级的英语学习者，让学英语不再枯燥。"
 slug: "learn-english-with-disney-movies"
 ---
-{< button href="https://pan.quark.cn/s/a2aeb2e1122e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a2aeb2e1122e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a2aeb2e1122e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐用迪士尼电影学英语？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "八年级数学上册几何模型系列（人教版2024）：高清PDF+配套练习"
 description: "人教版2024八年级数学上册几何模型系列完整资料包，涵盖全等三角形、轴对称、等腰三角形等核心几何模型，含高清PDF讲解、经典例题与配套练习，适合学生自学、教师备课及考前冲刺，帮助快速掌握几何模型解题技巧。"
@@ -11,15 +10,15 @@ keywords: ["八年级数学几何模型", "人教版2024数学", "几何模型�
 summary: "人教版2024八年级数学上册几何模型系列资料包，全面覆盖核心几何模型，包含高清PDF讲解、经典例题与配套练习，助力学生快速掌握几何模型解题方法，适合自学、备课与冲刺。"
 slug: "grade-8-math-geometry-models-2024"
 ---
-{< button href="https://pan.quark.cn/s/6075d499efae" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6075d499efae" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6075d499efae
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

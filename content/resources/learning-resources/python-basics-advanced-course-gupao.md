@@ -1,4 +1,3 @@
-
 ---
 title: "Python基础+高级课程：咕泡学院带你从零到精通轻松掌握编程技能"
 description: "咕泡学院Python编程完整课程，涵盖Python基础语法、数据结构、面向对象、数据分析、Web开发等核心模块，配套实战项目与源码解析，适合零基础小白和进阶开发者，助你快速掌握Python编程技能并高效就业。"
@@ -11,15 +10,15 @@ keywords: ["Python课程", "咕泡学院Python", "Python基础教程", "Python�
 summary: "咕泡学院Python基础+高级课程完整资源，从基础语法到高级框架，配套实战项目源码，零基础也能轻松上手，快速掌握Python编程核心技能。"
 slug: "python-basics-advanced-course-gupao"
 ---
-{< button href="https://pan.quark.cn/s/3ab0bc1a69ba" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3ab0bc1a69ba" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3ab0bc1a69ba
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

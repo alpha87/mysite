@@ -1,4 +1,3 @@
-
 ---
 title: "C长X相S(1) 核心技能教程：从入门到精通全套资源"
 description: "C长X相S(1)完整教程资源包，涵盖基础操作、进阶技巧与实战项目，适合零基础学习者快速掌握核心技能，包含视频讲解、练习素材、实用工具包及常见问题解答，助你高效学习。"
@@ -11,15 +10,15 @@ keywords: ["C长X相S教程", "C长X相S资源", "C长X相S入门", "C长X相S�
 summary: "C长X相S(1)全套教程资源，从零基础到进阶实战，包含视频讲解、项目案例、工具素材和常见问题，助你系统化掌握核心技能。"
 slug: "c-chang-xiang-si-1"
 ---
-{< button href="https://pan.quark.cn/s/c4b5632c8080" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c4b5632c8080" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c4b5632c8080
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

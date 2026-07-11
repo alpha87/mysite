@@ -1,4 +1,3 @@
-
 ---
 title: "从头到脚按摩真法：全身体验中医按摩养生之道"
 description: "从头到脚按摩真法完整指南，详细讲解全身各部位按摩手法、穴位、步骤和注意事项，适合中医养生爱好者、按摩初学者，帮助放松身心、缓解疲劳、改善健康。"
@@ -11,15 +10,15 @@ keywords: ["从头到脚按摩真法", "按摩教程", "中医按摩", "穴位�
 summary: "从头到脚按摩真法完整教程，涵盖头部、肩颈、背部、腰腹、四肢等全身各部位按摩手法和穴位解析，帮助您掌握正宗中医按摩技巧，促进血液循环，缓解身体疲劳。"
 slug: "congtoudaojiao-anmo-zhenfa"
 ---
-{< button href="https://pan.quark.cn/s/215292c72124" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/215292c72124" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/215292c72124
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《从头到脚按摩真法》是一套系统化的中医按摩教程，融合传统经络学说与现代解剖知识，从头部到足部逐部位讲解按摩手法、穴位定位、操作流程及注意事项。无论你是零基础新手还是养生爱好者，都能通过图文并茂的高清PDF轻松上手。
 

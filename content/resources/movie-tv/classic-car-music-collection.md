@@ -1,4 +1,3 @@
-
 ---
 title: "经典车载怀旧音乐合集：开车必备的时光金曲"
 description: "经典车载怀旧音乐合集，涵盖70-90年代华语老歌、英文经典与DJ串烧，高品质MP3格式，适合长途驾驶、通勤放松、回忆青春。资源永久保存，随时下载。"
@@ -11,15 +10,15 @@ keywords: ["经典车载怀旧音乐合集", "车载音乐下载", "怀旧老歌
 summary: "经典车载怀旧音乐合集，收录70-90年代华语、英文经典老歌和DJ串烧，高品质MP3格式，适合长途驾驶、通勤放松，帮助缓解驾驶疲劳，唤醒青春回忆。资源永久保存，随时下载。"
 slug: "classic-car-music-collection"
 ---
-{< button href="https://pan.quark.cn/s/913a9505f50c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/913a9505f50c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/913a9505f50c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这份经典车载怀旧音乐合集？
 

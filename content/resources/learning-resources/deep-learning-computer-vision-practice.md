@@ -1,4 +1,3 @@
-
 ---
 title: "深度学习计算机视觉实战教程：从入门到项目部署"
 description: "深度学习计算机视觉实战完整教程，涵盖图像分类、目标检测、语义分割等核心任务，提供代码实现、数据集和项目部署指南，帮助学习者快速掌握CV领域关键技能并应用于实际项目。"
@@ -11,15 +10,15 @@ keywords: ["深度学习计算机视觉", "计算机视觉实战", "CV教程", "
 summary: "深度学习计算机视觉实战完整教程，覆盖图像分类、目标检测、语义分割等核心任务，附带代码、数据集和项目部署指南，助你快速掌握CV实战技能。"
 slug: "deep-learning-computer-vision-practice"
 ---
-{< button href="https://pan.quark.cn/s/69be16404105" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/69be16404105" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/69be16404105
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

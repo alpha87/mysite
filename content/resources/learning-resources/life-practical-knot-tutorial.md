@@ -1,4 +1,3 @@
-
 ---
 title: "生活实用绳结教程：从入门到精通，掌握10种必备绳结技巧"
 description: "生活实用绳结完整教程，涵盖钓鱼结、帐篷结、户外求生结、日常绑扎结等10种常用绳结，图文并茂逐步教学，零基础也能快速学会，适合露营、消防、家居、户外探险等场景。"
@@ -11,15 +10,15 @@ keywords: ["生活实用绳结", "绳结教程大全", "户外绳结教学", "�
 summary: "生活实用绳结教程，零基础学习10种最实用的绳结打法，包括钓鱼结、帐篷结、户外求生结、日常绑扎结等，图文步骤详解，适用于露营、消防、家居、户外探险等多种场景，助你快速掌握绳结技能。"
 slug: "life-practical-knot-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/0d157797c14f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0d157797c14f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0d157797c14f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要学习生活实用绳结？
 

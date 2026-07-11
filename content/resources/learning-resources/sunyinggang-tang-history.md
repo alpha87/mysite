@@ -1,4 +1,3 @@
-
 ---
 title: "孙英刚精讲唐史：系统学习唐朝历史的全套音频课程"
 description: "孙英刚精讲唐史全套音频课程，系统梳理唐朝从开国到灭亡的完整历史脉络，涵盖政治、经济、文化、外交等核心内容，适合历史爱好者、学生及考研备考人群，高清音质配详细文字笔记，助你高效掌握唐朝三百年历史精髓。"
@@ -11,15 +10,15 @@ keywords: ["孙英刚精讲唐史", "孙英刚唐史音频", "唐朝历史课程
 summary: "孙英刚精讲唐史全套音频课程，系统梳理唐朝三百年历史脉络，涵盖政治、经济、文化、外交等核心内容，高清音质配详细文字笔记，适合历史爱好者、学生及考研备考人群，助你高效掌握唐朝历史精髓。"
 slug: "sunyinggang-tang-history"
 ---
-{< button href="https://pan.quark.cn/s/4b75118e9012" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4b75118e9012" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4b75118e9012
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

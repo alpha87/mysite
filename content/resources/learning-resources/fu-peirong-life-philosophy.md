@@ -1,4 +1,3 @@
-
 ---
 title: "傅佩荣的人生哲学：向善而行的智慧之旅"
 description: "完整介绍傅佩荣的人生哲学思想，涵盖其学术背景、核心观点（向善论）、代表作品及对现代人生活的启示。适合国学爱好者、哲学入门学习者、人生困惑者。涵盖儒家、道家、易经等东方智慧，帮助读者在纷扰世界中找到内心安宁。"
@@ -11,15 +10,15 @@ keywords: ["傅佩荣人生哲学", "傅佩荣向善论", "国学与人生", "�
 summary: "傅佩荣教授的人生哲学融合东西方智慧，以‘向善’为核心，引导人们认识自我、超越困境。本文详述其思想体系、代表作品及资源下载。"
 slug: "fu-peirong-life-philosophy"
 ---
-{< button href="https://pan.quark.cn/s/a6712a3e3349" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a6712a3e3349" target="_blank" >}}
 点击获取傅佩荣人生哲学全套资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a6712a3e3349
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 傅佩荣是谁？
 

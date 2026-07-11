@@ -1,4 +1,3 @@
-
 ---
 title: "孙英刚精讲唐史：从高祖到玄宗，全景式唐朝历史课程"
 description: "孙英刚教授精讲唐史完整音频课程，覆盖唐朝从开国到安史之乱近三百年历史，深入解析政治、经济、文化、军事等核心维度。适合历史爱好者、学生以及考研备考人群的高质量学习资源。"
@@ -11,15 +10,15 @@ keywords: ["孙英刚精讲唐史", "唐史课程", "唐朝历史", "孙英刚",
 summary: "孙英刚教授精讲唐史完整音频课程，从高祖开国到安史之乱，系统梳理唐朝近三百年政治、经济、文化、军事脉络，深入浅出，适合历史爱好者、学生及考研备考者。"
 slug: "sun-yinggang-tang-history"
 ---
-{< button href="https://pan.quark.cn/s/29c920540a40" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/29c920540a40" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/29c920540a40
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

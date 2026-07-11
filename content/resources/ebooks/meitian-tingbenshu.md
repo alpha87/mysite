@@ -1,4 +1,3 @@
-
 ---
 title: "每天听本书：海量有声书资源一键获取"
 description: "每天听本书资源合集，涵盖商业、心理、历史、文学等多领域有声书，手机电脑随时听，适合通勤、运动、家务场景高效利用碎片时间。夸克网盘直链，保存即永久。"
@@ -11,15 +10,15 @@ keywords: ["每天听本书", "免费听书", "有声书下载", "听书网站",
 summary: "每天听本书资源合集，涵盖商业、心理、历史、文学等众多领域，支持手机、电脑在线或下载收听，帮助用户高效利用碎片时间学习成长。"
 slug: "meitian-tingbenshu"
 ---
-{< button href="https://pan.quark.cn/s/2c7529d13748" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2c7529d13748" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2c7529d13748
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

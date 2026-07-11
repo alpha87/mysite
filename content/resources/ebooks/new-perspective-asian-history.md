@@ -1,4 +1,3 @@
-
 ---
 title: "《新视野解读下的亚洲史》(套装共5册) 电子书下载"
 description: "《新视野解读下的亚洲史》套装共5册，涵盖亚洲历史全景视角，从古代文明到现代变迁，全新解读亚洲各国历史脉络。适合历史爱好者、学生和研究者，高清PDF格式，可下载到手机或平板阅读。"
@@ -11,15 +10,15 @@ keywords: ["新视野解读下的亚洲史", "亚洲史套装", "亚洲历史电
 summary: "《新视野解读下的亚洲史》套装共5册，从全新视角梳理亚洲历史脉络，涵盖东亚、南亚、东南亚及中亚地区，内容翔实易懂，适合大众阅读。电子版可直接下载，永久保存。"
 slug: "new-perspective-asian-history"
 ---
-{< button href="https://pan.quark.cn/s/593076e5eb27" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/593076e5eb27" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/593076e5eb27
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "抖音胡说老王《逐利》付费课：抖音赚钱从0到1全流程揭秘"
 description: "抖音胡说老王《逐利》付费课程完整版，系统讲解抖音账号定位、爆款内容制作、流量获取与变现策略，涵盖短视频、直播、电商等多种变现模式，助你快速掌握抖音赚钱核心方法。"
@@ -11,15 +10,15 @@ keywords: ["抖音胡说老王逐利", "逐利付费课", "抖音赚钱教程", 
 summary: "抖音胡说老王《逐利》付费课程完整资源，从账号定位到变现闭环，详细讲解抖音运营核心策略，包括爆款内容创作、流量获取、直播带货、电商变现等，适合想通过抖音赚钱的零基础或进阶用户。"
 slug: "douyin-hushu-laowang-zhuli-course"
 ---
-{< button href="https://pan.quark.cn/s/5853be7bf54d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5853be7bf54d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5853be7bf54d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

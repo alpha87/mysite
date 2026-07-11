@@ -1,4 +1,3 @@
-
 ---
 title: "《沸腾新十年（完结）》电子书下载：中国移动互联网十年商业史深度解析"
 description: "《沸腾新十年》完整版电子书下载，全景记录2010-2020年中国移动互联网黄金十年的商业变革、创业故事与产业演进，涵盖O2O、共享经济、短视频、新消费等热门赛道，适合创业者、产品经理、投资人及互联网从业者研读。"
@@ -11,15 +10,15 @@ keywords: ["沸腾新十年电子书", "中国互联网十年史", "移动互联
 summary: "《沸腾新十年》完结版电子书，系统梳理2010-2020年中国移动互联网的完整商业图景，涵盖O2O大战、共享单车、短视频崛起、新消费品牌等重大事件，以亲历者视角还原创业者的决策与博弈，是理解中国互联网底层逻辑的必读之作。"
 slug: "boiling-new-decade-ebook"
 ---
-{< button href="https://pan.quark.cn/s/2b4ccdd287fa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2b4ccdd287fa" target="_blank" >}}
 点击获取电子书
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2b4ccdd287fa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

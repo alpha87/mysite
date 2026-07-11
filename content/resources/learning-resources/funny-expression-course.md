@@ -1,4 +1,3 @@
-
 ---
 title: "20节风趣幽默表达的秘籍课程：轻松掌握说话艺术"
 description: "全面系统学习风趣幽默表达的20节秘籍课程，涵盖幽默技巧、段子创作、即兴发言、场景应用等，帮助你在社交、职场、演讲中脱颖而出，成为受欢迎的说话达人。"
@@ -11,15 +10,15 @@ keywords: ["风趣幽默表达课程", "幽默表达技巧", "说话艺术", "�
 summary: "20节精心设计的风趣幽默表达秘籍课程，从幽默底层逻辑到实战场景应用，系统训练你的幽默感与说话技巧，助你成为人群中受欢迎的表达高手。"
 slug: "funny-expression-course"
 ---
-{< button href="https://pan.quark.cn/s/7c573a0709f3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7c573a0709f3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7c573a0709f3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

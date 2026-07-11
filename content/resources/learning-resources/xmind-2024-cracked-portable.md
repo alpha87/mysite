@@ -1,4 +1,3 @@
-
 ---
 title: "XMind 2024 V24.01 思维导图免安装破解版下载"
 description: "XMind 2024 V24.01 免安装破解版，无需激活即可永久使用全部专业功能。支持无限分支、鱼骨图、矩阵图等，兼容Win/Mac/Linux，便携式设计U盘即插即用。附夸克网盘高速下载链接。"
@@ -11,15 +10,15 @@ keywords: ["XMind 2024 V24.01", "XMind免安装破解版", "思维导图破解�
 summary: "XMind 2024 V24.01 免安装破解版，永久免费使用全部专业功能，便携式设计。支持多种思维导图结构，适合学习、工作、项目管理等场景。夸克网盘高速下载。"
 slug: "xmind-2024-v24.01-free-portable-crack"
 ---
-{< button href="https://pan.quark.cn/s/4d7d43a09199" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4d7d43a09199" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4d7d43a09199
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 软件简介
 

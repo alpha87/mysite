@@ -1,4 +1,3 @@
-
 ---
 title: "大语文名师团：部编必读名著精讲，助力孩子轻松攻克语文阅读"
 description: "大语文名师团精心打造的部编必读名著精讲课程，覆盖中小学经典名著，名师逐章拆解、考点精析，帮助孩子快速掌握名著核心内容、提升阅读理解与写作能力，是家长和学生首选的语文学习资源。"
@@ -11,15 +10,15 @@ keywords: ["大语文名师团", "部编必读名著", "名著精讲", "小学�
 summary: "大语文名师团部编必读名著精讲课程，专业名师逐章拆解中小学必读名著，结合考点重点分析，帮助孩子高效掌握名著精髓，提升语文综合能力，为考试和写作积累丰富素材。"
 slug: "dayuwen-mingshituan-bianbimingzhu-jingjiang"
 ---
-{< button href="https://pan.quark.cn/s/7411b25d96f5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7411b25d96f5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7411b25d96f5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

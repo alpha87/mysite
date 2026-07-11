@@ -1,4 +1,3 @@
-
 ---
 title: "道德经珍藏大合集：电子书+音频+多套视频全套资源"
 description: "《道德经》珍藏大合集，包含高清电子书、专业朗读音频以及多套名家讲解视频，涵盖帛书版、通行版等多个版本，适合国学爱好者、修行者、学习者收藏研读，助你深入理解道家思想精髓。"
@@ -11,15 +10,15 @@ keywords: ["道德经珍藏大合集", "道德经电子书下载", "道德经音
 summary: "《道德经》珍藏大合集，包含高清电子书、专业朗读音频及多套名家视频讲解，涵盖帛书版、通行版，适合国学爱好者深度研读。"
 slug: "daodejing-zhencang-daheji"
 ---
-{< button href="https://pan.quark.cn/s/8086be15763b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8086be15763b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8086be15763b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

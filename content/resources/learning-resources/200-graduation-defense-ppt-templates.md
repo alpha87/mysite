@@ -1,4 +1,3 @@
-
 ---
 title: "200套大学生毕业答辩精选PPT模板：让答辩更专业、更轻松"
 description: "精选200套大学生毕业答辩PPT模板，涵盖学术风格、商务风格、创意风格等，适配不同专业与答辩场景。模板内容完整、设计精美，帮助毕业生快速完成高质量答辩演示。附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["毕业答辩PPT模板", "大学生答辩PPT", "精选PPT模板200套
 summary: "精选200套大学生毕业答辩PPT模板，涵盖学术、商务、创意等多种风格，适配不同专业场景。模板结构完整、设计精美，助你快速完成高质量答辩演示。附夸克网盘免费下载。"
 slug: "200-graduation-defense-ppt-templates"
 ---
-{< button href="https://pan.quark.cn/s/54e4fa676464" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/54e4fa676464" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/54e4fa676464
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这套精选PPT模板？
 
@@ -51,14 +50,14 @@ slug: "200-graduation-defense-ppt-templates"
 
 所有模板已打包上传至夸克网盘，**点击下方按钮即可保存**（建议转存到自己网盘，防止链接失效）。
 
-{< button href="https://pan.quark.cn/s/54e4fa676464" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/54e4fa676464" target="_blank" >}}
 立即获取200套PPT模板
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/54e4fa676464
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 如果链接失效，请在评论区留言或私信，我们会及时更新。祝各位毕业生答辩顺利，前程似锦！

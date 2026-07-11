@@ -1,4 +1,3 @@
-
 ---
 title: "《屋顶人》2025美国犯罪剧情片：豆瓣7.4高分推荐"
 description: "《屋顶人》是一部2025年上映的美国犯罪剧情片，豆瓣评分7.4，讲述了一个隐秘于城市屋顶的孤独者与地下犯罪网络交织的故事。本文提供剧情解析、角色亮点及夸克网盘资源链接。"
@@ -11,15 +10,15 @@ keywords: ["屋顶人 2025", "屋顶人 电影", "屋顶人 豆瓣评分", "犯�
 summary: "2025年美国犯罪剧情片《屋顶人》豆瓣评分7.4，讲述城市屋顶上的孤独者与地下犯罪的碰撞，剧情深刻、演技扎实。提供夸克网盘高清资源链接。"
 slug: "roof-man-2025-movie-review"
 ---
-{< button href="https://pan.quark.cn/s/08c20eb09c2e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/08c20eb09c2e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/08c20eb09c2e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

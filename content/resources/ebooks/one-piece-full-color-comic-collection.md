@@ -10,15 +10,15 @@ keywords: ["海贼王全彩漫画", "One Piece全彩版", "海贼王漫画珍藏
 summary: "海贼王全彩版漫画珍藏版高清电子资源，包含全部章节彩色重制版，适合收藏与阅读。提供夸克网盘直链下载，永久保存，随时在线或离线观看。"
 slug: "one-piece-full-color-comic-collection"
 ---
-{< button href="https://pan.quark.cn/s/843e20a1259a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/843e20a1259a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/843e20a1259a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 海贼王全彩版漫画珍藏版简介
 

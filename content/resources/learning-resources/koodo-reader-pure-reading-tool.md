@@ -1,4 +1,3 @@
-
 ---
 title: "Koodo Reader纯净阅读神器：全格式支持+朗读听书功能详解"
 description: "Koodo Reader是一款开源免费的跨平台电子书阅读器，支持EPUB、PDF、MOBI等全格式电子书，内置强大朗读听书功能，提供纯净无广告的阅读体验，是提升学习效率的必备工具。"

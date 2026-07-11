@@ -1,0 +1,1 @@
+(function(){const e=document.querySelectorAll(".email-link");e.forEach(e=>{let t=atob(e.getAttribute("data-email"));const s=e.getAttribute("data-subject");let n=t.startsWith("mailto:")?t:"mailto:"+t;s&&(n+=(n.includes("?")?"&":"?")+"subject="+encodeURIComponent(s)),e.href=n})})()

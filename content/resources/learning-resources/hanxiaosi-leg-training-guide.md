@@ -1,4 +1,3 @@
-
 ---
 title: "韩小四瘦腿直腿训练方案：居家高效改善腿型从入门到精通"
 description: "韩小四（Han Xiaosi）瘦腿直腿训练完整指南，涵盖居家高效改善腿型的核心动作、训练计划、饮食建议与常见问题解答。无需器械，每天15分钟，有效矫正O型腿、X型腿，瘦大腿内侧、外侧，打造笔直修长美腿。"
@@ -11,15 +10,15 @@ keywords: ["韩小四瘦腿直腿", "居家瘦腿训练方案", "改善腿型动
 summary: "韩小四瘦腿直腿训练方案详解，从热身到拉伸，包含7个高效动作，帮助你居家改善腿型，矫正O型腿、X型腿，瘦大腿内外侧，坚持两周即可看到明显变化。"
 slug: "hanxiaosi-leg-thigh-straightening-training"
 ---
-{< button href="https://pan.quark.cn/s/453544139ae6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/453544139ae6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/453544139ae6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择韩小四瘦腿直腿训练？
 

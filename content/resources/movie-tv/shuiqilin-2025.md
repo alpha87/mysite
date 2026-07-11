@@ -1,4 +1,3 @@
-
 ---
 title: "水麒麟（2025）高清资源下载｜东方奇幻悬疑电影推荐"
 description: "2025年最新东方奇幻悬疑电影《水麒麟》高清资源下载，神秘水兽传说与现代科学调查的碰撞，带你走进一个充满未知与惊悚的奇幻世界，适合悬疑、奇幻电影爱好者观看。"
@@ -30,14 +29,14 @@ slug: "shuiqilin-2025"
 
 ## 资源获取
 
-{< button href="https://pan.quark.cn/s/7f386b4573bc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7f386b4573bc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7f386b4573bc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《水麒麟》不仅是一部视觉震撼的奇幻电影，更通过神话与现实的碰撞引发观众对自然奥秘的思考。如果你周末想找一部让人沉浸其中的悬疑奇幻片，这部电影绝对不容错过。立即通过上方链接获取高清资源，与主角一同探寻水麒麟的秘密吧！

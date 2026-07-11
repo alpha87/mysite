@@ -1,4 +1,3 @@
-
 ---
 title: "三餐烟火暖 四季皆安然：在美食中治愈生活的暖心之作"
 description: "《三餐烟火暖 四季皆安然》通过一日三餐与四季变迁，传递生活美学的治愈力量。本书收录了近百篇温馨随笔，从家常小菜到时令佳肴，从厨房烟火到人生感悟，教你慢下来品味日常中的幸福。"
@@ -11,15 +10,15 @@ keywords: ["三餐烟火暖 四季皆安然", "美食治愈书籍", "生活美�
 summary: "《三餐烟火暖 四季皆安然》通过一日三餐与四季变迁，传递生活美学的治愈力量，收录近百篇温馨随笔，教你从厨房烟火中品味日常幸福。"
 slug: "san-can-yan-huo-nuan"
 ---
-{< button href="https://pan.quark.cn/s/796ad5a47eb5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/796ad5a47eb5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/796ad5a47eb5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

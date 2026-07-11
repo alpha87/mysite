@@ -1,4 +1,3 @@
-
 ---
 title: "陈惟CG绘画基础教程合集：从零开始学数字绘画"
 description: "陈惟CG绘画基础教程合集，涵盖数字绘画入门、构图、色彩、光影、人物造型等核心技法，适合零基础学员及进阶创作者系统学习CG绘画。百度网盘/夸克网盘资源持续更新。"
@@ -11,15 +10,15 @@ keywords: ["陈惟CG绘画", "CG绘画教程", "数字绘画入门", "绘画基�
 summary: "陈惟CG绘画基础教程合集，系统讲解数字绘画核心技法，从构图、色彩到人物造型，零基础也能轻松入门。包含完整视频课程及练习素材，持续更新中。"
 slug: "chenwei-cg-painting-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/f0f0b996eb4d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f0f0b996eb4d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f0f0b996eb4d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 陈惟CG绘画基础教程合集介绍
 

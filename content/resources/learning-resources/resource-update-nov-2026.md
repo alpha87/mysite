@@ -1,4 +1,3 @@
-
 ---
 title: "2026年11月5日更新：精选AI工具与学习资源合集"
 description: "最新更新的AI工具、电子书、学习资料合集，涵盖人工智能、编程、设计、商业等领域，夸克网盘一键获取，持续更新。"
@@ -31,15 +30,15 @@ slug: "resource-update-nov-2026"
 
 点击下方按钮即可获取夸克网盘链接，建议先转存到自己的网盘，避免链接失效。
 
-{< button href="https://pan.quark.cn/s/ef01e567e21e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ef01e567e21e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ef01e567e21e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 💡 使用建议
 

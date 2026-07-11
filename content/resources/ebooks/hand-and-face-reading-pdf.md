@@ -1,4 +1,3 @@
-
 ---
 title: "手相面相全知道：PDF电子书完整版免费下载"
 description: "手相面相全知道PDF电子书，涵盖手相学基础知识、面相十二宫解析、掌纹与事业财运关系、面相气色断吉凶等全面内容，适合玄学爱好者、传统文化研究者、自学入门者，可免费下载高清完整版。"
@@ -11,15 +10,15 @@ keywords: ["手相面相全知道PDF", "手相面相电子书免费下载", "手
 summary: "手相面相全知道PDF电子书是一本融合传统手相学与面相学的实用教程，从手型、掌纹到五官、气色，系统讲解如何通过手相面相解读性格、运势与健康。资源为高清扫描版，可直接保存阅读，适合零基础学习者和传统文化爱好者。"
 slug: "hand-and-face-reading-pdf"
 ---
-{< button href="https://pan.quark.cn/s/249dd2e49291" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/249dd2e49291" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/249dd2e49291
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 手相面相全知道：古老智慧的全方位解读
 

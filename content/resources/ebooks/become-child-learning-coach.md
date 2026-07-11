@@ -1,4 +1,3 @@
-
 ---
 title: "牧云歌《如何成为孩子的学习私教》"
 description: "牧云歌亲授：从普通家长到孩子专属学习私教的全流程指南。涵盖学习规划、高效记忆、情绪管理、亲子沟通等核心方法，让家庭教育有方向、有方法、有温度。"
@@ -11,15 +10,15 @@ keywords: ["如何成为孩子的学习私教", "牧云歌", "家庭教育指南
 summary: "牧云歌《如何成为孩子的学习私教》完整解读，从学习规划、高效记忆到情绪管理、亲子沟通，手把手教你成为孩子身边最懂学习的私教。"
 slug: "become-child-learning-coach"
 ---
-{< button href="https://pan.quark.cn/s/8f343bb0d413" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8f343bb0d413" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8f343bb0d413
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要成为孩子的学习私教？
 

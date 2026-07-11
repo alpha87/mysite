@@ -1,4 +1,3 @@
-
 ---
 title: "独角兽美甲教程：从零学会开店级美甲技术，实现独立创业"
 description: "独角兽美甲完整教程，涵盖工具准备、渐变上色、闪粉点缀、立体装饰等核心技法。教你在家学会专业美甲技术，低成本开启美甲副业，实现经济独立。附赠开店运营技巧与引流获客方法。"
@@ -11,15 +10,15 @@ keywords: ["独角兽美甲教程", "美甲创业", "美甲副业", "美甲开�
 summary: "独角兽美甲完整教程，从工具准备到渐变上色、闪粉点缀、立体装饰，手把手教你学会专业美甲技术。低成本开启美甲副业，实现经济独立，附带开店运营与引流获客方法。"
 slug: "unicorn-nail-art-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/d76a44e1e9e6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d76a44e1e9e6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d76a44e1e9e6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 独角兽美甲教程：从入门到开店
 

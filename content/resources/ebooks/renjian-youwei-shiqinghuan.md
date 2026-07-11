@@ -1,4 +1,3 @@
-
 ---
 title: "《人间有味是清欢》电子书下载：汪曾祺散文精选集"
 description: "《人间有味是清欢》是汪曾祺先生的散文精选集，收录了关于美食、草木、故人与旧事的经典篇章。本书以淡雅笔触描绘生活之美，传递从容豁达的生活哲学。提供夸克网盘PDF电子版下载，适合文学爱好者、生活美学追求者收藏阅读。"
@@ -29,15 +28,15 @@ slug: "renjian-youwei-shiqinghuan"
 
 ## 资源获取
 
-{< button href="https://pan.quark.cn/s/0050b59f27aa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0050b59f27aa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0050b59f27aa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 阅读建议
 

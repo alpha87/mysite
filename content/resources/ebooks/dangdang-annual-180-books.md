@@ -1,4 +1,3 @@
-
 ---
 title: "当当网年度180本好书合集：经典与新知一站式收藏"
 description: "收录当当网年度推荐的180本精选好书合集，涵盖文学、社科、商业、心理、历史、科技等十大品类，每本均为豆瓣高分、读者口碑力作。支持夸克网盘一键保存，适合书虫、学生、职场人士扩充知识库，提升阅读广度与深度。"
@@ -11,15 +10,15 @@ keywords: ["当当网年度好书", "180本好书合集", "电子书合集推荐
 summary: "当当网年度精选180本好书合集，覆盖文学、社科、商业、心理等十大品类，豆瓣高分保障，一次收藏终身阅读。附夸克网盘链接，保存即永久。"
 slug: "dangdang-annual-180-books"
 ---
-{< button href="https://pan.quark.cn/s/4f80a2b56d80" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4f80a2b56d80" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4f80a2b56d80
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你不能错过这份书单？
 

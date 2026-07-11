@@ -1,4 +1,3 @@
-
 ---
 title: "《四部备要》全100册：经史子集351种古籍完整收藏"
 description: "《四部备要》全100册完整电子版，收录经、史、子、集四部351种经典古籍，是传统文化爱好者和研究者的必备资源。提供夸克网盘下载，保存即永久。"
@@ -12,15 +11,15 @@ summary: "《四部备要》全100册完整电子版，收录经、史、子、�
 slug: "si-bu-bei-yao-quan-100-ce"
 ---
 
-{< button href="https://pan.quark.cn/s/9fa7ed48dd8c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9fa7ed48dd8c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9fa7ed48dd8c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

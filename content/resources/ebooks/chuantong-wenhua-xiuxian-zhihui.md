@@ -1,4 +1,3 @@
-
 ---
 title: "《传统文化修身智慧》金海峰：经典国学修身之道电子书下载"
 description: "《传统文化修身智慧》由金海峰教授撰写，深入解读儒家、道家等中国传统文化的修身哲学，提供为人处世、心性修养的实用智慧。本书适合国学爱好者、职场人士及修身养性学习者，高清PDF可下载。"
@@ -11,15 +10,15 @@ keywords: ["传统文化修身智慧", "金海峰电子书", "国学修身之道
 summary: "金海峰教授《传统文化修身智慧》电子书，系统讲解儒道经典中的修身方法，涵盖心性修养、为人处世、职场应用等，高清PDF版免费下载。"
 slug: "chuantong-wenhua-xiuxian-zhihui-jinhaifeng"
 ---
-{< button href="https://pan.quark.cn/s/7f5db87ed770" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7f5db87ed770" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7f5db87ed770
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

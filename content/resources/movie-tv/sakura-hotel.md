@@ -1,4 +1,3 @@
-
 ---
 title: "《樱花酒店》2025印尼恐怖惊悚片：剧情解析与下载"
 description: "2025年印尼恐怖惊悚片《樱花酒店》完整介绍，影片以诡异酒店为背景，融合东南亚灵异元素与心理恐惧。包含剧情分析、观影感受及高清资源下载链接。"
@@ -11,15 +10,15 @@ keywords: ["樱花酒店电影", "印尼恐怖片2025", "惊悚恐怖电影", "�
 summary: "2025年印尼恐怖惊悚片《樱花酒店》完整介绍，影片以诡异酒店为背景，融合东南亚灵异元素与心理恐惧，带来层层递进的恐怖体验。提供高清资源下载链接。"
 slug: "sakura-hotel"
 ---
-{< button href="https://pan.quark.cn/s/5098585dbc93" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5098585dbc93" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5098585dbc93
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

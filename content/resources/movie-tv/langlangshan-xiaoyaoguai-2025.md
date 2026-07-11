@@ -1,4 +1,3 @@
- 
 ---
 title: "浪浪山小妖怪（2025）高清4K动画资源下载"
 description: "浪浪山小妖怪2025年全新动画电影4K超清资源下载，国风奇幻冒险，讲述浪浪山小妖怪的成长故事，画风精美，适合全家观看。提供夸克网盘高速下载链接。"
@@ -11,15 +10,15 @@ keywords: ["浪浪山小妖怪", "浪浪山小妖怪2025", "浪浪山小妖怪�
 summary: "浪浪山小妖怪2025年全新动画电影4K超清资源，国风奇幻冒险题材，画风精美故事动人，夸克网盘高速下载，一键保存随时观看。"
 slug: "langlangshan-xiaoyaoguai-2025"
 ---
-{< button href="https://pan.quark.cn/s/6e0afa0f3c44" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6e0afa0f3c44" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6e0afa0f3c44
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

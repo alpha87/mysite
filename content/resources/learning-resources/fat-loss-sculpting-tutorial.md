@@ -1,4 +1,3 @@
-
 ---
 title: "爆火减脂塑形教程套装：居家跟练从入门到马甲线"
 description: "包含全身燃脂、局部塑形、HIIT高强度间歇训练等爆火课程，适合零基础新手在家跟练，科学高效减脂塑形。夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["减脂塑形教程", "居家减脂", "HIIT训练视频", "全身燃�
 summary: "爆火减脂塑形教程套装，集合全身燃脂、局部塑形、HIIT等专业跟练视频，适合零基础居家锻炼，科学高效塑造马甲线、瘦腿瘦腰。"
 slug: "fat-loss-sculpting-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/28c3b96527ed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/28c3b96527ed" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/28c3b96527ed
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

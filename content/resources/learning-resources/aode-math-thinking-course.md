@@ -1,4 +1,3 @@
-
 ---
 title: "傲德数学思维课：北大学霸亲授的数学启蒙与思维训练"
 description: "由北大学霸傲德老师亲授的数学思维课程，专为儿童设计的数学启蒙与思维训练，系统提升逻辑推理、空间想象和问题解决能力，帮助孩子建立数学思维底层框架，轻松应对小学数学难题。"
@@ -11,15 +10,15 @@ keywords: ["傲德数学思维课", "北大学霸数学", "儿童数学启蒙", 
 summary: "傲德数学思维课由北大学霸傲德老师亲授，系统培养儿童数学启蒙与思维训练，涵盖逻辑推理、空间想象、问题解决等核心能力，帮助孩子建立扎实的数学思维基础，为后续学习打下坚实基础。"
 slug: "aode-math-thinking-course"
 ---
-{< button href="https://pan.quark.cn/s/dab8d1eb9002" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dab8d1eb9002" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dab8d1eb9002
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程介绍
 

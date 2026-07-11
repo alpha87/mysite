@@ -1,4 +1,3 @@
-
 ---
 title: "每日英语小短文100篇：文本+音频+视频全套资源，听力阅读同步提升"
 description: "每日英语小短文100篇资源包，包含文本、音频、视频三件套，适合零基础到中级学习者。每天一篇小短文，配套中英对照译文、纯正美式发音音频和情景动画视频，帮助你在轻松阅读中快速提升英语听力、口语和词汇量。"
@@ -11,15 +10,15 @@ keywords: ["每日英语小短文100篇", "英语听力素材", "英语阅读材
 summary: "每日英语小短文100篇资源包，文本+音频+视频三件套，每天一篇轻松提升英语听力和阅读能力，适合零基础到中级学习者，美式发音纯正，中英对照便于理解。"
 slug: "daily-english-short-stories-100"
 ---
-{< button href="https://pan.quark.cn/s/c6eaa39f954a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c6eaa39f954a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c6eaa39f954a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾经买了一堆英语学习书，却因为枯燥难啃而半途而废？或者想练习听力，却找不到既有趣又难度适中的音频材料？**《每日英语小短文100篇》** 正是为解决这些痛点而生的宝藏资源包。
 

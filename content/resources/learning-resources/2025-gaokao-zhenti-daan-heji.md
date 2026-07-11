@@ -1,4 +1,3 @@
-
 ---
 title: "2025年全国高考真题与答案合集（全科完整版）"
 description: "2025年全国高考真题与答案完整合集，覆盖语文、数学、英语、物理、化学、生物、历史、地理、政治等全部科目，包含全国卷、新高考卷及各省自主命题卷，高清无水印PDF可直接下载打印，助力考生估分、复盘与备考复习。"
@@ -11,15 +10,15 @@ keywords: ["2025高考真题答案", "2025全国卷真题", "新高考真题", "
 summary: "2025年全国高考真题与答案完整合集，涵盖语文、数学、英语、物理、化学、生物、历史、地理、政治全部科目，提供全国卷、新高考卷及各省自主命题卷高清PDF下载，助力考生精准估分与高效复习。"
 slug: "2025-gaokao-zhenti-daan-heji"
 ---
-{< button href="https://pan.quark.cn/s/a63152bb2d9a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a63152bb2d9a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a63152bb2d9a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2025年全国高考真题与答案合集
 

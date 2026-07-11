@@ -1,4 +1,3 @@
-
 ---
 title: "《紧急下班：不焦虑打工指南》电子书资源：告别职场内耗，找回生活掌控感"
 description: "《紧急下班：不焦虑打工指南》电子书完整版下载，一本帮助打工人摆脱工作焦虑、建立健康边界、提升效率与幸福感的实用手册。涵盖情绪管理、时间规划、精力分配、沟通技巧等核心方法，适合所有渴望逃离内卷、实现工作生活平衡的职场人。"
@@ -11,15 +10,15 @@ keywords: ["紧急下班电子书", "不焦虑打工指南下载", "职场焦虑
 summary: "《紧急下班：不焦虑打工指南》电子书完整版，从情绪、时间、精力、沟通四个维度教你如何摆脱职场内耗，重新夺回生活主导权。适合所有不想被工作绑架、渴望从容下班的打工人。"
 slug: "emergency-off-work-anxiety-free-guide"
 ---
-{< button href="https://pan.quark.cn/s/80d17caff36d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/80d17caff36d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/80d17caff36d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否每天都在“996”的节奏里挣扎，下班后依然被工作消息轰炸？是否经常感到精力枯竭，却不知道如何切断工作的无形枷锁？《紧急下班：不焦虑打工指南》正是为这样的你量身打造的一本自救手册。
 

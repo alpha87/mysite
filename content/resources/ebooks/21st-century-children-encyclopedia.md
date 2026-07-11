@@ -1,4 +1,3 @@
-
 ---
 title: "21世纪少年儿童百科全书：激发孩子好奇心的知识宝库"
 description: "21世纪少年儿童百科全书高清PDF下载，涵盖自然、科学、历史、文化等多领域知识，图文并茂，适合6-12岁儿童阅读，助力孩子拓展视野、培养科学思维与探索精神。"
@@ -11,15 +10,15 @@ keywords: ["21世纪少年儿童百科全书", "儿童百科全书下载", "少�
 summary: "21世纪少年儿童百科全书高清PDF，涵盖自然、科学、历史、文化等丰富内容，图文并茂，适合6-12岁儿童阅读，激发孩子好奇心，培养科学思维与探索精神，家庭教育必备资源。"
 slug: "21st-century-children-encyclopedia"
 ---
-{< button href="https://pan.quark.cn/s/2ae09eb1a6df" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2ae09eb1a6df" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2ae09eb1a6df
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

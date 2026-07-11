@@ -1,4 +1,3 @@
-
 ---
 title: "让你轻松学会剪映全套视频剪辑"
 description: "从零开始掌握剪映专业版全部功能，涵盖剪辑基础、转场特效、调色技巧、字幕制作、音频处理、关键帧动画等核心操作，适合新手入门的全套视频剪辑教程。"
@@ -11,15 +10,15 @@ keywords: ["剪映全套视频剪辑", "剪映教程", "视频剪辑入门", "�
 summary: "从零开始掌握剪映专业版全部功能，涵盖剪辑基础、转场特效、调色技巧、字幕制作、音频处理、关键帧动画等核心操作，帮助新手快速上手全套视频剪辑。"
 slug: "jianying-video-editing-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/fb7f4fac313f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fb7f4fac313f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fb7f4fac313f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

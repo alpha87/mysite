@@ -1,4 +1,3 @@
-
 ---
 title: "周思辰【8门国学荟】头像识人3集完整版：从头像看透性格与运势"
 description: "周思辰8门国学荟头像识人课程3集完整版，系统讲解如何通过微信头像、照片等识人术分析性格、财运、事业运势，结合易经、面相学、五行等国学智慧，帮助快速提升识人能力。"
@@ -11,15 +10,15 @@ keywords: ["周思辰头像识人", "8门国学荟课程", "头像识人术", "�
 summary: "周思辰8门国学荟头像识人课程3集完整版，系统讲解如何通过头像、照片分析性格、财运和事业运势，融合易经、面相学、五行等国学内容，帮助快速掌握识人术核心技巧。"
 slug: "zhousichen-8men-guoxue-hui-touxiang-shiren"
 ---
-{< button href="https://pan.quark.cn/s/513b2cac7158" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/513b2cac7158" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/513b2cac7158
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

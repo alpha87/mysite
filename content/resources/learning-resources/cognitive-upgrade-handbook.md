@@ -1,4 +1,3 @@
-
 ---
 title: "认知升级手册：思维模型与学习方法完全指南"
 description: "认知升级手册完整版，涵盖思维模型、学习方法、批判性思维、系统思考等内容，帮助读者突破认知局限，提升学习效率与决策能力，适合终身学习者与自我提升者。"
@@ -11,15 +10,15 @@ keywords: ["认知升级手册", "认知升级", "思维模型指南", "批判�
 summary: "认知升级手册完整版，系统讲解思维模型、学习方法、批判性思维与系统思考，帮助读者突破认知边界，提升学习效率与决策能力，是终身学习者的必备资源。"
 slug: "cognitive-upgrade-handbook"
 ---
-{< button href="https://pan.quark.cn/s/ee80af356952" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ee80af356952" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ee80af356952
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 认知升级是指通过系统性的学习与反思，不断优化自己的思维框架、打破认知局限的过程。这本《认知升级手册》整合了多个学科的核心思维模型与高效学习方法，适合所有渴望持续进化、提升决策质量的读者。
 

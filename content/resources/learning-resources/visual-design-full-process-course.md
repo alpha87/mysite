@@ -1,4 +1,3 @@
-
 ---
 title: "视觉设计全流程实战课程：从0到1掌握商业设计核心技能"
 description: "视觉设计全流程实战课程完整教学，涵盖品牌设计、UI/UX设计、插画绘制、动效制作、商业化落地全链路，手把手教你使用Figma、AI、PS等工具，从创意构思到项目交付，助你成为全能型视觉设计师。"
@@ -11,15 +10,15 @@ keywords: ["视觉设计全流程实战课程", "商业设计全流程", "视觉
 summary: "视觉设计全流程实战课程从0到1教你掌握品牌设计、UI/UX、插画、动效、商业化落地的完整链路，使用Figma、AI、PS等主流工具，通过项目实战快速提升设计能力，适合初、中级设计师系统学习。"
 slug: "visual-design-full-process-course"
 ---
-{< button href="https://pan.quark.cn/s/0e939cb34fd8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0e939cb34fd8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0e939cb34fd8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

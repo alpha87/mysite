@@ -1,4 +1,3 @@
-
 ---
 title: "剪辑思维破冰行动视频课程"
 description: "剪辑思维破冰行动视频课程，由专业剪辑师主讲，系统讲解剪辑逻辑、节奏把控、叙事结构、镜头语言等核心技能，适合初学者和进阶者提升剪辑思维。"
@@ -11,15 +10,15 @@ keywords: ["剪辑思维破冰行动", "视频剪辑课程", "剪辑思维训练
 summary: "剪辑思维破冰行动视频课程，系统讲解剪辑逻辑、节奏把控、叙事结构、镜头语言等核心内容，帮助初学者和进阶者掌握专业剪辑思维，提升视频创作能力。"
 slug: "clip-thinking-video-course"
 ---
-{< button href="https://pan.quark.cn/s/84b9d40c4b06" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/84b9d40c4b06" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/84b9d40c4b06
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾觉得自己的剪辑作品“差口气”？明明素材足够，但节奏总是把控不好，叙事逻辑混乱，镜头之间的衔接生硬——这往往不是技术问题，而是**剪辑思维**的缺失。**剪辑思维破冰行动视频课程**正是为此而生，它是一套系统、实操性极强的视频课程，帮你从“会剪辑”进阶到“懂剪辑”，真正理解镜头背后的叙事逻辑与情感表达。
 

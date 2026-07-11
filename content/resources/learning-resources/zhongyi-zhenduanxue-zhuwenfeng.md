@@ -1,4 +1,3 @@
-
 ---
 title: "中医诊断学：朱文锋-湖南中医药大学（全75集·完整版）"
 description: "中医诊断学完整教学视频，由湖南中医药大学朱文锋教授主讲，全75集系统讲解望闻问切四诊、八纲辨证、脏腑辨证等核心内容，适合中医学子、临床医生及爱好者系统学习，高清画质，无删减完整版在线观看。"
@@ -11,15 +10,15 @@ keywords: ["中医诊断学", "朱文锋", "湖南中医药大学", "中医诊�
 summary: "中医诊断学完整教学视频，由湖南中医药大学朱文锋教授主讲，全75集系统讲解望闻问切四诊、八纲辨证、脏腑辨证等核心内容，高清无删减，适合中医学子、临床医生及爱好者系统学习。"
 slug: "zhongyi-zhenduanxue-zhuwenfeng"
 ---
-{< button href="https://pan.quark.cn/s/fe6335c222d4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fe6335c222d4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fe6335c222d4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

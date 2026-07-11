@@ -1,4 +1,3 @@
-
 ---
 title: "混子曰：少年唐诗课——用漫画和故事让孩子轻松爱上唐诗"
 description: "混子曰少年唐诗课完整资源，精选唐代经典诗歌，用漫画、幽默故事和思维导图讲解，帮助小学生、初中生轻松记忆唐诗，理解诗意，提升语文素养。适合家长辅导、学生自学、课堂拓展，高清PDF可打印。"
@@ -11,15 +10,15 @@ keywords: ["混子曰少年唐诗课", "混子曰唐诗", "少年唐诗课资源
 summary: "混子曰少年唐诗课完整资源，用漫画、故事和思维导图讲解唐代经典诗歌，帮助小学生和初中生轻松理解、记忆唐诗，提升语文素养。高清PDF，可下载打印，适合家庭辅导和课堂拓展。"
 slug: "hunziyue-shaonian-tangshike"
 ---
-{< button href="https://pan.quark.cn/s/51eb51624684" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/51eb51624684" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/51eb51624684
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否还在为孩子背唐诗而发愁？枯燥的注释、生硬的翻译，让孩子对古诗提不起兴趣？别担心，**混子曰：少年唐诗课** 来了！这套风靡全网的学习资源，用孩子们最爱的漫画、幽默故事和清晰的思维导图，把唐诗“翻译”成孩子看得懂、记得住、讲得出的有趣内容。
 

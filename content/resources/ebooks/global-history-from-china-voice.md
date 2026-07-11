@@ -1,4 +1,3 @@
-
 ---
 title: "从中国出发的全球史：用故事复活历史现场【完结】"
 description: "一部以中国视角串联全球历史的音频故事集，用生动叙事复活历史现场，覆盖从古代文明到近代变革的关键节点，适合历史爱好者、学生和通识学习者。"
@@ -11,15 +10,15 @@ keywords: ["从中国出发的全球史", "全球史音频", "历史故事集", 
 summary: "《从中国出发的全球史》以独特的中国视角串联世界历史，用故事化叙事复活历史现场，涵盖从古代到近代的完整内容，已完结。适合历史爱好者、学生及通识学习者。"
 slug: "global-history-from-china-voice"
 ---
-{< button href="https://pan.quark.cn/s/2ac5c4e74ba9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2ac5c4e74ba9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2ac5c4e74ba9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

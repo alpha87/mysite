@@ -1,4 +1,3 @@
-
 ---
 title: "《金钱心理学：财富、人性和幸福的永恒真相》——一本重塑财务观念的必读书籍"
 description: "《金钱心理学》深入探讨金钱、财富与人性的复杂关系，揭示幸福与财富的永恒真相。本书提供实用投资心理建议、行为金融学分析、理财心态调整方法，帮助读者建立健康的金钱观，实现财务自由与内心平衡。"
@@ -11,15 +10,15 @@ keywords: ["金钱心理学", "财富心理学", "人性与金钱", "幸福与�
 summary: "《金钱心理学》深入探讨金钱、财富与人性的复杂关系，揭示幸福与财富的永恒真相。涵盖投资心理、行为金融学、理财心态等内容，帮助读者建立健康的金钱观，实现财务自由与内心平衡。"
 slug: "jinrong-xinlixue-caifu-renxing-xingfu-yongheng-zhenxiang"
 ---
-{< button href="https://pan.quark.cn/s/00e13fb7e917" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/00e13fb7e917" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/00e13fb7e917
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要阅读《金钱心理学》？
 

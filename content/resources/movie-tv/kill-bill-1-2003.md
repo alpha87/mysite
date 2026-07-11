@@ -1,4 +1,3 @@
-
 ---
 title: "《杀死比尔1》2003年美国动作犯罪电影：昆汀暴力美学巅峰之作"
 description: "2003年昆汀·塔伦蒂诺执导经典动作犯罪电影《杀死比尔1》完整介绍，豆瓣评分8.4，乌玛·瑟曼主演复仇女神新娘，暴力美学与东方武术的完美结合，高清资源夸克网盘分享。"
@@ -11,15 +10,15 @@ keywords: ["杀死比尔1 2003", "Kill Bill Vol.1 下载", "昆汀电影资源",
 summary: "2003年昆汀·塔伦蒂诺执导的《杀死比尔1》乌玛·瑟曼主演，豆瓣评分8.4，融合东方武术、日本剑道与美国暴力美学的经典复仇电影，高清资源夸克网盘分享。"
 slug: "kill-bill-1-2003"
 ---
-{< button href="https://pan.quark.cn/s/4a9a753c541e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4a9a753c541e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4a9a753c541e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

@@ -10,15 +10,15 @@ keywords: ["算命师逆袭", "算命副业", "占卜赚钱", "八字学习", "�
 summary: "一份完整的算命副业逆袭指南，涵盖八字、紫微斗数、塔罗等工具的入门方法，结合短视频和私域流量变现策略，分享真实案例和避坑经验，助你零基础实现月入过万。"
 slug: "suamming-shi-nixi"
 ---
-{< button href="https://pan.quark.cn/s/4b44dd873434" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4b44dd873434" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4b44dd873434
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 算命师的逆袭：从被质疑到日入1000+
 

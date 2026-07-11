@@ -1,4 +1,3 @@
-
 ---
 title: "小学语文强基一本通：同步教材训练，全面提升语文核心素养"
 description: "小学语文强基一本通同步教材训练教辅，覆盖1-6年级课内知识点，通过字词句段、阅读理解、作文训练三大模块夯实语文基础，提升核心素养，适合小学生课后巩固与考前复习使用。"
@@ -11,15 +10,15 @@ keywords: ["小学语文强基一本通", "小学语文同步训练", "语文核
 summary: "小学语文强基一本通是专为1-6年级学生设计的同步教材训练教辅，从字词句段到阅读理解、作文训练全面覆盖，帮助孩子夯实语文基础，提升核心素养，是课后巩固和考前复习的得力助手。"
 slug: "xiaoxue-yuwen-qiangji-yibentong"
 ---
-{< button href="https://pan.quark.cn/s/1b27c5234032" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1b27c5234032" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1b27c5234032
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么需要《小学语文强基一本通》？
 

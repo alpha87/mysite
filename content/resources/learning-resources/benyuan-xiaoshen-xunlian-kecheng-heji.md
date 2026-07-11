@@ -1,4 +1,3 @@
-
 ---
 title: "本源校身训练课程合集：系统恢复身体本源的健身体系"
 description: "本源校身训练课程合集包含完整的身心恢复训练体系，涵盖体态矫正、脊柱调理、骨盆修复、核心激活等模块，适合久坐办公族、产后恢复人群及运动爱好者，帮助学员从根源改善身体结构，重塑健康体态。"
@@ -11,15 +10,15 @@ keywords: ["本源校身训练", "健身课程合集", "体态矫正教程", "�
 summary: "本源校身训练课程合集是一套专注于人体结构恢复和体态优化的系统训练课程，涵盖脊柱、骨盆、核心等关键部位，通过科学动作序列帮助学员从根源改善身体问题，适合久坐族、产后女性及健身爱好者。"
 slug: "benyuan-xiaoshen-xunlian-kecheng-heji"
 ---
-{< button href="https://pan.quark.cn/s/bfb6efc6dff1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bfb6efc6dff1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bfb6efc6dff1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 本源校身训练课程合集简介
 

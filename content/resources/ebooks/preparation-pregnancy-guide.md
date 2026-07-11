@@ -1,4 +1,3 @@
-
 ---
 title: "科学备孕攻略【完结】全流程指南：从检查、饮食到排卵期同房技巧"
 description: "科学备孕完整攻略PDF电子书，涵盖孕前检查项目、男性精子质量提升、女性卵泡发育调理、排卵期精准计算、同房技巧、饮食禁忌与营养补充，以及心态调整等核心环节，助你顺利迎来健康宝宝。"
@@ -11,15 +10,15 @@ keywords: ["科学备孕攻略", "备孕PDF", "备孕指南", "孕前检查项�
 summary: "科学备孕攻略PDF电子书完整版，从孕前检查、排卵期精准计算、男女双方身体调理到饮食营养搭配，系统讲解备孕全流程的科学方法与实用技巧，帮助备孕夫妻高效备孕，早日迎来健康宝宝。"
 slug: "ke-xue-bei-yun-gong-lue"
 ---
-{< button href="https://pan.quark.cn/s/c296292a9059" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c296292a9059" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c296292a9059
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要科学备孕？
 

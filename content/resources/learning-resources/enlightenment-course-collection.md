@@ -1,4 +1,3 @@
-
 ---
 title: "人生开悟课课程合集：开悟三部曲、觉醒重生与成功者秘密（103GB）"
 description: "人生开悟课完整课程合集，涵盖开悟三部曲、觉醒重生、成功者不愿透露的秘密等精华内容，共103GB视频教程，助力个人心灵成长、自我提升与认知突破。从底层逻辑到高阶心法，系统学习开悟智慧，实现人生蜕变。"
@@ -11,15 +10,15 @@ keywords: ["人生开悟课", "开悟三部曲", "觉醒重生", "成功者秘�
 summary: "人生开悟课完整课程合集，103GB视频教程，覆盖开悟三部曲、觉醒重生、成功者秘密，系统学习开悟智慧与心法，助力心灵成长与人生蜕变。"
 slug: "enlightenment-course-collection"
 ---
-{< button href="https://pan.quark.cn/s/3b89def6db54" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3b89def6db54" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3b89def6db54
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

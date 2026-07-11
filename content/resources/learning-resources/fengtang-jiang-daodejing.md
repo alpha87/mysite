@@ -1,4 +1,3 @@
-
 ---
 title: "冯唐讲《道德经》：职场与人生的顶级智慧解读"
 description: "冯唐讲《道德经》完整音频课程，结合职场、管理与人生哲学，从原典出发，用现代视角重新解读老子智慧。适合国学爱好者、管理者、职场人士学习，助你提升认知、领悟道法自然。"
@@ -11,15 +10,15 @@ keywords: ["冯唐讲道德经", "道德经音频", "道德经解读", "老子",
 summary: "冯唐讲《道德经》完整音频课程，结合职场、管理与人生哲学，用现代视角重新解读老子智慧。适合国学爱好者、管理者、职场人士学习，助你提升认知、领悟道法自然。"
 slug: "fengtang-jiang-daodejing"
 ---
-{< button href="https://pan.quark.cn/s/d10d44b4e879" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d10d44b4e879" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d10d44b4e879
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 冯唐讲《道德经》：当现代管理遇上千年智慧
 

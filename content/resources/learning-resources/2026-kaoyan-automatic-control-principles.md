@@ -1,4 +1,3 @@
-
 ---
 title: "2026考研专业课自动控制原理精品资源：真题+笔记+视频课程全收录"
 description: "2026考研专业课自动控制原理资源包，包含历年真题、学霸笔记、名校视频课程、公式手册和模拟试卷，适用于控制科学与工程、自动化、电气工程等专业备考，助力高效复习冲刺高分。"
@@ -11,15 +10,15 @@ keywords: ["2026考研自动控制原理", "自动控制原理考研真题", "�
 summary: "2026考研专业课自动控制原理完整资源包，涵盖历年真题、学霸笔记、名校视频课程、公式手册及模拟试卷，帮助考生系统掌握梅森公式、根轨迹法、频域分析法等核心考点，提升解题能力。"
 slug: "2026-kaoyan-automatic-control-principles-zyg"
 ---
-{< button href="https://pan.quark.cn/s/aa7d36c1bae4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/aa7d36c1bae4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/aa7d36c1bae4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

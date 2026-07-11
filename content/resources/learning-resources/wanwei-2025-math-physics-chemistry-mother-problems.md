@@ -1,4 +1,3 @@
-
 ---
 title: "2025万唯初中数理化母题解法举一反三：吃透母题，轻松应对中考"
 description: "2025万唯初中数理化母题解法举一反三资源，涵盖数学、物理、化学三大科目的母题与变式题，通过举一反三的解题训练帮助学生掌握核心题型，提升解题能力，适合中考复习与日常巩固。"
@@ -10,15 +9,16 @@ tags: ["万唯", "初中数理化", "母题", "举一反三", "2025版", "数学
 keywords: ["万唯初中数理化母题", "母题解法举一反三", "初中数学母题", "初中物理母题", "初中化学母题", "中考母题训练", "万唯教辅2025", "举一反三解题", "初中数理化复习"]
 summary: "2025万唯初中数理化母题解法举一反三资源，覆盖数学、物理、化学核心母题与变式训练，通过举一反三的解题策略帮助学生吃透题型、提高成绩，适合中考冲刺和日常拔高。"
 slug: "wanwei-2025-math-physics-chemistry-mother-problems"
-{< button href="https://pan.quark.cn/s/cdee2be073d3" target="_blank" >}
+---
+{{< button href="https://pan.quark.cn/s/cdee2be073d3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cdee2be073d3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

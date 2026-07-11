@@ -1,4 +1,3 @@
-
 ---
 title: "用动画片学奥数：趣味数学启蒙资源推荐"
 description: "通过趣味动画片学习奥数知识，适合小学生数学思维训练，涵盖数论、几何、逻辑推理等核心奥数专题，动画形式降低学习门槛，激发孩子数学兴趣，配套夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["用动画学奥数", "奥数动画资源", "小学生奥数启蒙", 
 summary: "用动画片学奥数，趣味数学启蒙资源，包含数论、几何、逻辑推理等奥数专题，通过生动动画降低学习难度，适合小学生数学思维训练，附夸克网盘下载链接。"
 slug: "donghuapian-xue-aoshu"
 ---
-{< button href="https://pan.quark.cn/s/5fe1151e1641" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5fe1151e1641" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5fe1151e1641
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 奥数学习常常让家长和孩子感到枯燥、压力大，但将数学知识融入动画片后，复杂的概念变得生动有趣，孩子更容易理解和吸收。这套“用动画片学奥数”的资源，专为小学生设计，用孩子们喜爱的动画形式讲解奥数重点模块，包括数论基础（整除、余数）、几何图形（面积、周长、角度）、逻辑推理（数列、找规律）、应用题技巧等。每集动画时长适中，配合直观的画面和通俗的讲解，即使没有奥数基础的孩子也能轻松跟上。
 

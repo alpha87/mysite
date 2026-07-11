@@ -1,4 +1,3 @@
-
 ---
 title: "150本迪士尼故事绘本合集：PDF+MP3全套资源下载"
 description: "150本迪士尼经典故事绘本合集，包含PDF电子书和MP3音频，涵盖白雪公主、灰姑娘、狮子王、冰雪奇缘等经典动画故事。适合儿童英语启蒙、亲子阅读和听力训练，资源完整可直接下载。"
@@ -11,15 +10,15 @@ keywords: ["迪士尼绘本合集", "儿童故事绘本", "英语启蒙资源", 
 summary: "150本迪士尼经典故事绘本合集，PDF+MP3双格式，涵盖白雪公主、狮子王、冰雪奇缘等，适合儿童英语启蒙、听力训练和亲子共读，资源完整，一键下载。"
 slug: "disney-story-picture-books-collection"
 ---
-{< button href="https://pan.quark.cn/s/72966e8d4056" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/72966e8d4056" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/72966e8d4056
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

@@ -1,4 +1,3 @@
-
 ---
 title: "勿扰飞升 第1集 夸克网盘资源免费分享"
 description: "勿扰飞升高清全集免费下载，第1集在线观看，夸克网盘资源直链，无需解压，永久保存。古装仙侠剧勿扰飞升完整版资源，画质清晰，支持手机电脑。"
@@ -11,15 +10,15 @@ keywords: ["勿扰飞升全集", "勿扰飞升第一集", "勿扰飞升夸克网
 summary: "勿扰飞升第1集夸克网盘免费资源，高清画质，永久有效。讲述修仙者踏上飞升之路的传奇故事，古装仙侠题材，特效精美，剧情紧凑，值得追看。"
 slug: "wu-rao-fei-sheng"
 ---
-{< button href="https://pan.quark.cn/s/8ce508a329b2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ce508a329b2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8ce508a329b2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧情简介
 

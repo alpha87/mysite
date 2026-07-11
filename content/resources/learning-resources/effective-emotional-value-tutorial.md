@@ -10,15 +10,15 @@ keywords: ["有效情绪价值教程", "情绪价值是什么意思", "如何提
 summary: "系统掌握有效情绪价值教程，从概念到实操全面解析。学习如何通过倾听、共情、正向反馈提升人际关系质量，适用于恋爱、职场、社交等多场景，助你成为人人喜欢的高情商沟通者。"
 slug: "effective-emotional-value-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/78bc9d281b51" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/78bc9d281b51" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/78bc9d281b51
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、什么是情绪价值？
 

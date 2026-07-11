@@ -1,4 +1,3 @@
-
 ---
 title: "一病一讲生活实用健康课：常见疾病防治与家庭护理完整指南"
 description: "一病一讲生活实用健康课系统讲解常见疾病预防、家庭护理及健康管理知识，涵盖感冒发烧、高血压、糖尿病、肠胃病等20余种常见病症，通过通俗易懂的讲解帮助普通人掌握实用健康技能，轻松应对家庭健康问题。"
@@ -11,15 +10,15 @@ keywords: ["一病一讲健康课", "生活实用健康课程", "常见疾病防
 summary: "一病一讲生活实用健康课系统讲解20余种常见疾病的预防、家庭护理和健康管理方法，内容通俗易懂，涵盖感冒发烧、高血压、糖尿病、肠胃病等高频病症，帮助普通人掌握实用健康技能，轻松应对家庭常见健康问题。"
 slug: "yibing-yijiang-shenghuo-shiyong-jiankang-ke"
 ---
-{< button href="https://pan.quark.cn/s/8459f708039d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8459f708039d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8459f708039d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

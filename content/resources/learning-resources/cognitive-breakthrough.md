@@ -1,4 +1,3 @@
-
 ---
 title: "《认知破局：优化努力的34条思维原则》—— 打破思维天花板，让努力更高效"
 description: "《认知破局》深度解读，34条思维原则助你优化努力方向，从思维模型、目标管理、时间杠杆到行动纠偏，全面提升认知效率。附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["认知破局 书籍", "优化努力的34条思维原则", "认知升
 summary: "《认知破局》完整解读，涵盖34条思维原则，从思维模型、目标管理、时间杠杆到行动纠偏，帮你打破认知天花板，让每一份努力都精准高效。附夸克网盘资源。"
 slug: "cognitive-breakthrough-34-principles"
 ---
-{< button href="https://pan.quark.cn/s/922a3077c1b7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/922a3077c1b7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/922a3077c1b7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "在菜场，在人间"
 description: "《在菜场，在人间》讲述菜市场中普通人的人生故事，记录摊贩、顾客的悲欢离合，展现市井生活的真实与温暖。本书以细腻笔触描绘菜场烟火气，让读者体会人间百态。电子版资源可在线获取。"
@@ -11,15 +10,15 @@ keywords: ["在菜场在人间", "菜场故事", "市井生活书籍", "人间�
 summary: "《在菜场，在人间》是一部以菜市场为背景的人文纪实作品，作者通过深入观察菜场中摊贩与顾客的日常，记录下一个个平凡而动人的故事。无论是一个卖菜阿姨的坚韧，还是买菜老人的孤独，都在菜场的烟火气中被真实呈现。"
 slug: "zai-caichang-zai-renjian"
 ---
-{< button href="https://pan.quark.cn/s/bdbddc2c7e3e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bdbddc2c7e3e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bdbddc2c7e3e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 在菜场，在人间——市井烟火里的真实人生
 

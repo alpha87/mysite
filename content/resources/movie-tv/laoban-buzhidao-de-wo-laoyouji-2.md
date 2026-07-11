@@ -1,4 +1,3 @@
-
 ---
 title: "老板不知道的我·老友季2：职场真实对话全纪录"
 description: "老板不知道我·老友季2完整资源，一档聚焦职场上下级关系的深度对话节目，真实还原员工与老板之间的痛点、误解与和解，提供人际沟通启示与职场生存智慧。"
@@ -11,15 +10,15 @@ keywords: ["老板不知道的我老友季2", "老板不知道的我第二季", 
 summary: "老板不知道我的老友季2是一档极具启发性的职场对话综艺，通过真实记录员工与老板之间的直面交流，揭示职场中的隐秘矛盾与情感连接，帮助观众理解上下级思维差异，提升职场沟通力。"
 slug: "laoban-buzhidao-de-wo-laoyouji-2"
 ---
-{< button href="https://pan.quark.cn/s/b4135bffa7f3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b4135bffa7f3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b4135bffa7f3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 节目简介
 

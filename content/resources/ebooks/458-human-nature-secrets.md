@@ -1,4 +1,3 @@
-
 ---
 title: "458条人性顶级秘术：深谙人性弱点的生存智慧"
 description: "《458条人性顶级秘术》是一份深度剖析人性弱点、心理博弈与社交策略的电子文档，涵盖识人术、驭人术、防骗术、心理操控、职场权谋等核心内容，帮助你在人际交往、商业谈判、自我防御中掌握主动。适合所有希望提升洞察力与博弈能力的人群。"
@@ -11,15 +10,15 @@ keywords: ["人性顶级秘术", "458条人性秘术", "人性弱点分析", "�
 summary: "《458条人性顶级秘术》是一份深度剖析人性弱点、心理博弈与社交策略的电子文档，涵盖识人术、驭人术、防骗术、心理操控、职场权谋等核心内容，帮助你在人际交往、商业谈判、自我防御中掌握主动。"
 slug: "458-human-nature-top-secrets"
 ---
-{< button href="https://pan.quark.cn/s/66038935f3f3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/66038935f3f3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/66038935f3f3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要掌握人性秘术？
 

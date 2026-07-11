@@ -1,4 +1,3 @@
-
 ---
 title: "抖音汤小团漫游中国历史系列：趣味历史启蒙课"
 description: "抖音热门的汤小团漫游中国历史系列，专为儿童打造的历史启蒙课程。通过穿越冒险故事，生动讲解中国五千年历史人物与事件，让孩子在趣味中爱上历史。适合6-12岁小学生，家长必备的早教育儿资源。"
@@ -11,15 +10,15 @@ keywords: ["汤小团漫游中国历史", "抖音历史启蒙", "儿童历史教
 summary: "抖音汤小团漫游中国历史系列，用穿越冒险故事为孩子开启历史启蒙大门。生动讲解五千年历史人物与事件，激发学习兴趣，适合6-12岁小学生。"
 slug: "douyin-tangxiaotuan-chinese-history-adventure"
 ---
-{< button href="https://pan.quark.cn/s/09308c84953f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/09308c84953f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/09308c84953f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 汤小团来了！带孩子穿越五千年历史
 

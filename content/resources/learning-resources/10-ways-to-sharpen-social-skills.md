@@ -1,4 +1,3 @@
-
 ---
 title: "磨砺社交技能的10种方法"
 description: "提升社交能力的实用指南，涵盖10种经过验证的方法：从主动倾听、开放式提问到肢体语言优化、社交暴露练习等，帮助你在工作、生活中自信沟通，建立深厚人际关系。"
@@ -11,15 +10,15 @@ keywords: ["磨砺社交技能", "社交能力提升", "人际沟通方法", "�
 summary: "掌握10种科学有效的社交技能磨砺方法，从倾听、提问到非语言沟通，逐步克服社交恐惧，成为更受欢迎的人。"
 slug: "10-ways-to-sharpen-social-skills"
 ---
-{< button href="https://pan.quark.cn/s/4da070439541" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4da070439541" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4da070439541
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 1. 主动倾听——社交的基石
 

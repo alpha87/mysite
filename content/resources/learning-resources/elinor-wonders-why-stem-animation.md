@@ -1,4 +1,3 @@
-
 ---
 title: "艾美奖STEM科学启蒙动画《小好奇埃莉诺 Elinor Wonders Why (1-9季)》资源分享"
 description: "艾美奖获奖STEM科学启蒙动画《小好奇埃莉诺 Elinor Wonders Why》1-9季全套资源，适合3-8岁儿童的科学探索动画，通过有趣故事激发孩子对自然世界的好奇心，培养科学思维和观察力。夸克网盘下载，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["Elinor Wonders Why", "小好奇埃莉诺", "STEM动画", "科学启�
 summary: "艾美奖获奖STEM科学启蒙动画《小好奇埃莉诺 Elinor Wonders Why》1-9季全套资源分享，适合3-8岁儿童，通过冒险故事激发科学兴趣，培养观察力和批判性思维。夸克网盘链接，保存即永久。"
 slug: "elinor-wonders-why-stem-animation"
 ---
-{< button href="https://pan.quark.cn/s/e8e8678115c4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e8e8678115c4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e8e8678115c4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 动画简介
 

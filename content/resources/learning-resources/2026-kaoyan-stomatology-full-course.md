@@ -1,4 +1,3 @@
-
 ---
 title: "2026考研专业课口腔全程班：高分通关全攻略"
 description: "2026考研口腔综合全程班完整课程资源，包含口解、口组、口外、修复、正畸等核心科目，搭配历年真题解析、冲刺押题、学霸笔记，适合口腔医学考研学子高效备考，快速提升专业课分数。"
@@ -11,15 +10,15 @@ keywords: ["2026考研口腔全程班", "口腔考研课程", "口腔综合", "�
 summary: "2026考研口腔全程班完整课程，覆盖口腔综合全部核心科目，附带真题、笔记和押题，网盘资源直接获取，助力口腔医学考生高效复习、冲刺高分。"
 slug: "2026-kaoyan-stomatology-full-course"
 ---
-{< button href="https://pan.quark.cn/s/dc5214ec92b0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dc5214ec92b0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dc5214ec92b0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2026考研专业课口腔全程班简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《说的全是梗》洛宾：口才提升必读经典，幽默表达与沟通技巧全攻略"
 description: "《说的全是梗》是洛宾老师多年脱口秀与沟通实战的经验总结，从幽默原理、段子结构、即兴发挥到正式演讲，系统拆解口才提升的核心方法。本书适合职场沟通、社交破冰、公众表达等场景，帮助读者快速掌握幽默沟通技巧，成为说话有趣、表达有力的人。"
@@ -11,15 +10,15 @@ keywords: ["说的全是梗 洛宾", "口才提升书籍推荐", "幽默沟通�
 summary: "《说的全是梗》洛宾口才提升经典书籍，系统讲解幽默原理、段子结构、即兴发挥与演讲技巧，涵盖职场、社交、公众表达等多场景，帮助你从零开始掌握幽默沟通，成为说话有魅力的人。"
 slug: "shuo-de-quan-shi-geng-luobin-kou-cai-tisheng"
 ---
-{< button href="https://pan.quark.cn/s/709ee06056fd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/709ee06056fd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/709ee06056fd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

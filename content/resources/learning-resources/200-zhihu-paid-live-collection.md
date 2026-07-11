@@ -1,4 +1,3 @@
-
 ---
 title: "200个知乎收费LIVE精品内容（价值上万元）"
 description: "收录价值上万元的200个知乎付费LIVE精品课程，涵盖职场技能、投资理财、个人成长、情感心理、专业知识等多个领域，限时免费获取，助你零成本学习大咖智慧。"
@@ -11,15 +10,15 @@ keywords: ["知乎收费LIVE", "知乎付费课程", "知乎精品内容", "价�
 summary: "收录价值上万元的200个知乎付费LIVE精品课程，涵盖职场技能、投资理财、个人成长、情感心理、专业知识等多个领域，限时免费获取，助你零成本学习大咖智慧。"
 slug: "200-zhihu-paid-live-collection"
 ---
-{< button href="https://pan.quark.cn/s/268bd65b1b68" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/268bd65b1b68" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/268bd65b1b68
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 知乎LIVE：知识付费的精华聚集
 

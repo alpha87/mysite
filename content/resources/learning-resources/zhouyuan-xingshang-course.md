@@ -1,4 +1,3 @@
-
 ---
 title: "抖音爆款周媛黑白颠尤物之门性商课程：提升魅力与亲密关系的必修课"
 description: "性感女神周媛亲授的资深性商课程，从身体认知、情感沟通到魅力突破，系统讲解尤物之门心法与黑白颠实战技巧，帮助女性活出高级性感力，收获极致亲密关系。"
@@ -11,15 +10,15 @@ keywords: ["周媛性商课", "黑白颠课程", "尤物之门", "性商提升",
 summary: "周媛黑白颠尤物之门性商课程完整资源，涵盖身体认知、情感沟通、魅力突破等核心模块，专为希望提升性商、打造极致魅力的女性设计，内容系统实战。"
 slug: "zhouyuan-xingshang-course"
 ---
-{< button href="https://pan.quark.cn/s/68f1ff388d41" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/68f1ff388d41" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/68f1ff388d41
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

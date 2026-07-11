@@ -1,4 +1,3 @@
-
 ---
 title: "校内1-6同步生字课2476节：小学语文生字学习完整视频教程"
 description: "校内同步生字课2476节视频教程，覆盖小学1-6年级语文生字学习，含笔画、组词、造句、书写示范，适合家长辅导、老师备课、学生自主学习，提升识字写字能力。"
@@ -11,15 +10,15 @@ keywords: ["小学语文生字课", "校内同步生字", "1-6年级生字视频
 summary: "2476节校内同步生字课视频教程，覆盖小学1-6年级全部生字，每节课讲解笔画、组词、造句、书写技巧，是家长辅导、老师备课和学生自主学习的必备资源。"
 slug: "xiaonei-tongbu-shengzi-ke"
 ---
-{< button href="https://pan.quark.cn/s/f5d3973bc086" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f5d3973bc086" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f5d3973bc086
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

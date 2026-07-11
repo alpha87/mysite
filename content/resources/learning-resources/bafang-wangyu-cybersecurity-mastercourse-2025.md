@@ -1,4 +1,3 @@
-
 ---
 title: "八方网域网络安全大师课2025版：221GB实战教学资源"
 description: "八方网域网络安全大师课2025版完整资源包，涵盖渗透测试、漏洞挖掘、Web安全、系统安全、逆向工程等核心模块，221GB高清视频教程，适合从入门到精通的学习者，附赠工具包与实战靶场。"
@@ -11,15 +10,15 @@ keywords: ["网络安全课程", "网络安全大师课", "八方网域", "渗�
 summary: "八方网域网络安全大师课2025版，221GB海量教学资源，覆盖渗透测试、漏洞挖掘、Web安全、系统安全、逆向工程等核心方向，配套工具包与实战环境，是网络安全学习者不可多得的完整课程体系。"
 slug: "bafang-wangyu-cybersecurity-mastercourse-2025"
 ---
-{< button href="https://pan.quark.cn/s/9be463d69006" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9be463d69006" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9be463d69006
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

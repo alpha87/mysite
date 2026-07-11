@@ -1,4 +1,3 @@
-
 ---
 title: "卓克·科技参考4：精选科学知识专栏合集"
 description: "卓克·科技参考系列第四辑，涵盖前沿科技、科学思维、实用知识等多领域内容，由知名科普作者卓克精心讲解，帮助读者构建科学认知体系，适合科技爱好者、终身学习者。包含完整资源下载。"
@@ -11,15 +10,15 @@ keywords: ["卓克科技参考4", "科技参考第四辑", "卓克科普", "得�
 summary: "卓克·科技参考系列第四辑，精选前沿科技、科学思维、实用知识等内容，由知名科普作者卓克精心讲解，助你轻松掌握硬核科学知识，提升认知水平。"
 slug: "zhuoke-keji-cankao-4"
 ---
-{< button href="https://pan.quark.cn/s/7fb266c85e30" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7fb266c85e30" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7fb266c85e30
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于卓克·科技参考4
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《这本书可能救你的命》：一本改变你人生认知的生存指南"
 description: "《这本书可能救你的命》是一本融合健康、心理、安全与自救知识的综合性生存指南。从急救技巧到情绪管理，从日常避险到临终决策，本书以真实案例和科学方法帮助读者在危机时刻做出正确选择。夸克网盘免费下载。"
@@ -11,15 +10,15 @@ keywords: ["这本书可能救你的命", "生存指南", "自救书籍", "急�
 summary: "《这本书可能救你的命》是一本融合健康、心理、安全与自救知识的综合性生存指南。从急救技巧到情绪管理，从日常避险到临终决策，本书以真实案例和科学方法帮助读者在危机时刻做出正确选择。"
 slug: "this-book-might-save-your-life"
 ---
-{< button href="https://pan.quark.cn/s/f0ebdf83c119" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f0ebdf83c119" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f0ebdf83c119
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾想过，在某个不经意间，一本书真的可以改变你的一生？《这本书可能救你的命》正是这样一本极具分量的人生宝典。它并非普通的生活小窍门合集，而是一套经过反复验证的生存智慧系统，涵盖从突发疾病、意外伤害到心理崩溃、社交危机的全场景应对方案。
 

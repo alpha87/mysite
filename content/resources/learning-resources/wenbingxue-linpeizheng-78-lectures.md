@@ -1,4 +1,3 @@
-
 ---
 title: "温病学-广州中医药大学【林培政】78讲完整视频课程"
 description: "广州中医药大学林培政教授主讲的温病学完整78讲视频课程，系统讲解温病学基础理论、卫气营血辨证、三焦辨证及常见温病诊治，适合中医学生、临床医师及中医爱好者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["温病学", "广州中医药大学", "林培政", "温病学78讲", 
 summary: "广州中医药大学林培政教授主讲的温病学78讲完整版，系统讲解温病学核心理论、辨证方法及临床常见温病诊治，高质量视频资源，适合中医专业学习与临床提升。"
 slug: "wenbingxue-linpeizheng-78-lectures"
 ---
-{< button href="https://pan.quark.cn/s/95896de61295" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/95896de61295" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/95896de61295
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 温病学是中医经典课程之一，与《伤寒论》并列，专门研究外感温热病和湿热病的发生、发展规律及防治方法。由广州中医药大学林培政教授主讲的这套《温病学》视频课程，共78讲，内容完整、讲解透彻，是中医学生、临床医师以及中医爱好者系统学习温病学的优质资源。
 

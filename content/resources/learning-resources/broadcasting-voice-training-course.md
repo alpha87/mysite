@@ -1,4 +1,3 @@
-
 ---
 title: "播音主持课程伪声伪音声音教学与普通话培训配音实用教程视频网课"
 description: "系统全面的播音主持与配音课程，涵盖伪声伪音技巧、声音教学、普通话培训、配音实用教程等内容，适合零基础到进阶学习者，配套视频网课资源，助你快速提升声音表现力。"
@@ -11,15 +10,15 @@ keywords: ["播音主持课程", "伪声伪音教程", "声音教学", "普通�
 summary: "系统全面的播音主持与配音课程，涵盖伪声伪音技巧、声音教学、普通话培训、配音实用教程等，适合零基础到进阶学习者，配套视频网课资源，助你快速提升声音表现力。"
 slug: "broadcasting-voice-training-course"
 ---
-{< button href="https://pan.quark.cn/s/51d7a47ee352" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/51d7a47ee352" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/51d7a47ee352
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

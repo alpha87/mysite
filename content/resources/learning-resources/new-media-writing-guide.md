@@ -1,4 +1,3 @@
-
 ---
 title: "新媒体写作实战：掌握最值得投资的职场技能，轻松提升挣钱能力"
 description: "新媒体写作实战教程，从选题策划、标题技巧、内容结构到多平台运营全流程解析，帮助你掌握自媒体写作核心方法，提升职场竞争力与副业变现能力，零基础也能快速上手。"
@@ -11,15 +10,15 @@ keywords: ["新媒体写作实战", "职场技能投资", "写作变现", "自�
 summary: "新媒体写作实战指南，涵盖选题策划、标题技巧、内容结构、多平台运营等核心方法，帮助职场人士通过写作提升收入，零基础也能快速掌握自媒体写作精髓。"
 slug: "xinmeiti-xiezuo-shizhan"
 ---
-{< button href="https://pan.quark.cn/s/03ee90a013bf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/03ee90a013bf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/03ee90a013bf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 新媒体写作是当今时代最值得投资的职场技能之一。无论你是想提升本职工作竞争力，还是希望通过副业增加收入，掌握写作能力都能让你在信息爆炸的环境中脱颖而出。本文从实战角度出发，带你系统掌握新媒体写作的核心方法，帮助你快速开启写作变现之路。
 

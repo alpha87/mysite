@@ -1,4 +1,3 @@
-
 ---
 title: "三源道人《甲辰年道家奇门八字》14集完整教学课程"
 description: "三源道人亲授甲辰年道家奇门八字14集完整课程，融合奇门遁甲与八字命理精髓，深入解析时柱应期、十二长生、生克制化等核心技法，适合易经风水爱好者、命理师及传统文化学习者系统提升实战能力。"
@@ -11,15 +10,15 @@ keywords: ["三源道人奇门八字", "甲辰年八字课程", "道家奇门遁
 summary: "三源道人《甲辰年道家奇门八字》14集完整教学，融合奇门遁甲与八字命理，涵盖时柱应期、十二长生、生克制化等核心技法，附赠夸克网盘资源，适合传统文化学习者与命理从业者进阶提升。"
 slug: "sanyuan-daoren-yi-chen-nian-daojia-qimen-bazi"
 ---
-{< button href="https://pan.quark.cn/s/6791604030f7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6791604030f7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6791604030f7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

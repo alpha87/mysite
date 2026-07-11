@@ -1,4 +1,3 @@
-
 ---
 title: "《三十六计》全集36集完整版：经典兵法智慧与现代应用深度解析"
 description: "《三十六计》全集36集完整版资源，包含原典全文、白话注释、历史战例及现代商业应用解读。深入剖析胜战计、敌战计、攻战计等六套计谋，从空城计到走为上，助力个人提升策略思维与决策能力。夸克网盘高清可下载。"
@@ -11,15 +10,15 @@ keywords: ["三十六计全文", "三十六计完整版", "三十六计白话", 
 summary: "《三十六计》全集36集完整版资源，包含原典全文、白话注释、历史战例及现代商业应用，覆盖胜战计、敌战计、攻战计等六套计谋，高清可下载，适合个人成长、商业学习与策略提升。"
 slug: "san-shi-liu-ji-36ji"
 ---
-{< button href="https://pan.quark.cn/s/132806f623bc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/132806f623bc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/132806f623bc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《三十六计》
 

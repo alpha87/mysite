@@ -1,4 +1,3 @@
-
 ---
 title: "沸腾新十年（完结）"
 description: "《沸腾新十年》完整版电子书，记录2010-2020年中国互联网与科技行业十年巨变，涵盖移动互联网、共享经济、人工智能等核心领域，免费下载PDF/EPUB格式。"
@@ -15,12 +14,12 @@ slug: "feiteng-xinshinian-wanjie"
 
 本书“完结”版本包含全书完整内容，无删减，适合系统阅读或作为参考资料。电子版支持PDF和EPUB两种格式，方便在电脑、平板或阅读器上使用。
 
-{< button href="https://pan.quark.cn/s/bf96777c3cbb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bf96777c3cbb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bf96777c3cbb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

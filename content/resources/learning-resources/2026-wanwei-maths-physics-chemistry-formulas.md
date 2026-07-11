@@ -1,4 +1,3 @@
-
 ---
 title: "2026版《万唯秒懂初中数理化公式定理推导》高清电子版下载"
 description: "2026最新版万唯秒懂初中数理化公式定理推导电子书，涵盖初中数学、物理、化学全部核心公式与定理推导过程，图文并茂，适合初中生预习复习、中考备考。附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["万唯秒懂初中数理化", "初中数理化公式定理推导", "
 summary: "2026最新版《万唯秒懂初中数理化公式定理推导》电子书，完整收录初中数学、物理、化学全部公式与定理推导，图文并茂解析推导逻辑，适合初中生自学、预习、中考冲刺。"
 slug: "2026-wanwei-see-through-middle-school-math-physics-chemistry-formulas"
 ---
-{< button href="https://pan.quark.cn/s/d35a2b0c37b6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d35a2b0c37b6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d35a2b0c37b6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2026版《万唯秒懂初中数理化公式定理推导》——初中理科公式不再死记硬背
 
@@ -52,8 +51,8 @@ slug: "2026-wanwei-see-through-middle-school-math-physics-chemistry-formulas"
 
 目前这本2026版电子书已经可以通过夸克网盘免费获取（资源有时效，请及时保存）。点击下方按钮即可跳转下载：
 
-{< button href="https://pan.quark.cn/s/d35a2b0c37b6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d35a2b0c37b6" target="_blank" >}}
 立即下载《万唯秒懂初中数理化公式定理推导》2026版
-{< /button >}
+{{< /button >}}
 
 > 温馨提示：保存到自己的网盘后即可永久查看，建议同时下载到电脑或平板，打印出来使用更佳。

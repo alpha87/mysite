@@ -1,4 +1,3 @@
-
 ---
 title: "阳台种植技术资料文档大全：从新手到高手的完整指南"
 description: "阳台种植技术资料文档大全，涵盖土壤选择、种子处理、容器搭配、浇水施肥、病虫害防治及支架搭建等全套知识，提供PDF电子书、视频教程与实操手册，适合家庭园艺爱好者、都市农夫快速上手。"
@@ -11,15 +10,15 @@ keywords: ["阳台种植技术", "家庭园艺指南", "阳台种菜教程", "�
 summary: "阳台种植技术资料文档大全，系统整理从土壤选择、种子处理到病虫害防治的全流程知识，含PDF电子书、视频课程与实操手册，帮助零基础用户轻松打造自己的阳台菜园。"
 slug: "balcony-gardening-guide"
 ---
-{< button href="https://pan.quark.cn/s/6b49add7e88e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6b49add7e88e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6b49add7e88e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 阳台种植技术资料文档大全
 

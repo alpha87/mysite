@@ -1,4 +1,3 @@
-
 ---
 title: "牙签云：网文写作全解课程——从开篇到签约全流程攻略"
 description: "牙签云网文写作全解课程完整指南，覆盖开篇写法、节奏把控、人物塑造、大纲搭建、签约技巧等核心模块，手把手教学帮助新手写手快速入门并实现平台签约，附赠实战案例与常见误区避坑。"
@@ -11,15 +10,15 @@ keywords: ["网文写作全解课程", "牙签云写作课", "小说开篇怎么
 summary: "牙签云网文写作全解课程完整指南，从开篇写法、悲剧/爽文节奏、人物塑造到大纲搭建、签约谈判，详细拆解每个环节的核心要点与实战技巧，帮助新人写手系统掌握网文创作与签约全流程。"
 slug: "yinqianyun-wangwen-xiezuo-quanjie-kecheng"
 ---
-{< button href="https://pan.quark.cn/s/c6af2ac39a3d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c6af2ac39a3d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c6af2ac39a3d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /button >}
+{{< /button >}}
 
 ## 课程简介
 

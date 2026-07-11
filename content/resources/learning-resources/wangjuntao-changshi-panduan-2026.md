@@ -1,4 +1,3 @@
-
 ---
 title: "2026年国省考王军涛常识判断理论课：系统精讲与实战技巧"
 description: "王军涛2026国省考常识判断理论课完整版，涵盖法律、政治、经济、人文、科技等高频考点，深入剖析命题规律，提供记忆口诀、答题技巧和真题精讲，助力考生高效备考公务员考试。"
@@ -11,15 +10,15 @@ keywords: ["王军涛常识判断", "2026国考常识", "省考常识判断", "�
 summary: "王军涛2026国省考常识判断理论课完整资源，包含法律、政治、经济、人文、科技等模块的系统讲解与真题实战，帮助考生快速掌握常识判断核心考点与答题方法论。"
 slug: "wangjuntao-changshi-panduan-2026"
 ---
-{< button href="https://pan.quark.cn/s/fe8dbd070ee9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fe8dbd070ee9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fe8dbd070ee9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程说明
 

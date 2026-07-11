@@ -1,4 +1,3 @@
-
 ---
 title: "小学+初中课外专项阅读·非连续性文本阅读资源整合"
 description: "专为小学及初中生整理的课外专项阅读资源，聚焦非连续性文本阅读训练，涵盖图表、说明书、广告、流程图等实用文体，帮助孩子提升信息提取、分析、应用能力，为语文考试及生活阅读打下坚实基础。"
@@ -11,15 +10,15 @@ keywords: ["非连续性文本", "阅读训练", "小学生阅读", "初中生�
 summary: "专为小学及初中生整理的课外专项阅读资源，聚焦非连续性文本阅读，涵盖图表、说明书、广告、流程图等实用文体训练，提升信息提取与分析能力，助力语文学习。"
 slug: "xiaoxue-chuzhong-yuedu-feilianxuxing"
 ---
-{< button href="https://pan.quark.cn/s/1e64f8e922ac" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1e64f8e922ac" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1e64f8e922ac
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是非连续性文本阅读？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "2025得到付费课程更新合集：经济学、科技、个人成长等热门领域资源"
 description: "2025年得到App付费课程最新更新资源合集，涵盖经济学、管理学、科技前沿、个人成长、历史人文等热门领域。本资源提供网盘下载，包含罗振宇、香帅、薛兆丰等名师课程，适合知识学习者免费获取高品质内容。"
@@ -11,15 +10,15 @@ keywords: ["2025得到付费课程", "得到课程更新", "得到资源下载",
 summary: "2025年得到App最新付费课程更新合集，包含经济学、管理学、科技、个人成长等热门领域，提供夸克网盘免费下载，一键获取名师课程资源。"
 slug: "dedao-paid-courses-2025"
 ---
-{< button href="https://pan.quark.cn/s/fdb9e19bbcbe" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fdb9e19bbcbe" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fdb9e19bbcbe
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 2025得到付费课程更新亮点
 

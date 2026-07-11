@@ -1,4 +1,3 @@
-
 ---
 title: "素云12期VIP恋爱课堂：系统提升你的吸引力与亲密关系"
 description: "素云12期VIP恋爱课堂是专为希望提升恋爱能力、改善亲密关系的用户打造的精品课程。涵盖吸引力法则、沟通技巧、心理建设、实战场景等模块，手把手带你从恋爱小白进阶为社交达人，收获高质量爱情。"
@@ -11,15 +10,15 @@ keywords: ["素云12期VIP恋爱课堂", "素云恋爱课", "VIP恋爱课程", "
 summary: "素云12期VIP恋爱课堂是一个系统化、实战型的恋爱提升课程，涵盖吸引力法则、沟通技巧、心理建设、实战场景等模块，帮助学员从提升自我价值到掌握高阶社交策略，最终收获高质量爱情。课程适合零基础学员，提供永久回放和社群陪伴服务。"
 slug: "suyun-12-vip-love-class"
 ---
-{< button href="https://pan.quark.cn/s/321287c0b7a5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/321287c0b7a5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/321287c0b7a5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

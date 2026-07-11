@@ -1,4 +1,3 @@
-
 ---
 title: "信息可视化PPT资源大全：数据图表设计模板与实战教程"
 description: "信息可视化PPT资源合集，涵盖数据图表设计模板、信息图制作技巧、可视化排版指南及实战案例，帮助职场人士和学生高效制作高质量演示文稿，提升数据表达与视觉说服力。"
@@ -11,15 +10,15 @@ keywords: ["信息可视化PPT", "数据图表模板", "可视化教程", "PPT�
 summary: "信息可视化PPT资源大全，包含高质量数据图表模板、信息图设计技巧与实战案例，助你快速提升演示文稿的视觉表达和数据说服力。"
 slug: "info-visualization-ppt"
 ---
-{< button href="https://pan.quark.cn/s/f83506bacb20" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f83506bacb20" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f83506bacb20
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 信息可视化PPT —— 让数据讲出精彩的故事
 

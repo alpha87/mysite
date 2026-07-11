@@ -1,4 +1,3 @@
-
 ---
 title: "2026高考必刷题 化学合订本 通用版 配套课件资源"
 description: "2026高考必刷题化学合订本（通用版）完整配套课件下载，涵盖必修+选修所有章节，高清可编辑PPT，适合考生系统复习、教师备课使用，附赠一轮二轮复习课件模板。"
@@ -11,15 +10,15 @@ keywords: ["2026高考必刷题化学", "化学合订本课件", "通用版化�
 summary: "2026高考必刷题化学合订本（通用版）完整配套课件下载，涵盖必修与选修全部章节，高清可编辑PPT，帮助考生系统梳理知识点、教师高效备课，附赠一轮二轮复习课件模板。"
 slug: "2026-gaokao-bishuanti-huaxue-heidingben-tongyongban-ketang"
 ---
-{< button href="https://pan.quark.cn/s/798dacf8fece" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/798dacf8fece" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/798dacf8fece
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

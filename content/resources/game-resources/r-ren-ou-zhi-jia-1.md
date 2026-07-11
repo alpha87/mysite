@@ -1,4 +1,3 @@
-
 ---
 title: "R-人偶之家(1) 游戏资源分享"
 description: "R-人偶之家(1) 游戏资源下载，包含完整游戏内容、安装指南及游玩技巧。适合对R-人偶之家系列感兴趣的玩家，一键获取优质游戏资源。"
@@ -11,15 +10,15 @@ keywords: ["R-人偶之家", "R-人偶之家1", "人偶之家游戏", "游戏资
 summary: "R-人偶之家(1) 完整游戏资源，提供夸克网盘下载链接，涵盖游戏本体及安装说明。适合喜欢RPG和剧情向玩家的经典之作。"
 slug: "r-ren-ou-zhi-jia-1"
 ---
-{< button href="https://pan.quark.cn/s/f099441cd974" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f099441cd974" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f099441cd974
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

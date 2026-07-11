@@ -1,4 +1,3 @@
-
 ---
 title: "2025刘润年度演讲PPT（附2023-2024年完整版）"
 description: "收集整理了刘润2025年年度演讲PPT全文，同时附赠2023年、2024年历年演讲PPT资料，涵盖商业洞察、趋势分析、管理干货，适合创业者、管理者、职场人士深度学习与复盘参考。"
@@ -11,15 +10,15 @@ keywords: ["刘润年度演讲PPT", "2025刘润演讲", "刘润PPT下载", "商�
 summary: "刘润2025年度演讲PPT完整版，附2023-2024年历年演讲PPT，涵盖商业洞察、趋势分析、管理干货，帮助创业者和管理者深度理解商业本质，提升认知边界。"
 slug: "liurun-annual-speech-ppt-2025"
 ---
-{< button href="https://pan.quark.cn/s/eb8898b820c6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb8898b820c6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb8898b820c6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于刘润年度演讲
 

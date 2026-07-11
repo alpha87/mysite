@@ -1,4 +1,3 @@
-
 ---
 title: "阳光俱乐部 (2024)"
 description: "2024年热门影视资源《阳光俱乐部》高清完整版，独家分享夸克网盘链接，一键转存即可观看。深入解析剧情亮点、角色塑造与幕后制作，适合影迷收藏的高质量片源。"
@@ -11,15 +10,15 @@ keywords: ["阳光俱乐部 2024", "阳光俱乐部电影", "夸克网盘资源"
 summary: "2024年影视作品《阳光俱乐部》高清完整版，提供夸克网盘直链下载。本片凭借独特叙事与精彩表演获得观众好评，是年度不容错过的剧情佳片。点击获取保存链接，长期有效。"
 slug: "yang-guang-ju-le-bu-2024"
 ---
-{< button href="https://pan.quark.cn/s/80ee04abe69e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/80ee04abe69e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/80ee04abe69e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 影片简介
 

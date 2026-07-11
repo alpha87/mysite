@@ -1,4 +1,3 @@
-
 ---
 title: "慈轩《四柱八字——乾坤四步法》35集完整教程：从零到精通八字命理"
 description: "慈轩老师亲授《四柱八字——乾坤四步法》35集视频教程，系统讲解八字排盘、十神分析、大运流年、格局判断等核心内容，适合八字爱好者、命理初学者及进阶学习者，帮助快速掌握四柱八字预测技法。"
@@ -11,15 +10,15 @@ keywords: ["四柱八字教程", "乾坤四步法", "慈轩八字", "八字学�
 summary: "慈轩老师《四柱八字——乾坤四步法》35集完整视频教程，系统讲解八字排盘、十神分析、大运流年、格局判断等核心内容，适合八字爱好者、命理初学者及进阶学习者。"
 slug: "sixiang-bazi-qiankun-sibufa-cixuan"
 ---
-{< button href="https://pan.quark.cn/s/84bb485e4332" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/84bb485e4332" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/84bb485e4332
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

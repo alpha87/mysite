@@ -1,4 +1,3 @@
-
 ---
 title: "英语启蒙付费资源：小低阶段视频合集，轻松开启孩子英语学习之路"
 description: "专为小学低年级（小低）孩子设计的英语启蒙视频资源，涵盖自然拼读、日常对话、儿歌动画及分级阅读，付费精品内容限时分享。本资源适合零基础或初学者，帮助孩子培养语感、积累词汇，家长辅导更省心。"
@@ -11,15 +10,15 @@ keywords: ["英语启蒙视频", "小学低年级英语", "自然拼读视频", 
 summary: "专为小学低年级孩子设计的英语启蒙视频资源合集，包含自然拼读、日常对话、儿歌动画和分级阅读，付费精品内容限时分享，适合零基础或初学者，助力孩子轻松开启英语学习之路。"
 slug: "yingyu-qimeng-fei-ziyuan-xiaodi-shipin"
 ---
-{< button href="https://pan.quark.cn/s/956a2f5c46d0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/956a2f5c46d0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/956a2f5c46d0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要重视小低阶段的英语启蒙？
 

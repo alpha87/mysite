@@ -1,4 +1,3 @@
-
 ---
 title: "危险女王：权力与欲望交织的宫廷史诗"
 description: "《危险女王》是一部扣人心弦的宫廷权谋剧，讲述女主角在权力漩涡中崛起、与各方势力周旋的传奇故事。深度解析剧情亮点、角色关系、视觉美学以及背后的人性博弈，适合历史剧、宫斗剧爱好者观看。"
@@ -11,15 +10,15 @@ keywords: ["危险女王", "危险女王剧情介绍", "危险女王角色", "�
 summary: "《危险女王》是一部扣人心弦的宫廷权谋剧，讲述女主角从卑微宫女到掌控朝堂的女王之路。剧情紧凑，人物丰满，视觉华丽，深刻探讨权力、欲望与人性，是近年不可多得的优质古装剧。"
 slug: "dangerous-queen"
 ---
-{< button href="https://pan.quark.cn/s/5007f77837e4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5007f77837e4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5007f77837e4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、剧情简介
 

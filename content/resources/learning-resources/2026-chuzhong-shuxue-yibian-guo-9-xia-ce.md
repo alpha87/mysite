@@ -1,4 +1,3 @@
-
 ---
 title: "2026《初中数学·一遍过》9年级下册(RJ&BS) 高清电子版+详解"
 description: "2026版《初中数学·一遍过》九年级下册完全覆盖人教版(RJ)和北师大版(BS)教材，包含基础巩固、难点突破、拓展提升三阶训练，附完整答案解析和配套视频讲解，适合初三学生中考复习和同步学习使用。"
@@ -11,15 +10,15 @@ keywords: ["2026初中数学一遍过", "九年级下册数学", "人教版数�
 summary: "2026版《初中数学·一遍过》九年级下册高清电子版，覆盖人教版和北师大版完整内容，从基础到拔高三阶训练，含全部答案解析和配套视频，是初三学生冲刺中考的必备教辅。"
 slug: "2026-chuzhong-shuxue-yibian-guo-9-xia-ce"
 ---
-{< button href="https://pan.quark.cn/s/0af7ddccf466" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0af7ddccf466" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0af7ddccf466
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

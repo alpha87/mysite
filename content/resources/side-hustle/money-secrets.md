@@ -1,4 +1,3 @@
-
 ---
 title: "金钱的秘密：从思维到行动的财富积累完整指南"
 description: "金钱的秘密完整解读，涵盖财富思维、复利效应、资产配置、被动收入与消费陷阱，附赠理财电子书资源，帮助普通人建立正确的金钱观，从零开始实现财务自由。"
@@ -11,15 +10,15 @@ keywords: ["金钱的秘密", "财富思维", "理财书籍推荐", "复利效�
 summary: "金钱的秘密完整解读，从财富思维、复利效应到资产配置与消费陷阱，帮助普通人建立正确的金钱观，附赠理财电子书资源，一步步实现财务自由。"
 slug: "money-secrets-book-guide"
 ---
-{< button href="https://pan.quark.cn/s/942d1cde5a18" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/942d1cde5a18" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/942d1cde5a18
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么99%的人一辈子都赚不到真正的财富？
 

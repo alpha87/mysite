@@ -1,4 +1,3 @@
-
 ---
 title: "编剧、编文、写作教程合集：零基础到进阶的系统学习资源"
 description: "全面的编剧、编文与写作教程合集，涵盖剧本创作、小说写作、文案策划、故事结构等核心内容，提供系统化学习路径与实用技巧，帮助写作者从零基础进阶专业水平。附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["编剧教程合集", "编文教程", "写作教程合集", "剧本�
 summary: "全面的编剧、编文与写作教程合集，涵盖剧本创作、小说写作、文案策划等核心领域，提供系统化学习路径与实用技巧，帮助写作者从零基础进阶专业水平。附夸克网盘下载链接。"
 slug: "screenwriting-writing-tutorial-collection"
 ---
-{< button href="https://pan.quark.cn/s/9018bf97d457" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9018bf97d457" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9018bf97d457
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

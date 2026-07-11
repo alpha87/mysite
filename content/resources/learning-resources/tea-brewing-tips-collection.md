@@ -1,4 +1,3 @@
-
 ---
 title: "各种泡茶技巧合集：从入门到精通的全攻略"
 description: "一次掌握绿茶、红茶、乌龙茶、普洱茶、白茶等各类茶叶的冲泡技巧，从水温控制、投茶量、冲泡时间到茶具选择，详细解析不同茶类的正确泡法，让你泡出最佳口感和香气。"
@@ -11,15 +10,15 @@ keywords: ["泡茶技巧", "泡茶方法", "茶叶冲泡", "绿茶怎么泡", "�
 summary: "一次掌握绿茶、红茶、乌龙茶、普洱茶、白茶等各类茶叶的冲泡技巧，从水温控制、投茶量、冲泡时间到茶具选择，详细解析不同茶类的正确泡法，让你泡出最佳口感和香气。"
 slug: "tea-brewing-tips-collection"
 ---
-{< button href="https://pan.quark.cn/s/3edc31be99d9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3edc31be99d9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3edc31be99d9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、泡茶基本功：掌握水温与时间
 

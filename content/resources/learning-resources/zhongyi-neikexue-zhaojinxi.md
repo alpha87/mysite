@@ -1,4 +1,3 @@
-
 ---
 title: "中医内科学选讲：赵进喜（全11集·完整版）——经典内科辨证论治系统学习"
 description: "赵进喜教授主讲的《中医内科学选讲》完整11集课程资源，涵盖肺系、心系、脾胃、肝胆、肾系等常见内科疾病辨证论治思路，适合中医学子、临床医师及中医爱好者系统提升内科临证能力，附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["中医内科学选讲", "赵进喜中医", "中医内科学课程", 
 summary: "赵进喜教授《中医内科学选讲》全11集完整版，系统讲解内科常见疾病的辨证论治思路与方法，涵盖肺、心、脾胃、肝胆、肾等各系病证，是中医学习者不可多得的经典教学资源。"
 slug: "zhongyi-neikexue-zhaojinxi"
 ---
-{< button href="https://pan.quark.cn/s/3cfc9a888b57" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3cfc9a888b57" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3cfc9a888b57
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

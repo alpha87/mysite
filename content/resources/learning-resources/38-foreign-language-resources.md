@@ -1,4 +1,3 @@
-
 ---
 title: "38门外语小语种资源合集：从入门到精通全套学习资料"
 description: "38门外语小语种资源合集，涵盖日语、韩语、法语、德语、西班牙语、俄语、阿拉伯语、意大利语、葡萄牙语、泰语、越南语、印尼语等38种语言，包括教材、语法、词汇、听力、口语、视频课程等全套学习资料，适合零基础自学、考试备考、出国留学等多场景需求。"
@@ -11,15 +10,15 @@ keywords: ["38门外语", "小语种资源", "多语言学习合集", "日语自
 summary: "38门外语小语种资源合集，包含日语、韩语、法语、德语、西班牙语、俄语、阿拉伯语、意大利语、葡萄牙语、泰语、越南语、印尼语等38种语言的教材、语法、词汇、听力、口语、视频课程等全套学习资料，零基础到精通，一站式下载。"
 slug: "38-foreign-language-resources"
 ---
-{< button href="https://pan.quark.cn/s/751bdfb7e36a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/751bdfb7e36a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/751bdfb7e36a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

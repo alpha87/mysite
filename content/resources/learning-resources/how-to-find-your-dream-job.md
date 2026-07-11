@@ -1,4 +1,3 @@
-
 ---
 title: "如何找到想做的工作：从自我认知到行动的全流程指南"
 description: "迷茫不知道喜欢什么工作？本指南从自我认知、职业兴趣探索、技能匹配到行动计划，手把手教你找到真正热爱且擅长的职业方向，附实用工具和资源下载。"
@@ -11,15 +10,15 @@ keywords: ["如何找到想做的工作", "职业规划指南", "自我认知方
 summary: "一份完整的职业规划指南，从自我认知、兴趣探索、技能匹配到具体行动计划，帮助迷茫的求职者找到真正热爱且擅长的职业方向，附赠实用工具与资源下载。"
 slug: "how-to-find-your-dream-job"
 ---
-{< button href="https://pan.quark.cn/s/873964ed59bb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/873964ed59bb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/873964ed59bb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 第一步：重新认识自己——你擅长什么，喜欢什么
 

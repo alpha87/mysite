@@ -1,4 +1,3 @@
-
 ---
 title: "从新手到大神：剪辑师实战就业班，深度培养创作思维"
 description: "剪辑师实战就业班完整课程指南，从零基础入门到高级剪辑技法，深度培养创作思维，涵盖软件操作、剪辑逻辑、调色音效、故事叙事等核心模块，附真实项目实战，适合想转行剪辑或提升技能的新手与进阶者。"
@@ -11,15 +10,15 @@ keywords: ["剪辑师实战就业班", "视频剪辑教程", "剪辑思维培养
 summary: "剪辑师实战就业班从零基础到高级剪辑技法，深度培养创作思维，涵盖软件操作、剪辑逻辑、调色音效、故事叙事等核心模块，附真实项目实战，助你快速成为专业剪辑师。"
 slug: "clips-editor-practical-training"
 ---
-{< button href="https://pan.quark.cn/s/30b9dbaba936" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/30b9dbaba936" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/30b9dbaba936
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否渴望从剪辑小白蜕变为专业剪辑师？你是否希望掌握创作思维而不仅仅是操作软件？这套「剪辑师实战就业班」正是为你量身打造的系统课程。它不同于市面上碎片化的教程，而是从底层逻辑出发，帮你建立完整的剪辑知识体系与创作思维框架。
 

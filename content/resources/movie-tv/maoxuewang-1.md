@@ -1,4 +1,3 @@
-
 ---
 title: "毛雪汪第一季：毛不易李雪琴汪苏泷治愈系综艺全集资源"
 description: "毛雪汪第一季完整资源，毛不易、李雪琴、汪苏泷三人好友组局的治愈系慢综艺，全程高能笑点与温暖日常，高清画质百度网盘/夸克网盘下载，追综艺必备收藏。"
@@ -11,15 +10,15 @@ keywords: ["毛雪汪全集", "毛雪汪第一季下载", "毛不易综艺", "�
 summary: "毛雪汪第一季完整资源，毛不易、李雪琴、汪苏泷三位好友组成的治愈系慢综艺，记录日常做饭、聊天、玩游戏的温馨时刻，全网资源分享，支持夸克网盘下载。"
 slug: "maoxuewang-yiji"
 ---
-{< button href="https://pan.quark.cn/s/bed6d8e990e4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bed6d8e990e4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bed6d8e990e4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 综艺介绍
 

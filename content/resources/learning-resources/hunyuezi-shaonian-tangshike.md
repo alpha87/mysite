@@ -1,4 +1,3 @@
-
 ---
 title: "混子曰：少年唐诗课 —— 用漫画趣味解锁唐诗学习新方式"
 description: "混子曰少年唐诗课是一套专为青少年设计的漫画唐诗课程，通过生动有趣的漫画形式讲解唐诗背景、诗人故事与诗歌意境，将枯燥的古诗文转化为轻松易懂的内容，帮助孩子爱上唐诗，提升语文素养，是家庭教育和课外拓展的优质资源。"
@@ -11,15 +10,15 @@ keywords: ["混子曰少年唐诗课", "混子曰唐诗", "少年唐诗课资源
 summary: "混子曰少年唐诗课以独创的漫画形式，解读唐诗背后的历史、文化与情感，让青少年在欢笑中掌握唐诗精髓，是激发古诗学习兴趣的宝藏课程。包含完整资源链接，保存即永久。"
 slug: "hunyuezi-shaonian-tangshike"
 ---
-{< button href="https://pan.quark.cn/s/2836488fa724" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2836488fa724" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2836488fa724
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是《混子曰：少年唐诗课》？
 

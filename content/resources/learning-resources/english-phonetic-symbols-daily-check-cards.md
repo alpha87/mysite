@@ -1,4 +1,3 @@
-
 ---
 title: "英语48国际音标每日打卡彩色小纸条28天（空白+答案69页）"
 description: "英语48国际音标学习资源，28天每日打卡彩色小纸条，包含空白练习页和完整答案共69页，适合英语初学者、音标学习者、成人零基础自学，帮助掌握准确发音和拼读规则。"
@@ -11,15 +10,15 @@ keywords: ["英语48国际音标", "音标每日打卡", "彩色小纸条", "28�
 summary: "英语48国际音标28天每日打卡彩色小纸条，含空白练习与答案共69页，系统学习48个音标发音，适合英语初学者、自学者，轻松掌握标准发音。"
 slug: "english-phonetic-symbols-daily-check-cards"
 ---
-{< button href="https://pan.quark.cn/s/1e5d26af953f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1e5d26af953f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1e5d26af953f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 英语48国际音标每日打卡彩色小纸条——28天轻松掌握标准发音
 

@@ -1,4 +1,3 @@
-
 ---
 title: "道爷的三本书：《八部金刚功》《炁体源流》《米晶子济世良方》完整资源下载"
 description: "张至顺道长（道爷）三部经典著作《八部金刚功》《炁体源流》《米晶子济世良方》高清PDF电子版资源，包含八部金刚功功法图解、炁体源流道家丹道秘本、米晶子济世良方中医偏方大全，适合养生爱好者、中医学习者、道家文化研究者收藏研读。"
@@ -11,15 +10,15 @@ keywords: ["八部金刚功PDF", "炁体源流完整版", "米晶子济世良方
 summary: "张至顺道长（道爷）三部经典著作《八部金刚功》《炁体源流》《米晶子济世良方》的高清PDF电子版资源，内容涵盖道家养生功法、丹道秘本和民间中医偏方，是养生爱好者与中医学者的珍贵参考资料。"
 slug: "daoye-three-books"
 ---
-{< button href="https://pan.quark.cn/s/145118ffff18" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/145118ffff18" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/145118ffff18
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 道爷（张至顺道长）简介
 

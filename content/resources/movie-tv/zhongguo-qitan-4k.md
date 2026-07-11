@@ -1,4 +1,3 @@
-
 ---
 title: "Z.中国奇谭 4K：国产动画巅峰之作，超高清画质收藏版"
 description: "下载Z.中国奇谭4K超高清版，这是一部由上海美术电影制片厂出品的现象级国产动画短片集，包含8个独立故事，融合传统美学与现代叙事，4K画质带来极致视觉体验。"
@@ -11,15 +10,15 @@ keywords: ["中国奇谭4K", "国产动画下载", "上海美术电影制片厂"
 summary: "Z.中国奇谭4K超高清版下载，上海美术电影制片厂出品的现象级动画短片集，8个独立故事融合传统美学与现代叙事，4K画质带来极致视觉体验，夸克网盘资源。"
 slug: "zhongguo-qitan-4k"
 ---
-{< button href="https://pan.quark.cn/s/4b08cca9f18a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4b08cca9f18a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4b08cca9f18a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

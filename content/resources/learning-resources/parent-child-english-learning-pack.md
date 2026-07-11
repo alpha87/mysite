@@ -1,4 +1,3 @@
-
 ---
 title: "亲子情境英语学习资料包｜视频+音频+图片 沉浸式启蒙必备"
 description: "亲子情境英语学习资料包收录高质量视频、音频和图片资源，专为家长和孩子设计的情境化英语启蒙素材。通过日常生活场景互动，帮助孩子在真实语境中自然习得英语，适合0-8岁儿童家庭使用，让英语学习更高效、更有趣。"
@@ -11,15 +10,15 @@ keywords: ["亲子情境英语", "英语启蒙资料包", "儿童英语学习资
 summary: "亲子情境英语学习资料包：包含视频、音频、图片三大板块，通过真实生活场景互动教学，帮助0-8岁儿童在情境中自然习得英语。资源丰富、操作简单，家长只需播放即可陪伴孩子进行沉浸式语言启蒙。"
 slug: "parent-child-english-learning-pack"
 ---
-{< button href="https://pan.quark.cn/s/3ac0ae64efe0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3ac0ae64efe0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3ac0ae64efe0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择亲子情境英语？
 

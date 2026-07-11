@@ -1,4 +1,3 @@
-
 ---
 title: "西出玉门多人有声剧（完结）"
 description: "西出玉门多人有声剧完整版资源，由尾鱼经典奇幻小说改编，专业配音演绎，音效精良，全本完结。提供夸克网盘下载，方便离线收听。"
@@ -11,15 +10,15 @@ keywords: ["西出玉门有声剧", "尾鱼有声剧", "多人广播剧", "奇�
 summary: "西出玉门多人有声剧完整完结版，尾鱼原著改编，专业配音团队演绎，音效制作精良，全本收录。夸克网盘直链下载，保存即永久。"
 slug: "xichuyumen-audiobook"
 ---
-{< button href="https://pan.quark.cn/s/c1e5cef107b7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c1e5cef107b7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c1e5cef107b7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 西出玉门多人有声剧简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "爱的替代品（64集）董一&王倩 高清全集完整版"
 description: "《爱的替代品》64集全，董一、王倩主演的都市情感短剧。剧情围绕替身爱情、错位婚姻展开，情节跌宕起伏，反转不断。免费夸克网盘资源，保存即看全集。"
@@ -11,15 +10,15 @@ keywords: ["爱的替代品", "董一王倩", "爱的替代品短剧", "爱的�
 summary: "《爱的替代品》64集全，董一、王倩领衔主演，替身虐恋+豪门恩怨，反转不断，好评如潮。夸克网盘直接保存，永久有效。"
 slug: "ai-de-tidai-pin-64-ji"
 ---
-{< button href="https://pan.quark.cn/s/ef8e68e3935e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ef8e68e3935e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ef8e68e3935e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 《爱的替代品》64集全：董一、王倩演绎错位替身虐恋
 

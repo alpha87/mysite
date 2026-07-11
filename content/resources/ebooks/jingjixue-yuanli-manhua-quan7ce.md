@@ -1,4 +1,3 @@
-
 ---
 title: "经济学原理漫画全7册：用漫画轻松读懂经济学"
 description: "《经济学原理漫画全7册》以漫画形式解读微观经济学、宏观经济学核心概念，涵盖供需、市场结构、GDP、通货膨胀等知识点，适合零基础入门、学生备考、职场提升，搭配夸克网盘下载，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["经济学原理漫画全7册", "漫画经济学", "经济学入门�
 summary: "《经济学原理漫画全7册》用通俗漫画讲解经济学核心理论，涵盖微观与宏观两大板块，附夸克网盘下载链接，保存即永久，适合学生、小白、职场人士快速掌握经济学思维。"
 slug: "jingjixue-yuanli-manhua-quan7ce"
 ---
-{< button href="https://pan.quark.cn/s/576e10f1f7e3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/576e10f1f7e3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/576e10f1f7e3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐《经济学原理漫画全7册》？
 

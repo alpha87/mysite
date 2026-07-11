@@ -1,4 +1,3 @@
-
 ---
 title: "儿童趣味医学科普《凯叔叔系列》ADAM KAY (电子书+音频) 资源分享"
 description: "儿童趣味医学科普《凯叔叔系列》ADAM KAY 电子书+音频全套资源，英国医生Adam Kay创作，用幽默故事讲解人体、疾病与医学知识，适合6-12岁儿童启蒙，培养科学兴趣与健康意识，附网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["儿童趣味医学科普", "凯叔叔系列下载", "Adam Kay 电子
 summary: "儿童趣味医学科普《凯叔叔系列》ADAM KAY 电子书+音频全套资源，英国医生Adam Kay创作，用幽默故事讲解人体、疾病与医学知识，适合6-12岁儿童启蒙，培养科学兴趣与健康意识，附网盘下载。"
 slug: "ertong-quwei-yixue-kepu-kai-shushu-adam-kay"
 ---
-{< button href="https://pan.quark.cn/s/37a2c6b04930" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/37a2c6b04930" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/37a2c6b04930
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "新媒体写作实战：掌握最值得投资的职场技能，提升你的挣钱能力"
 description: "新媒体写作实战指南，从选题策划、内容创作到平台运营，全面解析如何通过写作提升职场竞争力并实现多渠道变现。涵盖爆款标题技巧、用户心理分析、商业文案写作等核心内容，助你快速掌握高薪技能。"
@@ -11,15 +10,15 @@ keywords: ["新媒体写作实战", "写作技能提升", "职场技能投资", 
 summary: "新媒体写作实战指南，从选题策划、内容创作到平台运营，全面解析如何通过写作提升职场竞争力并实现多渠道变现。涵盖爆款标题技巧、用户心理分析、商业文案写作等核心内容，助你快速掌握高薪技能。"
 slug: "new-media-writing-practical"
 ---
-{< button href="https://pan.quark.cn/s/8597d0fce1e2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8597d0fce1e2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8597d0fce1e2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么新媒体写作是当下最值得投资的职场技能？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "杨安平HR课程5套合集：人力资源管理全模块系统学习指南"
 description: "杨安平HR课程5套合集完整资源，涵盖招聘面试、绩效管理、薪酬设计、培训开发、员工关系等核心模块，配套实战案例与模板工具，适合HR从业者快速提升专业能力，系统掌握人力资源管理全流程。"
@@ -11,15 +10,15 @@ keywords: ["杨安平HR课程", "人力资源管理课程", "HR实战课程", "�
 summary: "杨安平HR课程5套合集，覆盖人力资源管理六大模块：招聘、绩效、薪酬、培训、员工关系及综合实战，带模板工具与案例解析，帮助HR从业者从入门到精通，快速落地企业人力资源管理工作。"
 slug: "yang-anping-hr-course"
 ---
-{< button href="https://pan.quark.cn/s/618b88b6b004" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/618b88b6b004" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/618b88b6b004
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

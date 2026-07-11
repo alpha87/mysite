@@ -1,4 +1,3 @@
-
 ---
 title: "最简化英语语法课：零基础快速掌握核心语法体系"
 description: "最简化英语语法课完整资源，专为英语初学者设计，浓缩传统语法书80%冗余内容，只讲最核心、最实用的语法知识点。包含词性、时态、语态、从句、非谓语动词等高频考点，搭配图解与口诀，30天轻松突破语法瓶颈。"
@@ -11,15 +10,15 @@ keywords: ["最简化英语语法课", "英语语法精简教程", "零基础英
 summary: "最简化英语语法课资源，浓缩传统语法书80%冗余内容，只讲最核心实用的语法知识点，搭配图解与口诀，30天轻松突破语法瓶颈，适合英语初学者及基础薄弱者。"
 slug: "simplest-english-grammar-course"
 ---
-{< button href="https://pan.quark.cn/s/c22c6866952e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c22c6866952e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c22c6866952e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要最简化英语语法课？
 

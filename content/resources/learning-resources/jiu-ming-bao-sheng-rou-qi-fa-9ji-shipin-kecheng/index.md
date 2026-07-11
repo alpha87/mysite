@@ -1,4 +1,3 @@
-
 ---
 title: "救命保生揉脐法9集视频手法课程 完整教学"
 description: "救命保生揉脐法9集视频手法课程，涵盖揉脐基础知识、手法详解、常见病症调理、日常保健等完整内容，适合中医爱好者、养生人群、自学者快速掌握揉脐技法，配合夸克网盘资源可永久保存学习。"
@@ -11,15 +10,15 @@ keywords: ["救命保生揉脐法", "揉脐法视频教程", "中医揉脐手法
 summary: "救命保生揉脐法9集视频手法课程资源，系统讲解揉脐的原理、基本手法、针对不同症状的调理方案以及日常保健应用，帮助用户通过简单揉脐动作改善肠胃、促进气血循环、提升免疫力，适合零基础学习。"
 slug: "jiu-ming-bao-sheng-rou-qi-fa-9ji-shipin-kecheng"
 ---
-{< button href="https://pan.quark.cn/s/449604e67722" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/449604e67722" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/449604e67722
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程介绍
 

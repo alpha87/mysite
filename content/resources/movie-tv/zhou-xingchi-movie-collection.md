@@ -1,4 +1,3 @@
-
 ---
 title: "周星驰导演主演作品53部合集：超清典藏版"
 description: "周星驰导演及主演的53部经典电影超清典藏版合集，包含《大话西游》《喜剧之王》《功夫》等代表作，高清修复画质，适合影迷收藏学习，网盘资源永久保存。"
@@ -11,15 +10,15 @@ keywords: ["周星驰电影合集", "周星驰作品", "周星驰导演电影", 
 summary: "周星驰导演及主演的53部经典电影超清典藏版合集，高清修复画质，涵盖《大话西游》《喜剧之王》《功夫》《食神》等经典之作，适合影迷收藏与学习，网盘资源链接长期有效。"
 slug: "zhou-xingchi-movie-collection"
 ---
-{< button href="https://pan.quark.cn/s/7b670214b045" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7b670214b045" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7b670214b045
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 周星驰——无厘头喜剧的永恒符号
 

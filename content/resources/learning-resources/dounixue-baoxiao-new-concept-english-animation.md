@@ -1,4 +1,3 @@
-
 ---
 title: "逗你学爆笑新概念英语动画版：告别枯燥背课文，轻松学英语"
 description: "《逗你学爆笑新概念英语》动画版完整资源，通过幽默剧情和生动动画彻底告别死记硬背。覆盖新概念英语第一册至第四册核心知识点，适合中小学生及英语爱好者自学。夸克网盘永久保存。"
@@ -11,15 +10,15 @@ keywords: ["逗你学新概念英语", "新概念英语动画版", "爆笑学英
 summary: "《逗你学爆笑新概念英语》动画版全套资源，用搞笑剧情和生动动画重构新概念英语经典内容，让孩子在欢笑中掌握单词、句型和语法，彻底告别背课文烦恼。夸克网盘链接，保存即永久。"
 slug: "dounixue-baoxiao-xingainian-yingyu-donghuaban"
 ---
-{< button href="https://pan.quark.cn/s/cf59e1cfba0e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cf59e1cfba0e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cf59e1cfba0e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

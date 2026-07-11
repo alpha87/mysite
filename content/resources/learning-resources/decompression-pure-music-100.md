@@ -1,4 +1,3 @@
-
 ---
 title: "减压纯音集100首无损格式：百分百缓解工作疲劳"
 description: "收录100首无损格式减压纯音乐，涵盖自然白噪音、钢琴轻音乐、冥想音乐等类型，有效缓解工作疲劳、焦虑情绪，适合学习、工作、睡眠时聆听。"
@@ -11,15 +10,15 @@ keywords: ["减压纯音乐100首", "无损格式音乐", "缓解工作疲劳音
 summary: "收录100首无损格式减压纯音乐，包括自然白噪音、钢琴轻音乐、冥想音乐，有效缓解工作疲劳和焦虑，适合学习、工作、睡眠时使用。"
 slug: "decompression-pure-music-100"
 ---
-{< button href="https://pan.quark.cn/s/b3233f20eeb6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b3233f20eeb6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b3233f20eeb6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 简介
 

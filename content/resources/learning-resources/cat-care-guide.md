@@ -1,4 +1,3 @@
-
 ---
 title: "养猫攻略大全+爱猫养护实用手册：从新手到资深猫奴的完整指南"
 description: "一份全面的养猫攻略大全，涵盖猫咪选择、日常喂养、健康护理、行为训练、疾病预防、居家安全等各方面知识。附赠爱猫养护实用手册，帮助新手快速掌握科学养猫方法，让猫咪健康快乐成长。"
@@ -11,15 +10,15 @@ keywords: ["养猫攻略大全", "爱猫养护实用手册", "新手养猫指南
 summary: "一份全面的养猫攻略大全，从猫咪选择到日常养护、健康护理、行为训练等全方位解析，附赠爱猫养护实用手册，适合所有养猫人士参考学习。"
 slug: "yangmao-gonglue-daquan-aimao-yanghu-shouce"
 ---
-{< button href="https://pan.quark.cn/s/b63d369df1ba" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b63d369df1ba" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b63d369df1ba
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这份养猫攻略？
 

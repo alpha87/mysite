@@ -10,15 +10,15 @@ keywords: ["作文类资源合集", "作文电子书", "作文素材大全", "�
 summary: "作文类资源合集上下册完整版，内容包含从小学到高中的作文素材、优秀范文、写作技巧、开头结尾模板、议论文论据等，帮助学生快速提升写作能力，家长和教师的高效辅导工具。"
 slug: "zuowen-ziyuan-heji"
 ---
-{< button href="https://pan.quark.cn/s/9f0fe663a2b8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9f0fe663a2b8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9f0fe663a2b8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

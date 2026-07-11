@@ -1,4 +1,3 @@
-
 ---
 title: "25秋人教版PEP英语3-6年级上册《期中重点知识汇总》下载"
 description: "25秋人教版PEP英语3-6年级上册期中重点知识汇总，涵盖各单元核心词汇、常考句型和语法点，PDF版可直接打印，帮助小学生高效复习期中考试，家长辅导必备。"
@@ -11,15 +10,15 @@ keywords: ["人教版PEP英语期中重点", "小学英语期中复习", "三年
 summary: "25秋人教版PEP英语3-6年级上册期中重点知识汇总，包含各单元核心词汇、常考句型及语法点，PDF格式可直接打印，助力小学生系统复习期中考试。"
 slug: "pep-english-3-6-zhongqi-zhongdian"
 ---
-{< button href="https://pan.quark.cn/s/f17f3d14c891" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f17f3d14c891" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f17f3d14c891
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这份期中重点知识汇总？
 

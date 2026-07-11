@@ -1,4 +1,3 @@
-
 ---
 title: "Apple Music 2024大陆TOP100：年度最热华语及国际金曲完整榜单"
 description: "完整收录Apple Music 2024年度大陆地区最受欢迎的TOP100歌曲，涵盖周杰伦、林俊杰、Taylor Swift等顶级歌手热门作品，包含国语、粤语、英语等多语种金曲，适合歌单整理、音乐推荐及数据研究。"
@@ -11,15 +10,15 @@ keywords: ["Apple Music 2024大陆TOP100", "Apple Music年度歌单", "中国大
 summary: "完整收录Apple Music 2024年度大陆地区最受欢迎TOP100歌曲，含周杰伦、林俊杰、Taylor Swift等歌手热门曲目，国语、粤语、英语多语种，适合歌单收集与音乐研究。"
 slug: "apple-music-2024-mainland-top100"
 ---
-{< button href="https://pan.quark.cn/s/2ad6c4e100bb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2ad6c4e100bb" target="_blank" >}}
 点击获取完整歌单
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2ad6c4e100bb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 Apple Music 每年都会发布各地区年度最热歌曲榜单（Year-End Chart），2024年大陆TOP100榜单正是基于数亿次播放数据，客观反映了中国大陆用户的音乐偏好趋势。这份歌单覆盖了华语流行、欧美热单、日韩歌曲等多语种内容，是了解当年音乐风向的绝佳资料。
 

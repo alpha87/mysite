@@ -1,4 +1,3 @@
-
 ---
 title: "TED演讲稿中英双语精选100篇：视频音频注释字幕学英语电子版素材"
 description: "100篇精选TED演讲中英双语演讲稿，包含视频、音频、注释和字幕，是提升英语听力、口语和阅读能力的优质学习资源。适合英语学习者、教师及自学者使用，电子版可下载学习。"
@@ -11,15 +10,15 @@ keywords: ["TED演讲稿中英双语", "TED演讲100篇", "英语学习素材", 
 summary: "100篇精选TED演讲中英双语演讲稿合集，配套视频、音频、注释和字幕，助你高效提升英语综合能力。电子版资源方便下载，随时随地学习。"
 slug: "ted-speeches-100-bilingual-learning"
 ---
-{< button href="https://pan.quark.cn/s/029779dc7b1c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/029779dc7b1c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/029779dc7b1c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

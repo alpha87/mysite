@@ -1,4 +1,3 @@
-
 ---
 title: "《阿德勒的领导力速成法》电子书：用心理学重塑管理思维"
 description: "《阿德勒的领导力速成法》电子书免费下载，基于阿德勒个体心理学打造的领导力速成指南，涵盖勇气领导、横向关系、课题分离等核心方法，适合管理者、团队领导者及自我提升者阅读。"
@@ -11,15 +10,15 @@ keywords: ["阿德勒的领导力速成法", "领导力电子书", "阿德勒心
 summary: "《阿德勒的领导力速成法》电子书，基于阿德勒个体心理学，系统讲解勇气领导、横向关系、课题分离等核心方法，提供从自我管理到团队引领的速成训练，适合管理者与自我提升者免费下载。"
 slug: "adler-leadership-quick-guide"
 ---
-{< button href="https://pan.quark.cn/s/191b9e422ea9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/191b9e422ea9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/191b9e422ea9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么阿德勒的领导力值得每个管理者学习？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "乐高启蒙搭建课堂+图纸：0基础幼儿搭建教学资源包"
 description: "乐高启蒙搭建课堂资源包，包含系统化搭建课程和超清搭建图纸，适合3-6岁幼儿进行STEAM启蒙。从基础砖块认知到简单机械结构，附赠双面图纸、分类收纳标签和亲子指导手册，帮家长轻松开展家庭乐高教学。"
@@ -11,15 +10,15 @@ keywords: ["乐高启蒙搭建课堂", "乐高搭建图纸", "幼儿乐高教学
 summary: "乐高启蒙搭建课堂资源包，包含系统化课程和超清图纸，适合3-6岁幼儿进行STEAM启蒙。从基础认知到机械结构，附赠指导手册，帮助家长轻松开展家庭乐高教学。"
 slug: "lego-enlightenment-building-classroom-and-blueprints"
 ---
-{< button href="https://pan.quark.cn/s/514492e2527d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/514492e2527d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/514492e2527d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是乐高启蒙搭建课堂？
 

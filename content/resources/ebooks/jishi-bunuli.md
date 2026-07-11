@@ -1,4 +1,3 @@
-
 ---
 title: "《即使不努力》：在松弛中寻找自我的治愈之书"
 description: "《即使不努力》是韩国作家崔恩荣的散文随笔集，全书以温柔细腻的笔触探讨现代人在追求成功焦虑中的自我和解。本书通过14篇生活故事，传递“不努力也没关系”的疗愈力量，适合内耗、焦虑、迷茫的读者寻找内心平静。"
@@ -11,15 +10,15 @@ keywords: ["即使不努力 电子书", "崔恩荣 作品", "韩国治愈系散�
 summary: "《即使不努力》是韩国作家崔恩荣的散文随笔集，通过14个生活故事传递“不努力也没关系”的疗愈力量，帮助内耗、焦虑的读者学会与不完美的自己和解，找到内心的松弛与平静。"
 slug: "jishi-bunuli-cuienrong-sanwen"
 ---
-{< button href="https://pan.quark.cn/s/b5946fe8f26f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b5946fe8f26f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b5946fe8f26f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

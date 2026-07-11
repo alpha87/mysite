@@ -1,4 +1,3 @@
-
 ---
 title: "郭德纲于谦相声资源合集16G：经典段子高清音频打包下载"
 description: "郭德纲于谦相声全集16G高清资源，涵盖《我字系列》《你字系列》《论五十年相声之现状》《夜行记》等数百段经典作品，MP3/FLAC格式，适合相声爱好者收藏、学习脱口秀技巧、研究传统曲艺。附夸克网盘链接，保存即永久。"
@@ -11,15 +10,15 @@ keywords: ["郭德纲于谦相声全集", "德云社相声合集下载", "经典
 summary: "郭德纲于谦相声资源合集16G，包含黄金十年最具代表性的数百段作品，MP3/FLAC双格式，支持手机、电脑播放。从早期剧场版到商演完整版，一次性打包，适合深度相声迷和曲艺研究者。"
 slug: "guodegang-yuqian-xiangsheng-ziyuan-16g"
 ---
-{< button href="https://pan.quark.cn/s/b610e31167ae" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b610e31167ae" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b610e31167ae
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

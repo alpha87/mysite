@@ -1,4 +1,3 @@
-
 ---
 title: "《如何做一个成年人》豆瓣8.8分：一本关于成长与责任的深度指南"
 description: "豆瓣评分8.8的畅销书《如何做一个成年人》电子版下载，本书以幽默而深刻的笔触探讨从少年到成年人的转变，涵盖独立生活、财务管理、人际交往、情绪管理等核心话题，适合正在探索成人世界的年轻人阅读。"
@@ -11,15 +10,15 @@ keywords: ["如何做一个成年人 电子书", "豆瓣高分 成年人 成长"
 summary: "豆瓣评分8.8的畅销书《如何做一个成年人》电子版，以幽默深刻的笔触解读成年人的成长、独立、财务、人际与情绪管理，帮助你顺利过渡到成熟人生。"
 slug: "how-to-be-an-adult"
 ---
-{< button href="https://pan.quark.cn/s/eee63facfc9e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eee63facfc9e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eee63facfc9e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

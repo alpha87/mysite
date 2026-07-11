@@ -1,4 +1,3 @@
-
 ---
 title: "和渊老师AI教育必修课：给小学生家长的AI视频教程"
 description: "和渊老师专为小学生家长打造的AI教育必修课，视频教程涵盖人工智能基础、AI工具应用、家庭教育实践、编程思维启蒙等内容，帮助家长掌握AI时代育儿方法，培养孩子科技素养与创新能力。"
@@ -11,15 +10,15 @@ keywords: ["AI教育必修课", "和渊老师AI课程", "小学生家长AI教程
 summary: "和渊老师专为小学生家长打造的AI教育必修课，系统讲解人工智能基础、AI工具实际应用、家庭教育融合方法，助力家长在AI时代科学育儿，培养孩子科技素养与创新能力。"
 slug: "heyuan-ai-education-course"
 ---
-{< button href="https://pan.quark.cn/s/ff31fc868ee2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ff31fc868ee2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ff31fc868ee2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 和渊老师AI教育必修课：给小学生家长的AI视频教程
 

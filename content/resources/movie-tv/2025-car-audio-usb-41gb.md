@@ -1,4 +1,3 @@
-
 ---
 title: "2025车载音乐U盘大师精调41GB：无损音质，一路畅听"
 description: "2025最新车载音乐U盘，大师精调41GB超清无损音质，涵盖流行、经典、DJ舞曲、民谣等上千首精选歌曲，即插即用，兼容所有车型，为你的驾驶旅途带来极致听觉享受。"
@@ -11,15 +10,15 @@ keywords: ["车载音乐U盘", "大师精调", "41GB无损音乐", "汽车U盘�
 summary: "2025最新车载音乐U盘，大师精调41GB超清无损音质，涵盖流行、经典、DJ舞曲、民谣等上千首精选歌曲，即插即用，兼容所有车型，为你的驾驶旅途带来极致听觉享受。"
 slug: "2025-car-audio-usb-41gb"
 ---
-{< button href="https://pan.quark.cn/s/fb2b1e71d2cf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fb2b1e71d2cf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fb2b1e71d2cf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 产品介绍
 

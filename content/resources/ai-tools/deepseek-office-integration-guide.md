@@ -1,4 +1,3 @@
-
 ---
 title: "DeepSeek接入Office、WPS、Word、Excel、PPT打工人神器"
 description: "DeepSeek接入Office、WPS、Word、Excel、PPT完整教程，实现AI智能写作、数据分析、自动化办公，提升工作效率10倍。支持中文指令操作，零门槛上手，打工人必备神器。"

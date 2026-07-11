@@ -1,4 +1,3 @@
-
 ---
 title: "阿里P9《大厂面试攻略》7节视频：从算法到系统设计全覆盖"
 description: "阿里P9专家亲授《大厂面试攻略》7节高清视频，涵盖算法、数据结构、系统设计、项目经验、行为面试等核心模块。提供大厂面试真题解析、刷题策略、简历优化技巧，帮助程序员高效备战BAT、TMD等一线互联网公司面试。"
@@ -11,15 +10,15 @@ keywords: ["大厂面试攻略视频", "阿里P9面试课程", "程序员面试�
 summary: "阿里P9专家精心制作的《大厂面试攻略》7节视频课程，从算法基础到系统设计，全面解析大厂面试重点。附带真实面试真题、刷题计划表和简历优化建议，适合1-5年后端开发人员冲刺大厂Offer使用。"
 slug: "dachang-mianshi-gonglue-ali-p9"
 ---
-{< button href="https://pan.quark.cn/s/b02bfdb09c0d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b02bfdb09c0d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b02bfdb09c0d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

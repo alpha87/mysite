@@ -1,4 +1,3 @@
-
 ---
 title: "古人有意思：张国立古代文化100讲——穿越时空的文化盛宴"
 description: "张国立老师倾情演绎的《古人有意思》古代文化100讲，带你领略先秦至明清的诗词典故、历史人物、礼仪习俗、器物饮食。完整音频课程，适合历史爱好者、学生、文化从业者系统学习中国古代文化知识。"
@@ -11,15 +10,15 @@ keywords: ["古人有意思张国立", "张国立古代文化100讲", "古代文
 summary: "张国立老师主讲的《古人有意思》古代文化100讲音频全集，涵盖诗词、历史、民俗、器物等，是系统学习中国古代文化的优质资源。"
 slug: "guren-youyisi-zhangguoli-100-jiang"
 ---
-{< button href="https://pan.quark.cn/s/0d7ae92bde25" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0d7ae92bde25" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0d7ae92bde25
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

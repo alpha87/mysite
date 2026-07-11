@@ -1,4 +1,3 @@
-
 ---
 title: "25秋人教版七年级英语上册备课资源：课件+教案+词汇+音频全套下载"
 description: "25秋最新人教版七年级英语上册备课资源合集，包含全套课件、精品教案、词汇表和配套音频，覆盖Starter Unit及正式单元，助力教师高效备课、学生轻松预习，百度网盘/夸克网盘免费下载。"
@@ -11,15 +10,15 @@ keywords: ["人教版七年级英语上册备课资源", "25秋七年级英语�
 summary: "25秋最新人教版七年级英语上册备课资源合集，包含全套课件、精品教案、词汇表和配套音频，覆盖Starter Unit及正式单元，助力教师高效备课、学生轻松预习，百度网盘/夸克网盘免费下载。"
 slug: "renjiaoban-grade7-english-2025-autumn-baike"
 ---
-{< button href="https://pan.quark.cn/s/09937d22d328" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/09937d22d328" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/09937d22d328
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 2025年秋季人教版七年级英语上册备课资源全新发布！为帮助广大初中英语教师高效备课、学生提前预习，我们精心整理了这套完整资源包，涵盖课件、教案、词汇表和配套音频，覆盖Starter Unit以及全部正式单元，真正实现“一套资源搞定整学期”。
 

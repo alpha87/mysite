@@ -1,4 +1,3 @@
-
 ---
 title: "《人生大事 吃喝二字》：烟火气里的生活哲学"
 description: "《人生大事 吃喝二字》是一本关于美食与人生的散文集，通过日常饮食讲述生活真谛，包含经典菜谱、饮食文化、人生感悟。本书适合美食爱好者、生活散文读者，在柴米油盐中感受温暖与智慧。"
@@ -11,15 +10,15 @@ keywords: ["人生大事 吃喝二字电子书", "美食散文推荐", "生活�
 summary: "《人生大事 吃喝二字》通过美食与生活的交织，讲述平凡日子里的温暖与智慧。从一碗面到一桌宴，从童年记忆到异乡漂泊，每一口食物都承载着情感与故事。本书50余篇散文，搭配经典菜谱，让读者在阅读中感悟生活的本真。"
 slug: "rensheng-dashi-chihe-erzi"
 ---
-{< button href="https://pan.quark.cn/s/55529f47fc5b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/55529f47fc5b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/55529f47fc5b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

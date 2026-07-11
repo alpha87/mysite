@@ -10,15 +10,15 @@ keywords: ["后妈也疯狂短剧", "73集完整版", "家庭伦理短剧", "重
 summary: "后妈也疯狂73集完整版短剧，聚焦重组家庭中的婆媳冲突与情感逆袭，节奏紧凑、反转不断。提供夸克网盘直链下载，保存即永久有效，高清无删减，适合短剧爱好者一次追完。"
 slug: "houma-yefengkuang-73ji-duanju"
 ---
-{< button href="https://pan.quark.cn/s/757cbd3576cc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/757cbd3576cc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/757cbd3576cc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧集简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "世界文明史丛书：从古至今跨文明全景解读"
 description: "世界文明史丛书电子版资源，涵盖古埃及、古希腊、罗马、中国、印度、伊斯兰等主要文明的发展脉络，深度解析文明兴衰、文化交流与历史规律，适合历史爱好者、学生及研究者下载阅读。"
@@ -11,15 +10,15 @@ keywords: ["世界文明史丛书", "世界文明史电子书", "历史书籍下
 summary: "世界文明史丛书电子版资源，系统梳理全球主要文明从起源到现代的发展历程，涵盖古埃及、古希腊、罗马、中国、印度、伊斯兰等文明，深入分析文明兴衰规律与文化交流，是理解人类历史全貌的权威读物。"
 slug: "world-civilization-history-ebooks"
 ---
-{< button href="https://pan.quark.cn/s/5b53a3039f6d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5b53a3039f6d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5b53a3039f6d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 世界文明史丛书简介
 

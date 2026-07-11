@@ -1,4 +1,3 @@
-
 ---
 title: "百家讲坛之易经的奥秘（全15集·完整版）高清下载"
 description: "曾仕强教授主讲的《易经的奥秘》全15集完整版，百家讲坛经典节目，高清视频资源，包含易经起源、八卦、六十四卦、阴阳五行等核心内容，适合易经入门学习与收藏。"
@@ -11,15 +10,15 @@ keywords: ["易经的奥秘全集", "百家讲坛易经", "曾仕强易经", "�
 summary: "曾仕强教授主讲的《易经的奥秘》全15集完整版，百家讲坛经典节目，高清视频资源，涵盖易经起源、八卦、六十四卦、阴阳五行等核心内容，是易经入门与深度学习的绝佳资料。"
 slug: "baijiajiangtan-yijing-15ji"
 ---
-{< button href="https://pan.quark.cn/s/c36ae5bf7830" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c36ae5bf7830" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c36ae5bf7830
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 节目简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "中药材原植物来源鉴别：王锋祥教授19讲完整课程（莱芜职业技术学院）"
 description: "莱芜职业技术学院王锋祥教授主讲的中药材原植物来源鉴别完整课程，共19讲，系统讲解常见中药材的原植物形态、分类特征、鉴别要点及易混淆品种区分方法，适合中药学专业学生、中药从业者及爱好者学习参考。"
@@ -11,15 +10,15 @@ keywords: ["中药材原植物来源鉴别", "王锋祥中药课程", "莱芜职
 summary: "莱芜职业技术学院王锋祥教授主讲的中药材原植物来源鉴别19讲完整视频，系统讲解常见中药材的原植物形态、分类特征、鉴别要点及易混淆品种区分方法，是中药学专业学生和从业者的实用学习资源。"
 slug: "zhongyaocai-yuanzhiwu-laiyuan-jianbie-wangfengxiang"
 ---
-{< button href="https://pan.quark.cn/s/5ff3ffce74e3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5ff3ffce74e3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5ff3ffce74e3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

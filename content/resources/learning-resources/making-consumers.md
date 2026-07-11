@@ -1,4 +1,3 @@
-
 ---
 title: "《制造消费者》深度解读：消费社会的起源、演变与批判"
 description: "《制造消费者》是一部揭示消费社会本质的经典之作，从19世纪的百货商店到现代品牌营销，详细剖析消费者如何被制造、广告如何塑造欲望、商品如何成为身份象征。本书适合社会学、市场营销、文化研究学者及普通读者阅读。"
@@ -11,15 +10,15 @@ keywords: ["制造消费者 书籍", "消费社会批判", "消费文化分析",
 summary: "《制造消费者》从19世纪百货商店到现代品牌营销，完整揭示消费者如何被制造、广告如何塑造欲望、商品如何成为身份象征，是理解消费社会本质的必读之作。"
 slug: "making-consumers-book-review"
 ---
-{< button href="https://pan.quark.cn/s/037cc8233502" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/037cc8233502" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/037cc8233502
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《制造消费者》
 

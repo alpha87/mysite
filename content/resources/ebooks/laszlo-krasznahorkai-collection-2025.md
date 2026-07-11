@@ -1,4 +1,3 @@
-
 ---
 title: "2025年拉斯洛·克拉斯诺霍尔卡伊作品集：匈牙利文学大师经典全收录"
 description: "拉斯洛·克拉斯诺霍尔卡伊作品集下载，收录《撒旦探戈》《都灵之马》《战争与战争》等代表作，匈牙利当代文学大师的深邃哲思与魔幻现实主义杰作，适合文学爱好者、研究者收藏阅读。"
@@ -11,15 +10,15 @@ keywords: ["拉斯洛·克拉斯诺霍尔卡伊作品集", "匈牙利文学大�
 summary: "2025年拉斯洛·克拉斯诺霍尔卡伊作品集，收录《撒旦探戈》《都灵之马》《战争与战争》等代表作，匈牙利文学大师的魔幻现实主义杰作，深邃哲思与独特叙事风格，适合深度文学爱好者收藏。"
 slug: "laszlo-krasznahorkai-collection-2025"
 ---
-{< button href="https://pan.quark.cn/s/6f21e6118178" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6f21e6118178" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6f21e6118178
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 作家简介：当代匈牙利文学的黑暗史诗作者
 

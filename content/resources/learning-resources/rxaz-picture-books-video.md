@@ -1,4 +1,3 @@
-
 ---
 title: "RXAZ绘本视频（A到Z级别，由易到难）"
 description: "RXAZ绘本视频系列涵盖A到Z共26个级别，由易到难循序渐进，适合0基础英语启蒙至进阶学习。包含海量原版绘本朗读视频，帮助孩子培养语感、积累词汇、提升阅读理解能力，是亲子共读和独立阅读的优质资源。"
@@ -11,15 +10,15 @@ keywords: ["RXAZ绘本视频", "英语启蒙绘本", "分级阅读视频", "儿�
 summary: "RXAZ绘本视频系列从A到Z共26个级别，由易到难，涵盖大量原版绘本朗读视频。帮助孩子逐步提升英语语感、词汇量和阅读理解能力，适合0基础到小学阶段的英语学习者。"
 slug: "rxaz-picture-books-video"
 ---
-{< button href="https://pan.quark.cn/s/7e681cff0b7b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e681cff0b7b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e681cff0b7b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

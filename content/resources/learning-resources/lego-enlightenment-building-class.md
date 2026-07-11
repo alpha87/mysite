@@ -1,4 +1,3 @@
-
 ---
 title: "乐高启蒙搭建课堂+图纸：零基础儿童积木搭建教程"
 description: "乐高启蒙搭建课堂完整教程，包含详细搭建图纸和课程视频，适合3-6岁儿童零基础学习积木搭建。通过主题式搭建（动物、车辆、建筑等）培养动手能力、空间想象力、专注力和逻辑思维，家长可陪同孩子一起完成，是幼儿早教益智的优质资源。"
@@ -11,15 +10,15 @@ keywords: ["乐高启蒙搭建课堂", "乐高搭建图纸", "儿童积木搭建
 summary: "乐高启蒙搭建课堂+图纸资源，包含多种主题的详细搭建步骤和课程指导，帮助3-6岁儿童零基础掌握积木搭建技巧，培养动手能力、空间想象力和专注力，家长可轻松陪同学习。"
 slug: "lego-enlightenment-building-class"
 ---
-{< button href="https://pan.quark.cn/s/23133a13b459" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/23133a13b459" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/23133a13b459
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择乐高启蒙搭建课堂？
 

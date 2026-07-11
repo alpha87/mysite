@@ -1,4 +1,3 @@
-
 ---
 title: "《跟着大师学写作》套装共6册：学习经典写作技巧的必备资源"
 description: "《跟着大师学写作》套装共6册，涵盖从叙事、描写到修辞、结构的全方位写作技巧，精选鲁迅、老舍、沈从文等文学大师的写作心得，适合写作爱好者、学生及自媒体创作者系统提升文笔。"
@@ -11,15 +10,15 @@ keywords: ["跟着大师学写作套装", "写作技巧书籍", "大师写作方
 summary: "《跟着大师学写作》套装共6册，系统讲解叙事、描写、修辞、结构等写作核心技巧，收录鲁迅、老舍、沈从文等大师的写作经验与作品分析，适合各水平写作者提升文笔。"
 slug: "follow-masters-writing-6-books"
 ---
-{< button href="https://pan.quark.cn/s/359c60253ccf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/359c60253ccf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/359c60253ccf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

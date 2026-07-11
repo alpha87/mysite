@@ -10,15 +10,15 @@ keywords: ["播音课程", "口才课程", "播音主持培训", "口才训练�
 summary: "播音主持与口才训练课程大合集，涵盖普通话、声音美化、即兴表达、演讲沟通等核心内容，系统提升语言表达能力，适合各类学习者。"
 slug: "broadcasting-eloquence-course-collection"
 ---
-{< button href="https://pan.quark.cn/s/a87e8f221105" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a87e8f221105" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a87e8f221105
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 无论你是播音爱好者、职场白领、主播达人，还是希望提升演讲与沟通能力的学生、讲师，这套《播音课程口才课程合集》都能为你提供系统化的学习资源。合集汇集了多个知名教学机构的精品课程与内部资料，内容覆盖从基础到进阶的完整路径：
 

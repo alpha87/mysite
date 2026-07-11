@@ -1,4 +1,3 @@
-
 ---
 title: "吞噬星空动画全集高清资源下载（夸克网盘）"
 description: "吞噬星空动画全集高清资源下载，包含全部剧集、OVA及剧场版。国漫科幻巅峰之作，改编自我吃西红柿同名小说，讲述地球武者罗峰崛起之路。夸克网盘永久链接，保存即享。"
@@ -11,15 +10,15 @@ keywords: ["吞噬星空下载", "吞噬星空动画资源", "国产科幻动画
 summary: "吞噬星空动画全集高清资源下载，涵盖第一季、第二季、第三季及剧场版。国漫科幻巅峰之作，由玄机科技制作，全网口碑爆棚。夸克网盘永久有效，建议保存。"
 slug: "tunshi-xingkong-donghua-ziyuan"
 ---
-{< button href="https://pan.quark.cn/s/8091c67e35ce" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8091c67e35ce" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8091c67e35ce
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 作品简介
 

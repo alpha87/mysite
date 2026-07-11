@@ -1,4 +1,3 @@
-
 ---
 title: "颠覆你的传统英语学习课程：高效AI辅助学习指南"
 description: "打破传统英语学习模式，结合AI工具与科学记忆法，提供从听力、口语到阅读写作的完整学习方案。包含资源获取方式，助你高效提升英语能力，告别死记硬背。"
@@ -11,15 +10,15 @@ keywords: ["颠覆传统英语学习", "英语学习课程", "AI辅助英语学�
 summary: "颠覆传统英语学习课程，结合AI工具与科学记忆法，提供从听力、口语到阅读写作的完整学习方案，资源免费获取，助你高效突破英语瓶颈。"
 slug: "disrupt-traditional-english-learning"
 ---
-{< button href="https://pan.quark.cn/s/19dfbcb3da05" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/19dfbcb3da05" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/19dfbcb3da05
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你学了十几年英语依然开不了口？
 

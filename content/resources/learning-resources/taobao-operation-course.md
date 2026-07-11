@@ -1,4 +1,3 @@
-
 ---
 title: "2025淘宝全套运营推广现场课程：从零基础到爆款打造全攻略"
 description: "2025淘宝全套运营推广现场课程完整资源，涵盖店铺搭建、选品策略、直通车推广、搜索优化、活动报名、数据分析和爆款打造全流程，适合新手和进阶卖家系统学习淘宝运营核心技能。"
@@ -11,15 +10,15 @@ keywords: ["2025淘宝运营教程", "淘宝推广课程", "电商运营培训",
 summary: "2025淘宝全套运营推广现场课程，从店铺搭建到爆款打造全流程教学，涵盖选品、直通车、搜索、活动、数据等核心模块，帮助卖家系统掌握淘宝运营推广实战技能。"
 slug: "taobao-operation-course-2025"
 ---
-{< button href="https://pan.quark.cn/s/9da0afaaa430" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9da0afaaa430" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9da0afaaa430
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

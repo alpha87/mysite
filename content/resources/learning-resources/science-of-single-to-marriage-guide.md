@@ -1,4 +1,3 @@
-
 ---
 title: "科学脱单指南：如何让你爱的人爱上你"
 description: "一套基于心理学与行为科学的脱单实战方法，涵盖吸引力法则、沟通技巧、约会节奏、长期关系维护等核心模块，帮助你从自我提升到精准吸引，高效找到并留住那个对的人。"
@@ -11,15 +10,15 @@ keywords: ["科学脱单指南", "恋爱方法论", "吸引力提升", "恋爱�
 summary: "一套基于心理学与行为科学的脱单实战方法，从吸引力法则、沟通技巧、约会节奏到长期关系维护，手把手教你提升自我价值、精准释放魅力，高效吸引心仪对象并建立稳定亲密关系。"
 slug: "science-of-single-to-marriage-guide"
 ---
-{< button href="https://pan.quark.cn/s/ecf283818edb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ecf283818edb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ecf283818edb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你总是单身？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "王立军《四柱视频课程》34集完整版：零基础学八字命理"
 description: "王立军四柱视频课程34集完整版，从基础知识到高级技法，系统讲解八字排盘、十神分析、大运流年推断，适合命理爱好者、风水从业者学习，助你快速掌握传统四柱命理精华。"
@@ -11,15 +10,15 @@ keywords: ["四柱视频课程", "王立军四柱", "八字学习", "命理入�
 summary: "王立军四柱视频课程34集完整版，系统讲解八字排盘、十神分析、大运流年推断等核心技法，零基础也可快速入门，适合命理爱好者和风水从业者提升实战能力。"
 slug: "wang-lijun-sizhu-video-course"
 ---
-{< button href="https://pan.quark.cn/s/6d7ea5513a15" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d7ea5513a15" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d7ea5513a15
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

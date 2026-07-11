@@ -1,4 +1,3 @@
-
 ---
 title: "幼小衔接合集：拼音、数学、识字、专注力训练全套资源"
 description: "幼小衔接必备学习资源合集，涵盖拼音启蒙、数学思维、识字卡片、专注力训练、控笔练习、英语启蒙等内容，家长辅导孩子顺利过渡小学阶段的实用工具包。"
@@ -11,15 +10,15 @@ keywords: ["幼小衔接资源", "幼小衔接合集", "拼音学习", "数学�
 summary: "幼小衔接必备学习资源合集，包含拼音、数学、识字、专注力、控笔、英语等全套材料，帮助家长和孩子轻松完成幼儿园到小学的过渡准备。"
 slug: "youxiao-xianjie-heji"
 ---
-{< button href="https://pan.quark.cn/s/c7cd29c2b645" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c7cd29c2b645" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c7cd29c2b645
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 孩子即将上小学？这份幼小衔接资源合集帮你省心省力
 
@@ -49,6 +48,6 @@ slug: "youxiao-xianjie-heji"
 
 立即保存这份资源合集，陪孩子一起顺利跨过幼升小的门槛吧！
 
-{< alert icon="lightbulb" cardColor="#f4a261" iconColor="#264653" textColor="#264653" >}
+{{< alert icon="lightbulb" cardColor="#f4a261" iconColor="#264653" textColor="#264653" >}}
 Tips：资源链接长期有效，但建议尽快保存到自己的网盘，避免失效。
-{< /alert >}
+{{< /alert >}}

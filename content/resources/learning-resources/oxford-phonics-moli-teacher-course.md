@@ -1,4 +1,3 @@
-
 ---
 title: "牛津自然拼读世界-茉莉老师配套课程【5个级别169节视频课】"
 description: "牛津自然拼读世界官方配套课程，由茉莉老师亲授，涵盖5个级别共169节高清视频课，从26个字母基础发音到多字母组合拼读，完整系统帮助孩子掌握自然拼读规则，适合幼儿园及小学阶段英语启蒙学习。"
@@ -11,15 +10,15 @@ keywords: ["牛津自然拼读世界配套课程", "茉莉老师自然拼读", "
 summary: "牛津自然拼读世界茉莉老师配套课程，5个级别169节视频课，系统讲解26个字母发音到多字母组合，适合儿童英语启蒙与小学阶段拼读学习。"
 slug: "oxford-phonics-moli-teacher-course"
 ---
-{< button href="https://pan.quark.cn/s/fffa94ee6858" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fffa94ee6858" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fffa94ee6858
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

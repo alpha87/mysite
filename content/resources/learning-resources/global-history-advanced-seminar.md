@@ -1,4 +1,3 @@
-
 ---
 title: "全球史高级研修班：跨越文明边界的大历史视角"
 description: "全球史高级研修班系统梳理世界文明发展脉络，涵盖东西方历史互动、跨文化贸易、帝国兴衰、全球交流网络等核心主题，适合历史爱好者、史学专业学生及终身学习者，提供高密度知识框架与深度分析。"
@@ -11,15 +10,15 @@ keywords: ["全球史高级研修班", "全球史课程", "世界历史培训", 
 summary: "全球史高级研修班系统梳理世界文明发展脉络，涵盖东西方历史互动、跨文化贸易、帝国兴衰、全球交流网络等核心主题，适合历史爱好者、史学专业学生及终身学习者，提供高密度知识框架与深度分析。"
 slug: "quanqiushi-gaoji-yanxiuban"
 ---
-{< button href="https://pan.quark.cn/s/0d4cec9f72a0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0d4cec9f72a0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0d4cec9f72a0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程背景：为什么要学习全球史？
 

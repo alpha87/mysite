@@ -1,4 +1,3 @@
-
 ---
 title: "《稀缺》书评：我们是如何陷入贫穷与忙碌的，破解稀缺心态的终极指南"
 description: "《稀缺》由塞德希尔·穆来纳森和埃尔德·沙菲尔合著，深度剖析稀缺心态如何导致贫穷与忙碌的恶性循环。本书通过认知带宽、管窥效应等核心概念，揭示资源稀缺背后的心理机制，并提供实用策略帮助读者跳出稀缺陷阱，重获富足与自由。"
@@ -11,15 +10,15 @@ keywords: ["稀缺书评", "稀缺心态是什么", "贫穷与忙碌", "如何�
 summary: "《稀缺》一书揭示了贫穷与忙碌背后的心理机制，稀缺心态消耗认知带宽，导致决策失误和资源匮乏的恶性循环。本文深度解读核心观点，提供实用策略，帮助读者打破稀缺陷阱，实现富足人生。"
 slug: "scarcity-book-review"
 ---
-{< button href="https://pan.quark.cn/s/f8f01696ca4f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f8f01696ca4f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f8f01696ca4f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、为什么我们总是越穷越忙，越忙越穷？
 

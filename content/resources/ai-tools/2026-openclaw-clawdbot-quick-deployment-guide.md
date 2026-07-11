@@ -1,4 +1,3 @@
-
 ---
 title: "2026年新人0门槛部署OpenClaw（Clawdbot）快速极简部署教程"
 description: "2026年最新OpenClaw（Clawdbot）部署指南，专为新手设计，提供零门槛、快速极简的部署教程，涵盖环境准备、一键脚本、常见问题解决，助你轻松搭建AI助手。"

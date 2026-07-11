@@ -1,4 +1,3 @@
-
 ---
 title: "小李子莱昂纳多·迪卡普里奥电影合集 238GB 高清收藏版"
 description: "收录莱昂纳多·迪卡普里奥（小李子）主演的经典电影全集，包括泰坦尼克号、盗梦空间、荒野猎人、华尔街之狼、猫鼠游戏、飞行家等共数十部影片，总容量238GB，画质卓越，适合影迷收藏与反复观看。本资源持续更新，涵盖奥斯卡获奖作品及口碑佳作。"
@@ -11,15 +10,15 @@ keywords: ["莱昂纳多电影合集", "小李子电影全集", "高清电影资
 summary: "莱昂纳多·迪卡普里奥（小李子）经典电影全集，238GB高清画质，涵盖泰坦尼克号、盗梦空间、荒野猎人、华尔街之狼等数十年影帝级作品，夸克网盘直链下载，影迷必备收藏。"
 slug: "leonardo-dicaprio-movie-collection"
 ---
-{< button href="https://pan.quark.cn/s/ff314c6be7af" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ff314c6be7af" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ff314c6be7af
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 莱昂纳多·迪卡普里奥电影合集介绍
 

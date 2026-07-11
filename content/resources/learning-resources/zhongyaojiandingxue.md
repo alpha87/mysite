@@ -1,4 +1,3 @@
-
 ---
 title: "中药鉴定学-辽宁中医药大学【翟延君】（42讲完整版）"
 description: "辽宁中医药大学翟延君主讲的中药鉴定学精品课程，共42讲完整收录。从药材性状鉴别、显微鉴别到理化鉴别，全面覆盖中药鉴定核心知识体系，适合中医药专业学生、考研备考者及中药从业者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["中药鉴定学", "辽宁中医药大学", "翟延君", "42讲完整
 summary: "辽宁中医药大学翟延君主讲的中药鉴定学42讲完整版课程，系统涵盖药材性状鉴别、显微鉴别、理化鉴别等核心方法，适合中医药专业学生及从业者系统提升中药鉴定能力。"
 slug: "zhongyaojiandingxue-liaoning-zhongyiyao-daxue-zhaiyanjun-42jiang"
 ---
-{< button href="https://pan.quark.cn/s/0cd306b47488" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0cd306b47488" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0cd306b47488
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

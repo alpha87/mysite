@@ -1,4 +1,3 @@
-
 ---
 title: "单片机原理及应用完整学习指南：从入门到实战"
 description: "单片机原理及应用全面教程，涵盖51单片机、STM32等主流芯片，从基础电路知识、编程语言(C/汇编)到实际项目开发，提供系统学习路径、开发工具推荐、常见问题解答，适合电子爱好者、大学生及工程师提升技能。"
@@ -11,15 +10,15 @@ keywords: ["单片机原理及应用", "单片机学习", "嵌入式系统", "�
 summary: "单片机原理及应用完整教程，从基础到实战，覆盖51单片机与STM32开发，包含电路知识、编程语言、开发工具及典型项目，助你快速掌握嵌入式系统核心技术。"
 slug: "microcontroller-principles-and-applications"
 ---
-{< button href="https://pan.quark.cn/s/53433636d286" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/53433636d286" target="_blank" >}}
 点击获取资源
-{< /button >}}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/53433636d286
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 单片机（Microcontroller）是一种将中央处理器、存储器、输入输出接口等集成在一颗芯片上的微型计算机，广泛应用于智能家居、工业控制、汽车电子、机器人等领域。学习《单片机原理及应用》是进入嵌入式开发世界的第一步。本文为你梳理一条从零基础到能独立完成项目的学习路径，并配套高质量的教程资源。
 

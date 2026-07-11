@@ -1,4 +1,3 @@
-
 ---
 title: "财务Excel零基础速成课｜函数公式+数据透视表+PPT制作（高薪就业+实战案例）"
 description: "从零开始学习财务Excel，涵盖函数公式、数据透视表、PPT制作等实战技能，结合真实财务案例，助你快速掌握Excel办公应用，实现高薪就业。适合会计、财务、审计等岗位学习者。"
@@ -11,15 +10,15 @@ keywords: ["财务Excel速成", "Excel函数公式", "数据透视表教程", "�
 summary: "财务Excel零基础速成课，从函数公式到数据透视表，再到PPT制作，全面覆盖财务办公所需的核心Excel技能。通过真实财务案例教学，帮助小白快速上手，提升职场竞争力，实现高薪就业。"
 slug: "excel-finance-zero-basics-course"
 ---
-{< button href="https://pan.quark.cn/s/cb956fa77acc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb956fa77acc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb956fa77acc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

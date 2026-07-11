@@ -1,4 +1,3 @@
-
 ---
 title: "失踪调查组：生死未卜 S02｜悬疑纪录片全集资源"
 description: "《失踪调查组：生死未卜》第二季全集资源，包括幕后花絮与独家访谈。深度追踪悬案、失踪人口与未解之谜，BBC风格纪实纪录片，高清下载与在线观看。"
@@ -11,15 +10,15 @@ keywords: ["失踪调查组生死未卜第二季", "Missing Investigation Season
 summary: "《失踪调查组：生死未卜》第二季全集资源，包括幕后花絮与独家访谈。深度追踪悬案、失踪人口与未解之谜，BBC风格纪实纪录片，高清下载与在线观看。"
 slug: "missing-investigation-s02"
 ---
-{< button href="https://pan.quark.cn/s/196cbaa31363" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/196cbaa31363" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/196cbaa31363
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 纪录片简介
 

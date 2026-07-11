@@ -1,4 +1,3 @@
-
 ---
 title: "迈克尔杰克逊演唱会全集：高清经典现场完整珍藏版"
 description: "迈克尔杰克逊演唱会全集资源，收录布加勒斯特、慕尼黑、伦敦、哥本哈根等经典现场，高清画质、顶级音效，涵盖1987至2009年巅峰巡演，明星资源全面，支持在线下载。"
@@ -11,15 +10,15 @@ keywords: ["迈克尔杰克逊演唱会", "MJ演唱会全集", "Michael Jackson 
 summary: "迈克尔杰克逊演唱会全集高清完整版，布加勒斯特、慕尼黑、伦敦等全球经典巡演现场，稀有幕后花絮及纪录片，一网打尽流行天王的舞台传奇。"
 slug: "michael-jackson-concert-collection"
 ---
-{< button href="https://pan.quark.cn/s/264c570318ef" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/264c570318ef" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/264c570318ef
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 迈克尔杰克逊演唱会全集：传奇现场再现
 

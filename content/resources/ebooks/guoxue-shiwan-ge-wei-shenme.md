@@ -1,4 +1,3 @@
-
 ---
 title: "国学《十万个为什么》：儿童国学启蒙必备电子书"
 description: "国学《十万个为什么》电子书下载，涵盖传统国学基础知识，适合儿童启蒙教育。从经典诗词到历史典故，从成语故事到文化常识，一套书解决孩子对国学的各种好奇。PDF高清版，可打印学习。"
@@ -11,15 +10,15 @@ keywords: ["国学十万个为什么电子书", "儿童国学启蒙书", "国学
 summary: "国学《十万个为什么》电子书，专为儿童设计的国学启蒙读物，涵盖经典诗词、历史典故、成语故事等，帮助孩子轻松入门传统文化。高清PDF版，可下载打印。"
 slug: "guoxue-shiwan-ge-wei-shenme"
 ---
-{< button href="https://pan.quark.cn/s/814d0c1074ca" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/814d0c1074ca" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/814d0c1074ca
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 国学启蒙，从《十万个为什么》开始
 
