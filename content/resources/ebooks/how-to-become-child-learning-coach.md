@@ -1,4 +1,3 @@
-
 ---
 title: "牧云歌《如何成为孩子的学习私教》电子书下载"
 description: "牧云歌《如何成为孩子的学习私教》完整电子书资源，涵盖学习方法、亲子沟通、作业辅导、习惯培养等核心内容，帮助家长掌握科学教育方法，成为孩子最得力的学习伙伴。"
@@ -11,15 +10,15 @@ keywords: ["如何成为孩子的学习私教", "牧云歌家庭教育", "亲子
 summary: "牧云歌《如何成为孩子的学习私教》电子书资源，系统讲解家长如何从心态、方法、沟通、习惯等方面切入，成为孩子学习路上的专业私教。涵盖高效作业辅导、学习兴趣激发、专注力训练等实用技巧。"
 slug: "muyunge-how-to-become-child-learning-coach"
 ---
-{< button href="https://pan.quark.cn/s/cb1e011c474f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb1e011c474f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb1e011c474f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

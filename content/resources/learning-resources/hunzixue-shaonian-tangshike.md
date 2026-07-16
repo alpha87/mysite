@@ -1,4 +1,3 @@
-
 ---
 title: "混子曰：少年唐诗课——趣味漫画学唐诗，让孩子爱上古诗词"
 description: "混子曰·少年唐诗课，以漫画形式趣味解读唐诗，覆盖中小学必学经典篇目，生动讲解诗人故事与创作背景，适合6-14岁儿童及家长亲子共读，是提升语文素养、激发古诗兴趣的优质学习资源。"
@@ -11,15 +10,15 @@ keywords: ["混子曰少年唐诗课", "漫画学唐诗", "唐诗启蒙", "小�
 summary: "混子曰·少年唐诗课是一套以漫画形式解读唐诗的优质学习资源，涵盖中小学必学篇目，通过生动故事和趣味漫画帮助孩子理解诗人与创作背景，让古诗词学习不再枯燥，适合6-14岁儿童及家长亲子共读。"
 slug: "hunzixue-shaonian-tangshike"
 ---
-{< button href="https://pan.quark.cn/s/c46a0e720fe0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c46a0e720fe0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c46a0e720fe0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

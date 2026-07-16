@@ -1,4 +1,3 @@
-
 ---
 title: "癞皮猴爱美食全套做菜教学视频合集（1）：从零开始学做家常菜"
 description: "癞皮猴爱美食出品的全套做菜教学视频，涵盖刀工、调味、火候等基础技巧，以及红烧、清蒸、爆炒等经典菜式，高清画质步骤详解，适合厨房新手和烹饪爱好者系统学习，提供夸克网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["癞皮猴爱美食", "全套做菜教学视频", "家常菜视频教
 summary: "癞皮猴爱美食全套做菜教学视频，包含刀工、调味、火候等基础教学及上百道家常菜实操演示，高清画质，步骤详细，适合零基础入门与进阶学习。"
 slug: "laipihou-aimeishi-quantao-zuocai-jiaoxue-shipin"
 ---
-{< button href="https://pan.quark.cn/s/bf66b908bd63" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bf66b908bd63" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bf66b908bd63
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

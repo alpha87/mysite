@@ -1,4 +1,3 @@
-
 ---
 title: "北京烤鸭甜面酱配方：正宗老字号秘方，在家轻松复刻"
 description: "正宗北京烤鸭甜面酱配方指南，包含传统甜面酱、秘制蘸酱和家常简化版三种做法，详细讲解面粉、黄豆酱、糖、芝麻油等原料配比，以及熬制火候、发酵技巧和保存方法，在家就能做出老字号级别的甜面酱。"
@@ -11,15 +10,15 @@ keywords: ["北京烤鸭甜面酱", "甜面酱配方", "自制甜面酱", "烤�
 summary: "正宗北京烤鸭甜面酱配方，包含传统版、秘制版和家常版三种做法，详细讲解原料配比、熬制火候和保存技巧，在家轻松复刻老字号烤鸭店的招牌甜面酱。"
 slug: "beijing-roast-duck-sweet-sauce-recipe"
 ---
-{< button href="https://pan.quark.cn/s/aa124b520c92" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/aa124b520c92" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/aa124b520c92
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 北京烤鸭甜面酱配方
 

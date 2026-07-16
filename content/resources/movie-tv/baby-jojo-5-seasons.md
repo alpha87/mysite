@@ -1,4 +1,3 @@
-
 ---
 title: "宝贝JOJO（超级宝贝JOJO）全5季：宝宝语言启蒙动画资源"
 description: "超级宝贝JOJO全5季高清动画资源，专为0-3岁宝宝设计的语言启蒙早教动画，通过生动有趣的日常场景和儿歌，帮助宝宝学习单词、认知世界，培养良好习惯。夸克网盘资源免费获取。"
@@ -11,15 +10,15 @@ keywords: ["宝贝JOJO全5季", "超级宝贝JOJO", "宝宝语言启蒙动画", 
 summary: "超级宝贝JOJO（BoBo）全5季高清动画资源，专为0-3岁宝宝设计的语言启蒙和认知早教动画，涵盖日常生活、儿歌、习惯培养等内容，帮助宝宝轻松学习语言。"
 slug: "baby-jojo-5-seasons"
 ---
-{< button href="https://pan.quark.cn/s/9fac6e59b5c8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9fac6e59b5c8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9fac6e59b5c8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 超级宝贝JOJO：专为0-3岁宝宝设计的早教动画
 

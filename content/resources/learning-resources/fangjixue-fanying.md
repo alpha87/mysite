@@ -1,4 +1,3 @@
-
 ---
 title: "方剂学完整教程：辽宁中医药大学范颖教授46讲全"
 description: "辽宁中医药大学范颖教授主讲《方剂学》46讲完整版教学视频，系统讲解中医方剂配伍、分类、临床应用等核心知识，适合中医专业学生及自学爱好者从零到精通掌握方剂学。"
@@ -11,15 +10,15 @@ keywords: ["方剂学", "辽宁中医药大学", "范颖", "中医方剂", "方�
 summary: "辽宁中医药大学范颖教授主讲《方剂学》46讲完整版教学视频，系统讲解中医方剂配伍、分类、临床应用等核心知识，适合中医专业学生及自学爱好者从零到精通掌握方剂学。"
 slug: "fangjixue-fanying"
 ---
-{< button href="https://pan.quark.cn/s/4c82f5f8dc48" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4c82f5f8dc48" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4c82f5f8dc48
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "塑身操全集：从入门到进阶的完整跟练指南"
 description: "塑身操全集资源分享，包含全身燃脂、局部塑形、拉伸放松等完整视频教程，适合居家健身的零基础新手。覆盖瘦腰、瘦腿、瘦手臂、马甲线、蜜桃臀等热门课程，每天20分钟高效塑形，附网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["塑身操全集", "瘦身操", "健身视频", "居家运动", "减�
 summary: "塑身操全集资源分享，涵盖从入门到进阶的全身燃脂、局部塑形、拉伸放松等全套视频教程，适合零基础居家健身，每天20分钟高效塑形。"
 slug: "body-sculpting-exercises-collection"
 ---
-{< button href="https://pan.quark.cn/s/eb036521f36d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb036521f36d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb036521f36d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 塑身操全集介绍
 

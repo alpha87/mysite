@@ -1,4 +1,3 @@
-
 ---
 title: "高效人士的Excel必修课：从入门到精通的全套教程"
 description: "高效人士的Excel必修课完整资源包，涵盖基础操作、函数公式、数据透视表、VBA编程、图表可视化等核心技能，提供系统化学习路径和实战案例，帮助职场人士快速提升Excel数据处理能力，实现工作效率翻倍。"
@@ -11,15 +10,15 @@ keywords: ["Excel必修课", "高效人士Excel", "Excel教程资源", "Excel学
 summary: "高效人士的Excel必修课全套资源，系统讲解Excel核心功能，从基础操作到VBA编程，提供实战案例和高效技巧，助你成为Excel高手，提升职场竞争力。"
 slug: "gaoxiaorenshi-excel-bixiuke"
 ---
-{< button href="https://pan.quark.cn/s/2d87d533ac42" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2d87d533ac42" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2d87d533ac42
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 在职场中，Excel早已不是简单的电子表格工具，而是衡量一个人数据处理能力和工作效率的重要标尺。无论是财务分析、销售报表、项目管理还是市场调研，精通Excel都能让你事半功倍。本套《高效人士的Excel必修课》资源包，专为想要系统提升Excel技能的职场人士设计，内容覆盖从基础操作到高级编程的完整链路。
 

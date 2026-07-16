@@ -1,4 +1,3 @@
-
 ---
 title: "三国前夜：士大夫政治与东汉皇权的崩解（文景·未央）"
 description: "《三国前夜：士大夫政治与东汉皇权的崩解》是文景·未央系列中深入剖析东汉末年政治格局的历史力作，聚焦士大夫集团与皇权之间的复杂博弈，揭示东汉皇权崩解的内在逻辑与士人政治兴衰的深层原因。本书以严谨的学术态度和生动的叙事手法，再现了从黄巾之乱到群雄逐鹿的历史拐点，是理解三国起源与中古政治变迁的必读之作。"
@@ -11,15 +10,15 @@ keywords: ["三国前夜", "士大夫政治与东汉皇权的崩解", "文景未
 summary: "《三国前夜：士大夫政治与东汉皇权的崩解》深入分析士大夫集团与皇权博弈如何导致东汉王朝瓦解，文景·未央系列重磅作品，适合历史爱好者与研究者阅读。"
 slug: "san-guo-qian-ye-shi-da-fu-zheng-zhi-yu-dong-han-huang-quan-de-beng-jie"
 ---
-{< button href="https://pan.quark.cn/s/46d9fcbf8dea" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/46d9fcbf8dea" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/46d9fcbf8dea
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《三国前夜：士大夫政治与东汉皇权的崩解》是“文景·未央”系列历史著作中极具分量的一本。本书将目光锁定在东汉末年，那个被后世称为“三国前夜”的动荡时期，通过细腻的史料梳理和犀利的政治分析，揭示了士大夫阶层从皇权附庸到逐渐独立、最终与中央权力体系发生激烈碰撞的全过程。
 

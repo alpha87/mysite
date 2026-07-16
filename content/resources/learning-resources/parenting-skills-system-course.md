@@ -1,4 +1,3 @@
-
 ---
 title: "【系统课程】提升家长育子能力的完整培训方案"
 description: "本课程专为家长设计，涵盖儿童心理发展、亲子沟通技巧、情绪管理、学习习惯培养、行为矫正等核心模块。结合真实案例与实操练习，帮助家长系统掌握科学育子方法，解决育儿困惑，构建和谐家庭教育环境。"
@@ -11,15 +10,15 @@ keywords: ["提升家长育子能力的课程", "系统家庭教育课程", "亲
 summary: "一堂系统提升家长育子能力的课程，从儿童心理到亲子沟通，从情绪管理到行为矫正，完整覆盖现代家庭教育的核心场景，帮助家长从理论到实践全面提升育儿水平。"
 slug: "parenting-skills-system-course"
 ---
-{< button href="https://pan.quark.cn/s/15cede7cc0a1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/15cede7cc0a1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/15cede7cc0a1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这套系统课程？
 

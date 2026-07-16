@@ -1,4 +1,3 @@
-
 ---
 title: "北大阅读课1-6年级全册电子书：小学语文阅读理解提升必备"
 description: "北大阅读课1-6年级全册电子版资源，涵盖一年级到六年级全部内容，帮助小学生系统提升阅读理解能力、积累好词好句、掌握阅读技巧。适合家长辅导、教师备课及学生自主学习，高清PDF格式，可打印使用。"
@@ -11,15 +10,15 @@ keywords: ["北大阅读课1-6年级", "北大阅读课电子版", "小学阅读
 summary: "北大阅读课1-6年级全册电子书，涵盖小学阶段全部阅读训练内容，高清PDF格式，帮助孩子系统提升阅读理解能力，可下载打印，是家长和教师必备的语文学习资源。"
 slug: "beida-yueduke-1-6-quance"
 ---
-{< button href="https://pan.quark.cn/s/08ae93ae28f2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/08ae93ae28f2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/08ae93ae28f2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

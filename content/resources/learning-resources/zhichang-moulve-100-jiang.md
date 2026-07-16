@@ -1,4 +1,3 @@
-
 ---
 title: "职场谋略100讲：多长心眼，少走弯路（完整指南）"
 description: "职场谋略100讲完整指南，涵盖职场人际关系、沟通技巧、自我保护、升职加薪、避坑策略等核心内容，帮助职场新人及老手多长心眼、少走弯路，掌握职场生存与发展的智慧。"
@@ -11,15 +10,15 @@ keywords: ["职场谋略100讲", "职场生存指南", "职场人际关系", "�
 summary: "职场谋略100讲完整指南，深入解析职场人际关系、沟通技巧、自我保护、升职加薪、避坑策略等核心内容，帮助职场人在复杂环境中多长心眼、少走弯路，实现职场稳定发展。"
 slug: "zhichang-moulve-100-jiang"
 ---
-{< button href="https://pan.quark.cn/s/82e8d2733750" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/82e8d2733750" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/82e8d2733750
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 职场谋略100讲：多长心眼，少走弯路
 

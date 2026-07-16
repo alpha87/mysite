@@ -1,4 +1,3 @@
-
 ---
 title: "6鱼丽之宴 完整电子书资源下载"
 description: "《6鱼丽之宴》电子书资源分享，包含完整内容阅读与下载。本书以其独特的文学风格和深刻的情感描写，深受读者喜爱。提供夸克网盘高速下载链接，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["6鱼丽之宴", "鱼丽之宴电子书", "电子书下载", "夸克�
 summary: "《6鱼丽之宴》电子书资源，夸克网盘高速下载，永久保存。文学爱好者的必备收藏，情感细腻，文笔优美，适合深度阅读。"
 slug: "yuli-zhi-yan-dianzishu"
 ---
-{< button href="https://pan.quark.cn/s/a41b442d47e0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a41b442d47e0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a41b442d47e0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 《6鱼丽之宴》电子书简介
 

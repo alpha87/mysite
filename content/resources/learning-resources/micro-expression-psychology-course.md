@@ -1,4 +1,3 @@
-
 ---
 title: "微表情心理课（完结）：识人读心必修课，系统掌握微表情分析技巧"
 description: "微表情心理课完结版完整资源，涵盖面部微表情、肢体语言、情绪识别与心理博弈技巧。系统学习FACS编码系统、说谎微表情识别、高情商沟通实战，适合心理学爱好者、HR、销售、谈判者提升识人能力。"
@@ -11,15 +10,15 @@ keywords: ["微表情心理课完结", "微表情心理学教程", "面部微表
 summary: "微表情心理课完结版完整资源，系统讲解微表情与肢体语言分析核心技巧，涵盖FACS编码、说谎识别、情绪判断、实战沟通，助力心理学爱好者、HR、销售、管理者快速提升识人读心能力。"
 slug: "micro-expression-psychology-course"
 ---
-{< button href="https://pan.quark.cn/s/82d8f075764f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/82d8f075764f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/82d8f075764f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

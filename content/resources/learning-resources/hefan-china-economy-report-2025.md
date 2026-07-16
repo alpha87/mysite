@@ -1,4 +1,3 @@
-
 ---
 title: "何帆中国经济报告2025：宏观趋势与微观机遇深度解读"
 description: "得到APP年度重磅课程《何帆中国经济报告2025》完整资源，由著名经济学家何帆教授主讲，系统解读2025年中国经济形势、宏观政策、产业趋势与投资机会，帮助个人和企业把握经济周期，找到增长新动能。"
@@ -11,15 +10,15 @@ keywords: ["何帆中国经济报告2025", "得到APP课程", "中国经济形�
 summary: "得到APP年度重磅课程《何帆中国经济报告2025》完整资源，由著名经济学家何帆教授主讲，系统解读2025年中国经济形势、宏观政策、产业趋势与投资机会，帮助个人和企业把握经济周期，找到增长新动能。"
 slug: "hefan-china-economy-report-2025"
 ---
-{< button href="https://pan.quark.cn/s/dda42de631cc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dda42de631cc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dda42de631cc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

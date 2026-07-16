@@ -1,4 +1,3 @@
-
 ---
 title: "2025高中数学经典题解与评注"
 description: "2025年高中数学经典题解与评注资源，涵盖函数、几何、概率统计等核心知识板块，精选高考真题与模拟题，提供详细解析与评注，帮助高中生巩固知识、提升解题能力，备战高考数学高分。"
@@ -11,15 +10,15 @@ keywords: ["高中数学经典题解与评注", "2025高考数学", "高中数�
 summary: "2025年高中数学经典题解与评注资源，涵盖函数、几何、概率统计等核心知识板块，精选高考真题与模拟题，提供详细解析与评注，帮助高中生巩固知识、提升解题能力，备战高考数学高分。"
 slug: "2025-gaozhong-shuxue-jingdian-tijie-yu-pingzhu"
 ---
-{< button href="https://pan.quark.cn/s/8d4bee394bea" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8d4bee394bea" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8d4bee394bea
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

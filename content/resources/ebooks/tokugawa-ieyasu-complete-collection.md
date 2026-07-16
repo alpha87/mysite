@@ -1,4 +1,3 @@
-
 ---
 title: "德川家康大全集（2024版）：日本战国历史经典电子书资源"
 description: "德川家康大全集2024版完整收录，包含山冈庄八《德川家康》全十三册、相关历史研究、传记、家谱、兵法策略等电子书资源。适合历史爱好者、管理者、创业者阅读，从德川家康的隐忍与谋略中汲取智慧。夸克网盘直接下载。"
@@ -11,15 +10,15 @@ keywords: ["德川家康大全集", "德川家康电子书", "日本战国历史
 summary: "德川家康大全集2024版完整收录，包含山冈庄八经典小说全十三册及多种相关历史研究电子书，从家康的隐忍与谋略中汲取管理智慧，适合历史迷、管理者与创业者。夸克网盘直接下载。"
 slug: "tokugawa-ieyasu-complete-collection"
 ---
-{< button href="https://pan.quark.cn/s/6d397a7be87f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d397a7be87f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d397a7be87f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

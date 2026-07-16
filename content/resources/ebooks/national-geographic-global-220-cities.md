@@ -1,4 +1,3 @@
-
 ---
 title: "国家地理全球220城旅游攻略｜最佳旅行城市+路线规划（高清PDF+旅行资料包）"
 description: "国家地理精选全球220个最佳旅行城市完整攻略，包含高清PDF城市指南、详细路线规划模板、实用旅行资料包，覆盖各大洲热门及小众目的地，助你轻松规划环球旅行。"
@@ -11,15 +10,15 @@ keywords: ["国家地理旅游攻略", "全球220城", "最佳旅行城市", "�
 summary: "国家地理精选全球220个最佳旅行城市完整攻略，包含高清PDF城市指南、详细路线规划模板、实用旅行资料包，覆盖各大洲热门及小众目的地，助你轻松规划环球旅行。"
 slug: "national-geographic-global-220-cities-travel-guide"
 ---
-{< button href="https://pan.quark.cn/s/356ccb8943ee" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/356ccb8943ee" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/356ccb8943ee
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 探索世界，从这份攻略开始
 

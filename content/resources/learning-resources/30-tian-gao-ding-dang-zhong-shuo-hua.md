@@ -1,4 +1,3 @@
-
 ---
 title: "纯干货30天搞定当众说话"
 description: "30天系统化当众说话训练指南，从克服恐惧、基础发声到逻辑表达和实战演练，每天一个核心任务，附赠专用练习素材和进阶模板，帮助零基础快速提升公众演讲能力。"
@@ -11,15 +10,15 @@ keywords: ["当众说话训练", "公众演讲教程", "口才提升30天", "演
 summary: "30天系统化当众说话训练指南，从克服恐惧、基础发声到逻辑表达和实战演练，每天一个核心任务，附赠专用练习素材和进阶模板，帮助零基础快速提升公众演讲能力。"
 slug: "30-tian-gao-ding-dang-zhong-shuo-hua"
 ---
-{< button href="https://pan.quark.cn/s/423bb92bf581" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/423bb92bf581" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/423bb92bf581
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 30天搞定当众说话：纯干货实战指南
 

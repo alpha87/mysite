@@ -1,4 +1,3 @@
-
 ---
 title: "北大英专一年级书单：大一新生必读经典推荐完整版"
 description: "北京大学英语专业大一新生官方推荐书单，涵盖英美文学经典、语言学入门、翻译基础、学术写作等核心课程必读书目，附电子版资源下载。适合英语专业学生、考研备考者及英语文学爱好者参考。"
@@ -11,15 +10,15 @@ keywords: ["北大英专一年级书单", "英语专业必读书单", "北京大
 summary: "北京大学英语专业大一新生推荐书单完整版，涵盖英美文学经典、语言学入门、翻译基础、学术写作等课程必读书目，附夸克网盘电子版下载链接，方便英语专业学生及爱好者获取阅读资源。"
 slug: "peking-university-english-major-freshman-reading-list"
 ---
-{< button href="https://pan.quark.cn/s/d9294d8515af" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d9294d8515af" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d9294d8515af
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 北大英专一年级书单：系统提升英语语言文学素养
 

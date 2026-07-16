@@ -1,4 +1,3 @@
-
 ---
 title: "从地中海到黄河：希腊化文明与丝绸之路（全六册）"
 description: "希腊化文明与丝绸之路深度研究著作，全六册系统梳理从亚历山大东征到汉唐丝绸之路的东西方文明交流史，涵盖希腊化时期、犍陀罗艺术、佛教传播、贸易路线等核心主题，是研究古代文明互鉴的权威电子书资源。"
@@ -11,15 +10,15 @@ keywords: ["希腊化文明与丝绸之路", "从地中海到黄河", "东西方
 summary: "希腊化文明与丝绸之路深度研究著作，全六册系统梳理从亚历山大东征到汉唐丝绸之路的东西方文明交流史，涵盖希腊化时期、犍陀罗艺术、佛教传播、贸易路线等核心主题，是研究古代文明互鉴的权威电子书资源。"
 slug: "cong-dizhonghai-dao-huanghe-xilahua-wenming-yu-sichouzhilu"
 ---
-{< button href="https://pan.quark.cn/s/1308ec891ffa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1308ec891ffa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1308ec891ffa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《从地中海到黄河：希腊化文明与丝绸之路》是一套全面研究东西方文明交汇的六卷本著作，深入解析了从希腊化时代到汉唐时期，地中海世界与黄河文明之间长达千年的互动历程。全书以宏大的历史视野，将希腊化文明的扩张、丝绸之路的开通、佛教的东传以及文化的融合串联成一条清晰的主线，为读者呈现出一幅波澜壮阔的文明交流画卷。
 

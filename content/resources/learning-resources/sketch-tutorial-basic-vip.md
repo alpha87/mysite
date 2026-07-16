@@ -1,4 +1,3 @@
-
 ---
 title: "素描教程素描基础班VIP：从零开始系统学素描"
 description: "素描基础班VIP完整教程，涵盖几何体、静物、石膏像、人物头像等素描核心技法，从工具使用到光影表现，系统讲解素描入门到进阶的全部知识点。VIP课程包含高清视频演示、电子版讲义和一对一答疑，适合零基础学员和想要提升素描水平的美术爱好者。"
@@ -11,15 +10,15 @@ keywords: ["素描教程", "素描基础班", "素描入门课程", "素描教�
 summary: "素描基础班VIP完整教程，系统讲解素描从几何体到人物头像的全部技法，包含高清视频演示和电子版讲义，适合零基础学员和美术爱好者。"
 slug: "sketch-tutorial-basic-vip"
 ---
-{< button href="https://pan.quark.cn/s/6a85d3f5787b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6a85d3f5787b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6a85d3f5787b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 素描基础班VIP教程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "未来10年职业发展规划指南：从当下到未来的职业路径规划"
 description: "未来10年职业发展规划完整指南，涵盖趋势预测、能力提升、行业选择、转型策略、财富积累等核心模块，帮助职场人士制定长期职业发展蓝图，掌握AI时代、绿色经济、大健康等热门方向的关键技能与机会。"
@@ -11,15 +10,15 @@ keywords: ["未来10年职业发展规划", "职业规划指南", "长期职业�
 summary: "未来10年职业发展规划完整指南，涵盖趋势预测、能力提升、行业选择、转型策略、财富积累等核心模块，帮助职场人士制定长期职业发展蓝图，掌握AI时代、绿色经济、大健康等热门方向的关键技能与机会。"
 slug: "future-10-year-career-planning-guide"
 ---
-{< button href="https://pan.quark.cn/s/2b2f5a0338e1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2b2f5a0338e1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2b2f5a0338e1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 未来10年职业发展规划指南：如何制定你的长期职业蓝图
 

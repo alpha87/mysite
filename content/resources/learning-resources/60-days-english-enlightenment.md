@@ -1,4 +1,3 @@
-
 ---
 title: "60天轻松搞定英语启蒙：零基础家庭亲子英语启蒙全攻略"
 description: "60天英语启蒙完整方案，从听力输入到口语输出，涵盖亲子互动游戏、绘本选择、儿歌磨耳朵和自然拼读入门，手把手教你在家高效完成英语启蒙，全面提升孩子英语听说能力，附赠超实用启蒙资源清单。"
@@ -11,15 +10,15 @@ keywords: ["60天英语启蒙", "零基础英语启蒙", "家庭英语启蒙", "
 summary: "60天英语启蒙完整方案，手把手教你在家高效完成英语启蒙，涵盖听力输入、亲子互动、绘本选择和自然拼读入门，全面提升孩子英语听说能力，附赠超实用启蒙资源清单。"
 slug: "60-days-english-enlightenment"
 ---
-{< button href="https://pan.quark.cn/s/f2d5294828f5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f2d5294828f5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f2d5294828f5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择60天英语启蒙计划？
 

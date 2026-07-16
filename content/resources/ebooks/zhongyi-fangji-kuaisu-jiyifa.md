@@ -1,4 +1,3 @@
-
 ---
 title: "中医方剂快速记忆法：高效背诵方歌与速记技巧大全"
 description: "《中医方剂快速记忆法》完整PDF电子书，涵盖方剂歌诀、分类记忆、趣味联想、对比记忆等多种高效方法，帮助中医学习者、医学生、执业医师考试备考者快速掌握数百首常用方剂。提供科学记忆体系，告别死记硬背。"
@@ -11,15 +10,15 @@ keywords: ["中医方剂快速记忆法", "方剂歌诀记忆", "中医方剂速
 summary: "《中医方剂快速记忆法》PDF电子书，系统讲解方剂歌诀、分类记忆、趣味联想、对比记忆等高效方法，帮助中医学习者快速掌握数百首常用方剂，适合医学生、执业医师考生及中医爱好者。"
 slug: "zhongyi-fangji-kuaisu-jiyifa"
 ---
-{< button href="https://pan.quark.cn/s/64ed3071e31b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/64ed3071e31b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/64ed3071e31b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么需要《中医方剂快速记忆法》？
 

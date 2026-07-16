@@ -1,4 +1,3 @@
-
 ---
 title: "历届诺贝尔文学奖获得者作品合集：百年文学经典典藏版"
 description: "收录1901年至今全部诺贝尔文学奖得主代表作合集，包含加西亚·马尔克斯、莫言、村上春树(未获奖但常被误收)、海明威等119位作家经典作品，EPUB/PDF格式，适合文学爱好者、研究者及收藏者下载阅读。"
@@ -11,15 +10,15 @@ keywords: ["诺贝尔文学奖合集", "诺贝尔文学奖获得者作品", "百
 summary: "历届诺贝尔文学奖得主作品合集，从1901年普吕多姆到2023年福瑟，涵盖119位作家的代表性作品，EPUB/PDF格式，是文学爱好者和研究者不可错过的电子书资源。"
 slug: "nobel-literature-winners-collection"
 ---
-{< button href="https://pan.quark.cn/s/93a02ad02151" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/93a02ad02151" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/93a02ad02151
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

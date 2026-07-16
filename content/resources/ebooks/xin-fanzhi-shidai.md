@@ -1,4 +1,3 @@
-
 ---
 title: "《新反智时代》电子书下载：深度剖析当代反智现象"
 description: "《新反智时代》电子书完整版下载，深入探讨当代社会反智主义的历史根源、表现形式与危害，分析科技、教育、政治等领域的反智潮流，帮助读者认清反智陷阱，提升独立思考能力。"
@@ -11,15 +10,15 @@ keywords: ["新反智时代电子书", "反智主义分析", "反智现象", "�
 summary: "《新反智时代》电子书完整版，深入剖析反智主义的历史根源、表现形式与危害，覆盖科技、教育、政治等领域的反智潮流，帮助读者提升独立思考能力，认清当代社会陷阱。"
 slug: "xin-fanzhi-shidai"
 ---
-{< button href="https://pan.quark.cn/s/bf01369984da" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bf01369984da" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bf01369984da
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《新反智时代》
 

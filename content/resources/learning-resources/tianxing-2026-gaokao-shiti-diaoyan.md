@@ -1,4 +1,3 @@
-
 ---
 title: "天星教育《2026高考试题调研》：高考复习核心资料"
 description: "天星教育《2026高考试题调研》完整介绍与资源分享，涵盖各科目考点调研、命题趋势分析、高频题型总结，是高三考生备战2026高考的必备复习资料。"
@@ -11,15 +10,15 @@ keywords: ["天星教育", "2026高考试题调研", "高考复习", "考点分�
 summary: "天星教育《2026高考试题调研》是一套针对2026年高考的权威复习资料，涵盖各学科核心考点、命题趋势与高频题型深度解析，帮助考生科学备考、精准提分。"
 slug: "tianxing-2026-gaokao-shiti-diaoyan"
 ---
-{< button href="https://pan.quark.cn/s/edab397d3edb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/edab397d3edb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/edab397d3edb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 天星教育《2026高考试题调研》简介
 

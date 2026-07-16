@@ -1,4 +1,3 @@
-
 ---
 title: "亲子手工教学视频教程52节：动手又动脑的创意手工课合集"
 description: "52节亲子手工教学视频教程全集，涵盖折纸、剪纸、黏土、废旧物改造等多种手工类型，适合3-12岁儿童及家长共同参与，培养动手能力、创造力和亲子协作精神，附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["亲子手工教学视频", "儿童手工教程", "亲子手工课", 
 summary: "52节亲子手工教学视频全集，折纸、剪纸、黏土、废旧物改造等创意手工课，适合3-12岁儿童及家长共同参与，培养动手能力和亲子协作精神，附夸克网盘下载。"
 slug: "qinzi-shougong-jiaoxue-52jie"
 ---
-{< button href="https://pan.quark.cn/s/112a03eb417b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/112a03eb417b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/112a03eb417b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 亲子手工教学是一项非常有意义的家庭活动，不仅能锻炼孩子的动手能力和创造力，还能增进亲子之间的感情。很多家长希望找到系统的手工课程，但网上零散的视频质量参差不齐，很难形成完整的教学体系。
 

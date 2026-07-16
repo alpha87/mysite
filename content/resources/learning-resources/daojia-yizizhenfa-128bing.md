@@ -1,4 +1,3 @@
-
 ---
 title: "道家一字针法三天网络面授课：128种病症全攻略（刘金十）"
 description: "道家一字针法三天网络面授课完整资源，刘金十老师亲授128种病症治疗方案。涵盖针法原理、穴位定位、实操技巧及病症对症治疗，适合中医爱好者、针灸从业者提升临床技能，网盘资源一键获取。"
@@ -11,15 +10,15 @@ keywords: ["道家一字针法", "刘金十针灸", "128种病症治疗", "中�
 summary: "刘金十老师道家一字针法三天网络面授课，系统讲解128种常见及疑难病症的针法治疗，包括原理、定位、实操和案例，适合针灸学习者和从业者深度掌握。夸克网盘资源可保存。"
 slug: "daojia-yizizhenfa-128bing"
 ---
-{< button href="https://pan.quark.cn/s/5903b14416b4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5903b14416b4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5903b14416b4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

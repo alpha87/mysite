@@ -1,4 +1,3 @@
-
 ---
 title: "普通人必备的超实用工具书【完结】"
 description: "一本涵盖日常生活、工作学习、副业赚钱的超级实用指南，从高效工具到省钱技巧，从时间管理到自我提升，手把手教你用低成本活出高性价比人生。"
@@ -11,15 +10,15 @@ keywords: ["普通人超实用指南", "日常生活高效技巧", "省钱秘籍
 summary: "一本专门为普通人打造的超级实用工具书，涵盖高效工具、省钱技巧、时间管理、自我提升和副业赚钱等核心内容，完整完结版助你轻松提升生活效率。"
 slug: "putongren-bixu-chaoshiyong-gongjushu"
 ---
-{< button href="https://pan.quark.cn/s/871813648142" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/871813648142" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/871813648142
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这本《普通人必备的超实用工具书》？
 

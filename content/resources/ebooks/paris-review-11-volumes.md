@@ -1,4 +1,3 @@
-
 ---
 title: "巴黎评论（全11册）：文学大师访谈全集，写作与创作的永恒经典"
 description: "巴黎评论全11册完整合集电子版，包含作家访谈、创作心得、文学批评等珍贵内容。从海明威、福克纳到村上春树，解读100多位文学大师的创作秘密，是文学爱好者、写作学习者不可错过的经典资源。"
@@ -11,15 +10,15 @@ keywords: ["巴黎评论", "巴黎评论合集", "巴黎评论11册电子版", "
 summary: "巴黎评论全11册完整合集，收录海明威、福克纳、村上春树等100余位文学大师的深度访谈，揭示创作背后的思考、技巧与灵感来源，是文学创作学习者的必读圣经。"
 slug: "paris-review-11-volumes"
 ---
-{< button href="https://pan.quark.cn/s/6d7451cde70d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d7451cde70d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d7451cde70d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《巴黎评论》是全球最受尊敬的文学杂志之一，自1953年创刊以来，其“作家访谈”栏目已成为文学界的标杆。这套全11册的合集，收录了超过100位世界顶级作家的深度访谈，每一篇都是文学史上的珍贵文献。
 

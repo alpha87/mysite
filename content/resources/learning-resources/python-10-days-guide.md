@@ -1,4 +1,3 @@
-
 ---
 title: "10天带你玩转Python：从零基础到入门实战全攻略"
 description: "10天Python快速入门教程，涵盖基础语法、函数、文件操作、爬虫、数据分析等核心内容，附带视频教程和练习资源，适合零基础新手系统学习Python编程。"
@@ -11,15 +10,15 @@ keywords: ["Python入门教程", "10天Python", "Python零基础", "Python视频
 summary: "10天Python快速入门教程，从基础语法到实战项目，涵盖函数、文件操作、爬虫、数据分析等核心内容，配套视频教程和练习资源，零基础也能轻松上手。"
 slug: "python-10-days-guide"
 ---
-{< button href="https://pan.quark.cn/s/78064473929a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/78064473929a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/78064473929a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 10天带你玩转Python
 

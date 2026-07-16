@@ -1,4 +1,3 @@
-
 ---
 title: "全球史高级研修班：深度解析人类文明脉络，打通历史学科壁垒"
 description: "全球史高级研修班课程介绍，涵盖全球史核心理论、跨文明比较研究、专题深度解析等内容，适合历史学者、教育工作者、考研学生及历史爱好者，助你构建全球史观，理解世界格局演变。"
@@ -11,15 +10,15 @@ keywords: ["全球史高级研修班", "全球史课程", "人类文明史", "�
 summary: "全球史高级研修班深度解析人类文明脉络，涵盖全球史理论、跨文明比较、专题研究等核心内容，帮助历史学者、教育工作者及历史爱好者构建宏观历史视野，掌握全球史研究方法。"
 slug: "global-history-advanced-seminar"
 ---
-{< button href="https://pan.quark.cn/s/6ea39ee2fa68" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6ea39ee2fa68" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6ea39ee2fa68
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

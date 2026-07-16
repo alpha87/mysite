@@ -1,4 +1,3 @@
-
 ---
 title: "野路子特效课：像P图一样'P'视频（完结）"
 description: "零基础学习视频特效制作，本课程教您用简单方法像P图一样处理视频，无需专业软件基础即可快速上手。涵盖剪映、AE等工具实战技巧，从特效合成、转场动画到绿幕抠像，适合自媒体创作者、短视频运营和影视爱好者。完结版含所有章节与案例素材。"
@@ -11,15 +10,15 @@ keywords: ["野路子特效课", "像P图一样P视频", "视频特效教程", "
 summary: "零基础视频特效教程，像P图一样轻松处理视频。涵盖剪映、AE等工具实战技巧，从特效合成、转场动画到绿幕抠像，完结版含所有章节与案例素材，适合自媒体创作者和短视频运营。"
 slug: "ye-lu-zi-te-xiao-ke-shang-wan-jie"
 ---
-{< button href="https://pan.quark.cn/s/8d42a8e96da2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8d42a8e96da2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8d42a8e96da2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "无为李栋老师《牛股特训营》从小白到选股高手 2020年 20视频完整版"
 description: "无为李栋老师《牛股特训营》课程完整版，包含20个视频教程，从零基础入门到选股高手，系统讲解技术分析、基本面选股、趋势跟踪、买卖点判断等核心内容，适合炒股新手和想提升选股能力的投资者。"
@@ -11,15 +10,15 @@ keywords: ["无为李栋牛股特训营", "股票入门教程", "选股技巧学
 summary: "无为李栋老师《牛股特训营》课程完整版，20个视频系统讲解从零基础到选股高手的全过程，涵盖技术分析、基本面选股、趋势跟踪、买卖点判断等核心方法，助你快速掌握选股技巧。"
 slug: "niugu-teach-camp"
 ---
-{< button href="https://pan.quark.cn/s/afe194fa2482" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/afe194fa2482" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/afe194fa2482
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

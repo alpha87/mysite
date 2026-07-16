@@ -1,4 +1,3 @@
-
 ---
 title: "暴走漫画《讲故事也是一种超能力》完结课程：掌握叙事技巧，释放你的表达潜能"
 description: "暴走漫画出品的《讲故事也是一种超能力》完结课程，深度解析叙事结构、角色塑造、节奏把控等核心技巧，结合暴走漫画幽默风格，帮助零基础学员快速提升故事创作与表达能力，适合自媒体人、内容创作者及Storytelling爱好者。"
@@ -11,15 +10,15 @@ keywords: ["暴走漫画讲故事课程", "故事创作技巧", "叙事能力提
 summary: "暴走漫画《讲故事也是一种超能力》完结课程，以幽默轻松的方式系统讲解叙事核心技巧，涵盖故事结构、角色设计、幽默元素融合等模块，助你成为会讲故事的表达高手。"
 slug: "baozou-manhua-storytelling-talent"
 ---
-{< button href="https://pan.quark.cn/s/ee57645bfc03" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ee57645bfc03" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ee57645bfc03
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾在聚会时羡慕那些一开口就能抓住全场注意力的人？你是否在写文案时感到平淡无奇，缺乏感染力？暴走漫画出品的《讲故事也是一种超能力》完结课程，正是为你量身打造的叙事魔法秘籍。
 
@@ -49,8 +48,8 @@ slug: "baozou-manhua-storytelling-talent"
 
 点击下方按钮或复制链接直接下载，资源已上传至夸克网盘，保存后永久有效。趁这个暑假，给自己加一个“讲故事超能力”Buff！
 
-{< button href="https://pan.quark.cn/s/ee57645bfc03" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ee57645bfc03" target="_blank" >}}
 立即下载
-{< /button >}
+{{< /button >}}
 
 别再让你的好想法“藏在肚子里”——会讲故事的人，世界都为他让路。

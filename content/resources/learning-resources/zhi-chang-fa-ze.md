@@ -1,4 +1,3 @@
-
 ---
 title: "如何应用职场法则畅行职场"
 description: "系统讲解职场法则的核心应用方法，从规则认知、人际关系、沟通技巧到工作效率提升，帮助职场新人快速适应环境、突破瓶颈，在职场中游刃有余地发展。"
@@ -11,15 +10,15 @@ keywords: ["职场法则", "职场技巧", "职场沟通", "人际关系", "职�
 summary: "系统讲解职场法则的核心应用方法，涵盖规则认知、人际关系、沟通技巧、工作效率与职业发展，帮助不同阶段的职场人掌握职场生存之道，实现职业生涯的持续进阶。"
 slug: "zhi-chang-fa-ze"
 ---
-{< button href="https://pan.quark.cn/s/7a48afb571c5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7a48afb571c5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7a48afb571c5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要懂职场法则
 

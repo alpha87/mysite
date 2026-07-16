@@ -1,4 +1,3 @@
-
 ---
 title: "许倬云讲中国通史：五千年大格局"
 description: "许倬云先生讲授中国通史的完整电子书资源，以五千年大格局梳理历史脉络，涵盖政治、经济、文化、社会变迁，适合历史爱好者、学生和研究者深度阅读，高清PDF格式可永久保存。"
@@ -11,15 +10,15 @@ keywords: ["许倬云讲中国通史", "中国通史电子书", "五千年大格
 summary: "许倬云讲中国通史：五千年大格局电子书资源，高清PDF格式，详细梳理从上古到近现代的中国历史脉络，帮助读者建立大历史观，适合各类人群深入学习中国历史文化。"
 slug: "xu-zhuoyun-jiang-zhongguo-tongshi-wuqiannian-dajuge"
 ---
-{< button href="https://pan.quark.cn/s/2e317ae638d8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2e317ae638d8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2e317ae638d8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

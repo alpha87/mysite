@@ -1,4 +1,3 @@
-
 ---
 title: "苏苏服装制版缝纫工艺课程合集：从入门到精通的全套教程"
 description: "苏苏服装制版缝纫工艺课程合集，包含服装CAD制版、立体裁剪、缝纫工艺、成衣制作等全套视频教程，适合零基础学员和进阶设计师，从量体到成品，手把手教你掌握服装制作全流程。"
@@ -11,15 +10,15 @@ keywords: ["苏苏服装制版", "服装缝纫工艺", "服装制版教程", "�
 summary: "苏苏服装制版缝纫工艺课程合集，从零基础到高级设计师的完整教程体系，涵盖CAD制版、立体裁剪、缝纫工艺、成衣制作等核心内容，助你快速掌握服装制作全流程。"
 slug: "susu-fashion-pattern-sewing-course"
 ---
-{< button href="https://pan.quark.cn/s/a96d037e7f2a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a96d037e7f2a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a96d037e7f2a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 苏苏服装制版缝纫工艺课程合集
 

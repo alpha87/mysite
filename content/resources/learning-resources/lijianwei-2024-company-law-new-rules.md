@@ -1,4 +1,3 @@
-
 ---
 title: "李建伟-2024公司法新规逐条精讲：新旧对比与实务应用全解析"
 description: "李建伟教授2024公司法新规逐条精讲完整课程，覆盖新旧法条对比、核心制度变革、实务应对策略及典型案例分析，适合法律从业者、企业法务及创业者系统学习新公司法核心要点。"
@@ -11,15 +10,15 @@ keywords: ["2024公司法新规", "李建伟公司法讲座", "公司法逐条�
 summary: "李建伟教授逐条精讲2024年《公司法》新规，涵盖新旧法条对比、注册资本制度变革、股东权利强化、董监高责任加重及公司治理优化等核心内容，帮助法律从业者与企业管理者快速掌握新法要点并应用于实务。"
 slug: "lijianwei-2024-gongsifa-xingui-zhutiao-jingjiang"
 ---
-{< button href="https://pan.quark.cn/s/d8c2ada3faaa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d8c2ada3faaa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d8c2ada3faaa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

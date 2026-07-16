@@ -1,4 +1,3 @@
-
 ---
 title: "贫穷有罪？洛杉矶日常生活的真实写照"
 description: "深入探讨洛杉矶底层人群的生存困境，揭露贫穷是否真的有罪的社会现实。这部影片以纪实视角展现城市边缘人的日常生活、挣扎与尊严，引发关于贫穷、犯罪与社会结构的深度思考。"
@@ -11,15 +10,15 @@ keywords: ["贫穷有罪洛杉矶纪录片", "洛杉矶底层生活", "贫穷与
 summary: "深入探讨洛杉矶底层人群的生存困境，揭露贫穷是否真的有罪的社会现实。影片以纪实视角展现城市边缘人的日常生活、挣扎与尊严，引发关于贫穷、犯罪与社会结构的深度思考。"
 slug: "poverty-guilt-la-daily-life"
 ---
-{< button href="https://pan.quark.cn/s/ac4e73ddfb95" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ac4e73ddfb95" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ac4e73ddfb95
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 贫穷有罪？洛杉矶日常生活的真实写照
 

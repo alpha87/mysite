@@ -1,4 +1,3 @@
-
 ---
 title: "高中英语3500词完整版资源下载：高效背单词方法及记忆技巧"
 description: "高中英语3500词最全资源汇总，涵盖考纲词汇、高频短语、真题例句、记忆技巧和测试练习，帮助高中生快速掌握高考英语必备词汇，提升阅读理解与写作能力，轻松备战高考。"
@@ -11,15 +10,15 @@ keywords: ["高中英语3500词", "高考英语必备", "英语词汇记忆技�
 summary: "高中英语3500词完整版资源，包含考纲词汇、高频短语、真题例句、记忆技巧与自测练习，助你高效攻克高考英语词汇关。"
 slug: "high-school-english-3500-words"
 ---
-{< button href="https://pan.quark.cn/s/5a4bd4e0c6c5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5a4bd4e0c6c5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5a4bd4e0c6c5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要背3500词？
 

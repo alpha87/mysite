@@ -1,4 +1,3 @@
-
 ---
 title: "中国名人传记文学：读懂伟人精神，汲取人生智慧"
 description: "中国名人传记文学精选推荐，涵盖政治、文化、科学、商业等领域杰出人物。通过阅读传记，了解伟人成长历程、思想演变与成功秘诀，启发自我成长。提供全套电子书资源下载，包含毛泽东传、周恩来传、钱学森传、鲁迅传等经典作品。"
@@ -11,15 +10,15 @@ keywords: ["中国名人传记文学", "名人传记推荐", "传记电子书", 
 summary: "中国名人传记文学精选推荐，涵盖政治、文化、科学、商业等领域杰出人物。通过阅读传记了解伟人成长与思想，提供全套电子书资源下载，包含毛泽东传、周恩来传、钱学森传、鲁迅传等经典作品，助你汲取人生智慧。"
 slug: "chinese-celebrity-biographies"
 ---
-{< button href="https://pan.quark.cn/s/723806511303" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/723806511303" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/723806511303
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要读中国名人传记？
 

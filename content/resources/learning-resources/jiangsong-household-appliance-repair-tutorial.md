@@ -1,4 +1,3 @@
-
 ---
 title: "姜松《家电维修视频教程》：从零基础到精通的全套实战课程"
 description: "姜松老师亲授的家电维修视频教程，涵盖冰箱、空调、洗衣机、热水器、微波炉等常见家用电器维修技巧，从零基础入门到高级故障排查，系统讲解电路原理、元器件检测、拆机步骤和安全规范，适合维修从业者、电工及家庭用户自学提升。"
@@ -11,15 +10,15 @@ keywords: ["家电维修视频教程", "姜松家电维修", "家电维修入门
 summary: "姜松老师精心制作的家电维修视频教程，从零基础逐步进阶，全面讲解冰箱、空调、洗衣机、热水器、微波炉等常见电器的维修方法，包含电路分析、元器件检测、拆机实操与安全注意事项，助力学员快速掌握实用维修技能。"
 slug: "jiangsong-household-appliance-repair-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/c50302f737aa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c50302f737aa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c50302f737aa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

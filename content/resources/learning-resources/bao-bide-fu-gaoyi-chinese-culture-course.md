@@ -1,4 +1,3 @@
-
 ---
 title: "包弼德、傅高义领讲：中国文化课——哈佛名师的东方智慧解读"
 description: "包弼德（Peter Bol）与傅高义（Ezra Vogel）两位哈佛大学顶尖学者联手打造的中国文化课程，从历史、哲学、社会多维度深度解析中国传统文化精髓，适合全球学习者提升文化素养与跨文化理解力。"
@@ -11,15 +10,15 @@ keywords: ["中国文化课", "包弼德中国文化", "傅高义", "哈佛中�
 summary: "包弼德与傅高义两位哈佛教授领讲的中国文化课，涵盖历史、哲学、社会等维度，系统解读中国传统文化精髓，适合所有想深入了解东方智慧的读者。"
 slug: "bao-bide-fu-gaoyi-chinese-culture-course"
 ---
-{< button href="https://pan.quark.cn/s/78e75ff3de66" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/78e75ff3de66" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/78e75ff3de66
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

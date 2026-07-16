@@ -1,4 +1,3 @@
-
 ---
 title: "同济陈家琪讲西方哲学：从康德到黑格尔（完结）全课程资源"
 description: "同济大学陈家琪教授主讲的西方哲学史课程，系统讲解从康德到黑格尔的经典哲学思想，包括纯粹理性批判、实践理性批判、精神现象学等核心内容，适合哲学爱好者、考研学生及自学人群，完结版高清音频+讲义资源免费领取。"
@@ -11,15 +10,15 @@ keywords: ["同济陈家琪西方哲学", "康德到黑格尔哲学", "陈家琪
 summary: "同济大学陈家琪教授主讲的西方哲学史课程全集，从康德到黑格尔，系统梳理德国古典哲学核心思想，附完整音频与讲义，完结版一键获取。"
 slug: "tongji-chenjiaqi-western-philosophy"
 ---
-{< button href="https://pan.quark.cn/s/1046fe4301bb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1046fe4301bb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1046fe4301bb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

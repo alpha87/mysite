@@ -1,4 +1,3 @@
-
 ---
 title: "天星教育《2026高考试题调研》：各科命题趋势与精选题型详解"
 description: "天星教育2026高考试题调研资料完整版，覆盖语文、数学、英语等九大学科，深入分析高考命题规律、高频考点和易错题型，提供精选试题与详细解析，助力考生高效备考冲刺理想大学。"
@@ -11,15 +10,15 @@ keywords: ["2026高考试题调研", "天星教育高考", "高考命题趋势",
 summary: "天星教育2026高考试题调研资料，系统归纳高考九大学科命题方向与典型试题，提供精准解析与答题技巧，是高三学子考前冲刺的必备复习材料。"
 slug: "tianxing-2026-gaokao-timu-diaoyan"
 ---
-{< button href="https://pan.quark.cn/s/83d2b0f932f7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/83d2b0f932f7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/83d2b0f932f7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 天星教育《2026高考试题调研》——高分冲刺的“方向盘”
 

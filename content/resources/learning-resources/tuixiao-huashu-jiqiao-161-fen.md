@@ -1,4 +1,3 @@
-
 ---
 title: "推销话术技巧大全（161份实战文案）"
 description: "汇集161份精选推销话术技巧文档，覆盖电话销售、面谈话术、异议处理、开场白、成交话术等全场景，助你快速提升销售转化率，适合销售新手及从业者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["推销话术技巧", "销售话术大全", "电话销售话术", "�
 summary: "汇集161份精选推销话术技巧文档，覆盖电话销售、面谈话术、异议处理、开场白、成交话术等全场景，助你快速提升销售转化率，适合销售新手及从业者系统学习。"
 slug: "tuixiao-huashu-jiqiao-161-fen"
 ---
-{< button href="https://pan.quark.cn/s/91307db3ceb4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/91307db3ceb4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/91307db3ceb4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

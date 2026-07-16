@@ -1,4 +1,3 @@
-
 ---
 title: "佟彤中医养生课：从零开始学中医养生，健康生活必修课"
 description: "由知名中医专家佟彤主讲的中医养生课程，涵盖阴阳五行、经络穴位、食疗药膳等核心知识，适合零基础学员系统学习中医养生，掌握四季调养、常见病预防与自我调理方法，配套电子版讲义与实操视频。"
@@ -11,15 +10,15 @@ keywords: ["佟彤中医养生课", "中医养生教程", "零基础中医学习
 summary: "由知名中医专家佟彤主讲的中医养生课程，系统讲解阴阳五行、经络穴位、食疗药膳等核心知识，适合零基础学员，帮助掌握四季调养、常见病预防与自我调理方法，附赠讲义与视频。"
 slug: "tongtong-zhongyi-yangsheng-ke"
 ---
-{< button href="https://pan.quark.cn/s/3afbd9aebc12" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3afbd9aebc12" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3afbd9aebc12
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

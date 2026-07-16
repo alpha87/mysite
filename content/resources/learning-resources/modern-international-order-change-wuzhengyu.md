@@ -1,4 +1,3 @@
-
 ---
 title: "人大吴征宇教授：现代国际秩序的变迁（完结）"
 description: "完整收录中国人民大学吴征宇教授《现代国际秩序的变迁》课程全系列，系统讲解国际格局演变、大国兴衰逻辑、均势理论、霸权周期与当代秩序危机。适合国际关系、政治学学习者及研究者。"
@@ -11,15 +10,15 @@ keywords: ["人大吴征宇现代国际秩序的变迁", "国际关系课程", "
 summary: "完整收录中国人民大学吴征宇教授《现代国际秩序的变迁》课程全系列，系统讲解国际格局演变、大国兴衰逻辑、均势理论、霸权周期与当代秩序危机。适合国际关系、政治学学习者及研究者。"
 slug: "renmin-daxue-wuzhengyu-xiandai-guoji-zhixu-bianqian"
 ---
-{< button href="https://pan.quark.cn/s/9b036784bf97" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9b036784bf97" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9b036784bf97
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

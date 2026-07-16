@@ -1,4 +1,3 @@
-
 ---
 title: "57套趣味游戏英语教学PPT资源下载"
 description: "57套趣味游戏英语教学PPT合集，涵盖字母、单词、语法、口语等主题，通过游戏化设计提升课堂互动性，适合幼儿园、小学及培训机构英语教师使用，附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["趣味游戏英语教学PPT", "英语教学PPT免费下载", "少儿
 summary: "57套趣味游戏英语教学PPT合集，通过游戏化设计覆盖字母、单词、语法、口语等核心教学内容，提升课堂趣味性和学生参与度，适合幼儿园、小学及培训机构英语教师，资源长期有效。"
 slug: "57-fun-game-english-teaching-ppt"
 ---
-{< button href="https://pan.quark.cn/s/0db8e952ae65" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0db8e952ae65" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0db8e952ae65
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "回医七心收阴术：回族民间秘传的收惊安神疗法"
 description: "深度解析回医七心收阴术的完整秘籍，从回族传统医学角度解读收阴、安魂、定神的古老疗法。包含七心法门、操作步骤、禁忌与注意事项，适合对民间秘术、神秘疗法、民族医学感兴趣的研究者和实践者。"
@@ -11,15 +10,15 @@ keywords: ["回医七心收阴术", "回族民间医学", "收惊疗法", "安�
 summary: "回医七心收阴术完整电子书资源，详解回族民间收惊、安神、定魂的七心法门，涵盖操作步骤、禁忌与实用技巧，是研究传统神秘疗法的珍贵资料。"
 slug: "huiyi-qixin-shouyinshu"
 ---
-{< button href="https://pan.quark.cn/s/1cf0a6aa2021" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1cf0a6aa2021" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1cf0a6aa2021
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 回医七心收阴术是什么？
 

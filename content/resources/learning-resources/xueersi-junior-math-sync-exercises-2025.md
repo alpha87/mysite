@@ -1,4 +1,3 @@
-
 ---
 title: "学而思初中数学四维三难教材同步刷题集 (2025人教版) PDF下载"
 description: "学而思初中数学四维三难教材同步刷题集（2025人教版）PDF电子版，涵盖初中数学核心考点，四维训练法突破三难障碍，适合初一至初三学生同步练习与中考复习。免费下载链接提供。"
@@ -11,15 +10,15 @@ keywords: ["学而思初中数学四维三难", "初中数学刷题集", "2025�
 summary: "学而思初中数学四维三难教材同步刷题集（2025人教版）PDF免费下载。本书采用四维训练法，针对初中数学三大难点（计算、几何、函数）进行专项突破，每章配以同步练习与真题模拟，适合学生课后巩固、考前冲刺。"
 slug: "xueersi-junior-math-four-dimensions-three-difficulties-2025"
 ---
-{< button href="https://pan.quark.cn/s/caf46597e6d7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/caf46597e6d7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/caf46597e6d7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

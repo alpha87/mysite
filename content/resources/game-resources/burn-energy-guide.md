@@ -1,4 +1,3 @@
-
 ---
 title: "燃烧吧，能量：全方位游戏攻略与能量管理指南"
 description: "燃烧吧，能量是一款以能量为核心玩法的休闲手游。本文提供完整的游戏攻略，包括能量获取、消耗管理、技能搭配、关卡通关技巧，以及如何利用能量系统快速升级，帮助玩家高效掌握游戏核心机制。"
@@ -11,15 +10,15 @@ keywords: ["燃烧吧能量攻略", "能量游戏", "能量消耗管理", "能�
 summary: "燃烧吧，能量是一款以能量为核心玩法的休闲手游。本文提供完整的游戏攻略，包括能量获取、消耗管理、技能搭配、关卡通关技巧，以及如何利用能量系统快速升级，帮助玩家高效掌握游戏核心机制。"
 slug: "burn-energy-guide"
 ---
-{< button href="https://pan.quark.cn/s/90374ca73274" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/90374ca73274" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/90374ca73274
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 游戏简介
 

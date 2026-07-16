@@ -1,4 +1,3 @@
-
 ---
 title: "24天人才发展TD训练营6期课：从HR小白到TD专才的快速进阶指南"
 description: "24天人才发展TD训练营6期课程完整内容，包含人才盘点、继任计划、学习地图、IDP制定、高潜人才培养等核心模块，手把手教你掌握人才发展全流程，适合HR、培训经理、业务管理者快速提升TD专业能力。"
@@ -11,15 +10,15 @@ keywords: ["24天人才发展TD训练营", "人才发展课程", "TD训练营6�
 summary: "24天系统化学习人才发展TD全流程，含人才盘点、继任计划、学习地图、IDP制定等核心模块，附赠实用工具模板，帮助HR、培训经理、业务管理者快速掌握TD专业能力。"
 slug: "24-day-talent-development-td-training-camp"
 ---
-{< button href="https://pan.quark.cn/s/83f682d8ea15" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/83f682d8ea15" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/83f682d8ea15
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

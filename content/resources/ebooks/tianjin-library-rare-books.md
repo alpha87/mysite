@@ -1,4 +1,3 @@
-
 ---
 title: "天津图书馆孤本秘籍丛书：珍稀古籍电子版全集"
 description: "天津图书馆孤本秘籍丛书电子版，收录明清珍稀刻本、稿本、抄本等罕见古籍，涵盖经史子集、地方志、医书、类书等类别，高清扫描PDF格式，是学术研究、古籍收藏、文史爱好者的必备资源。"
@@ -11,15 +10,15 @@ keywords: ["天津图书馆孤本秘籍丛书", "天津图书馆古籍", "孤本
 summary: "天津图书馆孤本秘籍丛书电子版，收录明清珍稀刻本、稿本、抄本等罕见古籍，涵盖经史子集、地方志、医书、类书等类别，高清扫描PDF格式，是学术研究、古籍收藏、文史爱好者的必备资源。"
 slug: "tianjin-library-rare-books"
 ---
-{< button href="https://pan.quark.cn/s/968ba511e6db" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/968ba511e6db" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/968ba511e6db
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 天津图书馆作为中国重要的古籍收藏机构，其馆藏孤本秘籍丛书堪称古籍研究领域的瑰宝。这套丛书精选了天津图书馆馆藏中极具版本价值、学术价值和文化传承意义的珍稀文献，多为明清时期罕见的刻本、稿本、抄本，甚至包括仅存孤本，是研究中国古代历史、文学、哲学、科技、医学等领域的珍贵第一手资料。
 

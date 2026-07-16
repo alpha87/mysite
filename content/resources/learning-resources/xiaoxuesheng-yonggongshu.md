@@ -1,4 +1,3 @@
-
 ---
 title: "小学生用功术：高效学习习惯养成与时间管理完整指南"
 description: "专为小学生设计的高效用功术指南，涵盖专注力训练、时间管理技巧、记忆方法、作业辅导策略及亲子互动建议，帮助孩子建立良好学习习惯，提升学习效率与成绩。附赠实用资源工具。"
@@ -11,15 +10,15 @@ keywords: ["小学生用功术", "小学生学习习惯", "高效学习", "时�
 summary: "专为小学生打造的高效用功术指南，涵盖专注力训练、时间管理、记忆方法、作业辅导及亲子互动策略，帮助孩子建立良好学习习惯，提升学习效率与成绩。"
 slug: "xiaoxuesheng-yonggongshu"
 ---
-{< button href="https://pan.quark.cn/s/f145f431e094" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f145f431e094" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f145f431e094
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是“小学生用功术”？
 

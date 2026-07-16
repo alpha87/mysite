@@ -1,4 +1,3 @@
-
 ---
 title: "大英图书馆中文馆藏16本珍贵电子书资源合集"
 description: "大英图书馆中文馆藏16本珍贵电子书资源合集，涵盖历史、文学、哲学等经典著作，高清PDF格式，可直接下载阅读，适合学术研究、文化探索和知识储备需求。"
@@ -11,15 +10,15 @@ keywords: ["大英图书馆中文馆藏", "大英图书馆电子书", "中文经
 summary: "大英图书馆中文馆藏15本珍贵电子书资源合集，涵盖历史、文学、哲学等经典著作，高清PDF格式，可直接下载阅读，适合学术研究、文化探索和知识储备需求。"
 slug: "british-library-chinese-books"
 ---
-{< button href="https://pan.quark.cn/s/8ac1e6b85587" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ac1e6b85587" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8ac1e6b85587
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 大英图书馆（The British Library）作为全球规模最大、藏书最丰富的图书馆之一，其中文馆藏堪称瑰宝。本次分享的16本珍贵电子书资源，均来自大英图书馆中文馆藏的数字化成果，涵盖了从古代经典到近代名著的广泛领域。
 

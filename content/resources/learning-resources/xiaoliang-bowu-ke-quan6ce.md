@@ -1,4 +1,3 @@
-
 ---
 title: "小亮老师的博物课（全6册）：儿童自然科普启蒙必备读物"
 description: "小亮老师的博物课全6册完整介绍，包括作者张辰亮（无穷小亮）的科普风格、每册主题内容、适合年龄段、阅读价值及网盘下载。帮助家长为孩子选择优质自然科普图书，激发孩子对大自然的好奇心与探索欲。"
@@ -11,15 +10,15 @@ keywords: ["小亮老师的博物课", "小亮老师的博物课全6册", "儿�
 summary: "小亮老师的博物课全6册详细介绍，含作者背景、每册主题、阅读价值及夸克网盘下载链接。一套能让孩子爱上自然的科普读物，适合3-12岁儿童亲子共读或自主阅读。"
 slug: "xiaoliang-bowu-ke-quan6ce"
 ---
-{< button href="https://pan.quark.cn/s/879ef9f8a7a0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/879ef9f8a7a0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/879ef9f8a7a0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 《小亮老师的博物课》全6册：让每一个孩子都爱上大自然
 

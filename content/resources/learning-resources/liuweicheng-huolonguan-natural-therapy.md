@@ -1,4 +1,3 @@
-
 ---
 title: "刘伟承妇科中医整体自然疗法火龙罐视频全套音频大合集：零基础自学完整教程"
 description: "刘伟承妇科中医整体自然疗法火龙罐完整教学资源，包含全套视频教程和音频讲解，从基础理论到实操演练，零基础也能系统学习火龙罐技术。涵盖妇科调理、经络疏通、罐法手法及中医整体自然疗法核心，适合中医爱好者、养生从业者及自学入门者。"
@@ -11,15 +10,15 @@ keywords: ["刘伟承火龙罐", "妇科中医整体自然疗法", "火龙罐视
 summary: "刘伟承妇科中医整体自然疗法火龙罐完整学习资源，包含全套视频与音频教程，零基础可学，系统掌握火龙罐技术、妇科调理及中医整体自然疗法核心内容。"
 slug: "liuweicheng-huolonguan-natural-therapy"
 ---
-{< button href="https://pan.quark.cn/s/d4578356921e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d4578356921e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d4578356921e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "中国文化合集（套装共36本）——古典与现代的智慧宝库"
 description: "涵盖36本经典文化著作的电子书合集，包含《论语》《道德经》《红楼梦》《诗经》《史记》《资治通鉴》等传世名作，从先秦诸子到明清小说，从诗词歌赋到历史典籍，为您打开中华五千年文明的智慧之门。适合国学爱好者、学生、研究者收藏学习，一站式获取最全文化精华。"
@@ -11,15 +10,15 @@ keywords: ["中国文化合集", "36本电子书", "国学经典套装", "中国
 summary: "中国文化合集套装共36本，涵盖《论语》《道德经》《红楼梦》《史记》《资治通鉴》等传世经典，从先秦到明清，从哲学到文学，一站式收藏中华文明智慧结晶。"
 slug: "chinese-culture-collection-36-books"
 ---
-{< button href="https://pan.quark.cn/s/f663d6910ebe" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f663d6910ebe" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f663d6910ebe
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 36本中华文化瑰宝，一次打包带走
 

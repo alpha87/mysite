@@ -1,4 +1,3 @@
-
 ---
 title: "80后90后小学语文绝版课本（12册全）PDF版 - 珍藏回忆的学习资源"
 description: "80后90后小学语文课本12册全套PDF版，包含人教版小学语文1-12册绝版教材，怀旧经典，适合家长辅导、教学研究、童年回忆收藏。高清扫描版，支持打印下载，永久保存，重温童年学习时光。"
@@ -11,15 +10,15 @@ keywords: ["80后小学语文课本PDF", "90后小学语文课本PDF", "人教�
 summary: "80后90后小学语文绝版课本12册全套PDF，高清扫描版，包含人教版小学语文1-12册全部内容，适合怀旧收藏、家长辅导、教学研究，下载即可永久保存。"
 slug: "80s-90s-primary-school-chinese-textbooks-pdf"
 ---
-{< button href="https://pan.quark.cn/s/bfbb0c463b5f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bfbb0c463b5f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bfbb0c463b5f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 80后90后小学语文课本——一代人的集体记忆
 

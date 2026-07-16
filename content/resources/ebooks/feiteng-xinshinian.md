@@ -1,4 +1,3 @@
-
 ---
 title: "沸腾新十年（完结）| 中国移动互联网十年群像史诗"
 description: "沸腾新十年全面回顾2010-2020中国移动互联网波澜壮阔的十年，涵盖千团大战、共享经济、短视频崛起、O2O混战等关键战役，深度剖析张一鸣、王兴、程维等核心人物决策逻辑，是创业者、产品经理、投资人理解中国式创新的必读之作。"
@@ -11,15 +10,15 @@ keywords: ["沸腾新十年", "中国互联网十年", "移动互联网史记", 
 summary: "沸腾新十年用全景视角还原2010-2020年中国移动互联网的完整进化史，从千团大战、共享经济到短视频崛起，深入剖析张一鸣、王兴、程维等创业者的关键决策与成败逻辑，是理解中国式创新与商业迭代的绝佳读本。"
 slug: "feiteng-xinshinian"
 ---
-{< button href="https://pan.quark.cn/s/3a8dc16156cf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a8dc16156cf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a8dc16156cf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

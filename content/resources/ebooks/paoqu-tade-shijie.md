@@ -1,4 +1,3 @@
-
 ---
 title: "《跑去她的世界》豆瓣评分8.6，治愈系小说电子书下载"
 description: "《跑去她的世界》是一部豆瓣评分8.6的治愈系小说，讲述孤独少年通过奔跑连接世界的故事。本书以细腻笔触描绘成长与和解，适合心灵疗愈阅读。提供夸克网盘下载，保存即永久。"
@@ -11,15 +10,15 @@ keywords: ["跑去她的世界 电子书", "豆瓣8.6 小说", "治愈系小说 
 summary: "《跑去她的世界》豆瓣评分8.6，一部关于奔跑、孤独与和解的治愈系小说。点击获取夸克网盘资源，保存即永久。"
 slug: "paoqu-tade-shijie"
 ---
-{< button href="https://pan.quark.cn/s/b0c5d90c64ff" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b0c5d90c64ff" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b0c5d90c64ff
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《跑去她的世界》
 

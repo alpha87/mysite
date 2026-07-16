@@ -1,4 +1,3 @@
-
 ---
 title: "《双生石》电影资源下载 夸克网盘高清版"
 description: "电影《双生石》高清资源下载，夸克网盘分享。一部充满悬疑与奇幻色彩的影片，讲述了双胞胎姐妹与神秘古石之间的命运纠葛，剧情跌宕起伏，视觉效果震撼，值得一看。"
@@ -11,15 +10,15 @@ keywords: ["双生石 电影", "双生石 夸克网盘", "双生石 高清下载
 summary: "电影《双生石》高清资源夸克网盘分享，悬疑奇幻题材，双胞胎姐妹与神秘古石的故事，剧情紧凑特效出色，适合喜欢悬疑和奇幻电影的观众。"
 slug: "shuangshengshi-dianying"
 ---
-{< button href="https://pan.quark.cn/s/9a3e904ecefe" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9a3e904ecefe" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9a3e904ecefe
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

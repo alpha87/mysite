@@ -1,4 +1,3 @@
-
 ---
 title: "2100个Excel表格模板合集：覆盖职场办公、财务、人事、销售全场景"
 description: "2100个Excel表格模板合集，涵盖财务记账、人事管理、销售分析、项目管理、考勤统计、预算规划等海量工作场景，模板均为即下即用格式，可编辑修改，极大提升办公效率，适合职场人士、学生、创业者使用。"
@@ -11,15 +10,15 @@ keywords: ["2100个Excel模板", "Excel表格模板合集", "Excel办公模板",
 summary: "2100个Excel表格模板合集，覆盖财务、人事、销售、项目管理等全场景，即下即用，可编辑修改，大幅提升办公效率，适合职场人士与学生使用。"
 slug: "2100-excel-templates-collection"
 ---
-{< button href="https://pan.quark.cn/s/5b4bd1691932" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5b4bd1691932" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5b4bd1691932
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否还在为制作Excel表格头疼？花大量时间设计格式、写公式、调布局？一套覆盖全场景的 **2100个Excel表格模板合集** 来了，帮你从繁琐的制表工作中彻底解放。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "2025实体变现终局：私域高客单模式全攻略"
 description: "2025年实体变现终极指南，聚焦私域高客单价模式。从选品策略、流量获取、信任建立到成交转化，深度解析如何通过微信生态实现实体产品的超额利润，帮助创业者把握私域变现的红利期。"
@@ -11,15 +10,15 @@ keywords: ["实体变现终局", "私域高客单", "2025实体变现", "私域�
 summary: "2025年实体变现终极指南，聚焦私域高客单价模式。从选品策略、流量获取、信任建立到成交转化，深度解析如何通过微信生态实现实体产品的超额利润，帮助创业者把握私域变现的红利期。"
 slug: "2025-physical-monetization-private-domain"
 ---
-{< button href="https://pan.quark.cn/s/3fadd7d8a256" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3fadd7d8a256" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3fadd7d8a256
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么2025年实体变现的终局是私域高客单？
 

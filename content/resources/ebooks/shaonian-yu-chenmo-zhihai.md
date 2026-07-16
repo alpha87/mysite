@@ -1,4 +1,3 @@
-
 ---
 title: "少年与沉默之海：豆瓣9.2分治愈系成长小说解读"
 description: "《少年与沉默之海》是一部豆瓣评分9.2的治愈系成长小说，讲述少年与大海之间的情感羁绊。本文提供电子书资源下载，并深度解析书中的孤独、陪伴与治愈力量，适合青少年、心理成长类读者阅读。"
@@ -11,15 +10,15 @@ keywords: ["少年与沉默之海电子书", "少年与沉默之海下载", "治
 summary: "《少年与沉默之海》豆瓣9.2分治愈系成长小说，讲述少年与大海的深厚情感。电子书资源下载+深度解读，适合寻找内心宁静的读者。"
 slug: "shaonian-yu-chenmo-zhihai"
 ---
-{< button href="https://pan.quark.cn/s/3a40d3c3ddca" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a40d3c3ddca" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a40d3c3ddca
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

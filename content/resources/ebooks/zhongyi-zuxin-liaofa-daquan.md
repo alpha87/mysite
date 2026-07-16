@@ -1,4 +1,3 @@
-
 ---
 title: "中医足心疗法大全：足底穴位按摩与敷贴实用指南"
 description: "中医足心疗法大全电子书，涵盖足底穴位图、反射区按摩手法、中药足心敷贴配方、常见病症调理方案，从感冒发烧到失眠高血压，手把手教你用足心疗法调理身体，适合中医爱好者和家庭保健使用。"
@@ -11,15 +10,15 @@ keywords: ["中医足心疗法大全", "足底穴位按摩", "足心敷贴配方
 summary: "中医足心疗法大全电子书，详细解析足底穴位图与反射区按摩手法，收录50余种中药足心敷贴配方，涵盖感冒、失眠、高血压、消化不良等常见病症的调理方案，图文并茂，零基础也能快速掌握足心疗法核心技巧。"
 slug: "zhongyi-zuxin-liaofa-daquan"
 ---
-{< button href="https://pan.quark.cn/s/5474dc35b429" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5474dc35b429" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5474dc35b429
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择足心疗法？
 

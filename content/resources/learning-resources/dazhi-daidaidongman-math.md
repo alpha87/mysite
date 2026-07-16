@@ -1,4 +1,3 @@
-
 ---
 title: "大智与呆呆动漫数学：小学生启蒙必备的3-6年级动画课程"
 description: "大智与呆呆动漫数学课程全套资源，专为3-6年级小学生设计的数学启蒙动画，通过趣味故事讲解加减乘除、几何图形、分数小数等核心知识点，帮助孩子轻松掌握小学数学，培养逻辑思维能力。"
@@ -11,15 +10,15 @@ keywords: ["大智与呆呆动漫数学", "小学数学动画课程", "3-6年级
 summary: "大智与呆呆动漫数学课程资源，覆盖3-6年级数学核心知识点，以动画故事形式激发孩子学习兴趣，帮助小学生轻松掌握加减乘除、几何、分数等难点，是家长辅导和家教补习的优质数字化资源。"
 slug: "dazhi-daidaidongman-math"
 ---
-{< button href="https://pan.quark.cn/s/17cbfd2716ff" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/17cbfd2716ff" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/17cbfd2716ff
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

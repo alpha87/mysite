@@ -1,4 +1,3 @@
-
 ---
 title: "Word基础应用大全：从入门到精通的全方位学习指南"
 description: "Word基础应用大全完整教程，涵盖文档编辑、排版、表格、图表、样式、宏等核心功能，从零基础到职场高效办公，附带实战案例与技巧，助你快速掌握Word操作精髓。"
@@ -11,15 +10,15 @@ keywords: ["Word基础应用大全", "Word学习", "办公软件教程", "文档
 summary: "Word基础应用大全完整教程，涵盖文档编辑、排版、表格、图表、样式、宏等核心功能，从零基础到职场高效办公，附带实战案例与技巧，助你快速掌握Word操作精髓。"
 slug: "word-jichu-yingyong-daquan"
 ---
-{< button href="https://pan.quark.cn/s/9fad640cb506" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9fad640cb506" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9fad640cb506
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 Word 基础应用大全是一份系统、全面的学习资料，适合所有希望提升文档处理能力的用户。无论你是职场新人、学生，还是需要经常撰写报告、方案的工作人员，这份教程都能帮你从零开始，逐步掌握 Word 的核心功能与实用技巧。
 

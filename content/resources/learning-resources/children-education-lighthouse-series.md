@@ -1,4 +1,3 @@
-
 ---
 title: "儿童教育小灯塔系列合集：点亮孩子学习之路的优质资源"
 description: "儿童教育小灯塔系列合集，涵盖科学启蒙、数学思维、语言能力、艺术培养等多元领域，适合3-12岁儿童。高清视频资源，系统化教学，助力家长轻松开展家庭教育。"
@@ -11,15 +10,15 @@ keywords: ["儿童教育小灯塔", "小灯塔合集", "儿童早教资源", "�
 summary: "儿童教育小灯塔系列合集，专注3-12岁儿童多元智能开发，包含科学、数学、语言、艺术等系统化课程视频，是家庭教育的优质辅助资源。"
 slug: "children-education-lighthouse-series"
 ---
-{< button href="https://pan.quark.cn/s/ed9e3a7bc83a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ed9e3a7bc83a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ed9e3a7bc83a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

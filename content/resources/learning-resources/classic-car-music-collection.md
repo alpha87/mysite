@@ -1,4 +1,3 @@
-
 ---
 title: "经典车载怀旧音乐合集：开车必备的回忆旋律"
 description: "经典车载怀旧音乐合集，收录上世纪80至90年代华语金曲，包括beyond、张学友、王菲等歌手代表作。适合长途驾驶、通勤路上播放，唤醒青春记忆，舒缓驾驶疲劳。提供夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["经典车载音乐合集", "怀旧音乐下载", "开车必听歌曲
 summary: "经典车载怀旧音乐合集，收录80-90年代华语金曲，适合开车时播放，舒缓疲劳，唤醒青春记忆。提供夸克网盘下载链接。"
 slug: "jingdian-chezaihuaijiu-yinyueheji"
 ---
-{< button href="https://pan.quark.cn/s/6d6ac2b6213d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d6ac2b6213d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d6ac2b6213d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要一份车载怀旧音乐合集？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "大语文名师团：部编必读名著精讲全系列"
 description: "大语文名师团倾力打造的部编版必读名著精讲课程，涵盖中小学必考名著深度解析、作者背景、章节精读、人物分析、主题归纳及考点预测，帮助孩子轻松掌握名著阅读与应试技巧，提升语文综合素养。"
@@ -11,15 +10,15 @@ keywords: ["大语文", "部编必读名著", "名著精讲课程", "必考名�
 summary: "大语文名师团部编必读名著精讲课程完整资源，包含中小学必考名著深度解析、精读方法、人物分析、主题归纳及考点预测，帮助孩子高效掌握名著阅读与应试技巧。"
 slug: "dayuwen-mingshituan-bibian-mingzhu-jingjiang"
 ---
-{< button href="https://pan.quark.cn/s/54f688c8f53c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/54f688c8f53c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/54f688c8f53c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

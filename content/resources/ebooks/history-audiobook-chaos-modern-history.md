@@ -1,4 +1,3 @@
-
 ---
 title: "历史知识有声书《混乱中的近现代史——晚清至今》｜听书资源免费下载"
 description: "《混乱中的近现代史——晚清至今》有声书完整版，涵盖晚清、民国、抗战、建国初期等关键历史阶段，以深入浅出的方式解读中国近现代史的混乱与变革，提供夸克网盘免费下载，适合历史爱好者、学生及自学者沉浸式听书学习。"
@@ -11,15 +10,15 @@ keywords: ["混乱中的近现代史有声书", "晚清至今历史", "近现代
 summary: "《混乱中的近现代史——晚清至今》有声书精品资源，完整覆盖晚清到近现代的重大历史事件，以声音形式呈现历史脉络，适合碎片时间学习，现提供夸克网盘免费下载。"
 slug: "history-audiobook-chaos-modern-history"
 ---
-{< button href="https://pan.quark.cn/s/96d283c9428d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/96d283c9428d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/96d283c9428d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐这部有声书？
 

@@ -1,4 +1,3 @@
-
 ---
 title: "二十四史（史上最全合集）epub+pdf 电子书下载"
 description: "收录二十四史全部正史书籍的电子书合集，包含epub和pdf两种格式，支持手机、平板、阅读器多设备阅读。涵盖《史记》《汉书》《后汉书》《三国志》等二十四部纪传体史书，是学习研究中国古代历史的最佳资料合集。"
@@ -11,15 +10,15 @@ keywords: ["二十四史电子书", "二十四史pdf", "二十四史epub", "中�
 summary: "史上最全的二十四史电子书合集，包含epub和pdf两种格式，收录《史记》《汉书》《后汉书》《三国志》《晋书》《宋书》《南齐书》《梁书》《陈书》《魏书》《北齐书》《周书》《隋书》《南史》《北史》《旧唐书》《新唐书》《旧五代史》《新五代史》《宋史》《辽史》《金史》《元史》《明史》共24部正史。"
 slug: "ershisi-shi-zui-quan-heji"
 ---
-{< button href="https://pan.quark.cn/s/491684b45f4d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/491684b45f4d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/491684b45f4d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 合集简介
 

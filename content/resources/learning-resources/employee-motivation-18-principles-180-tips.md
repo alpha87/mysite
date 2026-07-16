@@ -1,4 +1,3 @@
-
 ---
 title: "激励员工的18个大原则和180个小手段：打造高绩效团队全攻略"
 description: "《激励员工的18个大原则和180个小手段》是一套系统化的员工激励方法论，涵盖物质激励、精神激励、成长激励、目标激励、氛围激励、授权激励、信任激励、竞争激励、荣誉激励、关怀激励、榜样激励、参与激励、情感激励、制度激励、文化激励、创新激励、绩效激励、团队激励等18大原则及180个实操手段，帮助企业管理者提升团队凝聚力与工作效率。"
@@ -11,15 +10,15 @@ keywords: ["员工激励", "激励员工18大原则", "180个小手段", "团队
 summary: "《激励员工的18个大原则和180个小手段》系统化员工激励指南，涵盖18大原则与180个实操手段，从物质、精神、成长到文化激励，帮助企业管理者打造高凝聚力、高战斗力团队，提升员工积极性与组织效能。"
 slug: "employee-motivation-18-principles-180-tips"
 ---
-{< button href="https://pan.quark.cn/s/325006e249c7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/325006e249c7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/325006e249c7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么员工激励是管理者的必修课？
 

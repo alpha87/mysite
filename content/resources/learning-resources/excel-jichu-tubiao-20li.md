@@ -1,4 +1,3 @@
-
 ---
 title: "Excel基础图表20例：从入门到精通，数据可视化必学指南"
 description: "提供Excel基础图表20例的完整教程，涵盖柱状图、折线图、饼图、条形图、面积图、散点图、雷达图、气泡图等，详细讲解每种图表的用途、制作方法、技巧与注意事项，帮助初学者快速掌握数据可视化核心技能，提升工作效率。"
@@ -11,15 +10,15 @@ keywords: ["Excel基础图表", "Excel图表20例", "Excel数据可视化", "Exc
 summary: "Excel基础图表20例完整教程，从柱状图到雷达图，详解每种图表的用途、制作步骤与实用技巧，帮助你快速掌握数据可视化核心技能，让数据说话。"
 slug: "excel-jichu-tubiao-20li"
 ---
-{< button href="https://pan.quark.cn/s/464dbf9ed124" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/464dbf9ed124" target="_blank" >}}
 点击获取资源
-{< /button >}}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/464dbf9ed124
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 为什么学习Excel图表？
 

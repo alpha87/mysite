@@ -1,4 +1,3 @@
-
 ---
 title: "中国风水文化100集：从入门到精通系统视频教程"
 description: "中国风水文化100集完整视频教程合集，涵盖周易八卦、风水布局、阳宅阴宅、五行生克、罗盘使用、家居风水、商业风水等核心内容，由资深风水师讲解，适合初学者和爱好者系统学习传统风水文化知识。"
@@ -11,15 +10,15 @@ keywords: ["中国风水文化100集", "风水视频教程", "风水入门", "�
 summary: "中国风水文化100集系统视频教程，从基础理论到实战应用，涵盖周易、八卦、风水布局、阳宅阴宅、五行等核心知识，资深老师逐集讲解，帮助零基础学习者全面掌握传统风水文化精髓。"
 slug: "zhongguo-fengshui-wenhua-100-ji"
 ---
-{< button href="https://pan.quark.cn/s/94c51d9b9582" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/94c51d9b9582" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/94c51d9b9582
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

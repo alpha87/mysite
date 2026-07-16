@@ -1,4 +1,3 @@
-
 ---
 title: "蝶变高考《高中数学小题必刷·2025版》：高效刷题提分神器"
 description: "蝶变高考《高中数学小题必刷·2025版》完整资源分享，包含高考数学小题专项训练、高频考点、易错题型、解题技巧，适合高三学生冲刺复习，快速提升选择题和填空题正确率，助力高考数学高分。"
@@ -11,15 +10,15 @@ keywords: ["蝶变高考", "高中数学小题必刷", "2025版", "高考数学�
 summary: "蝶变高考《高中数学小题必刷·2025版》资源分享，涵盖高考数学选择题和填空题专项训练，高频考点与易错题型详解，帮助高三学生高效刷题、快速提分，是高考数学冲刺的必备教辅。"
 slug: "diebian-gaokao-gaozhong-shuxue-xiaoti-bishua-2025"
 ---
-{< button href="https://pan.quark.cn/s/294c55528401" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/294c55528401" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/294c55528401
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "叶老师英语语法精讲：系统学习英语语法，从零基础到精通"
 description: "叶老师英语语法精讲全系列课程，涵盖词性、时态、从句、虚拟语气等所有核心语法知识点，配合经典例句与实战练习，帮助英语学习者快速掌握语法规律，提升阅读写作能力。零基础也能轻松入门，适合备考、职场、留学生等多场景需求。"
@@ -11,15 +10,15 @@ keywords: ["叶老师英语语法精讲", "英语语法系统学习", "英语语
 summary: "叶老师英语语法精讲全系列课程，从词性到虚拟语气，系统梳理所有核心语法点，配合经典例句与实战练习，帮助学习者快速掌握语法规律，提升英语综合能力。"
 slug: "ye-laoshi-yingyu-yufa-jingjiang"
 ---
-{< button href="https://pan.quark.cn/s/1458d52737af" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1458d52737af" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1458d52737af
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 叶老师英语语法精讲是一套系统、全面、易懂的英语语法课程，专门为想要扎实掌握英语语法的学习者设计。无论你是英语初学者，还是想要查漏补缺的中高级学习者，这套课程都能帮你理清语法脉络，构建完整的语法知识体系。
 

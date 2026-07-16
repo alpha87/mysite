@@ -1,4 +1,3 @@
-
 ---
 title: "2025小米YU7发布会PPT：超全模版+设计灵感指南"
 description: "2025小米YU7发布会PPT完整资源包，涵盖发布会亮点总结、PPT模版设计、科技感配色方案与排版技巧。适合产品经理、设计师、汽车爱好者学习参考，可自由编辑修改。"
@@ -11,15 +10,15 @@ keywords: ["小米YU7发布会PPT", "小米汽车PPT模版", "2025汽车发布�
 summary: "2025小米YU7发布会PPT完整资源包，包含发布会核心亮点、科技感设计模版与配色方案，适合产品经理、设计师和汽车爱好者学习使用，可自由编辑修改。"
 slug: "2025-xiaomi-yu7-fabuhui-ppt"
 ---
-{< button href="https://pan.quark.cn/s/2a9890c9f99b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2a9890c9f99b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2a9890c9f99b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 2025年，小米汽车正式发布了首款SUV——小米YU7，这款车型一经亮相便引爆全网。无论是外观设计、智能座舱还是性能参数，都展现出小米对汽车行业的深度理解。而这场发布会所使用的PPT，更是堪称科技感与视觉美学的教科书级示范。
 

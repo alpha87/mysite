@@ -1,4 +1,3 @@
-
 ---
 title: "艾力老师《原力英语课程合集》全套资源下载"
 description: "艾力老师原力英语课程合集，包含核心语法、口语进阶、听力突破、阅读提升、写作训练等全套视频教程，适合零基础到高阶学习者，网盘资源一键保存永久有效。"
@@ -11,15 +10,15 @@ keywords: ["艾力老师原力英语", "原力英语课程合集", "英语全套
 summary: "艾力老师原力英语课程合集，涵盖语法、口语、听力、阅读、写作全模块，网盘资源一键保存，永久有效，适合所有英语学习者系统提升。"
 slug: "aili-laoshi-yuanli-yingyu-kecheng-heji"
 ---
-{< button href="https://pan.quark.cn/s/9226b6f928a4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9226b6f928a4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9226b6f928a4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 艾力老师《原力英语课程合集》简介
 

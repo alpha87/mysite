@@ -1,4 +1,3 @@
-
 ---
 title: "泰罗的极简后期课程：高效视频剪辑与调色全攻略"
 description: "泰罗的极简后期课程专为初学者设计，涵盖Premiere Pro、DaVinci Resolve等主流软件的快剪技巧、调色思路、转场特效、字幕包装、音频处理等核心技能，助你告别繁琐操作，快速提升视频制作效率与质量。"
@@ -11,15 +10,15 @@ keywords: ["泰罗的极简后期课程", "后期制作教程", "视频剪辑学
 summary: "泰罗的极简后期课程专为初学者打造，系统讲解视频剪辑、调色、转场、字幕、音频等核心技能，通过极简方法提升制作效率，适合自媒体创作者、短视频从业者及剪辑爱好者。"
 slug: "taro-simple-post-production-course"
 ---
-{< button href="https://pan.quark.cn/s/da285ea3f2ee" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/da285ea3f2ee" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/da285ea3f2ee
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 
@@ -52,6 +51,6 @@ slug: "taro-simple-post-production-course"
 
 立即保存到网盘，永久学习，无需等待。
 
-{< button href="https://pan.quark.cn/s/da285ea3f2ee" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/da285ea3f2ee" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}

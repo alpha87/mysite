@@ -1,4 +1,3 @@
-
 ---
 title: "北京烤鸭制作技术：从选鸭到片鸭的全流程详解"
 description: "北京烤鸭制作技术完整教学，涵盖选鸭标准、挂炉烤制技巧、脆皮处理、片鸭方法及经典配料配方，适合家庭自制与餐饮创业者参考，零基础也能学会正宗北京烤鸭做法。"
@@ -39,12 +38,12 @@ slug: "beijing-roast-duck-making-guide"
 
 通过以上步骤，你可以在家中还原出接近正宗口感的北京烤鸭。无论是家庭聚餐还是朋友聚会，亲手制作一只酥香流油的烤鸭，都能带来满满的成就感。如需更详细的操作视频或配方手册，可下载下方资源。
 
-{< button href="https://pan.quark.cn/s/4e231c9872de" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4e231c9872de" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4e231c9872de
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

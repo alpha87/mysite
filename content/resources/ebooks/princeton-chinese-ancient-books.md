@@ -1,4 +1,3 @@
-
 ---
 title: "普林斯顿大学馆藏中文古籍300册PDF（109G）高清电子版"
 description: "普林斯顿大学馆藏中文古籍300册高清PDF电子版，共计109G，涵盖经史子集、方志、医书、宗教文献等珍贵善本，适合学术研究、古籍收藏与传统文化爱好者，提供夸克网盘高速下载，保存即永久。"
@@ -11,15 +10,15 @@ keywords: ["普林斯顿大学馆藏中文古籍", "古籍PDF下载", "中文古
 summary: "普林斯顿大学馆藏中文古籍300册高清PDF电子版，109G超大容量，涵盖经史子集、方志、医书、宗教文献等珍贵善本，适合学术研究、古籍收藏与传统文化爱好者。夸克网盘高速下载，保存即永久。"
 slug: "princeton-chinese-ancient-books-300-pdf"
 ---
-{< button href="https://pan.quark.cn/s/9f8e373b76de" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9f8e373b76de" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9f8e373b76de
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

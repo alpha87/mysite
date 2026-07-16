@@ -1,4 +1,3 @@
-
 ---
 title: "初中英语解题方法速通（全9册）配套课程 57G 完整资源下载"
 description: "初中英语解题方法速通全9册配套课程资源，57G高清视频教程，涵盖完形填空、阅读理解、语法填空、短文改错、书面表达等中考核心题型，附赠电子版讲义与练习，适合初中生系统提升英语解题能力。"
@@ -11,15 +10,15 @@ keywords: ["初中英语解题方法速通", "初中英语课程", "初中英语
 summary: "初中英语解题方法速通全9册配套课程资源，57G高清视频教程，涵盖中考英语核心题型解题技巧，完形填空、阅读理解、语法填空、短文改错、书面表达一网打尽，附电子版讲义与练习，助你快速突破英语瓶颈。"
 slug: "junior-english-solving-methods-course"
 ---
-{< button href="https://pan.quark.cn/s/d0fa10987fa4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d0fa10987fa4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d0fa10987fa4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

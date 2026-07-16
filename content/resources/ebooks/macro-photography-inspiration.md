@@ -1,4 +1,3 @@
-
 ---
 title: "《摄影的灵感 微距》70幅绝妙微距摄影佳作高清电子书"
 description: "《摄影的灵感 微距》精选70幅绝妙微距摄影作品，涵盖花卉、昆虫、水滴等微观世界，附详细拍摄参数与创作思路，适合摄影爱好者、微距入门者及进阶玩家学习参考。"
@@ -11,15 +10,15 @@ keywords: ["微距摄影电子书", "摄影的灵感微距", "微距摄影作品
 summary: "《摄影的灵感 微距》收录70幅绝美微距摄影佳作，从花卉到昆虫，从水滴到纹理，每幅作品均附带详细拍摄参数与创作思路，助你快速提升微距摄影技艺。"
 slug: "macro-photography-inspiration"
 ---
-{< button href="https://pan.quark.cn/s/cf5f4c6264b6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cf5f4c6264b6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cf5f4c6264b6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾被花瓣上的露珠、蝴蝶翅膀的纹路、蚂蚁扛起食物的瞬间所震撼？微距摄影将肉眼难以察觉的微观世界放大呈现，让平凡之物绽放出惊人的美感。而《摄影的灵感 微距》正是一本带你进入这个奇妙世界的绝佳指南。
 

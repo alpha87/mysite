@@ -1,4 +1,3 @@
-
 ---
 title: "易经相关书籍汇总：经典易学入门与进阶必读书单"
 description: "易经相关书籍大全，涵盖周易入门、梅花易数、六爻预测、八字命理等经典著作，精选南怀瑾、曾仕强、邵伟华等名家作品，适合易学爱好者收藏学习。"
@@ -11,15 +10,15 @@ keywords: ["易经书籍推荐", "周易必读书目", "易学入门书籍", "�
 summary: "易经相关书籍汇总大全，涵盖周易入门、梅花易数、六爻预测、八字命理等易学经典，精选南怀瑾、曾仕强、邵伟华等名家作品，适合易学爱好者收藏学习。"
 slug: "yijing-books-summary"
 ---
-{< button href="https://pan.quark.cn/s/8ba2e28552d6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8ba2e28552d6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8ba2e28552d6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 易经书籍资源介绍
 

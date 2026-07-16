@@ -10,15 +10,15 @@ keywords: ["冯先波中医基础讲课实录", "中医基础教程", "中医入
 summary: "冯先波中医基础讲课实录完整版，系统讲解中医核心理论，配合经典案例解析，适合中医初学者和从业者快速构建中医思维体系，提升临床辨证能力。"
 slug: "feng-xianbo-tcm-basics-lecture"
 ---
-{< button href="https://pan.quark.cn/s/ee02dfc10372" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ee02dfc10372" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ee02dfc10372
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

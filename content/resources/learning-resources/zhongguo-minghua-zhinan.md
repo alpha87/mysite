@@ -1,4 +1,3 @@
-
 ---
 title: "跟随名家脚步看懂中国名画：艺术入门与鉴赏指南"
 description: "从《清明上河图》到《富春山居图》，跟随大师解读中国传世名画的构图、笔法、历史背景与艺术价值。适合零基础艺术爱好者快速入门传统国画鉴赏，培养审美眼光。包含高清电子书与名家讲解视频资源。"
@@ -11,15 +10,15 @@ keywords: ["中国名画鉴赏", "国画入门教程", "跟随名家看懂名画
 summary: "系统梳理中国美术史上最具代表性的传世名画，结合名家讲解视频与高清图册，帮助艺术爱好者从零基础快速掌握国画鉴赏的核心方法，提升传统文化素养。"
 slug: "zhongguo-minghua-zhinan"
 ---
-{< button href="https://pan.quark.cn/s/e4f8f0acf6ed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e4f8f0acf6ed" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e4f8f0acf6ed
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要看懂中国名画？
 

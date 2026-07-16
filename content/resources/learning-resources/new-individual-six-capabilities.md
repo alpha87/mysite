@@ -1,4 +1,3 @@
-
 ---
 title: "新个体必备六种能力：从零到一打造个人核心竞争力"
 description: "详细解析新个体经济时代必备的六种核心能力：自驱力、学习力、产品力、营销力、运营力、变现力。每项能力结合实战案例，提供可落地的提升方法，帮助个人创业者、自由职业者、斜杠青年构建完整的个人能力体系，实现可持续成长与变现。"
@@ -11,15 +10,15 @@ keywords: ["新个体必备六种能力", "个人核心竞争力", "自驱力培
 summary: "详细解析新个体经济时代必备的六种核心能力：自驱力、学习力、产品力、营销力、运营力、变现力，每项能力结合实战案例与可落地的提升方法，帮助个人创业者、自由职业者、斜杠青年构建完整的能力体系。"
 slug: "new-individual-six-capabilities"
 ---
-{< button href="https://pan.quark.cn/s/09de80b0a9fa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/09de80b0a9fa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/09de80b0a9fa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "俄罗斯文明50讲（完结）| 深度解读俄罗斯历史、文化与思想演变"
 description: "俄罗斯文明50讲完整课程资源，从基辅罗斯到现代俄罗斯，全面剖析俄罗斯历史、文化、宗教、文学、艺术与政治思想演变，适合历史爱好者、文化研究者及留学生系统学习。"
@@ -11,15 +10,15 @@ keywords: ["俄罗斯文明50讲", "俄罗斯历史课程", "俄罗斯文化演�
 summary: "俄罗斯文明50讲完整课程，系统讲解俄罗斯从基辅罗斯到现代俄罗斯的文明发展历程，涵盖政治、宗教、文学、艺术、哲学等多维度内容，为学习者呈现俄罗斯文明的完整图景。"
 slug: "russian-civilization-50-lectures"
 ---
-{< button href="https://pan.quark.cn/s/60b92f95d42e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/60b92f95d42e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/60b92f95d42e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "世界记忆大师考证班：3个月带你成就最强大脑（视频教学）"
 description: "世界记忆大师考证班完整视频教学课程，3个月系统训练提升记忆力，涵盖数字记忆、中文记忆、英文记忆、扑克牌记忆等核心技巧，助你轻松通过世界记忆大师认证考试，成就最强大脑。适合学生、职场人士、考证人群及记忆爱好者。"
@@ -12,15 +11,15 @@ summary: "世界记忆大师考证班视频教学课程，3个月系统训练，
 slug: "world-memory-master-certification-course"
 ---
 
-{< button href="https://pan.quark.cn/s/4208f0d410de" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4208f0d410de" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4208f0d410de
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否羡慕那些在《最强大脑》舞台上展现惊人记忆力的选手？是否幻想自己也能拥有过目不忘的能力？现在，机会来了！世界记忆大师考证班，专为渴望提升记忆力的你量身打造，3个月系统训练，带你从零基础迈向世界记忆大师！
 

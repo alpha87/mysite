@@ -1,4 +1,3 @@
-
 ---
 title: "HR带你走近真实互联网：求职内幕与职业发展全解析"
 description: "资深HR揭秘互联网行业真实职场生态，从简历筛选规则、面试技巧到职业规划路径，深度解析大厂招聘内幕、薪资谈判策略、跳槽时机选择与35岁危机应对，帮助求职者避开常见陷阱，科学规划互联网职业生涯。"
@@ -11,15 +10,15 @@ keywords: ["互联网HR揭秘", "互联网求职指南", "简历筛选规则", "
 summary: "资深HR带你走进真实互联网世界，从简历筛选、面试技巧到职业规划，全面解析大厂招聘内幕、薪资谈判策略、跳槽时机及35岁危机应对，帮助求职者科学规划职业生涯。"
 slug: "hr-true-internet-guide"
 ---
-{< button href="https://pan.quark.cn/s/9dddf8a1e0b9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9dddf8a1e0b9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9dddf8a1e0b9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要从HR视角看互联网？
 

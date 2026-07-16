@@ -1,4 +1,3 @@
-
 ---
 title: "郭继承精讲四书丨《大学》《论语》《孟子》《中庸》完整课程资源"
 description: "郭继承教授精讲四书（大学、论语、孟子、中庸）完整版课程资源，系统解读儒家经典，从修身齐家到治国平天下，适合国学爱好者、传统文化学习者、青少年教育者。包含全部章节内容，完结可下载。"
@@ -11,15 +10,15 @@ keywords: ["郭继承精讲四书", "四书完整版", "大学讲解", "论语�
 summary: "郭继承教授精讲四书（大学·论语·孟子·中庸）完整课程，深入浅出解读儒家经典精髓，涵盖修身、齐家、治国、平天下核心思想，适合国学爱好者和传统文化学习者，资源已完结，支持在线或下载学习。"
 slug: "guo-jicheng-sishu-jiangjie"
 ---
-{< button href="https://pan.quark.cn/s/aeeffec947e3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/aeeffec947e3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/aeeffec947e3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

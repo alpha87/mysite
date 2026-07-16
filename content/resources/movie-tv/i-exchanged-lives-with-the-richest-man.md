@@ -1,4 +1,3 @@
-
 ---
 title: "I Exchanged Lives with the Richest Man (92 Episodes) – Complete Short Drama Guide"
 description: "Watch the entire 92-episode short drama 'I Exchanged Lives with the Richest Man' online. Complete plot summary, character analysis, and download link. The story of an ordinary person swapping lives with a billionaire, exploring wealth, family, and destiny."

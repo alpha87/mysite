@@ -1,4 +1,3 @@
-
 ---
 title: "超实用Word隐藏技巧：90%的人不知道的办公效率神器"
 description: "Microsoft Word中隐藏着许多不为人知但极其高效的技巧，涵盖隐藏文字、快速定位、快捷键操作、文档保护等功能，帮助用户大幅提升文档处理效率，告别繁琐重复操作。"
@@ -11,15 +10,15 @@ keywords: ["Word隐藏技巧", "Word高效办公", "Word快捷键", "文档处�
 summary: "掌握Word中10个隐藏但实用的技巧，从隐藏文字到快速定位，从一键清除格式到文档合并，快速提升你的办公效率，90%的人不知道的宝藏功能。"
 slug: "word-hidden-tips"
 ---
-{< button href="https://pan.quark.cn/s/de9c893af472" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/de9c893af472" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/de9c893af472
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 在日常办公中，Word 是我们最常用的文字处理工具，但绝大多数人只用了它不到 20% 的功能。那些隐藏在菜单深处的小技巧，往往能帮我们节省大量时间。今天就来盘点 10 个超实用的 Word 隐藏技巧，学会后你会发现自己以前走了太多弯路。
 

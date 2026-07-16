@@ -1,4 +1,3 @@
-
 ---
 title: "李翔详谈系列全集（22部）：深度商业访谈精华集"
 description: "李翔详谈系列全集22部，涵盖中国顶尖企业家、创业者、投资人的深度访谈，揭示商业逻辑、创业历程与人生智慧，适合企业管理者、创业者及商业爱好者学习收藏。"
@@ -12,15 +11,15 @@ summary: "李翔详谈系列全集22部，每部聚焦一位商业巨擘，深�
 slug: "li-xiang-xiangtan-series"
 ---
 
-{< button href="https://pan.quark.cn/s/fe9276ccfda8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fe9276ccfda8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fe9276ccfda8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 李翔详谈系列：一间没有围墙的商业商学院
 

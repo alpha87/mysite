@@ -1,4 +1,3 @@
-
 ---
 title: "阿里P9《大厂面试攻略》7节视频课程"
 description: "由阿里P9面试官亲授的《大厂面试攻略》7节视频课程，深度解析大厂面试全流程，涵盖简历优化、算法与数据结构、系统设计、项目深度挖掘、软技能提升、高频面试题精讲、薪资谈判等核心模块。适合Java、后端、算法等岗位求职者，帮助快速掌握大厂面试通关策略。"
@@ -11,15 +10,15 @@ keywords: ["大厂面试攻略", "阿里P9面试", "面试视频课程", "大厂
 summary: "阿里P9面试官7节视频课程，系统讲解大厂面试全流程技巧，包括简历、算法、系统设计、项目、软技能、高频题和薪资谈判，是求职大厂的必备攻略。"
 slug: "ali-p9-interview-guide"
 ---
-{< button href="https://pan.quark.cn/s/e76bfecacc76" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e76bfecacc76" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e76bfecacc76
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

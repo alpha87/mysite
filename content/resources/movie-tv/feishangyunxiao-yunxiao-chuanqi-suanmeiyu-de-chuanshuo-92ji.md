@@ -1,4 +1,3 @@
-
 ---
 title: "飞上云霄&云霄传奇&酸菜鱼的传说（92集）"
 description: "《飞上云霄》《云霄传奇》《酸菜鱼的传说》三部热播剧合集，92集完整资源，涵盖都市情感、传奇冒险与美食喜剧，附夸克网盘链接，高速下载长期保存。"
@@ -11,15 +10,15 @@ keywords: ["飞上云霄", "云霄传奇", "酸菜鱼的传说", "92集合集", 
 summary: "《飞上云霄》《云霄传奇》《酸菜鱼的传说》三部热播剧92集完整资源合集，涵盖都市情感、传奇冒险与美食喜剧不同题材，满足全家观看需求。夸克网盘直链分享，保存即永久。"
 slug: "feishangyunxiao-yunxiao-chuanqi-suanmeiyu-de-chuanshuo-92ji"
 ---
-{< button href="https://pan.quark.cn/s/6244e4dfec2d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6244e4dfec2d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6244e4dfec2d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 合集简介
 

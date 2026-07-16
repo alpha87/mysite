@@ -1,4 +1,3 @@
-
 ---
 title: "《水浒传》120集全版经典电视剧资源：高清珍藏完整版"
 description: "免费下载《水浒传》120集全版电视剧资源，央视经典版，高清画质，国语中字，完整收藏版。适合文学爱好者、影视收藏者在线观看或下载保存。"
@@ -12,15 +11,15 @@ summary: "《水浒传》120集全版经典电视剧资源，高清画质国语�
 slug: "shuihuzhuan-120-ji-quan"
 ---
 
-{< button href="https://pan.quark.cn/s/142df0e33f79" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/142df0e33f79" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/142df0e33f79
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

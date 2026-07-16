@@ -1,4 +1,3 @@
-
 ---
 title: "知青专题资料合集：历史文献、回忆录与影像档案全收录"
 description: "知青专题资料合集，涵盖知青运动历史文献、知青回忆录、知青照片与纪录片、知青研究论文等丰富资源。从上山下乡政策解读到各地知青生活实录，为历史研究者、知青后代及对年代文化感兴趣的读者提供一站式学习资料库。"
@@ -11,15 +10,15 @@ keywords: ["知青专题资料合集", "知青历史文献", "知青回忆录", 
 summary: "知青专题资料合集，收录大量历史文献、回忆录、照片与纪录片，涵盖上山下乡政策解读、各地知青生活实录，为历史研究与年代文化爱好者提供一站式学习资料库。"
 slug: "zhiqing-special-collection"
 ---
-{< button href="https://pan.quark.cn/s/a86d329812d4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a86d329812d4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a86d329812d4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 知青专题资料合集简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "蒋文华·博弈论50讲高清完整版：入门到精通全攻略"
 description: "蒋文华博弈论50讲完整课程资源，涵盖博弈论基础、纳什均衡、囚徒困境、混合策略等核心内容，高清视频+讲义笔记，适合大学生、职场人士、创业者系统学习博弈论思维，提升决策能力。"
@@ -11,15 +10,15 @@ keywords: ["博弈论50讲", "蒋文华博弈论", "博弈论课程", "博弈论
 summary: "蒋文华博弈论50讲高清完整版，系统讲解博弈论核心理论与经典案例，从入门到精通，附赠讲义笔记，帮助学习者快速掌握博弈论分析框架，提升工作与生活中的策略决策能力。"
 slug: "jiangwenhua-boyilun-50-jiang"
 ---
-{< button href="https://pan.quark.cn/s/4078c5b6230f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4078c5b6230f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4078c5b6230f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

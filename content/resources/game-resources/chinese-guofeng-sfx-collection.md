@@ -1,4 +1,3 @@
-
 ---
 title: "中国古风音效合集—226款古风武侠音乐"
 description: "收录226款中国古风武侠音效，包括战斗、环境、乐器、人声等多种类型，适用于游戏开发、影视制作、短视频配音、动漫配乐等场景，高清音频格式，即下即用。"
@@ -11,15 +10,15 @@ keywords: ["中国古风音效", "武侠音乐音效", "游戏开发音效", "�
 summary: "收录226款中国古风武侠音效，涵盖战斗、环境、乐器、人声等类型，高清音频，即下即用，适用于游戏、影视、短视频等多种创作场景。"
 slug: "zhongguo-gufeng-yinxiao-heji"
 ---
-{< button href="https://pan.quark.cn/s/a094d4a852a8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a094d4a852a8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a094d4a852a8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 🎵 226款中国古风武侠音效全集
 

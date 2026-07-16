@@ -1,4 +1,3 @@
-
 ---
 title: "大国历史·大国性格（套装共11卷）电子书资源下载"
 description: "《大国历史·大国性格》套装共11卷，涵盖全球主要大国历史发展与国民性格分析，包括美国、英国、法国、德国、日本、俄罗斯、中国等，由多位历史学家撰写，深刻剖析大国崛起背后的文化与性格因素，适合历史爱好者、社科研究者及对国际关系感兴趣的读者。"
@@ -11,15 +10,15 @@ keywords: ["大国历史大国性格", "大国历史套装", "大国性格电子
 summary: "《大国历史·大国性格》套装共11卷，详细解读全球主要大国发展历程与民族性格，从历史中探寻大国兴衰的深层逻辑，适合历史与社科研究者。"
 slug: "daguo-history-character-sets"
 ---
-{< button href="https://pan.quark.cn/s/154276584fc6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/154276584fc6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/154276584fc6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

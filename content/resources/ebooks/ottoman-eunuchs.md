@@ -1,4 +1,3 @@
-
 ---
 title: "《奥斯曼的宦官》电子书下载：揭开帝国后宫的神秘权力史"
 description: "《奥斯曼的宦官》完整电子书资源，深入解析奥斯曼帝国宦官制度的历史渊源、权力运作与后宫生态。本书详尽描绘了宦官在帝国政治中的关键角色，适合历史爱好者、奥斯曼帝国研究者及中东文化探索者阅读。提供夸克网盘下载。"
@@ -11,15 +10,15 @@ keywords: ["奥斯曼的宦官电子书", "奥斯曼帝国宦官", "后宫制度
 summary: "《奥斯曼的宦官》电子书资源，深度解读奥斯曼帝国宦官制度的历史背景、权力斗争与后宫女官体系。本书以翔实史料还原宦官在帝国决策中的隐秘影响，是理解奥斯曼政治与文化的必读之作。"
 slug: "ottoman-eunuchs-ebook"
 ---
-{< button href="https://pan.quark.cn/s/ea6ff39f9495" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ea6ff39f9495" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ea6ff39f9495
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "生命的真相：王一方的北大医学人文课（B站资源）"
 description: "北京大学王一方教授主讲的《生命的真相》医学人文课程完整版，深入探讨生命伦理、死亡哲学、医患关系等核心议题，适合医学生、医疗从业者及对生命哲学感兴趣的普通读者，B站高清视频资源分享。"
@@ -11,15 +10,15 @@ keywords: ["生命的真相", "王一方", "北大医学人文", "医学人文�
 summary: "北京大学王一方教授主讲《生命的真相》医学人文课程，涵盖生命伦理、死亡哲学、医患关系等主题，B站高清视频资源，适合医学从业者与生命哲学爱好者学习。"
 slug: "life-truth-wangyifang-beida-medical-humanities"
 ---
-{< button href="https://pan.quark.cn/s/ff243ee5e95f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ff243ee5e95f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ff243ee5e95f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程介绍
 

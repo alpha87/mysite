@@ -1,4 +1,3 @@
-
 ---
 title: "为什么总有人花冤枉钱？《画经济学》带你了解经济学原理"
 description: "《画经济学》是一部深入浅出的经济学纪录片，用生动的案例和动画解释日常生活中的经济学谬误，帮助观众理解机会成本、边际效应、沉没成本等核心概念，避免消费陷阱。本资源提供高清下载链接，适合经济学爱好者、学生和普通大众学习。"
@@ -11,15 +10,15 @@ keywords: ["画经济学下载", "经济学纪录片资源", "为什么总有人
 summary: "《画经济学》用动画和故事解读经济学核心概念，揭示日常消费中的认知偏差。本文介绍该纪录片内容特色，并提供夸克网盘高清资源下载链接。"
 slug: "hua-jingjixue-jingjixue-yuanli"
 
-{< button href="https://pan.quark.cn/s/d9e4c18b8e7c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d9e4c18b8e7c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d9e4c18b8e7c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么总有人花冤枉钱？——从《画经济学》说起
 

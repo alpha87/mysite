@@ -1,4 +1,3 @@
-
 ---
 title: "天下第一相书：相术经典之作，揭秘面相学精髓"
 description: "《天下第一相书》是一部集相术大成的经典古籍，涵盖面相、手相、骨相、体相、行为相学等全面内容，从入门到精通，逐章解析相术核心理论、实战技巧与案例解读。适合相术爱好者、传统文化研究者、面相学初学者。电子版资源免费获取。"
@@ -11,15 +10,15 @@ keywords: ["天下第一相书", "相术大全", "面相学书籍", "手相教�
 summary: "《天下第一相书》相术经典电子书，涵盖面相、手相、骨相等全面内容，从基础理论到实战案例，适合相术爱好者与传统文化研究者免费获取。"
 slug: "tianxia-diyi-xiangshu"
 ---
-{< button href="https://pan.quark.cn/s/8598bcaf8e8f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8598bcaf8e8f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8598bcaf8e8f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

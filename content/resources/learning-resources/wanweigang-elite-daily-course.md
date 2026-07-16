@@ -1,4 +1,3 @@
-
 ---
 title: "万维钢·精英日课：顶尖学者带你每天思考精进"
 description: "万维钢·精英日课是得到APP明星课程，由物理学家万维钢主讲，每日解读全球前沿思想、科学新知与人文洞见。本资源提供完整课程打包下载，涵盖第一季至最新季内容，适合追求认知升级、渴望深度思考的终身学习者。"
@@ -11,15 +10,15 @@ keywords: ["万维钢精英日课", "精英日课下载", "万维钢课程", "�
 summary: "万维钢·精英日课是得到APP明星课程，物理学家万维钢每日解读全球前沿思想、科学新知与人文洞见。本资源提供完整课程下载，涵盖第一季至最新季，适合追求认知升级的终身学习者。"
 slug: "wanweigang-elite-daily-course"
 ---
-{< button href="https://pan.quark.cn/s/073cdc3dd1f4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/073cdc3dd1f4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/073cdc3dd1f4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "王受之教授《世界建筑史（现代篇）》完整视频课程"
 description: "王受之教授亲授《世界建筑史（现代篇》高清完整视频，涵盖现代建筑大师、流派、经典作品深度解析，从包豪斯到解构主义，从柯布西耶到盖里，系统学习现代建筑发展脉络。"
@@ -11,15 +10,15 @@ keywords: ["王受之世界建筑史现代篇", "现代建筑史课程", "建筑
 summary: "王受之教授《世界建筑史（现代篇）》完整视频课程，系统讲解从19世纪末到当代的现代建筑发展历程，深入分析重要流派、建筑师代表及经典作品，是建筑学专业学生和建筑爱好者的宝贵学习资源。"
 slug: "wangshouzhi-world-architecture-history-modern"
 ---
-{< button href="https://pan.quark.cn/s/a65ed88fb85a" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/a65ed88fb85a" target="_blank" >}}
 点击获取资源
-{< /button >}}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a65ed88fb85a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 课程简介
 

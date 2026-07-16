@@ -1,4 +1,3 @@
-
 ---
 title: "一度招商方案系统实操班：价值1980元全套课程教程"
 description: "一度招商方案系统实操班完整课程教程，涵盖招商方案设计、渠道招商策略、融资招商演讲、商业计划书撰写等核心模块，价值1980元的高端招商培训资源，适合创业者、企业高管、招商负责人系统学习招商全流程。"
@@ -11,15 +10,15 @@ keywords: ["一度招商方案系统实操班", "招商方案设计", "招商培
 summary: "一度招商方案系统实操班完整课程教程，价值1980元的高端招商培训资源，涵盖招商方案设计、渠道招商、融资演讲、商业计划书等核心模块，帮助创业者和企业系统掌握招商全流程。"
 slug: "yidu-zhaoshang-fangan-shi-cao-ban"
 ---
-{< button href="https://pan.quark.cn/s/b4c9d6d6eafe" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b4c9d6d6eafe" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b4c9d6d6eafe
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

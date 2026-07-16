@@ -1,4 +1,3 @@
-
 ---
 title: "幼小衔接拼音启蒙全攻略：零基础学拼音，轻松过渡小学"
 description: "专为幼儿园大班孩子设计的拼音启蒙教学资源，涵盖声母、韵母、整体认读音节、拼读技巧、书写练习，结合儿歌、游戏、动画等多种形式，帮助孩子轻松掌握拼音基础，顺利衔接小学语文学习。"
@@ -11,15 +10,15 @@ keywords: ["幼小衔接拼音", "拼音启蒙", "幼升小拼音", "拼音学�
 summary: "幼小衔接拼音启蒙完整攻略，涵盖声母、韵母、整体认读音节、拼读与书写技巧，结合儿歌、游戏、动画等趣味形式，让孩子在快乐中掌握拼音，顺利过渡小学语文学习。"
 slug: "preschool-pinyin-enlightenment"
 ---
-{< button href="https://pan.quark.cn/s/8b62087c4a1a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8b62087c4a1a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8b62087c4a1a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、为什么拼音启蒙是幼小衔接的关键？
 

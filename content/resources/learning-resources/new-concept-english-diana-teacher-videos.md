@@ -1,4 +1,3 @@
-
 ---
 title: "新概念英语戴安娜美女老师1-4册精讲全套视频教程"
 description: "新概念英语戴安娜老师1-4册精讲视频全集，包含全新概念英语第1册到第4册全部课程，由美女名师戴安娜全程主讲，系统讲解语法、词汇、口语、写作，适合从零基础到高级学习者，助你全面提升英语能力。"
@@ -11,15 +10,15 @@ keywords: ["新概念英语戴安娜", "新概念英语1-4册", "戴安娜老师
 summary: "新概念英语戴安娜老师1-4册精讲全套视频教程，涵盖语法、词汇、口语、写作，适合各阶段英语学习者，名师全程授课，系统提升英语综合能力。"
 slug: "new-concept-english-diana-teacher-videos"
 ---
-{< button href="https://pan.quark.cn/s/555141dc39cf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/555141dc39cf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/555141dc39cf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

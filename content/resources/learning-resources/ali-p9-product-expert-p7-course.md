@@ -1,4 +1,3 @@
-
 ---
 title: "阿里P9升职加薪课《向产品专家(P7)进阶》第7期 33节视频教程"
 description: "阿里P9资深专家亲授的产品专家进阶课程，涵盖产品思维、用户研究、数据分析、项目管理、商业策略等核心模块，33节高清视频带你从P5/P6冲刺P7，实现职业跃升与薪资翻倍。"
@@ -11,15 +10,15 @@ keywords: ["阿里P9课程", "产品专家P7进阶", "产品经理升职加薪",
 summary: "阿里P9资深专家亲授的《向产品专家(P7)进阶》第7期课程，33节高清视频系统覆盖产品思维、用户研究、数据分析、项目管理、商业策略等核心能力模块，帮助产品经理突破职业瓶颈，加速晋升P7，实现薪资跃升。"
 slug: "ali-p9-product-expert-p7-course"
 ---
-{< button href="https://pan.quark.cn/s/935039a25fb2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/935039a25fb2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/935039a25fb2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

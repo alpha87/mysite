@@ -1,4 +1,3 @@
-
 ---
 title: "地缘看世界：全球政治格局的深度解析与地理逻辑"
 description: "《地缘看世界》是一本从地理视角解读国际关系与全球战略的经典读物，详细剖析欧亚大陆、中东、亚太等热点区域的地缘逻辑，帮助读者理解大国博弈背后的地理驱动力，适合国际关系爱好者、地理学习者、战略研究者阅读。"
@@ -11,15 +10,15 @@ keywords: ["地缘看世界 电子书", "地缘政治书籍推荐", "国际关�
 summary: "《地缘看世界》从地理维度剖析全球政治格局，深度解读欧亚大陆、中东、亚太等核心区域的地缘逻辑，揭示大国博弈背后的地理密码，是理解当代国际关系的必备读物。"
 slug: "diyuan-kan-shijie"
 ---
-{< button href="https://pan.quark.cn/s/3a07601c2b7b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a07601c2b7b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a07601c2b7b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是《地缘看世界》？
 

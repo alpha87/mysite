@@ -1,4 +1,3 @@
-
 ---
 title: "方剂学-天津中医药大学【年莉】176讲完整版：系统掌握中医方剂配伍精髓"
 description: "天津中医药大学年莉教授主讲《方剂学》176讲完整课程视频，涵盖方剂学基础理论、经典名方解析、配伍规律与临床运用，适合中医学生、临床医师及自学中医爱好者系统学习方剂学核心知识。"
@@ -11,15 +10,15 @@ keywords: ["方剂学完整版", "天津中医药大学方剂学", "年莉方剂
 summary: "天津中医药大学年莉教授主讲《方剂学》176讲完整版，系统讲解方剂学基础理论、君臣佐使配伍法则、经典名方制方原理及临床应用，是中医学习与临床实践的权威视频教程。"
 slug: "fangjixue-tianjin-zhongyiyao-daxue-nianli-176jiang"
 ---
-{< button href="https://pan.quark.cn/s/02ee221adf8b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/02ee221adf8b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/02ee221adf8b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

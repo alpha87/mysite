@@ -1,4 +1,3 @@
-
 ---
 title: "姜天一：讲给孩子的妙趣中国史"
 description: "姜天一的妙趣中国史课程资源，专为儿童设计的历史启蒙内容，通过生动有趣的故事讲解中国五千年历史，培养孩子历史思维和传统文化素养，适合6-12岁孩子收听学习。"
@@ -11,15 +10,15 @@ keywords: ["姜天一妙趣中国史", "讲给孩子的中国史", "儿童历史
 summary: "姜天一的妙趣中国史课程资源，通过生动故事讲解中国五千年历史，培养孩子历史思维和传统文化素养，适合6-12岁孩子学习。"
 slug: "jiangtianyi-miaoqu-zhongguoshi"
 ---
-{< button href="https://pan.quark.cn/s/947ba51bc7ce" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/947ba51bc7ce" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/947ba51bc7ce
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

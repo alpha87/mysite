@@ -1,4 +1,3 @@
-
 ---
 title: "《向上结交之饭局》：求人办事必懂的饭局潜规则与高情商说话术"
 description: "详解中国饭局文化中的人脉经营与求人办事潜规则，涵盖座次礼仪、敬酒话术、拒酒技巧、高情商说话术、饭局后的跟进策略，帮助你在饭局中洞察人心、赢得贵人相助，快速提升社交能力与职场竞争力。"
@@ -11,15 +10,15 @@ keywords: ["饭局潜规则", "高情商说话", "求人办事", "社交技巧",
 summary: "《向上结交之饭局》是一本关于中国饭局文化与求人办事的实用指南，详细解析座次礼仪、敬酒话术、拒酒技巧、高情商说话术及饭局后的跟进策略，帮助你在饭局中洞察人心、赢得贵人相助，快速提升社交能力与职场竞争力。"
 slug: "xiangshang-jiaojie-fanju"
 ---
-{< button href="https://pan.quark.cn/s/b1105acced6b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b1105acced6b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b1105acced6b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

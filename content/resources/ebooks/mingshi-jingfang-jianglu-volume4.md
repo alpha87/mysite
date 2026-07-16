@@ -1,4 +1,3 @@
-
 ---
 title: "《名师经方讲录.第四辑》经方精华：方证对应的临床秘诀"
 description: "本书收录多位经方名师的临床讲录，系统讲解经方辨证要点、方证对应技巧及常见病经方应用，由浅入深，适合中医临床者、经方爱好者研读提升。包含柴归汤、四逆散、桂枝汤等经典方剂的实战解析。"
@@ -11,15 +10,15 @@ keywords: ["名师经方讲录第四辑", "经方讲录", "经方名师", "中�
 summary: "《名师经方讲录.第四辑》汇集多位经方名家临床讲录精华，详解方证对应、经方应用技巧，是中医临床进阶的优质电子书资源。"
 slug: "mingshi-jingfang-jianglu-volume4"
 ---
-{< button href="https://pan.quark.cn/s/02aaf140efe3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/02aaf140efe3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/02aaf140efe3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "公司保安竟是财团少主（100集）完整版下载"
 description: "爆款逆袭短剧《公司保安竟是财团少主》全100集高清资源免费下载，集集反转爽点密集，保安身份隐藏财团继承人秘密，剧情紧凑节奏快，快来夸克网盘保存。"
@@ -11,15 +10,15 @@ keywords: ["公司保安竟是财团少主", "保安短剧", "财团继承人", 
 summary: "爆款逆袭短剧《公司保安竟是财团少主》全100集高清资源免费下载。保安小王深藏不露，实为财团继承人，扮猪吃虎打脸反派，集集爽点不断。夸克网盘保存即永久，链接有时效，速存！"
 slug: "company-security-guard-is-chaebol-heir"
 ---
-{< button href="https://pan.quark.cn/s/7bb1cd1e581f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7bb1cd1e581f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7bb1cd1e581f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧情简介
 

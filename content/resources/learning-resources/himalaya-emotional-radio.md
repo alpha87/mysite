@@ -1,4 +1,3 @@
-
 ---
 title: "喜马拉雅优质情感电台推荐：深夜治愈失眠必备音频合集"
 description: "精选喜马拉雅平台最受欢迎的高质量情感电台，涵盖治愈系、恋爱心理、深夜电台、情感故事等多种类型，适合失眠、焦虑、情绪低落时收听，附夸克网盘资源合集，一次保存永久收听。"
@@ -11,15 +10,15 @@ keywords: ["喜马拉雅情感电台", "优质情感电台推荐", "深夜治愈
 summary: "喜马拉雅平台最受欢迎的高质量情感电台精选合集，包括治愈系、恋爱心理、深夜故事等类型，适合失眠、焦虑人群，夸克网盘一键保存，永久收听。"
 slug: "himalaya-emotional-radio"
 ---
-{< button href="https://pan.quark.cn/s/3dbca0f747f6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3dbca0f747f6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3dbca0f747f6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐喜马拉雅情感电台？
 

@@ -10,15 +10,15 @@ keywords: ["宋徽宗", "宋徽宗赵佶", "瘦金体书法", "院体画", "宋�
 summary: "全面介绍宋徽宗赵佶的生平、艺术成就与历史悲剧，包括瘦金体、院体画、宣和画谱等，附电子书下载链接。"
 slug: "songhuizong-zhaoji-yishu-huangdi-wangguo"
 ---
-{< button href="https://pan.quark.cn/s/0e9e03572c7c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0e9e03572c7c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0e9e03572c7c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 帝王中的艺术天才
 

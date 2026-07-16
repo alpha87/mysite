@@ -1,4 +1,3 @@
-
 ---
 title: "《冯唐成事心法》有声读物：成事学经典，听出人生智慧"
 description: "《冯唐成事心法》有声读物完整版，冯唐亲述成事学方法论，涵盖管理、写作、人生三大维度，以音频形式呈现经典内容。适合职场人士、创业者及追求个人成长者收听学习。"
@@ -11,15 +10,15 @@ keywords: ["冯唐成事心法有声书", "有声读物下载", "冯唐成事心
 summary: "《冯唐成事心法》有声读物完整版，冯唐亲述成事学三大维度：管理、写作、人生。通过音频形式，带你掌握成事的心法、方法和实操技巧，适合职场人士、创业者及所有追求自我成长的听众。"
 slug: "fengtang-chengshi-xinfa-audio-book"
 ---
-{< button href="https://pan.quark.cn/s/4e32cb14cdc3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4e32cb14cdc3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4e32cb14cdc3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《冯唐成事心法》
 

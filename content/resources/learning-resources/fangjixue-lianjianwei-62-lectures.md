@@ -1,4 +1,3 @@
-
 ---
 title: "方剂学 连建伟 浙江中医药大学 62讲完整版：中医方剂系统学习"
 description: "浙江中医药大学连建伟教授主讲方剂学62讲完整课程，涵盖经典方剂组成、配伍原理、临床运用及现代研究，适合中医爱好者、考研学生及临床医生系统学习中医方剂学知识。"
@@ -11,15 +10,15 @@ keywords: ["方剂学连建伟", "浙江中医药大学方剂学", "连建伟62�
 summary: "浙江中医药大学连建伟教授主讲方剂学62讲完整课程，系统讲解经典方剂的组成、配伍、临床应用及现代研究，是中医爱好者、考研学生和临床医生的优质学习资源。"
 slug: "fangjixue-lianjianwei-62-lectures"
 ---
-{< button href="https://pan.quark.cn/s/55e5cb76da18" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/55e5cb76da18" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/55e5cb76da18
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 方剂学是中医基础理论与临床实践之间的桥梁，是学习中医的必修课程。由浙江中医药大学连建伟教授主讲的《方剂学》62讲完整版，系统梳理了中医方剂的核心知识体系，从经典方剂的来源、组方原理、配伍规律到临床应用，每一讲都深入浅出，既有理论高度，又贴近临床实际。
 

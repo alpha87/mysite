@@ -1,4 +1,3 @@
-
 ---
 title: "带你用经济学重新看世界课程：零基础掌握经济思维"
 description: "本课程以趣味经济学重新解读日常生活与宏观现象，从成本收益、供需弹性到博弈论与公共政策，帮助零基础学员建立经济学思维方式，学会用理性视角分析世界。附完整视频资源与讲义。"
@@ -11,15 +10,15 @@ keywords: ["经济学重新看世界", "经济学课程", "经济学入门", "�
 summary: "本课程以趣味经济学重新解读日常生活与宏观现象，从成本收益、供需弹性到博弈论与公共政策，帮助零基础学员建立经济学思维方式，学会用理性视角分析世界。附完整视频资源与讲义。"
 slug: "jingjixue-chongxin-kan-shijie-kecheng"
 ---
-{< button href="https://pan.quark.cn/s/926a21cc1ae7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/926a21cc1ae7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/926a21cc1ae7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾觉得经济学高深莫测、满屏公式？其实经济学就在我们身边：为什么超市的牛奶总摆在后排？为什么下雨天打车更难？为什么政府要印钞？这门《带你用经济学重新看世界》课程，正是为了让零基础的大众也能轻松掌握经济学的核心逻辑。
 

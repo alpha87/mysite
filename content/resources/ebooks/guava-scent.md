@@ -1,4 +1,3 @@
-
 ---
 title: "《番石榴飘香》：加西亚·马尔克斯访谈录电子书资源"
 description: "分享加西亚·马尔克斯经典访谈录《番石榴飘香》电子书，涵盖创作灵感、魔幻现实主义起源、写作习惯等珍贵对话，适合文学爱好者、马尔克斯研究者及写作学习者的必读资源。"
@@ -11,15 +10,15 @@ keywords: ["番石榴飘香PDF", "加西亚·马尔克斯访谈录", "魔幻现�
 summary: "加西亚·马尔克斯经典访谈录《番石榴飘香》电子书分享，涵盖创作灵感、魔幻现实主义起源、写作习惯等珍贵对话，文学爱好者不可错过的资源。"
 slug: "guava-scent-gabriel-garcia-marquez-interview"
 ---
-{< button href="https://pan.quark.cn/s/08b2abd5dbe8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/08b2abd5dbe8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/08b2abd5dbe8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《番石榴飘香》（El olor de la guayaba）是哥伦比亚文学巨匠加西亚·马尔克斯与记者兼作家普利尼奥·阿普莱约·门多萨的深度对话录。这本书并非传统的传记或文学评论，而是一场轻松又深刻的“番石榴树下”漫谈——马尔克斯在访谈中坦诚分享了他的童年记忆、政治观点、写作习惯，以及《百年孤独》《霍乱时期的爱情》等代表作背后的创作密码。
 

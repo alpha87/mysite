@@ -1,4 +1,3 @@
-
 ---
 title: "情感书籍（125本）经典珍藏合集：心理学、人际关系、自我提升全覆盖"
 description: "125本情感类电子书籍大合集，涵盖恋爱心理学、家庭关系、情绪管理、人际沟通、自我疗愈等经典著作，适合所有希望提升情感智慧与幸福感的读者，持续更新保存永久。"
@@ -11,15 +10,15 @@ keywords: ["情感书籍推荐", "125本情感书籍", "情感电子书", "心�
 summary: "125本情感类电子书籍大合集，覆盖恋爱心理学、家庭关系、情绪管理、人际沟通、自我疗愈等经典著作，帮助读者提升情感智慧、改善人际关系、找到内心平衡。"
 slug: "qinggan-shuji-125-ben"
 ---
-{< button href="https://pan.quark.cn/s/c5dbe6fdb7e1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c5dbe6fdb7e1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c5dbe6fdb7e1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 125本情感书籍：你的情感成长宝典
 

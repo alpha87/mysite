@@ -1,4 +1,3 @@
-
 ---
 title: "零基础魔术教学：从入门到表演的全流程指南"
 description: "零基础自学魔术的完整教程，包含扑克牌手法、硬币魔术、绳技等经典技巧，详细解析基础手法练习、道具选择、表演技巧和进阶提升方法，帮助新手快速掌握魔术表演核心技能，附赠高清教学视频资源。"
@@ -11,15 +10,15 @@ keywords: ["零基础魔术", "魔术教学", "魔术入门教程", "扑克牌�
 summary: "零基础自学魔术的完整教程，涵盖扑克牌手法、硬币魔术、绳技等经典技巧，详细解析基础手法练习、道具选择、表演技巧和进阶提升方法，帮助新手快速掌握魔术表演核心技能。"
 slug: "zero-basic-magic-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/bd80de5c7a34" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bd80de5c7a34" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bd80de5c7a34
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 零基础魔术教学：从入门到表演的全流程指南
 

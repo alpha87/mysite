@@ -1,4 +1,3 @@
-
 ---
 title: "宇宙之思：深入了解宇宙知识的完整指南"
 description: "探索宇宙奥秘的完整指南，涵盖宇宙起源、恒星演化、黑洞、星系、暗物质等核心知识，适合天文爱好者和科普学习者。提供夸克网盘资源下载，助你系统掌握宇宙知识。"
@@ -11,15 +10,15 @@ keywords: ["宇宙知识", "宇宙之思", "天文科普", "宇宙起源", "恒�
 summary: "探索宇宙奥秘的完整指南，涵盖宇宙起源、恒星演化、黑洞、星系、暗物质等核心知识，适合天文爱好者和科普学习者，提供夸克网盘资源下载。"
 slug: "universe-knowledge"
 ---
-{< button href="https://pan.quark.cn/s/8c8769c1c726" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8c8769c1c726" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8c8769c1c726
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 宇宙的起源：从大爆炸到星系的形成
 

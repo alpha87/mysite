@@ -1,4 +1,3 @@
-
 ---
 title: "外国名著100部TXT合集：经典文学电子书免费下载"
 description: "外国名著100部TXT格式合集，涵盖世界文学经典著作，包括《百年孤独》《战争与和平》《飘》《傲慢与偏见》等，TXT格式方便阅读、导入阅读器或打印，适合文学爱好者收藏阅读。"
@@ -11,15 +10,15 @@ keywords: ["外国名著100部TXT", "经典文学电子书", "世界名著合集
 summary: "100部外国经典名著TXT合集，包含《百年孤独》《战争与和平》《飘》等世界文学瑰宝，一键下载保存，随时随地阅读，适合电子书阅读器、手机、电脑等多种设备。"
 slug: "foreign-classics-100-txt"
 ---
-{< button href="https://pan.quark.cn/s/82a3e564ccb0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/82a3e564ccb0" target="_blank" >}}
 点击下载100部外国名著TXT
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/82a3e564ccb0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么值得收藏这套外国名著合集？
 

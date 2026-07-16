@@ -1,4 +1,3 @@
-
 ---
 title: "日本四大推理奇书全4册 下载资源"
 description: "日本推理文学史上被誉为'四大推理奇书'的经典作品合集，包括《黑死馆杀人事件》《脑髓地狱》《献给虚无的供物》《匣中失乐》四部不朽杰作，本资源提供夸克网盘打包下载，适合推理小说爱好者收藏与研究。"
@@ -11,15 +10,15 @@ keywords: ["日本四大推理奇书", "推理小说下载", "黑死馆杀人事
 summary: "日本推理文学史上被誉为'四大推理奇书'的经典作品合集，包括《黑死馆杀人事件》《脑髓地狱》《献给虚无的供物》《匣中失乐》四部不朽杰作，提供夸克网盘打包下载链接。"
 slug: "japan-four-great-mystery-novels"
 ---
-{< button href="https://pan.quark.cn/s/406f832edd57" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/406f832edd57" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/406f832edd57
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 日本四大推理奇书简介
 

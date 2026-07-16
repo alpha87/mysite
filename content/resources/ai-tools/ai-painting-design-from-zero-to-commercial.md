@@ -1,4 +1,3 @@
-
 ---
 title: "AI绘画设计零基础到商业进阶：从入门到变现完整教程"
 description: "AI绘画设计零基础到商业进阶完整教程，涵盖Midjourney、Stable Diffusion、DALL-E等主流工具使用技巧，从提示词工程到商业应用场景，包括电商设计、自媒体配图、海报制作等变现方法，帮助新手快速掌握AI绘画核心技能。"
@@ -11,15 +10,15 @@ keywords: ["AI绘画设计教程", "零基础学AI绘画", "AI绘画商业变现
 summary: "AI绘画设计零基础到商业进阶完整教程，从工具选择、提示词编写到实际商业项目，系统讲解如何利用AI生成高质量图片并实现变现，适合设计师、自媒体人、电商从业者及绘画爱好者。"
 slug: "ai-painting-design-from-zero-to-commercial"
 ---
-{< button href="https://pan.quark.cn/s/97ec62327989" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/97ec62327989" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/97ec62327989
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## AI绘画设计：从零基础到商业变现的全链路指南
 

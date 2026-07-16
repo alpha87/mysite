@@ -1,4 +1,3 @@
-
 ---
 title: "中国名菜电子书16册：经典菜谱大全免费下载"
 description: "中国名菜电子书16册合集，涵盖川菜、鲁菜、粤菜、苏菜等八大菜系经典菜谱，以及家常菜、宫廷菜、地方特色小吃制作技巧，高清PDF版免费下载，适合烹饪爱好者、美食博主、餐饮从业者收藏学习。"
@@ -11,15 +10,15 @@ keywords: ["中国名菜电子书", "菜谱大全免费下载", "八大菜系菜
 summary: "中国名菜电子书16册合集，覆盖八大菜系经典菜谱、家常菜、宫廷菜及地方小吃，高清PDF版免费下载，烹饪爱好者不容错过的实用资源。"
 slug: "zhongguo-mingcai-dianzishu-16ce"
 ---
-{< button href="https://pan.quark.cn/s/57d7f724c9dd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/57d7f724c9dd" target="_blank" >}}
 点击下载16册中国名菜电子书
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/57d7f724c9dd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ### 📚 16册中国名菜电子书简介
 

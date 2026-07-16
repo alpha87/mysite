@@ -1,4 +1,3 @@
-
 ---
 title: "卓克·科技参考4：前沿科技深度解读与思维升级指南"
 description: "卓克·科技参考4完整版电子资源，涵盖人工智能、量子计算、生物科技等前沿领域深度分析，帮助读者建立系统科技认知框架，适合科技爱好者、从业者及终身学习者。"
@@ -11,15 +10,15 @@ keywords: ["卓克科技参考", "科技参考4", "前沿科技解读", "科技�
 summary: "卓克·科技参考4完整版，系统解读人工智能、量子计算、生物科技等前沿领域，助您构建科技认知框架，提升科技素养与决策能力。"
 slug: "zhuoke-keji-cankao-4"
 ---
-{< button href="https://pan.quark.cn/s/a5c3f02bdc5c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a5c3f02bdc5c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a5c3f02bdc5c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于卓克·科技参考4
 

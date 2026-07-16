@@ -1,4 +1,3 @@
-
 ---
 title: "向咨询顾问学习商业PPT：从思维到技能的完整指南"
 description: "向咨询顾问学习商业PPT制作，涵盖逻辑思维、页面设计、数据可视化、故事线构建等核心技能。从麦肯锡方法到实战案例，手把手教你做出高水准的商业演示文稿，适合职场人、创业者、学生等提升PPT能力。"
@@ -11,15 +10,15 @@ keywords: ["商业PPT教程", "咨询顾问PPT", "PPT逻辑框架", "数据可�
 summary: "向咨询顾问学习商业PPT制作，从逻辑思维、页面设计、数据可视化到故事线构建，结合麦肯锡方法和实战案例，手把手教你做出高水准的商业演示文稿，适合所有想提升PPT能力的职场人士。"
 slug: "business-ppt-consultant-guide"
 ---
-{< button href="https://pan.quark.cn/s/dec5652edcaf" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dec5652edcaf" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dec5652edcaf
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要向咨询顾问学PPT？
 

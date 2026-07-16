@@ -1,4 +1,3 @@
-
 ---
 title: "功与过：社会生活中的赏罚机制全面解析"
 description: "深入解析社会生活中的赏罚机制，从心理学、社会学和道德哲学角度探讨功与过的定义、赏罚的运作规律、公平原则及其对人际关系和行为塑造的影响，帮助读者理解社会规范背后的深层逻辑。"
@@ -11,15 +10,15 @@ keywords: ["功与过", "赏罚机制", "社会生活", "赏罚公平", "社会�
 summary: "深度解读功与过在社会生活中的体现，剖析赏罚机制如何影响个人行为、社会秩序和道德判断，涵盖心理学、社会学和哲学视角，帮助读者理性看待生活中的赏与罚。"
 slug: "gong-yu-guo-shehui-shenghuo-shangfa-jiexi"
 ---
-{< button href="https://pan.quark.cn/s/b2f014c1686c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b2f014c1686c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b2f014c1686c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 引言：无处不在的赏罚
 

@@ -1,4 +1,3 @@
-
 ---
 title: "2025华语辩论世界杯总决赛：巅峰对决全程回顾与资源下载"
 description: "2025华语辩论世界杯总决赛完整资源，包含正赛视频、评委点评、高光时刻及辩词实录。深入了解华语辩论最高水平赛事，学习辩论技巧、逻辑思辨与语言表达，适合辩论爱好者、学生学习参考。"
@@ -11,15 +10,15 @@ keywords: ["2025华语辩论世界杯总决赛", "华语辩论世界杯", "辩�
 summary: "2025华语辩论世界杯总决赛完整资源，包含正赛视频、评委点评、高光时刻及辩词实录。帮助辩论爱好者学习顶级辩手的逻辑思辨与语言表达，是提升辩论水平的绝佳素材。"
 slug: "2025-chinese-debate-world-cup-final"
 ---
-{< button href="https://pan.quark.cn/s/d0b57d3f9422" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d0b57d3f9422" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d0b57d3f9422
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 赛事简介
 

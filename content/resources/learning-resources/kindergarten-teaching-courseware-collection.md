@@ -1,4 +1,3 @@
-
 ---
 title: "幼儿园教学课件合集：海量优质资源助力启蒙教育"
 description: "幼儿园教学课件合集，涵盖语言、数学、艺术、科学、社会五大领域，包含PPT、教案、游戏、手工等丰富资源，适合幼儿教师、早教机构、家长使用，帮助提升课堂教学效果与孩子学习兴趣。"
@@ -11,15 +10,15 @@ keywords: ["幼儿园教学课件合集", "幼儿教育课件", "幼儿园PPT", 
 summary: "幼儿园教学课件合集，精选海量优质资源，覆盖五大领域教学，包含PPT、教案、游戏、手工等，适合幼儿教师、早教机构与家长，助力高效启蒙教育。"
 slug: "youeryuan-jiaoxue-kejian-heji"
 ---
-{< button href="https://pan.quark.cn/s/72bcff141c3a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/72bcff141c3a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/72bcff141c3a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 幼儿园教学课件合集是一套专为幼儿教育工作者和家长打造的综合性资源包，内容覆盖语言、数学、艺术、科学、社会五大核心领域，汇集了数千份高质量PPT课件、详细教案、趣味游戏方案、创意手工教程以及互动活动设计。无论你是幼儿园在职教师、早教机构培训师，还是正在陪伴孩子成长的家长，这套合集都能为你提供丰富、实用、易上手的教学素材。
 

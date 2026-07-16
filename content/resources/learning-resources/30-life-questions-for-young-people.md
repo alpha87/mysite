@@ -1,4 +1,3 @@
-
 ---
 title: "年轻人需要直面的30个人生问题"
 description: "涵盖自我认知、职业选择、人际关系、时间管理、财务规划等领域的30个核心人生问题，帮助年轻人理清方向、减少迷茫，附赠完整思维导图与深度解读资源包。"
@@ -11,15 +10,15 @@ keywords: ["年轻人需要直面的30个人生问题", "人生问题清单", "�
 summary: "30个直击年轻人痛点的核心人生问题，从自我认知到职业规划、从人际关系到财务管理，附完整思维导图与深度解读资源，帮你摆脱迷茫、找到方向。"
 slug: "30-life-questions-for-young-people"
 ---
-{< button href="https://pan.quark.cn/s/bb1beca0adf1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bb1beca0adf1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bb1beca0adf1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 年轻人需要直面的30个人生问题
 

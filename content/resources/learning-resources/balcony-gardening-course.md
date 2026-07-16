@@ -1,4 +1,3 @@
-
 ---
 title: "阳台种植课程｜从零开始的家庭蔬果种植技术全攻略"
 description: "零基础阳台种植课程，涵盖选种、育苗、土壤配制、浇水施肥、病虫害防治等全套技术，适合城市家庭与园艺爱好者，手把手教你打造专属阳台菜园。"
@@ -11,15 +10,15 @@ keywords: ["阳台种植课程", "家庭蔬菜种植", "阳台种菜教程", "�
 summary: "零基础阳台种植课程，从选种、育苗到收获的全流程教学，包含土壤配制、浇水施肥、病虫害防治等关键技术，帮助城市居民轻松打造安全健康的家庭菜园。"
 slug: "balcony-gardening-course"
 ---
-{< button href="https://pan.quark.cn/s/6f019e180685" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6f019e180685" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6f019e180685
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾梦想拥有一片属于自己的小菜园，却因空间有限而放弃？其实，只需一个阳台，就能实现新鲜的蔬果自由！本套《阳台种植课程》专为城市家庭打造，从零开始教你掌握完整的家庭园艺技术，让绿色与收获走进你的生活。
 

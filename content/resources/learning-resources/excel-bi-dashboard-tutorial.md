@@ -1,4 +1,3 @@
-
 ---
 title: "Excel进阶：巧用BI看板整合多级图表"
 description: "Excel Power BI看板教程，详细讲解如何利用数据透视图、切片器、动态图表整合多级数据，创建可视化商业仪表板，提升数据分析与汇报效率。涵盖数据建模、DAX表达式、图表联动、KPI指标设计，适合职场办公进阶学习。"
@@ -11,15 +10,15 @@ keywords: ["Excel BI看板教程", "Excel多级图表", "Excel数据可视化", 
 summary: "Excel进阶教程，通过BI看板整合多级图表，详解数据建模、图表联动、切片器交互、DAX表达式等核心技巧，打造专业商业仪表板，提升工作汇报与数据分析效率。"
 slug: "excel-bi-dashboard-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/da74f95f3b8c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/da74f95f3b8c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/da74f95f3b8c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要Excel BI看板？
 

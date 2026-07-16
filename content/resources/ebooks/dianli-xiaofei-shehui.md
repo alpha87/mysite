@@ -1,4 +1,3 @@
-
 ---
 title: "《电力消费社会》完整版电子书下载"
 description: "深度解析电力消费社会的发展趋势、电网建设、可再生能源与智能用电，一本适合能源从业者、投资者及普通读者了解电力行业未来的必读电子书。"
@@ -11,15 +10,15 @@ keywords: ["电力消费社会电子书", "电力行业发展趋势", "电网建
 summary: "《电力消费社会》电子书深度剖析电力消费的过去、现在与未来，涵盖电网结构、新能源并网、需求侧响应等核心议题，助你洞悉能源变革中的机遇。"
 slug: "dianli-xiaofei-shehui"
 ---
-{< button href="https://pan.quark.cn/s/67ab8b196215" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/67ab8b196215" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/67ab8b196215
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《电力消费社会》
 

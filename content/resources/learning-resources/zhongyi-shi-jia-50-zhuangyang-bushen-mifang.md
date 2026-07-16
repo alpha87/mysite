@@ -1,4 +1,3 @@
-
 ---
 title: "中医世家不外传的50个壮阳补肾秘方（男人必看）0.5GB"
 description: "中医世家珍藏的50个壮阳补肾秘方，包含食补、药膳、穴位按摩等传统方法，0.5GB完整资料包，帮助男性改善肾虚、增强体质，重获自信。"
@@ -11,15 +10,15 @@ keywords: ["壮阳补肾秘方", "中医世家", "男性健康", "肾虚调理",
 summary: "中医世家珍藏的50个壮阳补肾秘方，全方位解析食补、药膳、穴位按摩等传统方法，0.5GB完整资料包，帮助男性改善肾虚、增强体质，重获自信。"
 slug: "zhongyi-shi-jia-50-zhuangyang-bushen-mifang"
 ---
-{< button href="https://pan.quark.cn/s/9947f1f8d768" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9947f1f8d768" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9947f1f8d768
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "蔡钰·商业参考4：洞察商业趋势，把握2026年增长机遇"
 description: "蔡钰·商业参考4完整版电子书资源，涵盖2026年商业趋势分析、新消费赛道深度解读、企业增长策略、AI商业化应用等核心内容，帮助你快速构建商业认知框架，掌握前沿商业思维。"
@@ -11,15 +10,15 @@ keywords: ["蔡钰·商业参考4", "蔡钰商业参考", "2026商业趋势", "�
 summary: "蔡钰·商业参考4完整版电子书资源，系统梳理2026年商业趋势与新消费赛道，深度解读AI商业化应用与企业增长策略，助你快速提升商业认知，把握未来增长机遇。"
 slug: "caiyu-business-reference-4"
 ---
-{< button href="https://pan.quark.cn/s/e27a6aacac4c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e27a6aacac4c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e27a6aacac4c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

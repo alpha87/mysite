@@ -10,15 +10,15 @@ keywords: ["老中医教你面诊", "面诊PDF", "面部五脏六腑关系", "�
 summary: "《老中医教你面诊》PDF电子书，系统讲解面部与五脏六腑的对应关系，从面色、形态、斑点等细节快速判断健康状况，适合中医自学和养生爱好者零基础学习。"
 slug: "laozhongyi-mianzhen-pdf-download"
 ---
-{< button href="https://pan.quark.cn/s/1d6b1f36a322" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1d6b1f36a322" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1d6b1f36a322
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 面诊——中医的“望诊”精髓
 

@@ -1,4 +1,3 @@
-
 ---
 title: "李跃儿个性化教育课｜儿童成长指导（家庭教育教程+完结版+系统化教学）"
 description: "李跃儿个性化教育课程完整版，专注儿童成长指导与家庭教育，系统化教学涵盖0-12岁儿童心理发展、行为引导、情绪管理、学习力培养等核心模块。帮助家长掌握科学育儿方法，告别焦虑，做智慧父母。"
@@ -11,15 +10,15 @@ keywords: ["李跃儿个性化教育课", "儿童成长指导", "家庭教育教
 summary: "李跃儿个性化教育课程完整版，涵盖0-12岁儿童心理发展、行为引导、情绪管理、学习力培养等系统化教学，帮助家长掌握科学育儿方法，告别焦虑，做智慧父母。资源为完结版，含全部章节。"
 slug: "liyueer-individualized-education-course"
 ---
-{< button href="https://pan.quark.cn/s/d87c1767db20" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d87c1767db20" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d87c1767db20
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

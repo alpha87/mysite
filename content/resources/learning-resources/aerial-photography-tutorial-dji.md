@@ -1,4 +1,3 @@
-
 ---
 title: "航拍教程：电影级航拍大师手把手教你航拍，大疆各系无人机学习"
 description: "系统学习航拍技术，从无人机基础操作到电影级运镜、构图、调色全流程，涵盖大疆Mini、Air、Mavic各系列机型实战教学，适合新手入门与进阶提升。"
@@ -11,15 +10,15 @@ keywords: ["航拍教程", "无人机航拍", "大疆各系无人机", "电影�
 summary: "电影级航拍大师手把手教学，从无人机基础操作到高级运镜、构图、调色，覆盖大疆Mini、Air、Mavic全系列实战案例，助你快速掌握航拍核心技能。"
 slug: "aerial-photography-tutorial-dji"
 ---
-{< button href="https://pan.quark.cn/s/74074083b419" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/74074083b419" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/74074083b419
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

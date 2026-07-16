@@ -1,4 +1,3 @@
-
 ---
 title: "李泽老师化妆课程：风格当道，时尚前沿风格妆容解密（8课时）"
 description: "李泽老师亲授风格妆容解密课程，8课时系统教学，涵盖时尚前沿多种风格妆容技巧，从基础到进阶，手把手教你打造适合不同场合的个性妆容，附专属网盘资源。"
@@ -11,15 +10,15 @@ keywords: ["李泽老师化妆课程", "风格妆容教程", "时尚前沿妆容
 summary: "李泽老师亲授风格妆容解密课程，8课时系统教学，从基础妆容到时尚前沿风格，详细讲解色彩搭配、轮廓修饰、眼妆唇妆等核心技巧，帮助学员掌握多种场合妆容，附赠夸克网盘资源。"
 slug: "li-ze-makeup-course-style-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/d5778eac6b51" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d5778eac6b51" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d5778eac6b51
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

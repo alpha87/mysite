@@ -1,4 +1,3 @@
-
 ---
 title: "裙子的宣言：从经典到前卫，一本永不过时的时尚穿搭指南"
 description: "《裙子的宣言》电子书完整分享，涵盖裙子历史演变、各类裙型穿搭技巧、色彩搭配法则、身材修饰秘籍以及百变风格指南，助你轻松掌握裙装搭配精髓，展现独一无二的女性魅力。"
@@ -11,15 +10,15 @@ keywords: ["裙子宣言", "裙子穿搭指南", "裙子历史", "裙子种类",
 summary: "《裙子的宣言》电子书资源，从裙子源起、经典款式到现代穿搭法则，系统讲解如何根据身型、肤色、场合选择完美裙装，并收录大量明星街拍案例，是每个爱美女性必备的时尚手册。"
 slug: "dress-manifesto"
 ---
-{< button href="https://pan.quark.cn/s/5b4f67a0faf2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5b4f67a0faf2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5b4f67a0faf2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要一本《裙子的宣言》？
 

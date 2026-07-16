@@ -1,4 +1,3 @@
-
 ---
 title: "高冷冷-如何成为学习高手：系统化学习效率提升教程"
 description: "高冷冷《如何成为学习高手》完整教程，涵盖高效学习方法、时间管理、记忆技巧、专注力训练、考试策略等核心内容，专为想快速提升学习效率的学生、自学者和职场人士设计。本教程从认知心理学出发，手把手教你告别低效学习，掌握学霸级学习思维和实操方法。"
@@ -11,15 +10,15 @@ keywords: ["高冷冷学习教程", "如何成为学习高手", "高效学习方
 summary: "高冷冷《如何成为学习高手》系统教程，从认知心理学出发，详解高效学习、时间管理、记忆技巧、专注力训练等核心方法，帮助学习者和职场人士快速提升学习效率，掌握学霸级学习思维。"
 slug: "gaolengleng-how-to-become-learning-master"
 ---
-{< button href="https://pan.quark.cn/s/7fbc1d6d36d2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7fbc1d6d36d2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7fbc1d6d36d2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 教程简介
 

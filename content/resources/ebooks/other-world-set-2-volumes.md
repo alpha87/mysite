@@ -1,4 +1,3 @@
-
 ---
 title: "他方世界(套装共2册)：奇幻文学经典套装推荐"
 description: "他方世界(套装共2册)完整资源分享，包含上下册内容，美国奇幻文学大师约翰·克劳利代表作，融合神话、梦境与现实，被誉为现代奇幻文学经典之作。提供夸克网盘下载链接，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["他方世界 套装", "他方世界 电子书", "他方世界 下载
 summary: "他方世界(套装共2册)电子书资源分享，美国奇幻文学大师约翰·克劳利代表作，融合神话、梦境与现实，被无数读者视为现代奇幻文学史上的巅峰之作。提供夸克网盘永久保存链接。"
 slug: "other-world-set-2-volumes"
 ---
-{< button href="https://pan.quark.cn/s/b207507fde30" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b207507fde30" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b207507fde30
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

@@ -10,15 +10,15 @@ keywords: ["清华大学状元笔记", "高考状元笔记", "学霸手写笔记
 summary: "清华大学状元笔记完整电子版，学霸手写精华，涵盖高考各科，知识点清晰，解题技巧丰富，免费下载，高效提分。"
 slug: "qinghua-daxue-zhuangyuan-biji"
 ---
-{< button href="https://pan.quark.cn/s/7e1e67164939" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e1e67164939" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e1e67164939
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 清华大学状元笔记——学霸亲笔，直击考点
 

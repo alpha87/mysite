@@ -1,4 +1,3 @@
-
 ---
 title: "2025《衡中学案》高考一轮总复习 数学 高清电子版下载"
 description: "2025年高考数学一轮总复习必备《衡中学案》电子版，涵盖高中数学全部知识点，包含考点精讲、典型例题、高考真题及模拟训练，适合高三学生系统复习，助力冲刺985/211。"
@@ -11,15 +10,15 @@ keywords: ["衡中学案", "高考一轮总复习", "数学复习资料", "高�
 summary: "2025《衡中学案》高考一轮总复习数学电子版，系统梳理高中数学考点，搭配经典例题与真题，帮助高三学生高效复习，冲刺高分。"
 slug: "hengzhong-xuean-gaokao-fuxi-shuxue"
 ---
-{< button href="https://pan.quark.cn/s/eb9a49172ed1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb9a49172ed1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb9a49172ed1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ### 2025《衡中学案》高考一轮总复习 数学 内容简介
 

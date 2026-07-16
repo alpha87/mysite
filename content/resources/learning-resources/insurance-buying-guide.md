@@ -1,4 +1,3 @@
-
 ---
 title: "保险这样买就对了：新手必看的投保避坑指南与科学配置策略"
 description: "全面解析保险购买的正确姿势，从险种选择、保额设定到保费预算全流程指导。涵盖重疾险、医疗险、意外险、寿险四大核心险种，教你避开常见陷阱，用最合理的预算获得最全面的保障。附赠配置模板与理赔注意事项。"
@@ -11,15 +10,15 @@ keywords: ["保险怎么买", "保险购买指南", "保险避坑指南", "保�
 summary: "全面解析保险购买的正确姿势，从险种选择、保额设定到保费预算全流程指导，帮你避开常见陷阱，用最合理的预算获得最全面的保障。"
 slug: "insurance-buying-guide"
 ---
-{< button href="https://pan.quark.cn/s/ce885d745ac6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ce885d745ac6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ce885d745ac6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你的保险总买错？
 

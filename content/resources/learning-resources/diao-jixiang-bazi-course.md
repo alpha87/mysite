@@ -1,4 +1,3 @@
-
 ---
 title: "刁吉祥八字初中高级课程：易经风水零基础到精通全攻略"
 description: "刁吉祥八字初中高级课程完整教学资源，涵盖八字命理基础、易经风水进阶、实战案例分析，从零基础入门到高级预测技法，系统学习八字排盘、五行生克、十神分析、大运流年推断，适合易学爱好者、风水从业者系统提升。"
@@ -11,15 +10,15 @@ keywords: ["刁吉祥八字课程", "八字初中高级", "易经风水教程", 
 summary: "刁吉祥八字初中高级课程完整教学资源，系统涵盖八字命理基础、易经风水进阶与高级实战技法，从零基础到精通，包括排盘、五行、十神、大运流年推断，适合易学爱好者、风水从业者系统提升。"
 slug: "diao-jixiang-bazi-chuzhonggaoji-kecheng"
 ---
-{< button href="https://pan.quark.cn/s/fc626cd5602a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fc626cd5602a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fc626cd5602a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "一页纸仪表板报告：网易云课堂完整教程（One-Page Dashboard Report）"
 description: "网易云课堂一页纸仪表板报告完整教程，系统讲解如何用Excel制作专业的一页纸仪表板，涵盖数据清洗、图表选择、布局设计、动态交互和报告输出，适合数据分析新手和职场人士快速掌握仪表板制作核心技能。"
@@ -11,15 +10,15 @@ keywords: ["一页纸仪表板报告", "Excel一页纸仪表板", "网易云课�
 summary: "网易云课堂一页纸仪表板报告完整教程，从数据整理到动态交互，系统讲解Excel仪表板制作全流程，帮助零基础学员快速掌握一页纸报表设计与呈现技巧，提升职场数据汇报效率。"
 slug: "one-page-dashboard-report"
 ---
-{< button href="https://pan.quark.cn/s/fe9b40580dba" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fe9b40580dba" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fe9b40580dba
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

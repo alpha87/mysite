@@ -1,4 +1,3 @@
-
 ---
 title: "张庆祥讲金刚经（完结）全集音频文字版下载"
 description: "张庆祥老师完整讲解《金刚经》全系列课程，包含全部音频与文字整理，从金刚经核心要义到日常修行实践，深入浅出解析般若智慧，适合佛学爱好者、禅修者及传统文化学习者系统研读。"
@@ -11,15 +10,15 @@ keywords: ["张庆祥讲金刚经", "金刚经完整讲解", "金刚经音频", 
 summary: "张庆祥老师主讲《金刚经》全系列完结版，提供完整音频与文字整理，系统讲解金刚经核心义理与修行方法，是深入学习佛学与般若智慧的优质资源。"
 slug: "zhangqingxiang-jin-gang-jing-wanjie"
 ---
-{< button href="https://pan.quark.cn/s/bc8c2ae27e9f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bc8c2ae27e9f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bc8c2ae27e9f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 张庆祥讲金刚经（完结）——般若智慧的完整指引
 

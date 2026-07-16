@@ -1,4 +1,3 @@
-
 ---
 title: "如何高效向GPT提问：提示词工程师的6个核心技巧"
 description: "掌握向GPT高效提问的6个核心技巧，包括明确目标、提供背景、指定格式、角色设定、问题分解和迭代优化。附赠70+精选提示词模板，助你彻底告别无效提问。"
@@ -11,15 +10,15 @@ keywords: ["如何向GPT提问", "GPT高效提问技巧", "提示词工程师", 
 summary: "从明确目标、提供背景、指定输出格式、角色设定、问题分解到迭代优化，系统讲解向GPT高效提问的6个核心技巧。附赠70+精选提示词模板资源包，帮助新手快速提升AI对话效率。"
 slug: "how-to-ask-gpt-effectively"
 ---
-{< button href="https://pan.quark.cn/s/579f34f2456b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/579f34f2456b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/579f34f2456b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你问GPT总是得不到想要的答案？
 

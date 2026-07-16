@@ -1,4 +1,3 @@
-
 ---
 title: "抗日战争时期武汉北京上海黑白老照片：柏原英一摄影图集376张高清珍藏"
 description: "收录376张抗日战争时期武汉、北京、上海等地的黑白老照片，由日本摄影师柏原英一拍摄，真实记录1937-1945年间中国城市面貌、市井生活与战争痕迹。高清图集适合历史研究、教学参考和收藏鉴赏，珍贵影像重现抗战岁月。"
@@ -11,15 +10,15 @@ keywords: ["抗日战争老照片", "武汉北京上海老照片", "柏原英一
 summary: "376张抗日战争时期武汉、北京、上海黑白老照片，柏原英一拍摄，涵盖城市街景、建筑、人物与战争场景，是研究抗战历史与民国城市的珍贵视觉资料。资源为夸克网盘链接，点击即可获取。"
 slug: "kangzhan-wuhan-beijing-shanghai-laozhaopian-baiyingyi"
 ---
-{< button href="https://pan.quark.cn/s/5812e231cf55" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/5812e231cf55" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/5812e231cf55
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 图集简介
 

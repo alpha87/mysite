@@ -1,4 +1,3 @@
-
 ---
 title: "朱盼盼签单王高效成交话术技巧 - 销售实战培训"
 description: "朱盼盼签单王高效成交话术技巧完整版，涵盖客户心理分析、破冰话术、逼单技巧、异议处理等核心内容，帮助销售人员快速提升成交率。"
@@ -11,15 +10,15 @@ keywords: ["朱盼盼签单王", "成交话术技巧", "销售话术", "高效�
 summary: "朱盼盼签单王高效成交话术技巧完整版，从客户心理分析到实战话术运用，涵盖破冰、逼单、异议处理等核心模块，帮助销售从业者快速掌握签单秘籍。"
 slug: "zhupanpan-closing-skills"
 ---
-{< button href="https://pan.quark.cn/s/23ce5cebbf30" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/23ce5cebbf30" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/23ce5cebbf30
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

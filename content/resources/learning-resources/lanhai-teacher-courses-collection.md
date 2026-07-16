@@ -1,4 +1,3 @@
-
 ---
 title: "兰海老师课程合集：家庭教育与儿童成长必修课资源包"
 description: "兰海老师课程合集完整资源包，涵盖家庭教育、亲子沟通、儿童心理、习惯培养等核心课程，适合0-18岁孩子家长及教育工作者，系统提升育儿能力与家庭幸福感。"
@@ -11,15 +10,15 @@ keywords: ["兰海老师课程合集", "兰海家庭教育", "育儿课程资源
 summary: "兰海老师课程合集完整资源包，涵盖家庭教育、亲子沟通、儿童心理、习惯培养等核心课程，适合0-18岁孩子家长及教育工作者，系统提升育儿能力与家庭幸福感。"
 slug: "lanhai-teacher-courses-collection"
 ---
-{< button href="https://pan.quark.cn/s/918625f2e151" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/918625f2e151" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/918625f2e151
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 兰海老师的课程合集是一套专为家长和教育工作者打造的家庭教育知识宝库。作为国内知名家庭教育专家，兰海老师深耕儿童心理与亲子沟通领域多年，其课程以“科学、实用、可操作”著称，帮助无数家庭解决了育儿中的实际难题。
 

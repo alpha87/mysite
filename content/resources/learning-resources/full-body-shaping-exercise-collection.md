@@ -1,4 +1,3 @@
-
 ---
 title: "塑身操全集：从入门到进阶，适合全家的居家健身指南"
 description: "塑身操全集资源分享，涵盖全身减脂、局部塑形、瑜伽拉伸、有氧操等视频教程，适合不同年龄段和健身水平的人群，帮助你在家轻松锻炼，塑造完美身材。"
@@ -11,15 +10,15 @@ keywords: ["塑身操全集", "居家塑身操", "减脂操视频", "瘦身操�
 summary: "塑身操全集资源分享，包含全身减脂操、局部塑形操、瑜伽拉伸操、有氧操等多种类型，适合不同健身水平的人群，帮助你在家轻松锻炼，实现瘦身塑形目标。"
 slug: "full-body-shaping-exercise-collection"
 ---
-{< button href="https://pan.quark.cn/s/b98ac43cb162" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b98ac43cb162" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b98ac43cb162
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 塑身操全集：在家也能轻松瘦身塑形
 

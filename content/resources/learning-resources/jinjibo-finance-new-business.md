@@ -10,15 +10,15 @@ keywords: ["进击波财经", "波波老师", "中国新商业", "商业音频",
 summary: "进击波财经音频课程合集，波波老师带你轻松听懂中国新商业，涵盖商业案例、经济趋势和创业思维，助你快速提升商业认知。"
 slug: "jinjibo-finance-new-business"
 ---
-{< button href="https://pan.quark.cn/s/36f58ff25ff1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/36f58ff25ff1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/36f58ff25ff1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

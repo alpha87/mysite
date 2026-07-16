@@ -1,4 +1,3 @@
-
 ---
 title: "重庆甘老师全套卤肉熟食配方(完整版)：家庭卤味商用配方全解析"
 description: "重庆甘老师全套卤肉熟食配方完整版，涵盖卤牛肉、卤猪蹄、卤鸡爪、卤鸭脖等20余种卤味做法，包含香料配比、卤水养护、火候控制等核心技术，适合家庭制作和商用开店，零基础也能做出正宗重庆卤味。"
@@ -11,15 +10,15 @@ keywords: ["重庆甘老师卤肉配方", "重庆卤味完整版", "卤肉熟食
 summary: "重庆甘老师全套卤肉熟食配方完整版，涵盖20余种卤味制作方法，详细解析香料配比、卤水养护和火候控制，家庭商用两相宜，下载即可学习正宗重庆卤味技术。"
 slug: "chongqing-lurou-recipe-ganlaoshi"
 ---
-{< button href="https://pan.quark.cn/s/4495ceb2c969" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4495ceb2c969" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4495ceb2c969
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 重庆甘老师卤肉熟食配方——从家庭到商用的完整指南
 

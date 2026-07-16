@@ -1,4 +1,3 @@
-
 ---
 title: "讲谈社中国历史全十卷PDF｜高清电子书（免费下载+通史资料+历史爱好者必读）"
 description: "讲谈社中国历史全十卷高清PDF电子书免费下载，涵盖从夏商周到明清的完整通史，由日本讲谈社权威出版，图文并茂，适合历史爱好者、学生及研究者收藏阅读，永久保存。"
@@ -11,15 +10,15 @@ keywords: ["讲谈社中国历史全十卷", "中国历史PDF", "高清历史电
 summary: "讲谈社中国历史全十卷高清PDF电子书免费下载，日本讲谈社权威出版，从夏商周到明清的完整通史，图文并茂，适合历史爱好者和研究者收藏阅读。"
 slug: "jiangtanshe-zhongguo-lishi-quan-shi-juan-pdf"
 ---
-{< button href="https://pan.quark.cn/s/b447e46276a9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b447e46276a9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b447e46276a9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 讲谈社中国历史全十卷：一部跨越千年的通史巨著
 

@@ -1,4 +1,3 @@
-
 ---
 title: "小学教师教学用书（各学科、各版本）合集下载"
 description: "涵盖语文、数学、英语、科学、道德与法治等各学科及人教、北师大、苏教、沪教等各版本的小学教师教学用书电子版合集，免费下载，助力教师备课教学。"
@@ -11,15 +10,15 @@ keywords: ["小学教师教学用书", "小学各学科教学用书", "教师用
 summary: "小学教师教学用书（各学科、各版本）合集，包含语文、数学、英语等全学科及主流版本电子版，可直接下载，方便教师备课、教研使用。"
 slug: "xiaoxue-jiaoshi-jiaoxue-yongshu"
 ---
-{< button href="https://pan.quark.cn/s/7583de2faa85" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7583de2faa85" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7583de2faa85
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 小学教师教学用书是每位教师日常备课、上课、教研的必备工具。本套合集精心整理了涵盖**语文、数学、英语、科学、道德与法治、音乐、美术、体育**等全部小学学科的教学用书，同时收录了**人教版、北师大版、苏教版、沪教版、冀教版、西师大版**等国内主流版本，几乎满足全国各地教师的版本需求。
 

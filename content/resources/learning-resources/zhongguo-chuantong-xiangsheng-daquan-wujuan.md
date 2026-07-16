@@ -10,15 +10,15 @@ keywords: ["中国传统相声大全", "相声全五卷", "经典相声段子", 
 summary: "中国传统相声大全全五卷资源合集，完整收录单口、对口、群口及经典传统段子，包含侯宝林、马三立、刘宝瑞等大师代表作品，是相声爱好者和曲艺研究者不可多得的学习宝典，即保存即听。"
 slug: "zhongguo-chuantong-xiangsheng-daquan-wujuan"
 ---
-{< button href="https://pan.quark.cn/s/9eb53cb01e66" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9eb53cb01e66" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9eb53cb01e66
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 📦 资源简介
 

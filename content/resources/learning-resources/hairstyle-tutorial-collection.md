@@ -1,4 +1,3 @@
-
 ---
 title: "发型打理教程合集：让你秒变帅气型男"
 description: "超全发型打理教程合集，涵盖男士短发、中长发、卷发、油头等多种发型的打理技巧与造型方法，从洗护选品到吹风定型，手把手教你打造清爽帅气发型，提升个人形象魅力。"
@@ -11,15 +10,15 @@ keywords: ["发型打理教程", "男士发型教程", "如何打理发型", "�
 summary: "超全发型打理教程合集，包含男士短发、中长发、卷发、油头等主流发型的打理步骤与造型秘诀，从洗护到定型一应俱全，助你快速掌握适合自己的帅气发型，提升日常形象。"
 slug: "hairstyle-tutorial-collection"
 ---
-{< button href="https://pan.quark.cn/s/8e44e99a3577" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8e44e99a3577" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8e44e99a3577
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这份发型打理教程？
 

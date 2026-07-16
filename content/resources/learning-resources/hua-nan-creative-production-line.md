@@ -1,4 +1,3 @@
-
 ---
 title: "华楠·怎样打造创意生产流水线：系统化创意生成与落地全攻略"
 description: "华楠创意生产流水线完整教程，详解如何将灵感转化为可复用的创意流程，涵盖选题挖掘、内容拆解、批量生产、迭代优化的系统方法，帮助内容创作者、营销人员和企业建立高效创意生产线，实现创意可持续输出。"
@@ -11,15 +10,15 @@ keywords: ["华楠创意生产流水线", "创意生产流水线教程", "系统
 summary: "华楠创意生产流水线完整教程，详解如何将灵感转化为可复用的创意流程，涵盖选题挖掘、内容拆解、批量生产、迭代优化的系统方法，帮助内容创作者、营销人员和企业建立高效创意生产线，实现创意可持续输出。"
 slug: "hua-nan-creative-production-line"
 ---
-{< button href="https://pan.quark.cn/s/e94beb5b49fa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e94beb5b49fa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e94beb5b49fa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 创意生产流水线是什么？
 

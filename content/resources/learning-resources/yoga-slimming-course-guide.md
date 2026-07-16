@@ -1,4 +1,3 @@
-
 ---
 title: "瘦身瑜伽课程全套超详细教学指南：从入门到进阶的系统训练"
 description: "超全超详细的瘦身瑜伽课程全套资源，涵盖入门体式、燃脂序列、冥想放松与饮食搭配，适合零基础或进阶练习者。通过系统化训练计划帮助减脂塑形、改善体态、缓解压力，附赠网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["瘦身瑜伽课程", "瑜伽减肥教程", "瑜伽入门训练", "�
 summary: "超全超详细的瘦身瑜伽课程全套资源，从入门到进阶的系统训练方案，涵盖体式讲解、燃脂序列、饮食搭配与冥想放松，帮助减脂塑形、改善体态，支持网盘下载。"
 slug: "yoga-slimming-course-guide"
 ---
-{< button href="https://pan.quark.cn/s/dd4873aa3286" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dd4873aa3286" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dd4873aa3286
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、课程简介
 这套**瘦身瑜伽课程**是精心整理的**超全超详细**教学资源，专门为希望在家中通过瑜伽实现减脂塑形、改善体态的朋友设计。无论你是完全零基础的新手，还是已经有了一定基础想进阶的练习者，这套课程都能满足你的需求。课程涵盖从最基础的呼吸法、站立体式，到中高难度的扭转、后弯、倒立序列，同时配套饮食指导与冥想放松练习，形成一个完整的健康管理体系。

@@ -1,4 +1,3 @@
-
 ---
 title: "《无中生有的宇宙》：探索宇宙从无到有的终极奥秘"
 description: "《无中生有的宇宙》是一本深入浅出的科普读物，从量子涨落到大爆炸，系统讲解宇宙如何从“无”中诞生。本书涵盖真空涨落、暴胀理论、多重宇宙等前沿物理概念，并提供通俗案例与图解，适合天文爱好者、物理小白及所有对宇宙起源感兴趣的人。"
@@ -11,15 +10,15 @@ keywords: ["无中生有的宇宙 电子书", "宇宙起源 科普", "量子涨�
 summary: "《无中生有的宇宙》用通俗语言揭示宇宙从虚无中诞生的科学原理，涵盖量子涨落、暴胀、多重宇宙等核心概念，附清晰图解，适合所有对宇宙奥秘好奇的读者。"
 slug: "universe-from-nothing"
 ---
-{< button href="https://pan.quark.cn/s/d224f1360718" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d224f1360718" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d224f1360718
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "三国演义（120集全）高清收藏版"
 description: "完整收集1994版央视《三国演义》电视剧全120集，高清画质、中文字幕，是重温经典、研究历史的绝佳资源。适合历史爱好者、影视收藏家、中小学生拓展阅读。"
@@ -11,15 +10,15 @@ keywords: ["三国演义全集", "央视三国", "1994版三国", "高清三国�
 summary: "1994版央视《三国演义》全120集高清收藏版，重温经典历史剧，适合历史爱好者与影视收藏家。"
 slug: "three-kingdoms-120-episodes"
 ---
-{< button href="https://pan.quark.cn/s/01141c2524fe" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/01141c2524fe" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/01141c2524fe
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《三国演义》是中国古典四大名著之一，由罗贯中所著，描写了东汉末年至西晋初年近百年间的历史风云。1994年央视版电视剧《三国演义》被誉为最经典的影视改编之一，该剧由王扶林执导，唐国强、鲍国安、孙彦军等实力派演员主演，高度还原原著，从黄巾起义到三国归晋，完整呈现了那段波澜壮阔的历史。
 

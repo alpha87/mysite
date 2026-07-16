@@ -1,4 +1,3 @@
-
 ---
 title: "空腹力：科学空腹的健康革命——远离疾病、高效抗老的完整指南"
 description: "全面解析空腹力的科学原理与健康效益，涵盖轻断食方法、细胞自噬机制、代谢改善与抗衰老策略，提供科学的空腹方案，帮助读者利用空腹力提升健康水平、预防慢性疾病、实现高效抗老。"
@@ -11,15 +10,15 @@ keywords: ["空腹力", "科学空腹方法", "轻断食健康", "细胞自噬�
 summary: "全面解析空腹力的科学原理与健康效益，涵盖轻断食方法、细胞自噬机制、代谢改善与抗衰老策略，提供科学的空腹方案，帮助读者利用空腹力提升健康水平、预防慢性疾病、实现高效抗老。"
 slug: "kongfuli-science-fasting"
 ---
-{< button href="https://pan.quark.cn/s/9e8e6cedd1af" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9e8e6cedd1af" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9e8e6cedd1af
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是空腹力？
 

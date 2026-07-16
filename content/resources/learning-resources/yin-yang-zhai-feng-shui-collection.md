@@ -1,4 +1,3 @@
-
 ---
 title: "阴阳宅风水合集：阳宅阴宅风水学入门到精通全套资料"
 description: "阴阳宅风水合集包含阳宅风水、阴宅风水、家居布局、祖坟选址等全套教学资料，从基础理论到实战案例，适合风水爱好者、从业者系统学习，涵盖书籍、视频、文档等多种格式。"
@@ -11,15 +10,15 @@ keywords: ["阴阳宅风水合集", "阳宅风水教程", "阴宅风水教程", 
 summary: "阴阳宅风水合集，覆盖阳宅阴宅风水学全套资料，包含基础理论、布局技巧、实战案例，适合风水初学者和从业者系统提升，资源格式丰富，网盘直接保存。"
 slug: "yinyangzhai-fengshui-heji"
 ---
-{< button href="https://pan.quark.cn/s/93b89e50f878" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/93b89e50f878" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/93b89e50f878
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 阴阳宅风水合集介绍
 

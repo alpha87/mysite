@@ -1,4 +1,3 @@
-
 ---
 title: "蜗牛学院《轻松入门Python数据分析》完整课程资源"
 description: "蜗牛学院出品的《轻松入门Python数据分析》课程资源包，涵盖Python基础、Pandas、NumPy、Matplotlib等核心工具，从零基础到实战项目，配套资料与视频教程，助你快速掌握数据分析技能。"
@@ -11,15 +10,15 @@ keywords: ["Python数据分析入门", "蜗牛学院课程", "轻松入门Python
 summary: "蜗牛学院《轻松入门Python数据分析》课程资源，从Python基础到Pandas、NumPy、Matplotlib等核心库，配合实战项目，零基础也能快速上手数据分析。包含视频教程、代码笔记、数据集等完整资料。"
 slug: "python-data-analysis-easy-start"
 ---
-{< button href="https://pan.quark.cn/s/1d3f2956f7b6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1d3f2956f7b6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1d3f2956f7b6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

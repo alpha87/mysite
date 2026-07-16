@@ -1,4 +1,3 @@
-
 ---
 title: "蔡丹君老师：提纲挈领读《红楼梦》——经典文学深度解读"
 description: "蔡丹君老师亲自讲授的《红楼梦》导读课程，从人物关系、核心情节、主题思想出发，提纲挈领帮你理清百万字巨著。适合中学生、文学爱好者及考研备考者，快速掌握《红楼梦》精髓。"
@@ -11,15 +10,15 @@ keywords: ["蔡丹君老师", "红楼梦", "提纲挈领读红楼梦", "红楼�
 summary: "蔡丹君老师精心打造的《红楼梦》导读资源，从人物关系、核心情节到主题思想，提纲挈领帮你理清百万字巨著，适合中学生、文学爱好者及考研备考者，快速提升文学素养。"
 slug: "caidanjun-hongloumeng"
 ---
-{< button href="https://pan.quark.cn/s/fa7634ebe827" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fa7634ebe827" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fa7634ebe827
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

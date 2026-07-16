@@ -1,4 +1,3 @@
-
 ---
 title: "中医临床必读丛书：经典古籍与现代临床的完美融合"
 description: "中医临床必读丛书精选《黄帝内经》《伤寒论》《金匮要略》《温病条辨》等中医经典著作，涵盖基础理论、辨证论治、方剂应用及临床实战，适合中医学生、临床医生及自学爱好者系统研读，提升中医临床思维能力。"
@@ -11,15 +10,15 @@ keywords: ["中医临床必读丛书下载", "中医经典古籍", "黄帝内经
 summary: "中医临床必读丛书收录中医四部经典及历代名家医著，系统梳理辨证论治体系，附有白话注释与临床案例，是中医学习者、临床医生提升专业能力的必备电子书资源。"
 slug: "zhongyi-linchuang-bidu-congshu"
 ---
-{< button href="https://pan.quark.cn/s/6c986fb2fc39" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6c986fb2fc39" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6c986fb2fc39
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 丛书简介
 

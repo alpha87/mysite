@@ -1,4 +1,3 @@
-
 ---
 title: "传世藏书子库医部6部PDF合集：中医经典古籍电子版"
 description: "传世藏书子库医部6部中医经典古籍PDF合集，包含《黄帝内经》《难经》《伤寒杂病论》《金匮要略》《神农本草经》《温病条辨》等核心医书，高清扫描版，适合中医学习者、从业者收藏研读，电子版便携查阅。"
@@ -11,15 +10,15 @@ keywords: ["传世藏书子库医部", "中医古籍PDF", "黄帝内经PDF", "�
 summary: "传世藏书子库医部6部中医经典古籍PDF合集，高清扫描版，涵盖《黄帝内经》《难经》《伤寒杂病论》《金匮要略》《神农本草经》《温病条辨》，是中医学习者、从业者不可多得的珍贵电子资料。"
 slug: "chuan-shi-cang-shu-zi-ku-yi-bu-pdf"
 ---
-{< button href="https://pan.quark.cn/s/749391e21e07" target="_blank" >}}
+{{< button href="https://pan.quark.cn/s/749391e21e07" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/749391e21e07
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}}
+{{< /alert >}}
 
 ## 资源介绍
 

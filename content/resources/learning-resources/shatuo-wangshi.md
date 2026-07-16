@@ -1,4 +1,3 @@
-
 ---
 title: "沙陀往事：从西域到中原的沉浮"
 description: "深入解析沙陀部落从西域迁入中原的历史脉络，涵盖沙陀起源、唐朝时期的藩镇割据、以及后唐、后晋、后汉三个政权的建立与统治。一部游牧民族融入中华文明的传奇史诗，适合历史爱好者与学习者收藏。"
@@ -11,15 +10,15 @@ keywords: ["沙陀往事", "沙陀历史", "沙陀部落", "西域到中原", "�
 summary: "沙陀部落从西域辗转进入中原，在唐末乱世中崛起，先后建立后唐、后晋、后汉三个政权，成为五代十国时期的重要力量。本文系统梳理沙陀的起源、迁徙、建国与消亡，揭示游牧民族融入中华文明的复杂历程。"
 slug: "shatuo-wangshi"
 ---
-{< button href="https://pan.quark.cn/s/fabc7e718dd2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fabc7e718dd2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fabc7e718dd2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ### 一、起源：西域的游牧勇士
 

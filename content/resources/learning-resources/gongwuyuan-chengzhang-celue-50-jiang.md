@@ -1,4 +1,3 @@
-
 ---
 title: "公务员成长策略50讲（完结）"
 description: "公务员成长策略50讲完整课程资源，涵盖公务员考试备考、面试技巧、岗位选择、职场晋升、人际关系处理、公文写作等核心内容，50节系统课程助你从公考小白成长为体制内精英，完结版可直接下载学习。"
@@ -11,15 +10,15 @@ keywords: ["公务员成长策略50讲", "公务员考试课程", "公务员备�
 summary: "公务员成长策略50讲（完结版）完整课程，从备考、面试到职场晋升全覆盖，50节系统课程助你掌握公务员成长核心策略，适合备考者及体制内新人。"
 slug: "gongwuyuan-chengzhang-celue-50-jiang"
 ---
-{< button href="https://pan.quark.cn/s/e1ea64b91387" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e1ea64b91387" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e1ea64b91387
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

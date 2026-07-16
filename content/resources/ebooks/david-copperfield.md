@@ -1,4 +1,3 @@
-
 ---
 title: "大卫·考坡菲（套装上下册）：狄更斯经典成长小说完整版"
 description: "查尔斯·狄更斯半自传体小说《大卫·考坡菲》套装上下册完整资源，讲述主人公从孤儿到作家的曲折成长历程，深度剖析19世纪英国社会百态。包含人物关系图、经典章节导读，适合文学爱好者、英语学习者及狄更斯作品收藏者。"
@@ -11,15 +10,15 @@ keywords: ["大卫·考坡菲电子书", "狄更斯小说下载", "英国文学�
 summary: "查尔斯·狄更斯半自传体小说《大卫·考坡菲》套装上下册完整资源，讲述大卫从孤儿到作家的成长故事，深刻描绘19世纪英国社会。附人物关系图与章节导读，适合文学爱好者与英语学习者。"
 slug: "david-copperfield"
 ---
-{< button href="https://pan.quark.cn/s/20f23509c079" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/20f23509c079" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/20f23509c079
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

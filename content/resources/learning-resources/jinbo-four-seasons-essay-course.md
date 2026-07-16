@@ -1,4 +1,3 @@
-
 ---
 title: "金波四季美文精读仿写课：提升小学生阅读写作能力"
 description: "金波四季美文精读仿写课完整课程资源，涵盖春、夏、秋、冬四季经典美文，通过精读+仿写训练提升小学生阅读理解与写作能力。适合1-6年级学生，附课程讲义、音频讲解、仿写练习。"
@@ -11,15 +10,15 @@ keywords: ["金波四季美文精读仿写课", "金波四季美文", "精读仿
 summary: "金波四季美文精读仿写课完整资源包，包含春夏秋冬四册美文精读、仿写技巧训练、配套音频讲解，帮助小学生掌握精读方法，提升写作水平，适合1-6年级学生及家长辅导使用。"
 slug: "jinbo-four-seasons-essay-course"
 ---
-{< button href="https://pan.quark.cn/s/89797487e3ad" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/89797487e3ad" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/89797487e3ad
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ### 课程简介
 

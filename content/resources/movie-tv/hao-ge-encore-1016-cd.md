@@ -1,4 +1,3 @@
-
 ---
 title: "好歌Encore 101.6CD 经典音乐合集：整轨APE无损音频压缩包"
 description: "好歌Encore 101.6CD 经典音乐合集，包含101.6张CD的完整整轨APE格式无损音频，精心挑选跨越年代的中外经典金曲，适合怀旧、车载音乐、Hi-Fi发烧友收藏。压缩包一键下载，保存永久。"
@@ -11,15 +10,15 @@ keywords: ["好歌Encore", "101.6CD", "APE无损", "整轨抓轨", "经典音乐
 summary: "好歌Encore 101.6CD 经典音乐合集，整轨APE无损音频压缩包，包含101.6张CD的经典金曲，适合怀旧、车载、发烧友收藏。夸克网盘链接，保存永久。"
 slug: "hao-ge-encore-1016-cd"
 ---
-{< button href="https://pan.quark.cn/s/4a27e89b2ef7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4a27e89b2ef7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4a27e89b2ef7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

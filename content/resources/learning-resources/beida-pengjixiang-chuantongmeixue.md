@@ -1,4 +1,3 @@
-
 ---
 title: "北大彭吉象教授：中国传统美学（完结）全套课程资源"
 description: "北京大学彭吉象教授主讲的中国传统美学完整课程（完结），涵盖儒释道美学思想、诗词书画鉴赏、传统艺术精神等核心内容，附赠全套高清视频及讲义电子版，适合美学爱好者、考研学生及文化研究者深度学习。"
@@ -11,15 +10,15 @@ keywords: ["中国传统美学", "彭吉象", "北大美学", "美学课程完�
 summary: "北京大学彭吉象教授主讲的中国传统美学完整课程（完结），系统讲解儒释道美学、诗词书画、戏曲园林等传统艺术精神，附赠全套高清视频+讲义，适合美学爱好者、考研学生及文化研究者。"
 slug: "beida-pengjixiang-zhongguo-chuantong-meixue"
 ---
-{< button href="https://pan.quark.cn/s/67e76566f86d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/67e76566f86d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/67e76566f86d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

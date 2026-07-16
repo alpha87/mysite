@@ -1,4 +1,3 @@
-
 ---
 title: "包爱民教授：脑科学新知20讲——解锁大脑潜能的高效学习法"
 description: "包爱民教授倾力打造的脑科学新知20讲课程，系统讲解大脑工作原理、记忆机制、情绪调控与学习方法，帮助学习者掌握科学用脑方法，提升记忆力、专注力和创造力。夸克网盘资源分享。"
@@ -11,15 +10,15 @@ keywords: ["脑科学新知20讲", "包爱民教授", "脑科学课程", "大脑
 summary: "包爱民教授脑科学新知20讲完整课程资源，从大脑结构到学习策略，系统提升你的认知能力与学习效率，适合学生、职场人士及教育工作者。"
 slug: "bao-aimin-brain-science-20"
 ---
-{< button href="https://pan.quark.cn/s/113289d0478b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/113289d0478b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/113289d0478b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

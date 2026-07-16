@@ -1,4 +1,3 @@
-
 ---
 title: "姑射山人帖子合集：精华资源整理下载"
 description: "姑射山人帖子合集完整收录，涵盖深度分析与实用资源，从知识整理到下载链接一站获取。适合对网络资源、学习资料有需求的用户，持续更新中。"
@@ -11,15 +10,15 @@ keywords: ["姑射山人帖子合集", "姑射山人资源", "帖子合集下载
 summary: "姑射山人帖子合集完整收录，包含深度分析、实用工具与资源链接，适合对网络学习资源有需求的用户，提供夸克网盘一键下载。"
 slug: "guye-shanren-posts-collection"
 ---
-{< button href="https://pan.quark.cn/s/7f0328ae684c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7f0328ae684c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7f0328ae684c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 姑射山人帖子合集简介
 

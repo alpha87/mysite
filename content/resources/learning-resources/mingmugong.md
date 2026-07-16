@@ -1,4 +1,3 @@
-
 ---
 title: "明目功：传统医学视角下的根源护眼法，视力养护完整指南"
 description: "详解明目功的起源与核心原理，融合中医经络与气血理论，从根源养护眼睛。包含完整功法步骤、日常护眼建议及传统医学解读，适合儿童、青少年及成年人缓解视疲劳、提升视力。附高清教学视频资源下载。"
@@ -11,15 +10,15 @@ keywords: ["明目功", "传统医学护眼", "中医养眼", "视力恢复方�
 summary: "明目功基于传统医学理论，通过经络疏通和气血调理从根源养护眼睛，提供完整的功法教学及日常护眼策略，适合各年龄段视力问题人群。"
 slug: "mingmugong-chuantongyixue-huyanzhinan"
 ---
-{< button href="https://pan.quark.cn/s/2a643ffdc910" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2a643ffdc910" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2a643ffdc910
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ---
 

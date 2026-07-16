@@ -1,4 +1,3 @@
-
 ---
 title: "摆摊式创业：会摆摊就会做生意—黄碧云 完整解读与实操指南"
 description: "黄碧云《摆摊式创业：会摆摊就会做生意》全书精华解读，涵盖摆摊选品策略、摊位选址技巧、低成本创业模型、摆摊变现公式、地摊经济实战方法以及副业创业从0到1全流程，适合新手快速掌握摆摊创业核心模式。"
@@ -11,15 +10,15 @@ keywords: ["摆摊式创业", "黄碧云", "摆摊创业教程", "会摆摊就�
 summary: "黄碧云《摆摊式创业：会摆摊就会做生意》全书精华解读，从选品、选址、成本控制到引流成交，系统拆解摆摊创业的底层逻辑与实操方法，帮助新手通过摆摊锻炼生意能力，实现低成本副业创业。"
 slug: "baitan-chuangye-huangbiyun"
 ---
-{< button href="https://pan.quark.cn/s/7f81145e8ec2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7f81145e8ec2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7f81145e8ec2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么摆摊是创业的最佳起点？
 

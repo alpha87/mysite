@@ -1,4 +1,3 @@
-
 ---
 title: "我不想保持正确"
 description: "《我不想保持正确》完整资源下载，一本打破思维定势、倡导独立思考和逆向认知的电子书。涵盖书中的核心观点、颠覆性思维模型、实用练习方法，适合所有渴望跳出舒适区、摆脱从众心理的读者。"
@@ -11,15 +10,15 @@ keywords: ["我不想保持正确", "独立思考电子书", "逆向思维训练
 summary: "《我不想保持正确》完整资源下载，一本打破思维定势、倡导独立思考和逆向认知的电子书。涵盖书中核心观点、颠覆性思维模型、实用练习方法，适合所有渴望跳出舒适区、摆脱从众心理的读者。"
 slug: "wo-bu-xiang-baochi-zhengque"
 ---
-{< button href="https://pan.quark.cn/s/451f47e758be" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/451f47e758be" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/451f47e758be
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍介绍
 

@@ -1,4 +1,3 @@
-
 ---
 title: "北大杨立华教授讲庄子哲学（完结）—— 国学深度解析课程"
 description: "北京大学杨立华教授完整讲解庄子哲学的全套课程（完结），涵盖庄子内七篇、外篇、杂篇核心思想，从逍遥游到齐物论，深度解析庄子智慧与人生哲学，适合国学爱好者、哲学研究者及传统文化学习者。"
@@ -11,15 +10,15 @@ keywords: ["北大杨立华庄子", "庄子哲学完整课程", "杨立华讲庄
 summary: "北京大学杨立华教授独家讲解庄子哲学全集课程（完结），从逍遥游到应帝王，系统剖析庄子核心思想，结合现实人生智慧，是国学爱好者不可错过的深度哲学资源。"
 slug: "beida-yanglihua-zhuangzizhexue-wanjie"
 ---
-{< button href="https://pan.quark.cn/s/f8520bec7825" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f8520bec7825" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f8520bec7825
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

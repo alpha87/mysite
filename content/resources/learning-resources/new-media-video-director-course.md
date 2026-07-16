@@ -1,4 +1,3 @@
-
 ---
 title: "网易云课堂新媒体视频导演课程｜零基础学导演思维（脚本 分镜 全流程+实战案例+免费下载）"
 description: "网易云课堂出品的新媒体视频导演课程，零基础学习导演思维、脚本写作、分镜设计、全流程制作。配套实战案例，免费下载资源包，适合短视频创作者、自媒体人、影视爱好者系统提升视频导演能力。"
@@ -11,15 +10,15 @@ keywords: ["新媒体视频导演课程", "导演思维训练", "零基础学视
 summary: "网易云课堂新媒体视频导演课程，从零开始教授导演思维、脚本分镜与全流程制作，包含多套实战案例，免费下载课程资源包，帮助短视频创作者快速掌握专业导演技能。"
 slug: "xinmeiti-shipin-daoyan-kecheng"
 ---
-{< button href="https://pan.quark.cn/s/a0ad10e7c9d5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a0ad10e7c9d5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a0ad10e7c9d5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

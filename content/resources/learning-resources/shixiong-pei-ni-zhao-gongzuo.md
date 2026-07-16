@@ -1,4 +1,3 @@
-
 ---
 title: "师兄陪你找工作：2026求职全攻略与资料合集"
 description: "师兄陪你找工作，提供完整的求职指南、简历模板、面试题库、职业规划建议等资源合集。从简历优化到斩获Offer，手把手带你走通求职全流程。"
@@ -11,15 +10,15 @@ keywords: ["师兄陪你找工作", "求职指南", "找工作资源", "简历�
 summary: "师兄陪你找工作，一站式求职资源合集，包含简历模板、面试题库、职业规划建议，助你高效求职，顺利拿到心仪Offer。"
 slug: "shixiong-pei-ni-zhao-gongzuo"
 ---
-{< button href="https://pan.quark.cn/s/97163bc8d869" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/97163bc8d869" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/97163bc8d869
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要“师兄陪你找工作”？
 

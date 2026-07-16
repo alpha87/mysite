@@ -1,4 +1,3 @@
-
 ---
 title: "《把自己作为方法》电子书下载与深度解读：项飙访谈录中的思考方法论"
 description: "《把自己作为方法》电子书资源，涵盖项飙与吴琦的对话精华，解读如何从个人经验出发构建批判性思维。适用于社会学、人类学学习者及自我提升者，附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["把自己作为方法 pdf", "项飙把自己作为方法", "把自�
 summary: "《把自己作为方法》电子书资源，项飙与吴琦的深度对话，教你如何将个人经验转化为学术思考与批判性思维的工具，适合社会学研究者、学习者及想要提升认知能力的读者。"
 slug: "ba-ziji-zuowei-fangfa"
 ---
-{< button href="https://pan.quark.cn/s/38e2c0b0bed9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/38e2c0b0bed9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/38e2c0b0bed9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

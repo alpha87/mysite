@@ -1,4 +1,3 @@
-
 ---
 title: "《欺骗世界的医生》纪录片：真相与谎言的较量"
 description: "豆瓣评分8.4的纪录片《欺骗世界的医生》深入揭露医疗骗局与学术造假，带你了解背后操纵者如何利用恐惧与伪科学影响全球健康政策。附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["欺骗世界的医生", "纪录片", "豆瓣8.4", "医疗骗局", "�
 summary: "豆瓣评分8.4的纪录片《欺骗世界的医生》深入揭露医疗骗局与学术造假，带你了解背后操纵者如何利用恐惧与伪科学影响全球健康政策。附夸克网盘资源下载。"
 slug: "deceiving-the-world-doctors"
 ---
-{< button href="https://pan.quark.cn/s/a436b5e02bf8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a436b5e02bf8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a436b5e02bf8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 纪录片简介
 

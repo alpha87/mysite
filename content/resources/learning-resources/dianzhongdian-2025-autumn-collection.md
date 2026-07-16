@@ -1,4 +1,3 @@
-
 ---
 title: "25秋《典中点》多科多版本合集（含解析）下载"
 description: "25秋《典中点》全学科全版本电子版教辅合集，涵盖小学至高中各年级，包含人教版、北师大版、苏教版等主流版本，每套均附带详细解析与答案。适合学生课后巩固、家长辅导、教师备课使用，高清PDF格式直接下载。"
@@ -11,15 +10,15 @@ keywords: ["典中点25秋", "典中点下载", "小学典中点", "初中典中
 summary: "25秋《典中点》多科多版本合集，覆盖小学到高中全年级全科目，含答案与解析。高清PDF资源，可直接保存下载，助力学生高效学习。"
 slug: "dianzhongdian-2025-autumn-collection"
 ---
-{< button href="https://pan.quark.cn/s/c261164bd1c3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c261164bd1c3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c261164bd1c3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "防震减灾科普宣传动画：全民防震知识普及与安全教育资源"
 description: "防震减灾科普宣传动画资源，涵盖地震成因、避险技巧、自救互救方法等关键知识，适合学校、社区、单位开展防震宣传教育活动，帮助大众掌握科学防震减灾技能，提升应急避险能力。"
@@ -11,15 +10,15 @@ keywords: ["防震减灾科普动画", "地震安全教育", "防震知识动画
 summary: "防震减灾科普宣传动画资源，系统讲解地震成因、预警信号、室内外避险、自救互救等核心知识，动画形式生动易懂，适合中小学、社区、企事业单位的防震宣传和安全教育，是防灾减灾日及日常科普的优质素材。"
 slug: "earthquake-safety-animation"
 ---
-{< button href="https://pan.quark.cn/s/dd08f0d38ae4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dd08f0d38ae4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dd08f0d38ae4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择这套防震减灾科普宣传动画？
 

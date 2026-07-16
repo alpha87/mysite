@@ -1,4 +1,3 @@
-
 ---
 title: "小学1-6年级上册考试试卷合集：提升孩子成绩必备"
 description: "完整收录小学1-6年级上册语数英等各科考试试卷，涵盖单元测试、期中期末及专项练习，高清可打印。家长辅导、孩子自测均适用，有效巩固知识点，快速提升学习成绩。"
@@ -11,15 +10,15 @@ keywords: ["小学1-6年级上册试卷", "小学考试试卷", "小学生试卷
 summary: "小学1-6年级上册各科考试试卷合集，包含单元测试、期中期末及专项练习，高清可打印，帮助孩子巩固知识、提升成绩。"
 slug: "xiaoxue-shijuan-1-6-nianji"
 ---
-{< button href="https://pan.quark.cn/s/f7ac434f6cb5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f7ac434f6cb5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f7ac434f6cb5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《小学1-6年级上册考试试卷》是一套专为小学生设计的全科试卷合集，覆盖语文、数学、英语等主要科目，包含单元测试卷、期中考试卷、期末考试卷以及各类专项练习（如计算题训练、阅读理解、作文训练等）。试卷内容紧扣教育部教材大纲，题型设置科学合理，难度循序渐进，既能帮助孩子查漏补缺，又能提前适应考试节奏。
 

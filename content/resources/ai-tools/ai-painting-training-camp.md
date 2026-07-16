@@ -1,4 +1,3 @@
-
 ---
 title: "从零基础到AI绘画高手训练营"
 description: "从零基础到AI绘画高手训练营完整指南，涵盖Midjourney、Stable Diffusion、DALL·E等主流AI绘画工具教学，提示词工程、风格控制、图像优化、商业应用等核心技能，帮助新手快速掌握AI绘画并实现变现。"
@@ -11,15 +10,15 @@ keywords: ["AI绘画高手训练营", "零基础AI绘画", "AI绘画教程", "Mi
 summary: "从零基础到AI绘画高手训练营完整指南，系统讲解Midjourney、Stable Diffusion、DALL·E等主流AI绘画工具使用技巧，涵盖提示词工程、风格控制、图像优化及商业应用，帮助新手快速上手并实现作品变现。"
 slug: "ai-painting-training-camp"
 ---
-{< button href="https://pan.quark.cn/s/3daa9809f11b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3daa9809f11b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3daa9809f11b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 训练营介绍
 

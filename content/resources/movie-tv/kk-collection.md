@@ -1,4 +1,3 @@
-
 ---
 title: "KK合集：海量影视资源一网打尽，你的专属影音宝库"
 description: "KK合集收录海量影视资源，涵盖国内外经典电影、热门电视剧、高分纪录片等，支持在线观看与下载，持续更新。本页面提供夸克网盘高速下载链接，并附资源整理技巧与使用指南，助你快速找到心仪内容。"
@@ -11,15 +10,15 @@ keywords: ["KK合集", "影视资源", "电影合集", "电视剧合集", "高�
 summary: "KK合集带你畅享海量影视资源，从经典电影到热门剧集，从高分纪录片到小众佳作，一应俱全。夸克网盘高速下载，持续更新，是影视爱好者的必备收藏。"
 slug: "kk-collection"
 ---
-{< button href="https://pan.quark.cn/s/d3744fb14e89" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d3744fb14e89" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d3744fb14e89
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## KK合集是什么？
 

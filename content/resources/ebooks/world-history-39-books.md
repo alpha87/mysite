@@ -1,4 +1,3 @@
-
 ---
 title: "世界史的故事（套装39册）：从文明起源到现代全景历史阅读"
 description: "世界史的故事套装共39册，涵盖从古埃及、古希腊到现代世界的完整历史脉络，适合历史爱好者、学生及通识教育读者。本书以叙事风格讲述重大事件、人物与文化演变，附赠高清地图与时间轴，是家庭藏书与系统学习世界史的优质选择。"
@@ -11,15 +10,15 @@ keywords: ["世界史的故事", "世界史套装", "39册历史书", "世界历
 summary: "世界史的故事套装39册，完整覆盖从古代到现代的世界历史，以叙事手法呈现重大事件与文明变迁，适合历史爱好者与通识学习者，附赠地图与时间轴。"
 slug: "world-history-39-books"
 ---
-{< button href="https://pan.quark.cn/s/2f38497df667" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2f38497df667" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2f38497df667
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 套装简介
 

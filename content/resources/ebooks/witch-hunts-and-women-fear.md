@@ -1,4 +1,3 @@
-
 ---
 title: "对女性的恐惧：女巫、猎巫和妇女"
 description: "深入剖析历史上对女性的恐惧如何演变为猎巫运动，揭示女性受害的根源、社会文化背景与现代启示，帮助读者理解性别歧视的历史延续性。"
@@ -11,15 +10,15 @@ keywords: ["对女性的恐惧", "女巫猎杀", "猎巫历史", "女性受迫�
 summary: "本书系统梳理了历史上对女性的恐惧如何催生猎巫运动，从社会、文化、宗教角度分析女性受迫害的深层原因，并探讨其在当代的延续与反思。"
 slug: "dui-nvxing-de-kongju-nvwu-liewu-he-funv"
 ---
-{< button href="https://pan.quark.cn/s/e75dcd9e9617" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e75dcd9e9617" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e75dcd9e9617
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 女性在历史上长期被与“巫术”联系在一起，这种联系并非偶然，而是深植于社会对女性独立、性魅力和知识力量的恐惧。从15世纪到18世纪，欧洲约有数万名被指控为女巫的女性遭受酷刑和火刑，这场猎巫运动背后隐藏着怎样的社会逻辑？本书《对女性的恐惧：女巫、猎巫和妇女》为你揭开创伤性的历史一页。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "绥靖时代：希特勒、张伯伦、丘吉尔与通往战争之路 — 历史深度解析"
 description: "蒂姆·布彻《绥靖时代》深度解读，剖析希特勒崛起、张伯伦绥靖政策、丘吉尔抗争与二战前欧洲政治博弈。了解慕尼黑协定、捷克斯洛伐克危机、波兰入侵等关键事件，反思绥靖政策的教训与历史启示。"
@@ -11,15 +10,15 @@ keywords: ["绥靖时代电子书", "希特勒张伯伦丘吉尔", "二战前欧
 summary: "蒂姆·布彻《绥靖时代》深度解读，剖析希特勒崛起、张伯伦绥靖政策、丘吉尔抗争与二战前欧洲政治博弈。了解慕尼黑协定、捷克斯洛伐克危机、波兰入侵等关键事件，反思绥靖政策的教训与历史启示。"
 slug: "suijing-shidai-xitele-zhangbolun-qiuqier-tongwang-zhanzheng-zhilu"
 ---
-{< button href="https://pan.quark.cn/s/1dedd1c4cb03" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1dedd1c4cb03" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1dedd1c4cb03
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 绥靖时代：希特勒、张伯伦、丘吉尔与通往战争之路
 

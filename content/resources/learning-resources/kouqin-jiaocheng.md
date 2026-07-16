@@ -1,4 +1,3 @@
-
 ---
 title: "口琴入门到精通全套教程：琴谱+PDF资料下载"
 description: "口琴入门到精通全套教程免费下载，包含高清琴谱、PDF电子书、视频教学、乐理知识、技巧训练等系统资料，从零基础到高阶演奏，涵盖布鲁斯口琴、半音阶口琴、复音口琴等多种类型，适合自学爱好者快速提升口琴演奏水平。"
@@ -11,15 +10,15 @@ keywords: ["口琴入门到精通", "口琴教程下载", "口琴琴谱免费", 
 summary: "口琴入门到精通全套教程资源，包含高清琴谱、PDF电子书、视频教学、乐理知识、技巧训练等系统资料，适合从零基础到高阶演奏的爱好者，助你快速提升口琴演奏水平。"
 slug: "kouqin-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/e3d5277cdc7b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e3d5277cdc7b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e3d5277cdc7b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 口琴是一种小巧便携、音色优美的乐器，深受音乐爱好者喜爱。无论你完全零基础还是已有一定基础，这套《口琴入门到精通》全套教程都能帮你系统学习。资源包含高清琴谱、PDF电子书、视频教学、乐理知识、技巧训练等内容，涵盖布鲁斯口琴、半音阶口琴、复音口琴等多种类型。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《巴蜀名医遗珍丛书》系列20册：中医经典典籍免费下载"
 description: "《巴蜀名医遗珍丛书》全套20册高清PDF电子版，收录巴蜀地区历代名医珍贵的医案、方论、本草等经典著作，适合中医爱好者、从业者及研究者收藏学习，免费下载链接已整理。"
@@ -11,15 +10,15 @@ keywords: ["巴蜀名医遗珍丛书", "巴蜀名医", "中医经典电子书", 
 summary: "《巴蜀名医遗珍丛书》全套20册高清PDF电子版免费下载，汇集巴蜀地区历代名医的医案、方论、本草等经典，中医爱好者与从业者不可错过的珍贵资源。"
 slug: "bashu-mingyi-yizhen-congshu"
 ---
-{< button href="https://pan.quark.cn/s/cb6c9608af87" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cb6c9608af87" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cb6c9608af87
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《巴蜀名医遗珍丛书》是一套由巴蜀地区中医药专家团队历时多年整理编纂的中医经典文献丛书，全套共20册，系统收录了从明清至近现代巴蜀大地涌现的数十位著名中医大家的代表性著作。这些名医包括但不限于郑钦安、卢铸之、范仲林、陈达夫、李斯炽、彭宪彰等，他们的学术思想与临床经验至今仍深刻影响着中医界。
 

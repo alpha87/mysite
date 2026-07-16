@@ -1,4 +1,3 @@
-
 ---
 title: "中国手语培训视频教程：零基础入门到日常交流系统学习"
 description: "中国手语培训视频教程完整版，涵盖手指字母、日常用语、生活场景对话等，从零基础入门到熟练交流，适合初学者、志愿者、特教老师及对聋人文化感兴趣的人群，高清视频教学，快速掌握中国手语核心表达。"
@@ -11,15 +10,15 @@ keywords: ["中国手语培训视频教程", "手语零基础教程", "手语学
 summary: "中国手语培训视频教程完整版，从零基础入门到日常交流，涵盖手指字母、生活场景对话，适合初学者、志愿者、特教老师等，高清视频教学助你快速掌握中国手语。"
 slug: "zhongguo-shouyu-peixun-shipin-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/48a3b2e06a75" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/48a3b2e06a75" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/48a3b2e06a75
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 中国手语培训视频教程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "简七股票训练营：从入门到实践 完整视频教程（完结）"
 description: "简七股票训练营全套视频教程，从零基础入门到实战操盘，系统讲解股票投资核心知识、技术分析、基本面分析、交易策略与风险管理，适合新手和进阶投资者系统学习。"
@@ -11,15 +10,15 @@ keywords: ["简七股票训练营", "股票投资教程", "股票入门到实践
 summary: "简七股票训练营全套视频教程（完结），从零基础入门到实战操盘，系统覆盖股票投资核心知识、技术分析、基本面分析、交易策略与风险管理，适合所有水平的投资者。"
 slug: "jianqi-stock-training-camp"
 ---
-{< button href="https://pan.quark.cn/s/0b6f03a54f28" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0b6f03a54f28" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0b6f03a54f28
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

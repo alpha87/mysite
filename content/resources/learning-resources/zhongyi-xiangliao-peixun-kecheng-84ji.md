@@ -1,4 +1,3 @@
-
 ---
 title: "中医香疗专业培训课程84集：从入门到精通完整教程"
 description: "中医香疗专业培训课程84集全套资源，涵盖芳香疗法基础、精油调配、中医经络、临床案例等，零基础可学，系统掌握中医香疗技术，附赠夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["中医香疗培训", "中医香疗课程", "芳香疗法教程", "�
 summary: "中医香疗专业培训课程84集全套资源，涵盖芳香疗法基础、精油调配、中医经络、临床案例等，零基础可学，系统掌握中医香疗技术，附赠夸克网盘下载链接。"
 slug: "zhongyi-xiangliao-peixun-kecheng-84ji"
 ---
-{< button href="https://pan.quark.cn/s/66db242177df" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/66db242177df" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/66db242177df
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

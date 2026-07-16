@@ -1,4 +1,3 @@
-
 ---
 title: "计算机技术专题书籍1920册【69GB】大合集"
 description: "计算机技术专题书籍合集，1920册共69GB，涵盖编程语言、数据结构算法、操作系统、计算机网络、数据库、人工智能、软件工程、计算机组成原理、网络安全等众多方向，适合程序员、学生、技术爱好者自学提升，附夸克网盘下载链接。"
@@ -12,15 +11,15 @@ summary: "计算机技术专题书籍合集1920册，共69GB，涵盖编程语�
 slug: "computer-books-1920"
 ---
 
-{< button href="https://pan.quark.cn/s/4691aa2dc704" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4691aa2dc704" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4691aa2dc704
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

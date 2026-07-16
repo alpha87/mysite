@@ -1,4 +1,3 @@
-
 ---
 title: "CFA资料网课合集：一级二级三级全覆盖备考资源"
 description: "CFA考试必备资料网课合集，涵盖一级、二级、三级全部科目，包含全套视频讲解、电子教材、题库练习、重难点笔记等，适合金融从业者和考生系统备考使用，高效通过CFA考试。"
@@ -11,15 +10,15 @@ keywords: ["CFA资料网课合集", "CFA备考资源", "CFA一级二级三级", 
 summary: "CFA考试必备资料网课合集，一级至三级全覆盖，包含视频讲解、电子教材、题库笔记，助你系统备考高效通关。"
 slug: "cfa-ziliao-wangke-heji"
 ---
-{< button href="https://pan.quark.cn/s/65cf47fe930e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/65cf47fe930e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/65cf47fe930e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

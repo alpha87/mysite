@@ -1,4 +1,3 @@
-
 ---
 title: "埃隆·马斯克传 - 王明军演播"
 description: "《埃隆·马斯克传》王明军演播版有声书，完整讲述马斯克从南非少年到科技巨头的传奇历程，涵盖特斯拉、SpaceX、Neuralink等颠覆性创新，演播生动，适合创业者和科技爱好者收听。"
@@ -11,15 +10,15 @@ keywords: ["埃隆·马斯克传有声书", "王明军演播版", "马斯克传�
 summary: "《埃隆·马斯克传》王明军演播有声书，全面呈现马斯克从南非少年到科技巨头的传奇人生，深入剖析特斯拉、SpaceX等企业背后的创业逻辑与创新思维。"
 slug: "elon-musk-biography-wangmingjun"
 ---
-{< button href="https://pan.quark.cn/s/93adb2330ced" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/93adb2330ced" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/93adb2330ced
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

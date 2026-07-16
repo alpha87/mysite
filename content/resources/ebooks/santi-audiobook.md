@@ -1,4 +1,3 @@
-
 ---
 title: "《三体》有声书 刘慈欣原著 青雪制播 配乐一流 身临其境"
 description: "刘慈欣科幻巨著《三体》有声书，由著名主播青雪精心制播，配乐一流，音效震撼，带你身临其境感受三体宇宙的宏大与神秘。夸克网盘免费下载，精品资源不容错过。"
@@ -11,15 +10,15 @@ keywords: ["三体有声书", "刘慈欣有声书", "青雪制播", "三体配�
 summary: "刘慈欣科幻巨著《三体》有声书，青雪制播，配乐一流，音效震撼，身临其境体验三体宇宙。夸克网盘免费下载。"
 slug: "santi-audiobook"
 ---
-{< button href="https://pan.quark.cn/s/28c32058fad5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/28c32058fad5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/28c32058fad5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《三体》是刘慈欣创作的科幻巨著，荣获雨果奖，被誉为中国科幻文学的巅峰之作。这部有声书由资深主播青雪精心制播，她凭借对原著深刻的理解和出色的配音功底，将书中宏大而复杂的宇宙观、人性的挣扎与文明的碰撞演绎得淋漓尽致。
 

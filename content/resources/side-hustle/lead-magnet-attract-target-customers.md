@@ -1,4 +1,3 @@
-
 ---
 title: "用一个引流产品吸引精准客户：从设计到落地的完整策略"
 description: "深入解析引流产品的核心逻辑，涵盖如何选择高转化率引流品、设计诱饵话术、搭建自动化流程、精准筛选客户以及结合网盘资源的落地技巧，帮助创业者低成本获取高质量潜在客户。"
@@ -11,15 +10,15 @@ keywords: ["引流产品吸引客户", "精准客户引流", "引流产品设计
 summary: "深入解析引流产品的核心逻辑，涵盖选择高转化引流品、设计诱饵话术、搭建自动化流程、精准筛选客户以及网盘资源落地技巧，帮助创业者低成本获取高质量潜在客户。"
 slug: "lead-magnet-attract-target-customers"
 ---
-{< button href="https://pan.quark.cn/s/2524fb585856" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2524fb585856" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2524fb585856
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要用引流产品吸引精准客户？
 

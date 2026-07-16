@@ -1,4 +1,3 @@
-
 ---
 title: "跑步技巧教程：从入门到精通的完整指南"
 description: "全面的跑步技巧教程，涵盖跑姿纠正、呼吸节奏、热身拉伸、训练计划制定和伤病预防等核心内容，适合零基础跑者和进阶跑者参考学习。"
@@ -11,15 +10,15 @@ keywords: ["跑步技巧教程", "跑步入门指南", "如何正确跑步", "�
 summary: "全面的跑步技巧教程，系统讲解跑姿纠正、呼吸节奏、热身拉伸、训练计划制定和伤病预防等核心内容，帮助跑者科学提升成绩，避免运动损伤。"
 slug: "running-tips-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/e86606edc5d8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e86606edc5d8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e86606edc5d8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么需要系统学习跑步技巧？
 

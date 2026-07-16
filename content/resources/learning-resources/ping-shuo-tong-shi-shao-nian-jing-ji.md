@@ -1,4 +1,3 @@
-
 ---
 title: "平说通识：少年经济——青少年经济学启蒙课程资源"
 description: "平说通识少年经济课程完整资源分享，涵盖经济学基础、商业思维、理财观念、市场逻辑等核心内容，通过生动案例和趣味讲解帮助青少年建立经济思维。包含视频教程、讲义笔记、习题库等全套学习资料。"
@@ -11,15 +10,15 @@ keywords: ["平说通识少年经济", "青少年经济学课程", "经济学启
 summary: "平说通识少年经济课程全套资源，从经济学基础到商业思维养成，涵盖视频、讲义、习题等，帮助青少年理解经济现象，培养理性决策能力。"
 slug: "ping-shuo-tong-shi-shao-nian-jing-ji"
 ---
-{< button href="https://pan.quark.cn/s/b8a9a971de1d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b8a9a971de1d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b8a9a971de1d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

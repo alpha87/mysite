@@ -1,4 +1,3 @@
-
 ---
 title: "财报入门：教你如何看懂财务报表"
 description: "零基础学习财报知识，手把手教你读懂资产负债表、利润表和现金流量表，掌握财务分析核心方法，为投资决策打下坚实基础。"
@@ -11,15 +10,15 @@ keywords: ["财报入门", "如何看懂财务报表", "财务报表分析", "�
 summary: "零基础学习财报知识，手把手教你读懂资产负债表、利润表和现金流量表，掌握财务分析核心方法，为投资决策打下坚实基础。"
 slug: "financial-report-beginners-guide"
 ---
-{< button href="https://pan.quark.cn/s/deb915b046d8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/deb915b046d8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/deb915b046d8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么学财报？
 

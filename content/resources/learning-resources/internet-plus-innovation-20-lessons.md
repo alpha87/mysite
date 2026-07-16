@@ -1,4 +1,3 @@
-
 ---
 title: "【互联网+】时代创新密码20讲：从思维到实战的完整课程"
 description: "《互联网+时代创新密码20讲》课程全面解析互联网+商业模式创新、数字化转型、平台思维、跨界融合等核心方法论，涵盖20个关键知识点与真实案例，适合创业者、产品经理、企业管理者深度学习，掌握互联网+时代创新密码。"
@@ -11,15 +10,15 @@ keywords: ["互联网+创新密码20讲", "互联网+课程", "商业模式创�
 summary: "《互联网+时代创新密码20讲》全集，从思维、模式、方法到实战案例，系统讲解互联网+时代如何突破创新瓶颈，掌握20个关键密码，配套资源免费领取。"
 slug: "internet-plus-innovation-20-lessons"
 ---
-{< button href="https://pan.quark.cn/s/0fecaac80ae7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0fecaac80ae7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0fecaac80ae7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 【互联网+】时代创新密码20讲
 

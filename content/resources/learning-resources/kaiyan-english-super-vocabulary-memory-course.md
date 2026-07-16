@@ -1,4 +1,3 @@
-
 ---
 title: "开言英语《超能词汇记忆课》：高效背单词秘籍"
 description: "开言英语《超能词汇记忆课》完整资源分享，涵盖词根词缀记忆法、场景联想记忆法、艾宾浩斯遗忘曲线复习系统、高频词汇精讲及配套练习，适合英语学习者快速突破词汇瓶颈，从基础到高阶全面提升词汇量。"
@@ -11,15 +10,15 @@ keywords: ["开言英语超能词汇记忆课", "开言英语词汇课", "英语
 summary: "开言英语《超能词汇记忆课》完整资源分享，利用词根词缀、场景联想及艾宾浩斯遗忘曲线复习系统，系统讲解高频词汇记忆方法，帮助英语学习者快速突破单词难关，提升词汇量至高阶水平。"
 slug: "kaiyan-english-super-vocabulary-memory-course"
 ---
-{< button href="https://pan.quark.cn/s/e9be02340c12" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e9be02340c12" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e9be02340c12
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

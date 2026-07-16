@@ -1,4 +1,3 @@
-
 ---
 title: "古今民间秘术大全：收录千年玄学秘法、奇门遁甲与民间法术"
 description: "《古今民间秘术大全》完整电子书资源，涵盖奇门遁甲、风水堪舆、符咒法术、民间巫术、中医秘方等数千年中华玄学秘术，高清PDF版，适合传统文化研究者和玄学爱好者收藏研读。"
@@ -11,15 +10,15 @@ keywords: ["古今民间秘术大全", "民间秘术电子书", "奇门遁甲PDF
 summary: "《古今民间秘术大全》高清PDF电子书，收录了千年流传的奇门遁甲、风水堪舆、符咒法术、中医秘方等民间秘术，是玄学爱好者和传统文化研究者的珍贵资源。"
 slug: "gujin-minjian-mishu-daquan"
 ---
-{< button href="https://pan.quark.cn/s/2ef74b5747b2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2ef74b5747b2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2ef74b5747b2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

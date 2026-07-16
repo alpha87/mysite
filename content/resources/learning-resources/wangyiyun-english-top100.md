@@ -1,4 +1,3 @@
-
 ---
 title: "网易云英文歌TOP100 MP3打包下载：边听歌边学英语的优质资源"
 description: "网易云音乐英文歌TOP100精选合集MP3打包下载，涵盖流行、摇滚、民谣、R&B等多种风格，适合英语学习者通过歌词提升听力和口语，同时享受高质量音乐。资源清晰分类，可在线试听或直接下载到本地，是英语爱好者和音乐发烧友的必备收藏。"
@@ -11,15 +10,15 @@ keywords: ["网易云英文歌TOP100", "英文歌MP3下载", "英语学习歌曲
 summary: "网易云音乐英文歌TOP100精选合集MP3打包下载，涵盖多种音乐风格，适合英语学习者通过歌词提升听力和口语，资源清晰分类，可在线试听或直接下载到本地。"
 slug: "wangyiyun-english-top100-mp3-package"
 ---
-{< button href="https://pan.quark.cn/s/8c0d45ef0de2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8c0d45ef0de2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8c0d45ef0de2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

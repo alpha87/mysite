@@ -1,4 +1,3 @@
-
 ---
 title: "快速入门：零基础趣玩PS — 从安装到实战的全流程指南"
 description: "零基础学习Photoshop的完整入门教程，涵盖软件安装、界面介绍、图层操作、选区工具、调色技巧、文字处理等核心功能，附赠海量PS资源，帮助新手快速掌握PS基础并制作出第一张设计作品。"
@@ -11,15 +10,15 @@ keywords: ["零基础学Photoshop", "PS入门教程", "Photoshop基础操作", "
 summary: "专为PS小白打造的零基础入门指南，从下载安装到第一个作品，覆盖图层、选区、调色、文字等核心功能，配合海量资源包，助你快速开启设计之旅。"
 slug: "quick-start-photoshop"
 ---
-{< button href="https://pan.quark.cn/s/7e3c97001863" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e3c97001863" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e3c97001863
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择PS？零基础也能轻松上手
 

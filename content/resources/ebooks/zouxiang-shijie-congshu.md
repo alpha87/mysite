@@ -1,4 +1,3 @@
-
 ---
 title: "《走向世界丛书》电子版：近代中国人海外见闻珍贵文献"
 description: "《走向世界丛书》全套电子版，收录晚清至民国时期知识分子海外考察日记、游记，涵盖政治、经济、文化、科技等多维度记录，是研究中国近代化进程的珍贵史料，高清PDF格式，适合历史研究者与爱好者收藏研读。"
@@ -11,15 +10,15 @@ keywords: ["走向世界丛书电子版", "近代中国海外见闻", "晚清知
 summary: "《走向世界丛书》全套电子版，收录晚清至民国时期知识分子海外考察日记、游记，涵盖政治、经济、文化、科技等多维度记录，是研究中国近代化进程的珍贵史料，高清PDF格式，适合历史研究者与爱好者收藏研读。"
 slug: "zouxiang-shijie-congshu"
 ---
-{< button href="https://pan.quark.cn/s/d670dea168c5" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d670dea168c5" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d670dea168c5
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 丛书简介
 

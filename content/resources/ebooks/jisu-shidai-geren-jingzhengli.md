@@ -1,4 +1,3 @@
-
 ---
 title: "极速时代的个人竞争力（完结）完整电子书下载"
 description: "《极速时代的个人竞争力》完结版电子书，全面解析在快速变化的时代如何构建个人核心竞争力，涵盖时间管理、技能迭代、认知升级、人脉经营等核心模块，提供实用方法论与落地工具，助你在VUCA时代脱颖而出。"
@@ -11,15 +10,15 @@ keywords: ["极速时代的个人竞争力", "个人竞争力提升", "VUCA时�
 summary: "《极速时代的个人竞争力》（完结版）电子书，系统拆解快速变化时代个人核心竞争力构建的四大支柱：时间管理、技能迭代、认知升级与人脉经营，内含30+实用工具模板，助你持续增值。"
 slug: "jisu-shidai-geren-jingzhengli-wanjie"
 ---
-{< button href="https://pan.quark.cn/s/f54ab70ca9b4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f54ab70ca9b4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f54ab70ca9b4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这本书？
 

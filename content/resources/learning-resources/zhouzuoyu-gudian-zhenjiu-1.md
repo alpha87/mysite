@@ -1,4 +1,3 @@
-
 ---
 title: "周左宇《医道精要》古典针灸第一集：中医针灸入门经典课程"
 description: "周左宇《医道精要》古典针灸第一集完整课程资源，涵盖针刺手法、经络辨证、穴位定位、补泻手法等核心内容。适合中医爱好者、针灸从业者、自学中医人群学习古典针灸精华。"
@@ -11,15 +10,15 @@ keywords: ["周左宇医道精要", "古典针灸第一集", "针灸入门课程
 summary: "周左宇《医道精要》古典针灸第一集完整课程资源，系统讲解古典针灸基础理论与实操技法，适合中医爱好者和针灸从业者深入学习古典针灸精华。"
 slug: "zhouzuoyu-yidaojingyao-gudian-zhenjiu-1"
 ---
-{< button href="https://pan.quark.cn/s/99be5520c0dd" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/99be5520c0dd" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/99be5520c0dd
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程介绍
 

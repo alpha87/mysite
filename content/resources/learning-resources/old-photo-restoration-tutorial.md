@@ -1,4 +1,3 @@
-
 ---
 title: "老照片修复教程｜PS图像修复技巧（怀旧照片数字化+高清修复+软件操作指南）"
 description: "全面详实的老照片修复教程，使用Photoshop进行怀旧照片数字化、高清修复。涵盖扫描技巧、色彩校正、划痕去除、皮肤修复、清晰度增强等实用方法，配合软件操作指南，帮助您轻松修复珍贵老照片。"
@@ -11,15 +10,15 @@ keywords: ["老照片修复教程", "PS修复老照片", "老照片数字化", "
 summary: "全面详实的老照片修复教程，使用Photoshop进行怀旧照片数字化与高清修复，涵盖扫描、色彩校正、划痕去除、清晰度增强等步骤，适合初学者和进阶用户。"
 slug: "old-photo-restoration-tutorial-ps"
 ---
-{< button href="https://pan.quark.cn/s/71e95d92d800" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/71e95d92d800" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/71e95d92d800
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么需要修复老照片？
 

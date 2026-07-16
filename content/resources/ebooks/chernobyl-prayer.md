@@ -1,4 +1,3 @@
- 
 ---
 title: "切尔诺贝利的祭祷：灾难中的人性悲歌"
 description: "诺贝尔文学奖得主阿列克谢耶维奇代表作《切尔诺贝利的祭祷》，通过上百位亲历者的口述还原核灾难真相。一部震撼人心的纪实文学，带你感受恐惧、勇气与生存。电子书资源免费获取。"
@@ -11,15 +10,15 @@ keywords: ["切尔诺贝利的祭祷", "切尔诺贝利电子书", "阿列克谢
 summary: "诺贝尔文学奖得主阿列克谢耶维奇的《切尔诺贝利的祭祷》，通过上百位亲历者的口述，还原切尔诺贝利核灾难的真相。这是一部震撼人心的纪实文学，带你感受灾难中的人性光辉。免费电子书资源。"
 slug: "chernobyl-prayer"
 ---
-{< button href="https://pan.quark.cn/s/fccca9c45087" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/fccca9c45087" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/fccca9c45087
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

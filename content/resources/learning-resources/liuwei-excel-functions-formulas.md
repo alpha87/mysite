@@ -1,4 +1,3 @@
-
 ---
 title: "刘伟 Excel函数与公式教程：从入门到精通完整资源"
 description: "刘伟老师精讲的Excel函数与公式完整课程资源，涵盖常用函数（VLOOKUP、IF、SUMIF、INDEX、MATCH等）、数组公式、动态数组、函数嵌套技巧，以及实战案例解析。适合办公白领、数据分析初学者、会计人员系统提升Excel技能。"
@@ -11,15 +10,15 @@ keywords: ["Excel函数与公式", "刘伟Excel", "Excel教程下载", "VLOOKUP�
 summary: "刘伟老师精讲的Excel函数与公式完整课程资源，覆盖常用函数、数组公式、动态数组及实战案例，助你系统掌握Excel核心函数，提升办公效率与数据分析能力。"
 slug: "liuwei-excel-functions-formulas"
 ---
-{< button href="https://pan.quark.cn/s/cfba3ac5796d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cfba3ac5796d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cfba3ac5796d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

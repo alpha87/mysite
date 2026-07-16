@@ -1,4 +1,3 @@
-
 ---
 title: "1-9年级全科教辅资料电子版：提升孩子成绩的必备资源"
 description: "涵盖小学到初中1-9年级各科教辅资料电子版，包含语文、数学、英语、物理、化学等学科，精选优质练习题、知识点总结、单元测试卷，帮助孩子巩固基础、突破难点，高效提升学习成绩。"
@@ -11,15 +10,15 @@ keywords: ["1-9年级教辅资料", "小学教辅电子版", "初中教辅电子
 summary: "1-9年级各科教辅资料电子版合集，包含语文、数学、英语、物理、化学等所有学科，涵盖练习题、知识点总结、单元测试，帮助孩子巩固知识、提升成绩。"
 slug: "1-9-grade-teaching-materials"
 ---
-{< button href="https://pan.quark.cn/s/77d3adee7e0a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/77d3adee7e0a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/77d3adee7e0a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要给孩子准备教辅资料？
 

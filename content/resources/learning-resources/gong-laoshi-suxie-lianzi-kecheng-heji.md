@@ -1,4 +1,3 @@
-
 ---
 title: "龚老师《速写练字课程合集》：从零基础到书法高手的完整教学指南"
 description: "龚老师速写练字课程合集完整介绍，涵盖硬笔书法、软笔书法、速写技巧、笔画结构、章法布局等系统教学，适合零基础学员、学生、成人书法爱好者，配合夸克网盘资源可永久保存学习。"
@@ -11,15 +10,15 @@ keywords: ["龚老师速写练字课程合集", "速写练字教程", "硬笔书
 summary: "龚老师《速写练字课程合集》是一套系统化的书法教学资源，从基础笔画到高级章法，涵盖硬笔、软笔和速写三大模块，适合不同水平的学习者，帮助快速提升书写能力。"
 slug: "gong-laoshi-suxie-lianzi-kecheng-heji"
 ---
-{< button href="https://pan.quark.cn/s/a13fcdd9e458" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a13fcdd9e458" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a13fcdd9e458
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 龚老师是国内知名的书法教育专家，其《速写练字课程合集》是一套完整、系统、易学的书法教学资源，适合所有希望提升书写能力的学习者。无论你是零基础的小学生、需要改善字迹的职场人，还是追求书法艺术的爱好者，这套课程都能为你提供科学、高效的训练路径。
 

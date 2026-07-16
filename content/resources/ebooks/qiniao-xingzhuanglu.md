@@ -1,4 +1,3 @@
-
 ---
 title: "《奇鸟行状录》村上春树：豆瓣8.8，一部穿越现实与幻想的意识流杰作"
 description: "村上春树代表作《奇鸟行状录》电子书下载，豆瓣评分8.8，深度解析小说中现实与梦境的交织、战争与暴力的隐喻，以及主人公复仇与寻找自我的旅程，适合村上春树爱好者、文学爱好者及悬疑奇幻题材读者。"
@@ -11,15 +10,15 @@ keywords: ["奇鸟行状录电子书", "村上春树电子书", "豆瓣高分小
 summary: "村上春树《奇鸟行状录》电子书，豆瓣评分8.8，一部融合现实、幻想、历史与复仇的宏大叙事。本书通过主人公寻找失踪妻子为主线，穿插二战诺门罕战役的回忆，探讨暴力、记忆与人性。免费下载链接在此，保存即永久。"
 slug: "qiniao-xingzhuanglu"
 ---
-{< button href="https://pan.quark.cn/s/9f24d34270f7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9f24d34270f7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9f24d34270f7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

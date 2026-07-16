@@ -1,4 +1,3 @@
-
 ---
 title: "无损音乐｜2025年网络热门流行歌曲350首合集"
 description: "2025年最新网络热门流行歌曲无损音乐合集，收录350首全网爆火神曲，涵盖抖音热歌、网易云飙升榜、QQ音乐巅峰榜等主流平台热门单曲。无损音质，稀缺资源，夸克网盘一键保存，随时畅听高品质音乐。"
@@ -11,15 +10,15 @@ keywords: ["无损音乐合集", "2025流行歌曲", "热门歌曲350首", "网�
 summary: "2025年网络热门流行歌曲无损音乐合集，350首全网爆火神曲一键保存，涵盖抖音热歌、各大榜单热门单曲，无损音质，夸克网盘下载，永久保存，随时畅听。"
 slug: "2025-hot-popular-songs-lossless-collection"
 ---
-{< button href="https://pan.quark.cn/s/929f1c71cd49" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/929f1c71cd49" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/929f1c71cd49
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

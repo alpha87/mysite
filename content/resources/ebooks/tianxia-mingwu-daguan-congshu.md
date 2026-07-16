@@ -1,4 +1,3 @@
-
 ---
 title: "天下名物大观丛书：经典名物典籍全收录"
 description: "天下名物大观丛书是系统收录古今名物、珍玩、器用、服饰、建筑等领域的权威典籍，内容涵盖考古、收藏、传统文化、工艺美术等多维度知识，适合传统文化爱好者、收藏家、设计师、历史研究者深度阅读与参考。"
@@ -11,15 +10,15 @@ keywords: ["天下名物大观", "名物丛书", "名物志", "古代名物", "�
 summary: "天下名物大观丛书是系统收录古今名物、珍玩、器用、服饰、建筑等领域的权威典籍，内容涵盖考古、收藏、传统文化、工艺美术等多维度知识，适合传统文化爱好者、收藏家、设计师、历史研究者深度阅读与参考。"
 slug: "tianxia-mingwu-daguan-congshu"
 ---
-{< button href="https://pan.quark.cn/s/606061dbe536" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/606061dbe536" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/606061dbe536
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 邂逅《天下名物大观丛书》——一部穿越千年的名物百科全书
 
@@ -50,8 +49,8 @@ slug: "tianxia-mingwu-daguan-congshu"
 
 资源已上传至夸克网盘，因链接有时效性，建议保存后永久拥有。点击下方按钮即可跳转下载页面。
 
-{< button href="https://pan.quark.cn/s/606061dbe536" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/606061dbe536" target="_blank" >}}
 立即保存《天下名物大观丛书》
-{< /button >}
+{{< /button >}}
 
 若您对传统名物文化有更深入的兴趣，后续我们还将分享《考工记》《长物志》《天工开物》等经典名物著作的批注版，敬请关注本专栏更新。

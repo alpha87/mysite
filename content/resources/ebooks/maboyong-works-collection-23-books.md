@@ -1,4 +1,3 @@
-
 ---
 title: "马伯庸作品合集(套装23册)：历史与悬疑的盛宴，全套电子书下载"
 description: "马伯庸作品合集23册电子书下载，包含《长安十二时辰》《古董局中局》《三国机密》《风起陇西》等全部代表作，历史悬疑小说爱好者必藏，夸克网盘永久保存。"
@@ -11,15 +10,15 @@ keywords: ["马伯庸作品合集", "马伯庸全集", "马伯庸电子书", "�
 summary: "马伯庸作品合集23册高清电子书，涵盖其所有经典历史悬疑小说，一键下载永久保存，适合文学爱好者与历史迷收藏阅读。"
 slug: "maboyong-works-collection-23-books"
 ---
-{< button href="https://pan.quark.cn/s/549a233b62f6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/549a233b62f6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/549a233b62f6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 马伯庸：华语历史悬疑小说的天花板
 

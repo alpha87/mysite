@@ -1,4 +1,3 @@
-
 ---
 title: "哲学家都爱了谁？"
 description: "揭秘哲学家们的爱情故事：从柏拉图的精神之恋到萨特与波伏娃的契约爱情，从尼采的悲剧恋曲到罗素的婚姻冒险，带你走进伟大思想家的情感世界，看理性与激情如何碰撞。"
@@ -11,15 +10,15 @@ keywords: ["哲学家爱情", "哲学家的恋爱", "柏拉图式爱情", "萨�
 summary: "全面梳理西方知名哲学家的爱情与婚姻故事，展现理性背后的感性人生，适合对哲学、人文历史感兴趣的读者深入了解。"
 slug: "philosophers-love"
 ---
-{< button href="https://pan.quark.cn/s/eeaa9e0320e9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eeaa9e0320e9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eeaa9e0320e9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一、柏拉图：精神之恋的起点
 

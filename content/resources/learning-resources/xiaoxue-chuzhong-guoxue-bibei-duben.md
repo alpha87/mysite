@@ -1,4 +1,3 @@
-
 ---
 title: "《小学+初中国学必备读本》（共18册）完整书单与使用攻略"
 description: "《小学+初中国学必备读本》共18册精选国学经典，涵盖《三字经》《百家姓》《千字文》《弟子规》《论语》《孟子》《大学》《中庸》等核心典籍，适合6-15岁孩子系统学习国学，培养人文素养。附夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["小学国学必备读本", "初中国学必备读本", "国学18册"
 summary: "《小学+初中国学必备读本》共18册，精选中国传统文化核心典籍，覆盖小学初中阶段必读国学名著，适合6-15岁孩子系统学习，是家庭亲子阅读和学校课堂教学的理想资源。"
 slug: "xiaoxue-chuzhong-guoxue-bibei-duben"
 ---
-{< button href="https://pan.quark.cn/s/d7e2bbc2b156" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d7e2bbc2b156" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d7e2bbc2b156
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么推荐这套《小学+初中国学必备读本》？
 

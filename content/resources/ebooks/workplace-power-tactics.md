@@ -1,4 +1,3 @@
-
 ---
 title: "职场权谋厚黑术：从菜鸟到老手的生存法则全解析"
 description: "职场权谋厚黑术完整电子书资源，涵盖厚黑学核心理论、职场权谋策略、人际博弈技巧、向上管理心法、职场政治生存法则。适合职场新人、中层管理者及创业者，教你读懂人心、巧用手段、避开陷阱，实现职场逆袭。"
@@ -11,15 +10,15 @@ keywords: ["职场权谋厚黑术", "厚黑学职场应用", "职场生存手册
 summary: "职场权谋厚黑术电子书资源，系统讲解厚黑学在职场中的实战运用，从心态建设、权谋策略到博弈技巧，助你读懂职场潜规则，成为真正的高手。"
 slug: "zhichang-quanmou-houheishu"
 ---
-{< button href="https://pan.quark.cn/s/1e463047e4aa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1e463047e4aa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1e463047e4aa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要《职场权谋厚黑术》？
 

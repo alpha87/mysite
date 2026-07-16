@@ -1,4 +1,3 @@
-
 ---
 title: "胖爸爸英语启蒙资源：0-6岁幼儿英语启蒙全套教程"
 description: "胖爸爸英语启蒙资源完整分享，涵盖儿歌、动画、绘本、游戏等多维度英语启蒙内容，适合0-6岁儿童，帮助家长轻松开展家庭英语启蒙，培养孩子英语语感和兴趣。"
@@ -11,15 +10,15 @@ keywords: ["胖爸爸英语启蒙", "英语启蒙资源", "幼儿英语学习", 
 summary: "胖爸爸英语启蒙资源完整分享，通过儿歌、动画、绘本、游戏等多种形式，为0-6岁儿童提供系统的英语启蒙内容，帮助家长轻松在家开展英语启蒙教育。"
 slug: "fat-dad-english-enlightenment"
 ---
-{< button href="https://pan.quark.cn/s/bc7bcdd556d4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bc7bcdd556d4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bc7bcdd556d4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

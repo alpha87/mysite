@@ -1,4 +1,3 @@
-
 ---
 title: "《我胆小如鼠》电子书下载 | 克服胆怯心理的实用指南"
 description: "《我胆小如鼠》是一本帮助读者理解胆怯根源、建立勇气的心理自助书籍。本书从认知行为疗法角度剖析胆小心理，提供系统性的脱敏训练、社交勇气练习和自信建立方法。适合社恐人群、职场新人及希望突破自我者阅读。包含完整电子版PDF下载。"
@@ -11,15 +10,15 @@ keywords: ["我胆小如鼠电子书", "克服胆小", "心理自助书籍", "�
 summary: "《我胆小如鼠》是一本帮助读者理解胆怯根源、建立勇气的心理自助书籍，从认知行为疗法角度提供系统性脱敏训练和社交勇气练习，适合社恐人群和希望突破自我者阅读。"
 slug: "wo-dan-xiao-ru-shu"
 ---
-{< button href="https://pan.quark.cn/s/01f8bbb33ae1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/01f8bbb33ae1" target="_blank" >}}
 点击下载《我胆小如鼠》电子书
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/01f8bbb33ae1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

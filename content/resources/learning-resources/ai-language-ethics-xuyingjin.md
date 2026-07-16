@@ -1,4 +1,3 @@
-
 ---
 title: "超星尔雅《人工智能，语言与伦理》徐英瑾完整课程资源"
 description: "超星尔雅课程人工智能语言与伦理徐英瑾主讲完整版在线学习资源，涵盖AI伦理、语言哲学、人工智能哲学基础等核心内容，提供高清视频课程及配套资料下载，适合大学生、哲学爱好者及AI从业者深度学习。"
@@ -11,15 +10,15 @@ keywords: ["超星尔雅人工智能语言与伦理", "徐英瑾人工智能语�
 summary: "超星尔雅《人工智能，语言与伦理》徐英瑾主讲完整版课程资源，系统讲解人工智能与语言、伦理之间的深层关系，包含高清视频及配套资料，适合哲学、人工智能、语言学等方向学习者参考。"
 slug: "ai-language-ethics-xuyingjin"
 ---
-{< button href="https://pan.quark.cn/s/7a6793b58df7" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7a6793b58df7" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7a6793b58df7
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "潘妮妮经典日漫政治学分析完结版：从动漫解读社会与权力"
 description: "潘妮妮经典日漫政治学分析完结版资源下载，深度解读《进击的巨人》《死亡笔记》《海贼王》等热门日漫中的权力结构、意识形态与社会隐喻，适合动漫研究者、政治学爱好者及文化评论者。"
@@ -11,15 +10,15 @@ keywords: ["潘妮妮经典日漫政治学分析", "日漫政治学", "动漫社
 summary: "潘妮妮经典日漫政治学分析完结版，深入剖析经典日漫中的政治学议题，包括权力、意识形态与社会隐喻，完整课程资料免费下载。"
 slug: "pannini-classic-anime-political-analysis"
 ---
-{< button href="https://pan.quark.cn/s/219c1e2e7890" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/219c1e2e7890" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/219c1e2e7890
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《精准理解力》电子书资源分享：提升认知与沟通效率的全方位指南"
 description: "《精准理解力》是一本专注于提升理解力、认知深度与沟通效率的实用电子书。本书从心理学、逻辑学和语言学多角度切入，系统讲解如何快速抓住核心信息、避免误解、提升表达与倾听效果。适用于职场沟通、学习阅读、人际交往等场景，帮助读者从根本上改善理解能力。下载资源包含完整PDF版本，支持手机和电脑阅读。"
@@ -11,15 +10,15 @@ keywords: ["精准理解力电子书", "提升理解力", "认知提升方法", 
 summary: "《精准理解力》电子书从心理学、逻辑学和语言学角度系统讲解理解力提升方法，涵盖核心信息抓取、误解避免、表达与倾听技巧，帮助你在职场、学习和生活中实现高效沟通与深度认知。"
 slug: "jingzhu-lijie-li"
 ---
-{< button href="https://pan.quark.cn/s/658de516cbde" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/658de516cbde" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/658de516cbde
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

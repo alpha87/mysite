@@ -1,4 +1,3 @@
-
 ---
 title: "诺贝尔文学奖必读书单（15部）"
 description: "精选15部诺贝尔文学奖经典必读作品，涵盖马尔克斯、海明威、莫言、加缪等大师代表作，适合文学爱好者收藏阅读，提升人文素养与写作水平。"
@@ -11,15 +10,15 @@ keywords: ["诺贝尔文学奖书单", "诺贝尔文学奖作品", "经典必读
 summary: "精选15部诺贝尔文学奖经典必读作品，涵盖马尔克斯、海明威、莫言、加缪等大师代表作，适合文学爱好者收藏阅读，提升人文素养与写作水平。"
 slug: "nobel-literature-booklist"
 ---
-{< button href="https://pan.quark.cn/s/6ac3502d1012" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6ac3502d1012" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6ac3502d1012
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要读诺贝尔文学奖作品？
 

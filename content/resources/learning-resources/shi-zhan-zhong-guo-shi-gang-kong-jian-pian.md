@@ -1,4 +1,3 @@
-
 ---
 title: "施展·中国史纲·空间篇：地理格局下的历史演进深度解析"
 description: "施展《中国史纲·空间篇》完整解读，从地理空间视角剖析中国历史演变规律，涵盖山川形胜、行政区划、战略要地、经济重心迁移等核心内容，帮助读者建立时空交织的历史认知框架，适合历史爱好者、考研学生及人文社科研究者。"
@@ -11,15 +10,15 @@ keywords: ["施展中国史纲", "中国史纲空间篇", "历史地理学", "�
 summary: "施展《中国史纲·空间篇》完整解读，从地理空间视角剖析中国历史演变规律，涵盖山川形胜、行政区划、战略要地、经济重心迁移等核心内容，帮助读者建立时空交织的历史认知框架。"
 slug: "shizhan-zhongguoshigang-kongjianpian"
 ---
-{< button href="https://pan.quark.cn/s/9c8b0a9ce54e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9c8b0a9ce54e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9c8b0a9ce54e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么「空间」是理解中国历史的关键密码？
 

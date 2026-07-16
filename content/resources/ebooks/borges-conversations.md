@@ -1,4 +1,3 @@
-
 ---
 title: "博尔赫斯谈话录：走进文学巨匠的思想世界"
 description: "博尔赫斯谈话录完整电子版资源，收录博尔赫斯晚年重要谈话，涵盖文学、哲学、时间、迷宫等永恒主题，是研究博尔赫斯思想和创作的重要资料，适合文学爱好者与哲学研究者收藏阅读。"
@@ -11,15 +10,15 @@ keywords: ["博尔赫斯谈话录", "博尔赫斯电子书", "博尔赫斯文集
 summary: "博尔赫斯谈话录完整电子版，收录博尔赫斯晚年重要谈话，内容涵盖文学、哲学、时间、迷宫等永恒主题，是研究博尔赫斯思想和创作的重要资料。"
 slug: "borges-conversations"
 ---
-{< button href="https://pan.quark.cn/s/a36c38e46cf6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a36c38e46cf6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a36c38e46cf6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 博尔赫斯谈话录：文学巨匠的思想回响
 

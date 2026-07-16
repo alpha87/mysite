@@ -1,4 +1,3 @@
-
 ---
 title: "AI绘画系统教学：Midjourney + Stable Diffusion 从入门到精通"
 description: "AI绘画系统教学指南，涵盖Midjourney和Stable Diffusion两大主流工具，从基础概念、账号注册、提示词编写到高级技巧，手把手教你用MJ和SD生成商业级AI作品，适合零基础入门和进阶提升。"

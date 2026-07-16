@@ -1,4 +1,3 @@
-
 ---
 title: "认知升级手册：打破思维局限，实现高效自我成长"
 description: "认知升级手册完整指南，涵盖思维模型、学习策略、批判性思维与元认知训练，帮助读者突破认知盲区，提升决策质量与学习效率，实现个人成长的系统性跃迁。"
@@ -11,15 +10,15 @@ keywords: ["认知升级手册", "认知升级方法", "提升认知能力", "�
 summary: "认知升级手册完整指南，从思维模型到学习策略，系统拆解认知升级核心方法，帮助读者打破思维局限，提升决策质量与学习效率，实现个人高速成长。"
 slug: "cognitive-upgrade-handbook"
 ---
-{< button href="https://pan.quark.cn/s/c108320d0ab0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c108320d0ab0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c108320d0ab0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 认知升级手册：打破思维局限，实现高效自我成长
 

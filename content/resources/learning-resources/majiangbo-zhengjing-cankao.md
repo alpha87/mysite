@@ -1,4 +1,3 @@
-
 ---
 title: "马江博·政经参考：系统学习宏观经济与政策解读的优质资源"
 description: "马江博·政经参考是一套专注于宏观经济与政策解读的知识产品，由资深政经观察家马江博主讲，涵盖系列音频课程、图文讲义，帮助普通人理解国家大政方针、把握个人发展机遇，适合提升政经素养的读者下载学习。"
@@ -27,14 +26,14 @@ slug: "majiangbo-zhengjing-cankao"
 ### 资源获取
 本资源已整理至夸克网盘，包含完整的音频课程和讲义文件，保存后即可永久学习。
 
-{< button href="https://pan.quark.cn/s/b266117f7261" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b266117f7261" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b266117f7261
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 掌握政经逻辑，就是握住时代的脉搏。通过马江博·政经参考，你将获得一套全新的分析框架，看懂政策背后的深层含义，为个人与家庭的未来做出更明智的决策。资源数量有限，建议尽快保存。

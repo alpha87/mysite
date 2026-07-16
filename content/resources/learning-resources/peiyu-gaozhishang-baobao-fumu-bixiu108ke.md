@@ -1,4 +1,3 @@
-
 ---
 title: "培育高智商宝宝：父母必修108课"
 description: "《培育高智商宝宝：父母必修108课》是一套系统化的育儿课程，涵盖感官刺激、语言启蒙、逻辑思维、情商培养、创造力开发等核心模块，为0-6岁宝宝提供科学的分龄教育方案。父母无需专业背景，跟着课程每天10分钟，轻松激发孩子潜能，打造聪明、自信、高情商的宝宝。"
@@ -11,15 +10,15 @@ keywords: ["培育高智商宝宝", "父母必修108课", "育儿课程", "0-6�
 summary: "《培育高智商宝宝：父母必修108课》系统讲解0-6岁宝宝智力开发方法，从感官刺激到逻辑思维，108节课程助父母科学育儿，轻松培养高智商、高情商的孩子。"
 slug: "peiyu-gaozhishang-baobao-fumu-bixiu108ke"
 ---
-{< button href="https://pan.quark.cn/s/cabbe7f6a931" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cabbe7f6a931" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cabbe7f6a931
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 每个父母都希望自己的孩子聪明、自信、出类拔萃。但如何科学地激发宝宝的潜能，却是一门需要系统学习的学问。《培育高智商宝宝：父母必修108课》正是为此而生——一套专为0-6岁宝宝父母设计的完整课程，不用花大价钱、不用挤早教班，在家就能高效培养高智商宝宝。
 

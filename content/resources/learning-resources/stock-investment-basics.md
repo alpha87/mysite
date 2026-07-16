@@ -1,4 +1,3 @@
-
 ---
 title: "股票投资入门基础知识：从零开始学炒股，财经理财必备指南"
 description: "股票投资入门基础知识大全，涵盖股票市场基本概念、开户流程、交易规则、技术分析、基本面分析、风险管理等核心内容。适合财经理财初学者，帮助零基础用户快速掌握炒股入门知识，科学管理财富。"
@@ -11,15 +10,15 @@ keywords: ["股票投资入门基础知识", "炒股入门知识", "股票怎么
 summary: "股票投资入门基础知识完整指南，从股票是什么、如何开户、交易规则到技术分析和基本面分析，系统讲解股票投资的核心知识，帮助财经理财初学者建立正确的投资观念，掌握炒股入门必备技能。"
 slug: "stock-investment-basics"
 ---
-{< button href="https://pan.quark.cn/s/87ad5c2a2b33" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/87ad5c2a2b33" target="_blank" >}}
 点击获取股票投资入门资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/87ad5c2a2b33
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是股票投资？
 

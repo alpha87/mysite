@@ -1,4 +1,3 @@
-
 ---
 title: "销售系统班 销售模式篇：从战略到执行的全景指南"
 description: "销售系统班之销售模式篇完整教程，深度剖析B2B、B2C、直销、分销、电话销售、网络销售等主流销售模式的特点、适用场景及操作流程。结合实战案例，教你如何根据产品与市场选择最优销售模式，建立企业销售体系，实现业绩倍增。附带高清视频课程资源下载。"
@@ -11,15 +10,15 @@ keywords: ["销售系统班", "销售模式篇", "销售模式选择", "B2B销�
 summary: "销售系统班之销售模式篇完整教程，深度剖析主流销售模式的特点与适用场景，结合实战案例教你选择最优销售模式，建立企业销售体系，实现业绩倍增。附带高清视频课程资源下载。"
 slug: "xiaoshou-xitong-ban-moshi-pian"
 ---
-{< button href="https://pan.quark.cn/s/4580a65ba845" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4580a65ba845" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4580a65ba845
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 销售模式：企业盈利的核心引擎
 

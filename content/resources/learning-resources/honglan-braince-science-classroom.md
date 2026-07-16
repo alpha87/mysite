@@ -1,4 +1,3 @@
-
 ---
 title: "洪兰脑科学课堂——大脑与生活：科学认知大脑，优化日常生活"
 description: "洪兰教授亲授的脑科学课程《大脑与生活》，系统讲解大脑运作机制、记忆、情绪、学习、睡眠、决策等与日常生活的紧密联系。适合家长、教师、职场人士及所有希望提升认知效率和生活质量的学习者。附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["洪兰脑科学课堂", "大脑与生活课程", "洪兰教授", "�
 summary: "洪兰教授主讲的《大脑与生活》课程，从脑科学角度解析记忆、情绪、学习、睡眠、决策等日常现象。课程内容科学严谨、通俗易懂，适合所有希望了解大脑、优化生活的人。附夸克网盘资源，保存即永久。"
 slug: "honglan-braince-science-classroom-brain-and-life"
 ---
-{< button href="https://pan.quark.cn/s/3a919d928890" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a919d928890" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a919d928890
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

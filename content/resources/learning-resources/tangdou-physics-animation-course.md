@@ -1,4 +1,3 @@
-
 ---
 title: "堂豆学物理启蒙动画课：让孩子轻松爱上物理的趣味动画课程"
 description: "堂豆学物理启蒙动画课全套资源，涵盖声光热电力等基础物理概念，通过生动动画和趣味实验激发孩子科学兴趣，适合5-12岁儿童物理启蒙学习，高清视频可下载。"
@@ -11,15 +10,15 @@ keywords: ["堂豆学物理启蒙动画课", "儿童物理启蒙", "物理动画
 summary: "堂豆学物理启蒙动画课全套资源，通过生动动画和趣味实验讲解声、光、热、电、力等基础物理概念，激发5-12岁儿童对物理的兴趣，高清视频方便下载学习。"
 slug: "tangdou-physics-animation-course"
 ---
-{< button href="https://pan.quark.cn/s/a39b532eb83f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a39b532eb83f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a39b532eb83f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

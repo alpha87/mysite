@@ -1,4 +1,3 @@
-
 ---
 title: "世界记忆大师考证班：3个月带你成就最强大脑（视频教学）"
 description: "世界记忆大师考证班视频教学课程，涵盖记忆宫殿、联想记忆、数字编码等核心记忆法，3个月系统训练帮助学员掌握快速记忆技巧，通过世界记忆大师认证考试，提升记忆力至最强大脑水平。"
@@ -11,15 +10,15 @@ keywords: ["世界记忆大师考证班", "最强大脑训练", "记忆力提升
 summary: "世界记忆大师考证班视频教学课程，通过3个月系统训练掌握记忆宫殿、联想记忆等核心技巧，助力通过世界记忆大师认证，成就最强大脑。"
 slug: "world-memory-master-certification-course"
 ---
-{< button href="https://pan.quark.cn/s/152624912a4c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/152624912a4c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/152624912a4c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

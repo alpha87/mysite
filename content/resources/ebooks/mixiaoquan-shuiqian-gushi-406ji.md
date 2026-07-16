@@ -1,4 +1,3 @@
-
 ---
 title: "米小圈睡前故事 406集完整版：陪孩子快乐入眠的温暖故事合集"
 description: "米小圈睡前故事406集完整资源，适合3-8岁儿童的睡前故事音频合集，包含校园生活、成长冒险、友情亲情等主题，帮助孩子培养阅读兴趣、语言表达能力和想象力，家长可轻松获取全部资源。"
@@ -11,15 +10,15 @@ keywords: ["米小圈睡前故事", "米小圈406集", "儿童睡前故事大全
 summary: "米小圈睡前故事406集完整资源，专为3-8岁儿童设计的睡前故事音频合集，主题涵盖校园生活、成长冒险、友情亲情等，帮助孩子培养阅读兴趣和语言表达能力，家长可轻松获取全部资源。"
 slug: "mixiaoquan-shuiqian-gushi-406ji"
 ---
-{< button href="https://pan.quark.cn/s/82b11a716459" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/82b11a716459" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/82b11a716459
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 米小圈睡前故事是一套专为3-8岁儿童精心打造的睡前故事音频合集，共收录406个独立故事。故事以活泼可爱的米小圈为主角，围绕校园生活、家庭日常、友情与冒险展开，语言生动有趣，情节轻松温暖，非常适合在睡前陪伴孩子入眠。
 

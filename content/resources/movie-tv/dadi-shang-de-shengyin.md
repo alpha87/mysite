@@ -1,4 +1,3 @@
-
 ---
 title: "大地上的声音"
 description: "一部记录中国各地自然与人文声音的纪录片，从高山流水到市井喧嚣，带你聆听大地深处的回响。资源涵盖完整版视频及幕后花絮，适合对自然、文化、声音艺术感兴趣的观众。"
@@ -11,15 +10,15 @@ keywords: ["大地上的声音", "纪录片资源", "自然声音", "人文声�
 summary: "《大地上的声音》是一部聚焦中国各地自然与人文声音的纪录片，从高山流水到市井喧嚣，完整呈现大地深处的回响。提供夸克网盘资源，包含高清视频及幕后花絮。"
 slug: "dadi-shang-de-shengyin"
 ---
-{< button href="https://pan.quark.cn/s/48bb15498271" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/48bb15498271" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/48bb15498271
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 纪录片简介
 

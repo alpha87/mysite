@@ -1,4 +1,3 @@
-
 ---
 title: "梦章的有效阅读与写作课：B站精品课程完整评测与学习指南"
 description: "B站UP主梦章出品的《有效阅读与写作课》完整评测，涵盖课程大纲、学习方法、核心技巧、适合人群及学习资源获取方式，帮助想提升阅读效率和写作能力的学习者快速了解这门热门课程的价值。"
@@ -11,15 +10,15 @@ keywords: ["梦章有效阅读与写作课", "B站精品课", "阅读与写作�
 summary: "B站UP主梦章打造的《有效阅读与写作课》全面评测，详细讲解课程的核心学习模块、实用技巧以及如何通过系统训练快速提高阅读效率和写作水平，并提供网盘资源链接方便学习。"
 slug: "mengzhang-effective-reading-writing-course"
 ---
-{< button href="https://pan.quark.cn/s/9dba1d20c2af" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9dba1d20c2af" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9dba1d20c2af
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

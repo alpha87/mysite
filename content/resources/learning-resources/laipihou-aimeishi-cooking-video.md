@@ -1,4 +1,3 @@
-
 ---
 title: "癞皮猴爱美食《全套做菜教学视频》零基础学做饭入门到精通"
 description: "癞皮猴爱美食全套做菜教学视频资源，涵盖家常菜、川菜、粤菜、面点、烘焙等数百道菜品的详细步骤教学，适合厨房新手和进阶爱好者，从切菜技巧到火候掌控，系统提升烹饪水平。"
@@ -11,15 +10,15 @@ keywords: ["癞皮猴爱美食全套视频", "做菜教学视频下载", "家常
 summary: "癞皮猴爱美食《全套做菜教学视频》资源，涵盖数百道菜品的详细步骤教学，从基础刀工到复杂宴客菜，适合零基础厨房新手和想提升厨艺的爱好者，系统学习烹饪技巧。"
 slug: "laipihou-aimeishi-cooking-video"
 ---
-{< button href="https://pan.quark.cn/s/62ee5c189b91" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/62ee5c189b91" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/62ee5c189b91
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 🍳 资源简介
 

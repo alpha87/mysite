@@ -1,4 +1,3 @@
-
 ---
 title: "有娃必备！看动画学物理：幼儿物理启蒙动画视频合集【2.8G】"
 description: "专为3-8岁幼儿设计的物理启蒙动画视频合集，通过生动有趣的卡通故事讲解重力、浮力、磁力、光与声音等基础物理概念。2.8G高清MP4资源，共50集，让孩子在看动画中自然培养科学思维和好奇心，家长轻松实现寓教于乐。"
@@ -11,15 +10,15 @@ keywords: ["幼儿物理启蒙动画", "儿童物理启蒙", "物理早教", "�
 summary: "50集幼儿物理启蒙动画视频合集，2.8G高清MP4资源，覆盖重力、浮力、磁力、光与声音等基础物理概念。通过卡通故事激发孩子对科学的好奇心，适合3-8岁幼儿在家观看学习，轻松实现物理早教启蒙。"
 slug: "physics-cartoon-for-kids"
 ---
-{< button href="https://pan.quark.cn/s/02051523a6df" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/02051523a6df" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/02051523a6df
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要给孩子看物理启蒙动画？
 

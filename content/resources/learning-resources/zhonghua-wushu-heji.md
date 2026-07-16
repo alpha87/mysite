@@ -1,4 +1,3 @@
-
 ---
 title: "中华武术合集：太极拳、少林拳、八卦掌等经典教程"
 description: "中华武术合集电子书与视频教程，涵盖太极拳、少林拳、八卦掌、形意拳、八极拳等主流流派，从基础入门到实战技巧，适合武术爱好者、健身人群及传统文化学习者，附赠夸克网盘下载链接。"
@@ -11,15 +10,15 @@ keywords: ["中华武术合集", "武术教程大全", "太极拳教学", "少�
 summary: "中华武术合集收录太极拳、少林拳、八卦掌、形意拳、八极拳等经典流派的电子书与视频教程，从基础功法到实战应用，系统学习中华武术精髓，适合零基础及进阶爱好者。"
 slug: "zhonghua-wushu-heji"
 ---
-{< button href="https://pan.quark.cn/s/0dba887416fa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0dba887416fa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0dba887416fa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 中华武术源远流长，是中华民族千年智慧的结晶。本合集精选了太极拳、少林拳、八卦掌、形意拳、八极拳等主流流派的电子教程与视频教学，涵盖从基础站桩、步法演练到实战技击的全过程。无论是想通过武术强身健体、修身养性，还是希望系统学习传统武术文化，这套合集都能为你提供清晰的路径。
 

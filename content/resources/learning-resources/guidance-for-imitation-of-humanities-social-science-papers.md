@@ -1,4 +1,3 @@
-
 ---
 title: "曾迪洋人文社科期刊论文仿写指南——从想法到发表"
 description: "曾迪洋人文社科期刊论文仿写指南，从选题构思、文献综述、仿写技巧到投稿发表全流程详解，帮助科研新手快速掌握SSCI/CSSCI论文写作核心方法，提升论文发表成功率。"
@@ -11,15 +10,15 @@ keywords: ["曾迪洋人文社科论文仿写指南", "人文社科论文写作"
 summary: "曾迪洋人文社科期刊论文仿写指南，从想法萌发到最终发表，涵盖选题、文献、仿写、投稿、修改全流程，是一份适合人文社科硕博生和青年科研人员的实用写作手册。"
 slug: "guidance-for-imitation-of-humanities-social-science-papers"
 ---
-{< button href="https://pan.quark.cn/s/9746cc73670f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9746cc73670f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9746cc73670f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 指南简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《如何接受爱和培养爱》电子书：学会爱的能力与自我成长指南"
 description: "《如何接受爱和培养爱》电子书完整版，深入解析爱的心理学原理，从接纳自我到建立健康亲密关系，涵盖情感识别、安全感构建、沟通技巧和爱的表达方法，帮助读者提升爱的能力，实现情感成长与自我疗愈。"
@@ -11,15 +10,15 @@ keywords: ["如何接受爱和培养爱 电子书", "接受爱的方法", "培�
 summary: "《如何接受爱和培养爱》电子书完整版，从心理学角度解析爱的本质，帮助读者学会接纳他人之爱、主动培养爱的能力，建立健康的情感模式。"
 slug: "how-to-accept-and-cultivate-love"
 ---
-{< button href="https://pan.quark.cn/s/7248b94ef073" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7248b94ef073" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7248b94ef073
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 爱的起点：从接受自己开始
 

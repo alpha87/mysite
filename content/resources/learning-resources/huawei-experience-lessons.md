@@ -1,4 +1,3 @@
-
 ---
 title: "华为从不浪费经验：如何将经验转化为持续竞争力"
 description: "深入解析华为如何将每一次经验教训转化为组织能力，构建持续竞争优势。涵盖复盘文化、知识管理、经验沉淀、组织学习等核心方法，为企业管理者提供可复用的实战策略。"
@@ -11,15 +10,15 @@ keywords: ["华为经验管理", "华为复盘文化", "组织学习", "经验�
 summary: "深入解析华为如何将每一次经验教训转化为组织能力，构建持续竞争优势。涵盖复盘文化、知识管理、经验沉淀、组织学习等核心方法，为企业管理者提供可复用的实战策略。"
 slug: "huawei-experience-lessons"
 ---
-{< button href="https://pan.quark.cn/s/e2fb95f95b32" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e2fb95f95b32" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e2fb95f95b32
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 华为从不浪费经验，这是其组织能力的核心密码。每一次项目成功或失败，都会被系统性地复盘、提炼并沉淀为可复用的知识资产。这种“经验不浪费”的文化，让华为在激烈的市场竞争中始终保持持续竞争力。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "36节课带你变身聊天达人"
 description: "36节系统化聊天课程，从基础破冰到高级话术，涵盖社交场景应对、幽默技巧、倾听艺术、肢体语言解读等核心能力，帮你告别尬聊，成为受欢迎的高情商沟通者。"
@@ -11,15 +10,15 @@ keywords: ["36节课聊天达人", "聊天技巧课程", "社交破冰话术", "
 summary: "36节系统化聊天课程，从基础破冰到高级话术，涵盖社交场景应对、幽默技巧、倾听艺术、肢体语言解读等核心能力，帮你告别尬聊，成为受欢迎的高情商沟通者。"
 slug: "36-lessons-chat-master"
 ---
-{< button href="https://pan.quark.cn/s/8b2d88344b1a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8b2d88344b1a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8b2d88344b1a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

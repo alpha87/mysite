@@ -1,4 +1,3 @@
-
 ---
 title: "高斯数学趣味动画420集（1-6年级全）高清视频资源"
 description: "高斯数学趣味动画420集完整版，覆盖小学1-6年级数学核心知识点，通过生动有趣的动画形式激发孩子学习兴趣，含数与运算、图形几何、逻辑推理等模块，是家长辅导、教师备课的绝佳数学启蒙资源。"
@@ -11,15 +10,15 @@ keywords: ["高斯数学趣味动画", "小学数学动画", "数学启蒙资源
 summary: "高斯数学趣味动画420集完整资源，覆盖小学1-6年级全部数学知识点，动画形式趣味讲解，帮助孩子轻松理解数与运算、图形几何、逻辑推理等核心内容，适合家长辅导和教师备课使用。"
 slug: "gauss-math-animation-420"
 ---
-{< button href="https://pan.quark.cn/s/cccb5fc4d7c9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cccb5fc4d7c9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cccb5fc4d7c9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

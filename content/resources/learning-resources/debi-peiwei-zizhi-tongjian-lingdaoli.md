@@ -1,4 +1,3 @@
-
 ---
 title: "德必配位：读懂《资治通鉴》里的领导力"
 description: "从《资治通鉴》中提炼领导力核心智慧，深度解析“德必配位”的古今应用。涵盖帝王用人之道、名臣晋升逻辑、现代管理者实操法则，帮助职场人建立以德为先的领导思维，提升团队管理与自我修养。"
@@ -11,15 +10,15 @@ keywords: ["资治通鉴领导力", "德必配位解读", "古代领导智慧", 
 summary: "从《资治通鉴》中萃取领导力精髓，详解“德必配位”的历史案例与现代应用，涵盖李世民、魏徵等人物故事，帮助管理者在复杂环境中建立威信、凝聚团队，实现持续成长。"
 slug: "debi-peiwei-zizhi-tongjian-lingdaoli"
 ---
-{< button href="https://pan.quark.cn/s/7f9382f042dc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7f9382f042dc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7f9382f042dc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么“德”必须先于“位”？
 

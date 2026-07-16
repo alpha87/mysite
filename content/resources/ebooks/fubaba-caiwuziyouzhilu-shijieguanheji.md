@@ -1,4 +1,3 @@
-
 ---
 title: "富爸爸：财务自由之路_世界观合集【官方正版】电子书资源"
 description: "富爸爸系列经典著作《财务自由之路》世界观合集的官方正版电子书资源，涵盖罗伯特·清崎的财商教育核心理念、资产与负债区分、现金流象限等关键概念，帮助读者建立正确的财富观和财务自由路径。"
@@ -11,15 +10,15 @@ keywords: ["富爸爸电子书", "财务自由之路PDF", "世界观合集下载
 summary: "《富爸爸：财务自由之路》世界观合集的官方正版电子书资源，系统讲解富爸爸财商核心思想，助你深度理解资产与负债、现金流象限，开启财务自由之路。"
 slug: "fubaba-caiwuziyouzhilu-shijieguanheji"
 ---
-{< button href="https://pan.quark.cn/s/8c529905a100" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8c529905a100" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8c529905a100
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

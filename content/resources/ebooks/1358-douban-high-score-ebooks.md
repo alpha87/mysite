@@ -1,4 +1,3 @@
-
 ---
 title: "1358本豆瓣高分系列电子书合集：经典文学、社科、历史一网打尽"
 description: "收录1358本豆瓣高分电子书，涵盖文学、历史、哲学、社科、科幻、推理等各大类别，均为豆瓣评分8.0以上经典之作。支持EPUB、MOBI、PDF多种格式，适合Kindle、手机、平板阅读，是读书爱好者不可错过的数字图书馆。"
@@ -11,15 +10,15 @@ keywords: ["1358本豆瓣高分电子书", "豆瓣高分书单", "电子书资�
 summary: "1358本豆瓣高分电子书合集，涵盖文学、历史、哲学、社科、科幻、推理等经典类别，豆瓣评分8.0以上，EPUB/MOBI/PDF多格式，适合各类阅读设备，读书爱好者必备的数字图书馆。"
 slug: "1358-douban-high-score-ebooks-collection"
 ---
-{< button href="https://pan.quark.cn/s/206417b3e8f8" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/206417b3e8f8" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/206417b3e8f8
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 1358本豆瓣高分系列电子书：你的私人顶级书库
 

@@ -10,15 +10,15 @@ keywords: ["3000首MP3", "高品质音乐下载", "经典歌曲合集", "车载�
 summary: "3000多首高品质MP3歌曲资源合集，涵盖经典老歌、流行金曲、民谣、摇滚等多种风格，音质清晰，适合车载、聚会、休闲放松等场景，夸克网盘免费下载。"
 slug: "3000-mp3-gao-pin-zhi-ge-qu"
 ---
-{< button href="https://pan.quark.cn/s/c20837eccf81" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c20837eccf81" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c20837eccf81
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

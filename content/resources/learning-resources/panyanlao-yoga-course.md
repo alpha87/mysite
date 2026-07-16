@@ -1,4 +1,3 @@
-
 ---
 title: "盼盼老师瑜伽课｜极致体式+呼吸调节：零基础入门+家庭健身+身心平衡训练全攻略"
 description: "盼盼老师瑜伽课完整资源分享，涵盖极致体式、呼吸调节、零基础入门、家庭健身、身心平衡训练。适合初学者在家练习，详细讲解瑜伽基础体式、呼吸法、冥想技巧及训练计划，帮助提升柔韧性、力量与内在平衡。"
@@ -11,15 +10,15 @@ keywords: ["盼盼老师瑜伽课", "零基础瑜伽", "家庭健身瑜伽", "�
 summary: "盼盼老师瑜伽课资源分享，从极致体式到呼吸调节，零基础入门、家庭健身、身心平衡训练一站式指南，包含完整视频课程与训练计划，帮助你在家轻松开启瑜伽之旅。"
 slug: "panyanlao-yoga-course"
 ---
-{< button href="https://pan.quark.cn/s/faae916bad86" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/faae916bad86" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/faae916bad86
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 
@@ -61,14 +60,14 @@ slug: "panyanlao-yoga-course"
 
 本课程资源已上传至夸克网盘，包含全套视频教程、配套音频引导、PDF训练日志及体式图鉴。点击下方按钮或复制链接保存即可永久查看。
 
-{< button href="https://pan.quark.cn/s/faae916bad86" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/faae916bad86" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/faae916bad86
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 如果你已经保存了资源，建议根据30天训练计划逐步推进。瑜伽不是一日之功，坚持练习才能看到体态、气质和心态的全方位蜕变。祝你在盼盼老师的引导下，遇见更好的自己。

@@ -1,4 +1,3 @@
-
 ---
 title: "中国古风音效合集：226款古风武侠音乐素材包"
 description: "226款高品质中国古风武侠音乐音效合集，适用于视频剪辑、游戏开发、影视配乐、直播背景等场景，涵盖琴箫鼓笛等传统乐器演奏，是创作者必备的古风音乐素材包。"
@@ -11,15 +10,15 @@ keywords: ["古风武侠音乐", "中国古风音效", "武侠音乐合集", "�
 summary: "226款高品质中国古风武侠音乐音效合集，覆盖琴、箫、鼓、笛等传统乐器演奏，适用于视频剪辑、游戏开发、影视配乐、直播背景等多种场景，为创作者提供丰富的古风音乐素材。"
 slug: "chinese-ancient-music-collection"
 ---
-{< button href="https://pan.quark.cn/s/544f4cf0754a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/544f4cf0754a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/544f4cf0754a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于这份古风武侠音乐合集
 

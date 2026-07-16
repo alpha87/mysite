@@ -1,4 +1,3 @@
-
 ---
 title: "科学解决销售中最难的挖需问题：实战方法全解析"
 description: "深度解析销售中需求挖掘的难点与科学方法，涵盖SPIN提问术、客户画像构建、FABE法则、痛点激发等核心技巧，配合真实案例与实操模板，帮助销售人员系统提升挖需能力，实现精准成交。"
@@ -11,15 +10,15 @@ keywords: ["销售挖需方法", "需求挖掘技巧", "科学销售", "SPIN销�
 summary: "深度解析销售中需求挖掘的难点与科学方法，系统讲解SPIN提问术、客户画像构建、FABE法则等核心技巧，配合真实案例与实操模板，帮助销售人员快速掌握挖需能力，精准成交。"
 slug: "scientific-sales-needs-discovery"
 ---
-{< button href="https://pan.quark.cn/s/3ac14f5ca911" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3ac14f5ca911" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3ac14f5ca911
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 # 科学解决销售中最难的挖需问题
 

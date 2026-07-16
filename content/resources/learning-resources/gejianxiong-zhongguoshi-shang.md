@@ -1,4 +1,3 @@
-
 ---
 title: "千秋兴亡：葛剑雄讲中国史（上）完结"
 description: "葛剑雄教授讲解中国历史，从宏观视角分析历代兴衰规律，涵盖朝代更迭、政治制度、经济文化等核心内容。此资源为（上）部分已完结，适合历史爱好者和学习者提升人文素养。"
@@ -19,12 +18,12 @@ slug: "gejianxiong-zhongguoshi-shang"
 
 现在提供夸克网盘下载链接，资源保存即永久，但有时间限制，请尽快保存。
 
-{< button href="https://pan.quark.cn/s/11dce733308e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/11dce733308e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/11dce733308e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

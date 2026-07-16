@@ -1,4 +1,3 @@
-
 ---
 title: "全系列糖水制作教程【视频教学】"
 description: "从零开始学习全系列糖水制作，包含红豆沙、绿豆沙、杨枝甘露、双皮奶、冰糖雪梨等经典糖水的详细视频教程。本套教学适合家庭烹饪爱好者、甜品创业者，手把手教你掌握糖水熬制技巧与秘方，轻松做出正宗广式糖水。"
@@ -11,15 +10,15 @@ keywords: ["全系列糖水制作教程", "糖水视频教学", "糖水制作方
 summary: "全系列糖水制作教程视频教学，涵盖红豆沙、绿豆沙、杨枝甘露、双皮奶等经典糖水的详细做法，零基础也能学会的糖水配方和技巧，适合家庭烹饪及开店创业。"
 slug: "sweet-soup-making-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/8deea2ac749e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8deea2ac749e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8deea2ac749e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 糖水制作：从零到精通的甜蜜之旅
 

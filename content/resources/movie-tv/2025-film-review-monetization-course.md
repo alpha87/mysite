@@ -1,4 +1,3 @@
-
 ---
 title: "2025全新影视解说流量变现课：从入门到精通，打造爆款影视号"
 description: "2025年最新影视解说流量变现课程全攻略，涵盖账号搭建、选题策划、剪辑技巧、平台算法解析、流量获取与变现方式，适合零基础小白快速上手，掌握影视解说号运营核心方法，实现短视频收益。"
@@ -11,15 +10,15 @@ keywords: ["影视解说流量变现", "影视解说课程", "短视频变现", 
 summary: "2025年全新影视解说流量变现课程，涵盖账号搭建、选题策划、剪辑技巧、平台算法解析、流量获取与变现方式，零基础也能快速打造爆款影视号，实现稳定收益。"
 slug: "2025-yingshi-jieshuo-liuliang-bianxian-ke"
 ---
-{< button href="https://pan.quark.cn/s/c243037b2956" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c243037b2956" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c243037b2956
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

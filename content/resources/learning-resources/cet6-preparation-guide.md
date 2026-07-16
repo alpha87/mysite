@@ -1,4 +1,3 @@
-
 ---
 title: "英语六级备考攻略｜零基础到六级（听力、阅读、写作+免费视频课程）"
 description: "从零基础到英语六级的完整备考攻略，涵盖听力、阅读、写作三大模块的系统学习方法和技巧，附赠免费视频课程资源，帮助考生高效规划复习路径，快速突破六级分数瓶颈。"
@@ -11,15 +10,15 @@ keywords: ["英语六级备考攻略", "六级听力", "六级阅读", "六级�
 summary: "从零基础到英语六级的完整备考攻略，系统讲解听力、阅读、写作三大模块的核心技巧与学习资源，包含免费视频课程获取方式，为六级考生提供可执行的复习方案。"
 slug: "cet6-preparation-guide"
 ---
-{< button href="https://pan.quark.cn/s/e2cbb8da7612" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e2cbb8da7612" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e2cbb8da7612
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择这份六级备考攻略？
 

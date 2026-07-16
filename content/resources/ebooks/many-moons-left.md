@@ -1,4 +1,3 @@
-
 ---
 title: "我还能看到多少次满月升起：坂本龙一最后的日子"
 description: "日本音乐大师坂本龙一遗作《我还能看到多少次满月升起》完整电子书资源，记录他确诊癌症后对生命、音乐与死亡的深刻思考，包含创作札记、私人日记与未完成乐曲手稿。"
@@ -11,15 +10,15 @@ keywords: ["我还能看到多少次满月升起", "坂本龙一 电子书", "�
 summary: "坂本龙一最后一部作品《我还能看到多少次满月升起》，记录他从确诊癌症到逝世前对生命、艺术与死亡的深刻思考，包含珍贵创作日记与未完成音乐手稿。"
 slug: "how-many-moons-left"
 ---
-{< button href="https://pan.quark.cn/s/9e80f79c4dd0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9e80f79c4dd0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9e80f79c4dd0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《我还能看到多少次满月升起》是日本传奇音乐家坂本龙一在生命最后阶段完成的一部自传式作品。2020年，他被确诊为直肠癌，随后癌细胞扩散至肺部。在与病魔抗争的两年多里，他一边接受治疗，一边坚持创作、演出，并用文字记录下对生命、艺术和死亡的深度思考。这本书的书名源自他某次住院时透过窗户看到满月的瞬间——那一轮明月让他意识到，每一次满月都可能是最后一次。
 

@@ -1,4 +1,3 @@
-
 ---
 title: "全球武器TOP精选系列合集（珍藏版）"
 description: "全球武器TOP精选系列合集珍藏版，涵盖战斗机、坦克、军舰、枪械、导弹等各类武器装备的排名与详细介绍，高清图文资源包，适合军事爱好者、游戏玩家与收藏家下载保存。"
@@ -11,15 +10,15 @@ keywords: ["全球武器TOP精选", "武器排名合集", "军事装备资源", 
 summary: "全球武器TOP精选系列合集珍藏版，收录战斗机、坦克、军舰、枪械、导弹等各类装备的TOP排名与详细资料，高清图集+文字介绍，军事爱好者和游戏玩家的必备收藏资源包。"
 slug: "global-weapons-top-collection"
 ---
-{< button href="https://pan.quark.cn/s/26a5de69ad3d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/26a5de69ad3d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/26a5de69ad3d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 全球武器TOP精选系列合集介绍
 

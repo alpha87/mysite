@@ -1,4 +1,3 @@
-
 ---
 title: "知乎推荐的12部纪录片：一生必看的视觉盛宴"
 description: "知乎高赞推荐的12部纪录片合集，涵盖自然、历史、人文、美食等题材，包括地球脉动、人类星球、蓝色星球、舌尖上的中国、我在故宫修文物等经典作品，每部都是豆瓣高分，适合提升认知与审美，附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["知乎推荐的纪录片", "必看纪录片", "经典纪录片", "�
 summary: "知乎高赞推荐的12部纪录片合集，涵盖自然、历史、人文、美食等题材，包括地球脉动、人类星球、蓝色星球、舌尖上的中国、我在故宫修文物等经典作品，每部都是豆瓣高分，适合提升认知与审美，附夸克网盘资源下载。"
 slug: "zhihu-recommended-12-documentaries"
 ---
-{< button href="https://pan.quark.cn/s/cf6a5523391c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cf6a5523391c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cf6a5523391c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么这12部纪录片值得一看？
 

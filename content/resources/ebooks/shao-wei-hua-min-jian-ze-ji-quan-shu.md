@@ -1,4 +1,3 @@
-
 ---
 title: "邵伟华《民间择吉全书》225页PDF下载"
 description: "邵伟华《民间择吉全书》完整版225页PDF，民间择吉经典教程，涵盖嫁娶、出行、动土、开业、入宅等全方位择日方法，附实例与表格，适合风水爱好者、传统文化研究者、易学初学者参考使用。"
@@ -44,12 +43,12 @@ slug: "shao-wei-hua-min-jian-ze-ji-quan-shu-pdf"
 
 点击下方按钮即可获取邵伟华《民间择吉全书》225页PDF完整版，保存到自己网盘后即可永久阅读。
 
-{< button href="https://pan.quark.cn/s/6b26dc07abc6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6b26dc07abc6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6b26dc07abc6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

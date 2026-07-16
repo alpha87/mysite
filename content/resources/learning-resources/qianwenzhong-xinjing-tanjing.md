@@ -1,4 +1,3 @@
-
 ---
 title: "钱文忠精讲《心经》《坛经》147集全：佛学经典深度解读"
 description: "钱文忠教授倾情讲解《心经》与《坛经》全集147集，从佛学基础到智慧思辨，逐字逐句剖析经典要义。适合佛学爱好者、文化学习者及修行者，系统掌握般若心法与中国禅宗精髓。"
@@ -11,15 +10,15 @@ keywords: ["钱文忠心经坛经", "钱文忠佛学", "心经精讲", "坛经�
 summary: "钱文忠教授精讲《心经》《坛经》147集全集，深入浅出解读佛学经典，帮助学习者领悟般若空性与禅宗智慧，适合从入门到进阶的佛学爱好者。"
 slug: "qianwenzhong-xinjing-tanjing"
 ---
-{< button href="https://pan.quark.cn/s/a99aa2459b61" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a99aa2459b61" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a99aa2459b61
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

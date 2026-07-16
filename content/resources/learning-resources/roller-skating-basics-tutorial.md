@@ -1,4 +1,3 @@
-
 ---
 title: "轮滑基础教学：从零开始学轮滑完整指南"
 description: "轮滑基础教学完整指南，涵盖轮滑装备选择、基本站立、前行、转弯、刹车技巧及安全防护知识，适合零基础新手快速入门，附详细练习步骤和常见问题解答。"
@@ -11,15 +10,15 @@ keywords: ["轮滑基础教学", "轮滑新手教程", "轮滑入门指南", "�
 summary: "轮滑基础教学从零开始，详细讲解轮滑装备选择、基本站立、前行、转弯、刹车技巧及安全防护，附系统练习方法，帮助新手快速掌握轮滑入门核心技能。"
 slug: "roller-skating-basics-tutorial"
 ---
-{< button href="https://pan.quark.cn/s/9658ec1955ca" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9658ec1955ca" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9658ec1955ca
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么选择轮滑？
 

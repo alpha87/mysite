@@ -1,4 +1,3 @@
-
 ---
 title: "0-3岁在家早教全攻略：抓住黄金期，轻松开发宝宝潜能"
 description: "0-3岁婴幼儿在家早教完整指南，涵盖各月龄发育特点、亲子游戏、感官刺激、语言启蒙、精细动作训练及常见早教误区，附赠超实用资源清单，帮助新手父母在家轻松开展高质量早教。"
@@ -11,15 +10,15 @@ keywords: ["0-3岁早教全攻略", "在家早教方法", "婴幼儿早教", "�
 summary: "0-3岁在家早教全攻略，从生理发育到认知启蒙，系统讲解每个阶段的早教重点、推荐游戏和注意事项，帮助父母用最简单的方法激发宝宝潜能。"
 slug: "zaojiao-0-3-guide"
 ---
-{< button href="https://pan.quark.cn/s/2edc80f0fe32" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2edc80f0fe32" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2edc80f0fe32
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么0-3岁是早教黄金期？
 

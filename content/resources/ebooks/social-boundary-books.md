@@ -1,4 +1,3 @@
-
 ---
 title: "想突破人际关系？三本书教你拿捏社交冷热度的边界感"
 description: "推荐三本关于社交边界感和人际关系的经典书籍，涵盖冷热度把控、心理距离、非暴力沟通等技巧，帮助你在社交中进退自如，建立健康关系。附夸克网盘资源下载。"
@@ -11,15 +10,15 @@ keywords: ["人际关系书籍", "社交边界感", "冷热度把控", "心理�
 summary: "精选三本关于社交边界感和人际关系的书籍，教你如何拿捏社交中的冷热度和边界感，从心理距离、非暴力沟通到自我边界建立，助你突破人际困境，拥有更健康的关系。"
 slug: "social-boundary-books"
 ---
-{< button href="https://pan.quark.cn/s/924509bda5a9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/924509bda5a9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/924509bda5a9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否曾在社交中感到困惑：为什么有些关系越走越远，有些却让人窒息？你需要的不是更多的社交技巧，而是——**边界感**。
 
@@ -49,12 +48,12 @@ slug: "social-boundary-books"
 
 **这三本书资源已整理到夸克网盘**，点击下方按钮保存，永久有效。
 
-{< button href="https://pan.quark.cn/s/924509bda5a9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/924509bda5a9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/924509bda5a9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

@@ -1,4 +1,3 @@
-
 ---
 title: "《互联网+时代创新密码20讲》完整课程资源"
 description: "《互联网+时代创新密码20讲》课程完整资料，涵盖互联网+核心概念、创新方法论、数字化转型实战案例。从时代背景到落地方法，系统拆解20个创新密码，助力企业及个人掌握互联网时代生存法则与增长引擎。"
@@ -11,15 +10,15 @@ keywords: ["互联网+时代创新密码", "创新密码20讲", "互联网+课�
 summary: "《互联网+时代创新密码20讲》课程完整资源，系统拆解20个核心创新密码，涵盖互联网+核心概念、创新方法论、数字化转型实战案例，助力企业及个人掌握互联网时代生存法则。"
 slug: "internet-plus-innovation-20-lectures"
 ---
-{< button href="https://pan.quark.cn/s/1e9738f547f1" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1e9738f547f1" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1e9738f547f1
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程背景：互联网+浪潮下的创新必修课
 

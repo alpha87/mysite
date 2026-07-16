@@ -1,4 +1,3 @@
-
 ---
 title: "帕梅拉燃脂全集：从入门到进阶的全套居家健身教程"
 description: "帕梅拉（Pamela Reif）燃脂全集教程，涵盖新手入门、全身燃脂、腹部、臀部、腿部等专项训练，无需器械，在家即可跟练。资源为高清视频合集，适合不同水平用户，帮助高效减脂塑形。"
@@ -11,15 +10,15 @@ keywords: ["帕梅拉燃脂全集", "帕梅拉健身教程", "居家燃脂训练
 summary: "帕梅拉（Pamela Reif）燃脂全集教程，包含从新手到进阶的各类训练视频，涵盖全身燃脂、腹部、臀部、腿部等专项内容，无需器械，在家即可跟练，是居家减脂塑形的优质资源。"
 slug: "pamela-fat-burning-complete-collection"
 ---
-{< button href="https://pan.quark.cn/s/6dc15ef4f877" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6dc15ef4f877" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6dc15ef4f877
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 帕梅拉燃脂全集简介
 

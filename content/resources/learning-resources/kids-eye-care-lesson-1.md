@@ -1,4 +1,3 @@
-
 ---
 title: "少儿护眼必修课(1)：科学护眼方法全解析"
 description: "专为家长打造的少儿护眼必修课资源，涵盖近视预防、用眼习惯培养、户外活动、营养补充、眼保健操等科学护眼方法，提供完整视频课程与实操指南，帮助孩子远离近视困扰。"
@@ -11,15 +10,15 @@ keywords: ["少儿护眼必修课", "儿童护眼方法", "近视预防", "科�
 summary: "少儿护眼必修课(1)完整课程资源，从近视成因、用眼习惯、户外活动、营养饮食到眼保健操，全方位解析科学护眼方法，配合专家视频讲解，帮助家长和孩子掌握护眼核心知识。"
 slug: "kids-eye-care-lesson-1"
 ---
-{< button href="https://pan.quark.cn/s/7dff806726c4" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7dff806726c4" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7dff806726c4
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么孩子需要护眼必修课？
 

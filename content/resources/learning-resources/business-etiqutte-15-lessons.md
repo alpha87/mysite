@@ -1,4 +1,3 @@
-
 ---
 title: "超实用商务礼仪15讲：从职场菜鸟到商务精英的必修课"
 description: "15节系统商务礼仪课程，涵盖形象礼仪、社交礼仪、餐桌礼仪、沟通礼仪等核心模块，手把手教你打造专业商务形象，提升职场竞争力。适合职场新人、商务人士及管理者学习。"
@@ -11,15 +10,15 @@ keywords: ["商务礼仪课程", "职场礼仪培训", "形象礼仪", "社交�
 summary: "15节系统商务礼仪课程，涵盖形象礼仪、社交礼仪、餐桌礼仪、沟通礼仪等核心模块，手把手教你打造专业商务形象，提升职场竞争力。"
 slug: "business-etiqutte-15-lessons"
 ---
-{< button href="https://pan.quark.cn/s/6d83bca3f89d" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6d83bca3f89d" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6d83bca3f89d
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

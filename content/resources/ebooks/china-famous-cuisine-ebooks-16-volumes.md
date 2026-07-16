@@ -1,4 +1,3 @@
-
 ---
 title: "中国名菜电子书16册：中华美食文化宝典，值得收藏"
 description: "中国名菜电子书16册合集，涵盖八大菜系经典名菜、宫廷秘方、民间风味、地方小吃等，每册图文并茂详细解析食材、工艺、典故，适合美食爱好者、专业厨师、家庭烹饪学习者收藏研读。PDF格式，可直接下载或在线阅读。"
@@ -11,15 +10,15 @@ keywords: ["中国名菜电子书", "中华美食大全", "八大菜系菜谱", 
 summary: "中国名菜电子书16册合集，涵盖八大菜系经典名菜、宫廷秘方、民间风味等，图文并茂详细解析，适合美食爱好者、厨师、家庭烹饪学习。资源为PDF格式，可直接下载。"
 slug: "china-famous-cuisine-ebooks-16-volumes"
 ---
-{< button href="https://pan.quark.cn/s/6b9cb30ec261" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6b9cb30ec261" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6b9cb30ec261
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 中国饮食文化的浓缩精华
 

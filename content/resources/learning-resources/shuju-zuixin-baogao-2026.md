@@ -1,4 +1,3 @@
-
 ---
 title: "数局最新收集报告合集：行业分析、数据洞察、趋势预测大全"
 description: "数局最新收集报告合集涵盖互联网、科技、消费、金融、医疗等多个行业的最新研报与数据分析，包括行业趋势、用户洞察、竞争格局、未来预测等内容，适合市场调研、商业分析、投资参考使用，持续更新中。"
@@ -11,15 +10,15 @@ keywords: ["数局最新收集报告", "行业分析报告", "数据洞察", "�
 summary: "数局最新收集报告合集，涵盖互联网、科技、消费、金融、医疗等多行业最新研报与数据分析，内容包含行业趋势、用户洞察、竞争格局、未来预测等，适合市场调研、商业分析、投资参考，持续更新。"
 slug: "shuju-zuixin-baogao-heji"
 ---
-{< button href="https://pan.quark.cn/s/b903002761b6" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b903002761b6" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b903002761b6
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 报告合集简介
 

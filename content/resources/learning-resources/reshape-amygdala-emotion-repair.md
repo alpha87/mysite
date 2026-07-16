@@ -1,4 +1,3 @@
-
 ---
 title: "重塑杏仁核：情绪修复脑科学指南"
 description: "基于脑科学的情绪修复方法，详细解读杏仁核的作用机制、情绪调节原理及实用修复技巧，包括呼吸法、认知重构、感官刺激等科学训练手段，帮助你重塑大脑情绪回路，改善焦虑和压力。"
@@ -11,15 +10,15 @@ keywords: ["重塑杏仁核", "情绪修复脑科学", "杏仁核训练方法", 
 summary: "基于脑科学的情绪修复指南，详细解读杏仁核的作用机制、情绪调节原理及实用修复技巧，包括呼吸法、认知重构、感官刺激等科学训练手段，帮助重塑大脑情绪回路，改善焦虑和压力。"
 slug: "reshape-amygdala-emotion-repair"
 ---
-{< button href="https://pan.quark.cn/s/6c0d1a2a99f3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/6c0d1a2a99f3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/6c0d1a2a99f3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是“重塑杏仁核”？
 

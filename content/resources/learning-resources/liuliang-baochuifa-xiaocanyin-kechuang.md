@@ -1,4 +1,3 @@
-
 ---
 title: "流量爆锤法：小餐饮做大进修课程，从0到1引爆门店客流"
 description: "小餐饮流量爆锤法进修课程完整指南，揭秘低成本获客、抖音同城引流、团购选品、私域复购等核心方法，帮助小餐饮创业者快速突破客流瓶颈，实现营业额翻倍增长。"
@@ -11,15 +10,15 @@ keywords: ["小餐饮做大", "流量爆锤法", "餐饮流量课程", "小餐�
 summary: "小餐饮流量爆锤法进修课程完整指南，揭秘低成本获客、抖音同城引流、团购选品、私域复购等核心方法，帮助小餐饮创业者快速突破客流瓶颈，实现营业额翻倍增长。"
 slug: "liuliang-baochuifa-xiaocanyin-kechuang"
 ---
-{< button href="https://pan.quark.cn/s/86e7b42ffeb9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/86e7b42ffeb9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/86e7b42ffeb9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

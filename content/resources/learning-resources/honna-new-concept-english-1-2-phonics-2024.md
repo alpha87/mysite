@@ -1,4 +1,3 @@
-
 ---
 title: "霍娜《新概念英语第一二册+自然拼读全系列课程 (2024新版)》资源分享"
 description: "霍娜老师2024新版新概念英语第一二册搭配自然拼读全系列课程，涵盖语法、词汇、听说读写全方位教学。适合零基础及进阶学习者，系统训练英语综合能力，网盘资源直接保存。"
@@ -11,15 +10,15 @@ keywords: ["新概念英语第一二册", "自然拼读课程", "霍娜英语", 
 summary: "霍娜老师2024新版新概念英语第一二册与自然拼读全系列课程资源，含完整视频+配套讲义，系统提升英语语法、词汇、自然拼读及听说读写能力，适合零基础至进阶学习者。"
 slug: "honna-new-concept-english-1-2-phonics-2024"
 ---
-{< button href="https://pan.quark.cn/s/f74fd1044b8c" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f74fd1044b8c" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f74fd1044b8c
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

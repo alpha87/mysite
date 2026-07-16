@@ -10,15 +10,15 @@ keywords: ["植物大战僵尸杂交版", "杂交版下载", "杂交版玩法", 
 summary: "植物大战僵尸杂交版完整指南，从下载安装到全植物卡牌技能解析，涵盖跳跃植物、冰冻豌豆、爆炸坚果等特色内容，附赠隐藏彩蛋解锁方法，助你轻松通关所有关卡。"
 slug: "plants-vs-zombies-hybrid-edition-guide"
 ---
-{< button href="https://pan.quark.cn/s/98c57836bd25" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/98c57836bd25" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/98c57836bd25
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是植物大战僵尸杂交版？
 

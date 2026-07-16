@@ -1,4 +1,3 @@
-
 ---
 title: "中华武术合集：从入门到精通的经典书籍与视频资源"
 description: "中华武术合集电子书与视频教程资源，涵盖太极拳、少林拳、八卦掌、形意拳等主流流派，包含基础功法、套路教学、实战技巧及养生方法，适合武术爱好者、初学者及进阶者系统学习中华武术精髓。"
@@ -11,15 +10,15 @@ keywords: ["中华武术合集", "武术电子书", "太极拳教程", "少林�
 summary: "中华武术合集电子书与视频教程资源，涵盖太极拳、少林拳、八卦掌、形意拳等主流流派，包含基础功法、套路教学、实战技巧及养生方法，适合武术爱好者、初学者及进阶者系统学习中华武术精髓。"
 slug: "chinese-martial-arts-collection"
 ---
-{< button href="https://pan.quark.cn/s/13123ad8956a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/13123ad8956a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/13123ad8956a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 中华武术合集：传承千年的武学智慧
 

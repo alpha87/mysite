@@ -1,4 +1,3 @@
-
 ---
 title: "《哈利·波特》1-7部有声书全集"
 description: "《哈利·波特》全系列1-7部有声书全集资源，由专业配音演员倾情朗读，带你沉浸式体验魔法世界。涵盖完整章节、高品质音频，适合哈利波特粉丝、有声书爱好者、英语学习者及亲子共听。夸克网盘直接保存，永久有效。"
@@ -11,15 +10,15 @@ keywords: ["哈利波特有声书全集", "哈利波特1-7部有声书", "哈利
 summary: "《哈利·波特》1-7部有声书全集资源，专业配音演员朗读，涵盖完整章节，高品质音频。夸克网盘直接保存，适合粉丝、学习者、亲子共听。"
 slug: "harry-potter-1-7-audiobooks-collection"
 ---
-{< button href="https://pan.quark.cn/s/0ae197d0d110" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/0ae197d0d110" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/0ae197d0d110
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《民法典与日常生活》社会生活的百科全书：法律常识一本通"
 description: "《民法典与日常生活》是一本面向普通读者的法律普及读物，以通俗易懂的语言解读民法典核心条款，涵盖婚姻家庭、财产继承、合同纠纷、侵权责任等常见法律问题。本书将晦涩法条转化为生活场景，适合全民普法学习。"
@@ -11,15 +10,15 @@ keywords: ["民法典与日常生活", "民法典解读", "法律常识书", "�
 summary: "《民法典与日常生活》以通俗语言解读民法典核心条款，涵盖婚姻家庭、财产继承、合同纠纷等常见法律问题，将晦涩法条转化为生活场景，适合全民普法学习。"
 slug: "minfadian-richengshenghuo"
 ---
-{< button href="https://pan.quark.cn/s/ef6e4b32389f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ef6e4b32389f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ef6e4b32389f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

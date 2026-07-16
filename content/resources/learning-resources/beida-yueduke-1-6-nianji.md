@@ -1,4 +1,3 @@
-
 ---
 title: "《北大阅读课》1-6年级全册PDF+视频：温儒敏推荐、曹文轩主编，让孩子真正爱上阅读"
 description: "《北大阅读课》由教育专家温儒敏推荐、文学大师曹文轩主编，涵盖小学1-6年级全册，提供配套PDF文档和视频课程。专为孩子打造的优质阅读资源，让孩子读得懂、吃得透，快速提升语文阅读能力和文学素养。VIP资源可直接下载。"
@@ -11,15 +10,15 @@ keywords: ["北大阅读课", "温儒敏推荐", "曹文轩主编", "小学阅�
 summary: "《北大阅读课》1-6年级全册PDF+视频资源，教育专家温儒敏推荐，文学大师曹文轩主编。配套完整PDF文档和视频讲解，让孩子系统提升语文阅读能力，培养终身阅读习惯。"
 slug: "beida-yueduke-1-6-nianji"
 ---
-{< button href="https://pan.quark.cn/s/ad63a6fbd90a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ad63a6fbd90a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ad63a6fbd90a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 《北大阅读课》——孩子语文阅读的顶级选择
 

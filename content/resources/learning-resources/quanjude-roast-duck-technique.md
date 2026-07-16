@@ -1,4 +1,3 @@
-
 ---
 title: "全聚德烤鸭技术：百年传承的挂炉烤鸭核心工艺详解"
 description: "全聚德烤鸭技术完整指南，从选鸭、烫皮、挂色、晾坯到烤制火候控制，详解百年老字号挂炉烤鸭的经典工艺与秘制配方，帮助烹饪爱好者掌握正宗北京烤鸭制作方法。"
@@ -11,15 +10,15 @@ keywords: ["全聚德烤鸭技术", "挂炉烤鸭方法", "北京烤鸭制作", 
 summary: "全聚德烤鸭技术完整指南，涵盖选鸭标准、烫皮挂色、晾坯工艺、烤制火候控制以及片鸭技巧，详解百年老字号挂炉烤鸭的经典工艺与秘制配方，适合烹饪爱好者学习正宗北京烤鸭制作方法。"
 slug: "quanjude-roast-duck-technique"
 ---
-{< button href="https://pan.quark.cn/s/7e0bca31606a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7e0bca31606a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7e0bca31606a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 全聚德烤鸭技术：百年传承的核心工艺
 

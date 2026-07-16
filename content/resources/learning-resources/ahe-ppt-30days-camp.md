@@ -1,4 +1,3 @@
-
 ---
 title: "阿何PPT30天集训营：零基础快速掌握PPT设计技巧"
 description: "阿何PPT30天集训营完整课程资源，从基础操作到高级设计，涵盖排版、动画、图表、模板制作等核心技能，适合办公、教学、演讲等场景，助你30天成为PPT高手。"
@@ -11,15 +10,15 @@ keywords: ["阿何PPT30天集训营", "PPT教程", "PPT学习", "PPT设计技巧
 summary: "阿何PPT30天集训营完整课程资源，从零基础到高手，覆盖PPT核心技巧，包括排版、动画、图表、模板制作等，适合办公人群快速提升PPT技能。"
 slug: "ahe-ppt-30-days-camp"
 ---
-{< button href="https://pan.quark.cn/s/cd2f98aebcfb" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cd2f98aebcfb" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cd2f98aebcfb
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

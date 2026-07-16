@@ -1,4 +1,3 @@
-
 ---
 title: "《西游记》儿童版（睡前必听儿童故事）"
 description: "《西游记》儿童版精选原著经典章节，以生动有趣的语言和温馨的音效打造睡前必听儿童故事，帮助孩子了解中国四大名著，培养想象力和语言表达能力，适合3-8岁幼儿启蒙。"
@@ -11,15 +10,15 @@ keywords: ["西游记儿童版", "睡前故事", "儿童故事", "西游记音�
 summary: "《西游记》儿童版精选原著经典章节，生动有趣的语言和温馨音效打造睡前必听儿童故事，适合3-8岁幼儿启蒙，帮助孩子了解四大名著，培养想象力和语言表达能力。"
 slug: "xiyouji-ertong-ban"
 ---
-{< button href="https://pan.quark.cn/s/07563d15cbc0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/07563d15cbc0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/07563d15cbc0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源介绍
 

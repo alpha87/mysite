@@ -1,4 +1,3 @@
-
 ---
 title: "鬼谷正宗源流天机卜筮全书：古籍术数经典资源"
 description: "鬼谷正宗源流天机卜筮全书完整版电子书下载，涵盖鬼谷子卜筮秘法、天机推演、源流考据等内容，适合术数爱好者、国学研究者研读。提供夸克网盘资源，快速获取古籍珍本。"
@@ -11,15 +10,15 @@ keywords: ["鬼谷正宗源流天机卜筮全书", "鬼谷子卜筮", "天机卜
 summary: "鬼谷正宗源流天机卜筮全书完整版电子书，鬼谷子卜筮秘术、天机推演法门，术数爱好者必备资源。夸克网盘分享，赶紧保存。"
 slug: "guiguzhengzong-yuanliu-tianjibushi-quanshu"
 ---
-{< button href="https://pan.quark.cn/s/e1e185e2e486" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e1e185e2e486" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e1e185e2e486
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

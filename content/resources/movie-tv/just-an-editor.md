@@ -1,4 +1,3 @@
-
 ---
 title: "《我只是一个编辑》【豆瓣评分7.9】"
 description: "《我只是一个编辑》豆瓣评分7.9，一部关于出版行业幕后故事的温情日剧。剧情聚焦编辑与作家的日常，展现文字工作者的坚持与梦想，适合文学爱好者、职场人士观看。夸克网盘资源持续分享。"
@@ -11,15 +10,15 @@ keywords: ["我只是一个编辑", "日剧", "豆瓣评分7.9", "出版行业�
 summary: "《我只是一个编辑》豆瓣评分7.9，一部温情日剧讲述出版行业编辑与作家之间的故事，展现文字工作者的坚持与梦想。夸克网盘提供资源下载。"
 slug: "just-an-editor"
 ---
-{< button href="https://pan.quark.cn/s/e4f6c4801800" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e4f6c4801800" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e4f6c4801800
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧情简介
 

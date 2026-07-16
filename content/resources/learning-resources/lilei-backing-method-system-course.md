@@ -1,4 +1,3 @@
-
 ---
 title: "利奥叔《利奥背书法：背书技巧系统课》完整教程"
 description: "利奥叔《利奥背书法：背书技巧系统课》详细教程，涵盖记忆原理、高效背书方法、抗遗忘复习系统、注意力训练等核心内容，帮助学习者快速提升背诵效率，掌握科学记忆体系。"
@@ -11,15 +10,15 @@ keywords: ["利奥叔", "利奥背书法", "背书技巧系统课", "高效记�
 summary: "利奥叔《利奥背书法：背书技巧系统课》完整教程，从记忆原理到实战应用，涵盖抗遗忘复习系统、注意力训练等核心模块，帮助学习者快速掌握科学背书方法，显著提升记忆效率。"
 slug: "lilei-backing-method-system-course"
 ---
-{< button href="https://pan.quark.cn/s/c0de60c93ef9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c0de60c93ef9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c0de60c93ef9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

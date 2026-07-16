@@ -1,4 +1,3 @@
-
 ---
 title: "《金匮要略》王雪华教授80集完整版音频：黑龙江中医药大学名师课堂"
 description: "黑龙江中医药大学王雪华教授主讲《金匮要略》全80集音频课程，内容涵盖金匮要略原文讲解、方剂解析、临床案例，适合中医学生、临床医师及爱好者系统学习经典，配套夸克网盘资源免费获取。"
@@ -11,15 +10,15 @@ keywords: ["金匮要略王雪华", "金匮要略音频", "黑龙江中医药大
 summary: "黑龙江中医药大学王雪华教授主讲的《金匮要略》全80集完整版音频课程，系统讲解张仲景经典著作，涵盖原文释义、方剂分析、临床运用，是中医学习者不可多得的优质资源，支持在夸克网盘免费保存。"
 slug: "jinkuiyaolve-wangxuehua-80ji-audio"
 ---
-{< button href="https://pan.quark.cn/s/8401b819c93e" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/8401b819c93e" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/8401b819c93e
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资源简介
 

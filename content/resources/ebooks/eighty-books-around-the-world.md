@@ -1,4 +1,3 @@
-
 ---
 title: "《八十本书环游世界》推荐书单｜80本高分好书深度解读"
 description: "《八十本书环游世界》精选80本高分好书，涵盖文学、历史、哲学、科学等多元领域，带你通过阅读环游世界。本文详细介绍书单背景、核心书目推荐与阅读价值，助你高效获取经典资源。"
@@ -11,15 +10,15 @@ keywords: ["八十本书环游世界", "80本好书", "高分畅销书", "书单
 summary: "《八十本书环游世界》精选80本高分好书，涵盖文学、历史、哲学、科学等多元领域，带你通过阅读环游世界。本文详细介绍书单背景、核心书目推荐与阅读价值，助你高效获取经典资源。"
 slug: "eighty-books-around-the-world-book-list"
 ---
-{< button href="https://pan.quark.cn/s/1d858ed9ceed" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1d858ed9ceed" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1d858ed9ceed
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 一部用阅读丈量世界的奇书
 

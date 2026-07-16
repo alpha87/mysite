@@ -1,4 +1,3 @@
-
 ---
 title: "李春苓形意太极课｜招式精讲+养生保健（零基础入门+动作分解演示）"
 description: "李春苓形意太极课程完整教学，从零基础入门到招式精讲，涵盖动作分解演示、养生保健方法，详细解析站桩、呼吸、发力技巧及常见错误纠正，帮助学员快速掌握形意太极核心要领，提升健康水平。"
@@ -11,15 +10,15 @@ keywords: ["李春苓形意太极", "形意太极拳", "太极拳招式精讲", 
 summary: "李春苓形意太极课程，零基础入门到招式精讲，动作分解演示+养生保健，系统教学站桩、呼吸、发力技巧，帮助学员高效学习形意太极。"
 slug: "lichunling-xingyi-taiji"
 ---
-{< button href="https://pan.quark.cn/s/2885f30be82a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2885f30be82a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2885f30be82a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

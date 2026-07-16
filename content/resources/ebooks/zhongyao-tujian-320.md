@@ -1,4 +1,3 @@
-
 ---
 title: "《中国疗效中草药320种对症中药图鉴》实用自然图鉴 PDF 下载"
 description: "《中国疗效中草药320种对症中药图鉴》高清PDF电子书，收录320种常见中草药图谱、功效、用法，按疾病分类快速查找，适合中医药爱好者、学生和家庭养生参考。"
@@ -11,15 +10,15 @@ keywords: ["中国疗效中草药320种", "对症中药图鉴", "实用自然图
 summary: "《中国疗效中草药320种对症中药图鉴》高清PDF电子书，收录320种常见中草药，每种配有高清图片和详细功效主治，按症状分类，快速查找，是中医药学习与家庭养生的实用工具书。"
 slug: "zhongyao-tujian-320"
 ---
-{< button href="https://pan.quark.cn/s/cf8443d90208" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cf8443d90208" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cf8443d90208
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《中国疗效中草药320种对症中药图鉴》是一本非常实用的中医药图解工具书，全书收录了320种常见中草药，每种都配有清晰的高清实拍图片，从植物形态到药材切片，一目了然。书中最大的特色是“对症索引”——你不需要记住每种药的名字，只需根据自身症状（如感冒、咳嗽、失眠、消化不良、跌打损伤等）就能快速找到对应的中药，并了解其性味归经、功效主治、用法用量、禁忌事项。
 

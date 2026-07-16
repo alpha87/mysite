@@ -1,4 +1,3 @@
-
 ---
 title: "小学知识思维导图：全科知识点梳理与学习工具"
 description: "覆盖小学语文、数学、英语、科学等全科知识点思维导图资源，帮助孩子构建知识体系，提升记忆效率。包含各年级知识点总结、易错点归纳、复习框架等，家长辅导和学习工具首选。"
@@ -11,15 +10,15 @@ keywords: ["小学知识思维导图", "小学知识点总结", "思维导图模
 summary: "小学全科思维导图资源，覆盖语数英科各年级知识点总结、易错点归纳、复习框架，帮助孩子建立知识网络，高效学习。"
 slug: "primary-school-mind-map"
 ---
-{< button href="https://pan.quark.cn/s/2b383e23a0db" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2b383e23a0db" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2b383e23a0db
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么小学知识需要思维导图？
 

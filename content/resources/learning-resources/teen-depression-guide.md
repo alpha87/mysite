@@ -1,4 +1,3 @@
-
 ---
 title: "少年抑郁症：识别、理解与应对指南"
 description: "少年抑郁症专业指南，涵盖青少年抑郁症状识别、原因分析、家庭应对策略、心理咨询与治疗途径等核心内容，帮助家长和孩子正确面对抑郁症，走出情绪低谷。"
@@ -11,15 +10,15 @@ keywords: ["少年抑郁症", "青少年抑郁", "抑郁症状识别", "青少�
 summary: "少年抑郁症完整指南，系统讲解青少年抑郁的表现、成因及应对方法，提供家庭支持策略和专业治疗建议，帮助家长和孩子共同走出抑郁阴霾。"
 slug: "teen-depression-guide"
 ---
-{< button href="https://pan.quark.cn/s/3d0849db8342" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3d0849db8342" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3d0849db8342
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 什么是少年抑郁症？
 
@@ -56,12 +55,12 @@ slug: "teen-depression-guide"
 
 请记住：抑郁症是可以治疗的。通过科学干预和持续支持，绝大多数少年抑郁症患者能够康复。希望这份指南能帮助更多家庭正视问题，勇敢迈出第一步。需要更系统的资料，欢迎保存下方资源。
 
-{< button href="https://pan.quark.cn/s/3d0849db8342" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3d0849db8342" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3d0849db8342
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

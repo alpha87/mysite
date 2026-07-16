@@ -1,4 +1,3 @@
-
 ---
 title: "世界记忆大师教你快速提升记忆力：科学记忆法全攻略"
 description: "世界记忆大师亲授的记忆力提升方法，包括记忆宫殿、联想记忆、数字编码、思维导图等高效技巧，从基础训练到实战应用，帮助读者快速掌握科学记忆体系，提升学习效率。"
@@ -11,15 +10,15 @@ keywords: ["世界记忆大师", "提升记忆力", "记忆方法", "记忆宫�
 summary: "世界记忆大师亲授记忆力提升方法，涵盖记忆宫殿、联想记忆、数字编码、思维导图等高效技巧，从基础到实战，帮助快速掌握科学记忆体系，提升学习与工作效率。"
 slug: "memory-master-techniques"
 ---
-{< button href="https://pan.quark.cn/s/2dee4e5b223f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2dee4e5b223f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2dee4e5b223f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 你是否总是记不住单词、公式、人名或者重要知识点？其实，记忆力并非天生，而是可以通过科学方法训练出来的。世界记忆大师为我们揭示了大脑的记忆密码，只要掌握正确的方法，每个人都能成为记忆高手。
 
@@ -54,12 +53,12 @@ slug: "memory-master-techniques"
 
 本资源收录了世界记忆大师完整课程，包括视频讲解、练习手册和配套工具，从零基础到高手全覆盖。点击下方按钮即可获取，链接有时效，请尽快保存。
 
-{< button href="https://pan.quark.cn/s/2dee4e5b223f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2dee4e5b223f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2dee4e5b223f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}

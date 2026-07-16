@@ -1,4 +1,3 @@
-
 ---
 title: "中国史地理课程：从夏商周到明清的地理变迁与历史文化解读"
 description: "系统全面的中国史地理课程，涵盖从夏商周到明清的历代疆域演变、行政区划、经济地理、军事地理与历史文化解读，配套高清课件下载，适合历史爱好者、考研学生及自学人群，助你构建时空一体的中国历史认知体系。"
@@ -11,15 +10,15 @@ keywords: ["中国史地理课程", "中国历史地理", "历史地理课件", 
 summary: "系统全面的中国史地理课程，从夏商周到明清的历代疆域演变、行政区划、经济地理与历史文化解读，配套高清课件，适合历史爱好者、考研学生及自学人群下载学习。"
 slug: "chinese-history-geography-course"
 ---
-{< button href="https://pan.quark.cn/s/e893d02f6f3a" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/e893d02f6f3a" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/e893d02f6f3a
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ### 课程简介
 

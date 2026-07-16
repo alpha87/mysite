@@ -1,4 +1,3 @@
-
 ---
 title: "火花思维课程合集｜Level1-Level5逻辑训练（幼小衔接+数学思维+题库解析+VIP课程）"
 description: "火花思维Level1至Level5完整课程合集，涵盖幼小衔接逻辑训练、数学思维启蒙、题库解析与VIP精品课程。适合3-12岁儿童，系统化培养逻辑推理、空间想象、数感运算与专注力，助力幼升小与小学阶段数学能力提升。"
@@ -11,15 +10,15 @@ keywords: ["火花思维课程合集", "火花思维Level1", "火花思维Level5
 summary: "火花思维Level1-Level5完整课程合集，包含幼小衔接逻辑训练、数学思维启蒙、题库解析与VIP课程，系统化培养3-12岁儿童的逻辑推理、空间想象与数感运算能力，是幼升小及小学阶段数学学习的优质资源。"
 slug: "spark-thinking-courses"
 ---
-{< button href="https://pan.quark.cn/s/eb4492cdd733" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb4492cdd733" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb4492cdd733
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

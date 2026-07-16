@@ -1,4 +1,3 @@
-
 ---
 title: "时间管理指南：高效掌控你的每一天"
 description: "系统化的时间管理方法指南，涵盖番茄工作法、四象限法则、GTD原则等经典技巧，提供实用工具推荐与行动清单，帮助读者告别拖延症，提升工作与生活效率。"
@@ -11,15 +10,15 @@ keywords: ["时间管理技巧", "高效时间管理", "番茄工作法教程", 
 summary: "系统化的时间管理方法指南，涵盖番茄工作法、四象限法则、GTD原则等经典技巧，提供实用工具推荐与行动清单，帮助读者告别拖延症，提升工作与生活效率。"
 slug: "time-management-skills-guide"
 ---
-{< button href="https://pan.quark.cn/s/3a0919f15f8b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3a0919f15f8b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3a0919f15f8b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要管理时间？
 

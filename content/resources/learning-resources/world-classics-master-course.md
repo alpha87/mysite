@@ -1,4 +1,3 @@
-
 ---
 title: "世界名著大师课：经典文学深度解读与高效学习指南"
 description: "世界名著大师课完整课程资源，涵盖西方文学、东方文学经典著作深度解读，由北大、清华等名校教授亲授，从《百年孤独》到《红楼梦》，系统提升文学素养与阅读能力。"
@@ -11,15 +10,15 @@ keywords: ["世界名著大师课", "经典文学解读", "文学素养", "名�
 summary: "世界名著大师课提供经典文学深度解读视频课程，北大、清华等名校教授带你精讲《百年孤独》《红楼梦》《战争与和平》等传世名著，系统提升文学素养与阅读能力。"
 slug: "world-classics-master-course"
 ---
-{< button href="https://pan.quark.cn/s/ba76acdff017" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ba76acdff017" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ba76acdff017
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程概览
 

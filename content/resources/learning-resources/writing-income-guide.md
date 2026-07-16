@@ -1,4 +1,3 @@
-
 ---
 title: "轻松易上手的写作变现课"
 description: "一份专为写作新手设计的变现课程，从基础写作技巧到多渠道变现策略，涵盖自媒体投稿、文案创作、公众号运营等热门方向，手把手教你用文字赚取收入，实现副业增收。"
@@ -11,15 +10,15 @@ keywords: ["写作变现课", "写作新手", "副业赚钱", "自媒体写作",
 summary: "轻松易上手的写作变现课，专为新手设计，涵盖基础写作技巧、自媒体投稿、文案创作、公众号运营等变现路径，手把手教你用文字赚取收入，实现副业增收。"
 slug: "writing-income-guide"
 ---
-{< button href="https://pan.quark.cn/s/63c8b9078e48" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/63c8b9078e48" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/63c8b9078e48
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 写作是门槛最低的副业之一，不需要特殊技能，只需一部手机或电脑就能开始。本门写作变现课程由资深写作导师精心打造，专为零基础学员设计，让你在短时间内掌握核心写作技巧，并直接对接多种变现渠道。
 

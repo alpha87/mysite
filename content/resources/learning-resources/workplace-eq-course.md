@@ -1,4 +1,3 @@
-
 ---
 title: "即学即用的职场情商课：从沟通到晋升的实战指南"
 description: "职场情商课完整教程，涵盖向上汇报、同事协作、情绪管理、冲突处理等核心技能，通过真实案例和情景模拟，帮助职场人快速提升人际敏感度与沟通效率，实现职业突破。"
@@ -11,15 +10,15 @@ keywords: ["职场情商课", "职场情商训练", "即学即用情商课", "�
 summary: "即学即用的职场情商课，聚焦向上汇报、同事协作、情绪管理、冲突处理等关键场景，通过真实案例与情景模拟，帮助职场人快速提升人际敏感度与沟通效率，打通职业晋升通道。"
 slug: "workplace-eq-course"
 ---
-{< button href="https://pan.quark.cn/s/3bc889575fae" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3bc889575fae" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3bc889575fae
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要这门职场情商课？
 

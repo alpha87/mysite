@@ -1,4 +1,3 @@
-
 ---
 title: "约瑟夫水彩高研班教学2024：进阶技法与创作思维深度课程"
 description: "约瑟夫水彩高研班2024年完整教学资源，涵盖湿画法、干画法、色彩调性、光影处理等核心技法，以及创作构思与艺术表达训练，适合有基础的学员突破瓶颈，提升水彩绘画水平。包含高清视频讲解与示范。"
@@ -11,15 +10,15 @@ keywords: ["约瑟夫水彩", "水彩高研班", "水彩进阶课程", "水彩�
 summary: "约瑟夫水彩高研班2024年教学资源，系统性讲解湿画法、干画法、色彩调性、光影处理等进阶技法，同时融入创作思维与艺术表达训练，帮助中高级水彩爱好者突破瓶颈，提升作品表现力。"
 slug: "joseph-watercolor-advanced-class-2024"
 ---
-{< button href="https://pan.quark.cn/s/9d5d9297ff2b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9d5d9297ff2b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9d5d9297ff2b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

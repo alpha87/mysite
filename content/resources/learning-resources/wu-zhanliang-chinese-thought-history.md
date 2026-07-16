@@ -1,4 +1,3 @@
-
 ---
 title: "吴展良教授讲中国思想史：从先秦到近现代的思想脉络全解析"
 description: "吴展良教授深度解读中国思想史，涵盖先秦诸子、汉代经学、魏晋玄学、宋明理学及近现代思想转型。高清视频课程配合经典文献解析，帮助学习者系统掌握中国思想演变的核心脉络与关键人物。"
@@ -11,15 +10,15 @@ keywords: ["吴展良中国思想史", "中国思想史课程", "国学思想史
 summary: "吴展良教授系统讲解中国思想史，从先秦诸子到近现代维新运动，以清晰脉络解读孔子、老子、庄子、朱熹、王阳明等核心思想家的理论体系，帮助学习者建立完整的中国思想史认知框架。"
 slug: "wu-zhanliang-zhongguo-sixiangshi"
 ---
-{< button href="https://pan.quark.cn/s/cf9be30f7651" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/cf9be30f7651" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/cf9be30f7651
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

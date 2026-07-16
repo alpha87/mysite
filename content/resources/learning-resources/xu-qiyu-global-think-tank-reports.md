@@ -10,15 +10,15 @@ keywords: ["徐弃郁全球智库报告", "全球智库报告解读", "2024-2025
 summary: "徐弃郁·全球智库报告解读（2024-2025）完整系列资源，覆盖世界顶级智库最新研究，深入分析地缘政治、经济、科技与军事战略，助力把握全球趋势。夸克网盘一键保存。"
 slug: "xu-qiyu-global-think-tank-reports-2024-2025"
 ---
-{< button href="https://pan.quark.cn/s/f69fb47cd080" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f69fb47cd080" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f69fb47cd080
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

@@ -1,4 +1,3 @@
-
 ---
 title: "《黄帝内经》30节完整教程：从入门到精通"
 description: "《黄帝内经》30节系统教程，涵盖阴阳五行、脏腑经络、养生原则、病因病机等核心内容，适合中医初学者和养生爱好者，配套视频讲解与图文资料，高清资源免费获取。"
@@ -11,15 +10,15 @@ keywords: ["黄帝内经30节", "黄帝内经教程", "中医经典学习", "阴
 summary: "《黄帝内经》30节系统教程，从阴阳五行到脏腑经络，从养生原则到病因病机，高清视频+图文资料，助你快速掌握中医经典核心。"
 slug: "huangdi-neijing-30jie-jiaocheng"
 ---
-{< button href="https://pan.quark.cn/s/9f15f07f88fa" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9f15f07f88fa" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9f15f07f88fa
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 《黄帝内经》30节教程简介
 

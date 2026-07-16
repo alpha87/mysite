@@ -1,4 +1,3 @@
-
 ---
 title: "国考公考省考资料合辑（2024-2025）"
 description: "2024-2025年国家公务员考试、各省公务员考试及省考备考资料合辑，包含行测、申论、面试、历年真题、模拟题、名师视频课程等全套资源，助你高效复习，一战成公。"
@@ -11,15 +10,15 @@ keywords: ["国考资料", "公考资料", "省考资料", "公务员考试备�
 summary: "2024-2025年国考、公考、省考全套备考资料合辑，涵盖行测、申论、面试、真题模拟题及名师课程，一站式获取最全考试资源。"
 slug: "guokao-gongkao-shengkao-ziliao-heji"
 ---
-{< button href="https://pan.quark.cn/s/b3ed7c3a7795" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/b3ed7c3a7795" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/b3ed7c3a7795
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 备考资料全览
 

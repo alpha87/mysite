@@ -1,4 +1,3 @@
-
 ---
 title: "于赓哲：历史上的利益分配"
 description: "陕西师范大学于赓哲教授深度解读中国古代利益分配机制，从土地制度、赋税变革到官僚体系博弈，揭示历史进程中财富与权力的运转规律。本资源收录完整讲座视频，适合历史爱好者、社科研究者及备考学子学习参考。"
@@ -11,15 +10,15 @@ keywords: ["于赓哲", "历史上的利益分配", "历史讲座", "利益分�
 summary: "陕西师范大学于赓哲教授深度解读中国古代利益分配机制，从土地制度、赋税变革到官僚体系博弈，揭示历史进程中财富与权力的运转规律。本资源收录完整讲座视频，适合历史爱好者、社科研究者及备考学子学习参考。"
 slug: "yugengzhe-history-benefit-distribution"
 ---
-{< button href="https://pan.quark.cn/s/14436ab8a0b2" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/14436ab8a0b2" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/14436ab8a0b2
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 于赓哲教授与他的历史洞见
 

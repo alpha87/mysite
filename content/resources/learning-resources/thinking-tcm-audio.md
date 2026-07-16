@@ -1,4 +1,3 @@
-
 ---
 title: "刘力红《思考中医》全文朗读音频：经典中医入门必备"
 description: "完整收录刘力红教授《思考中医》全书朗读音频，从中医文化、经典理论到临床实践，深入浅出讲解伤寒论精要，适合中医爱好者、自学者及临床医师系统学习，配套夸克网盘资源可永久保存。"
@@ -11,15 +10,15 @@ keywords: ["思考中医朗读", "刘力红思考中医", "中医入门音频", 
 summary: "刘力红教授《思考中医》全书朗读音频合集，从中医文化、经典理论到临床实践，系统讲解伤寒论核心思想，帮助中医学习者和爱好者深入理解中医精髓，夸克网盘资源可永久保存。"
 slug: "thinking-tcm-audio"
 ---
-{< button href="https://pan.quark.cn/s/2aa30c8ef192" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2aa30c8ef192" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2aa30c8ef192
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《思考中医》与刘力红教授
 

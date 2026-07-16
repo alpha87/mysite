@@ -1,4 +1,3 @@
-
 ---
 title: "五年级奥数年卡（竞赛班）60讲 张新刚 精品课程资源"
 description: "张新刚老师五年级奥数竞赛班全年课程，60讲完整版视频教学，涵盖数论、几何、组合、应用等核心奥数模块，适合备战小升初及竞赛学生，高清可下载保存。"
@@ -11,15 +10,15 @@ keywords: ["五年级奥数年卡", "竞赛班课程", "张新刚奥数", "60讲
 summary: "张新刚老师五年级奥数竞赛班全年课程60讲完整版，覆盖数论、几何、组合、应用等核心模块，高清视频资源，适合备战小升初及数学竞赛的学生。"
 slug: "wunianji-aoshu-nianka-jingsai-60jiang-zhangxingang"
 ---
-{< button href="https://pan.quark.cn/s/502c15a66829" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/502c15a66829" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/502c15a66829
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

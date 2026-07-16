@@ -1,4 +1,3 @@
-
 ---
 title: "小兵张嘎经典老电影资源下载：高清修复版在线观看"
 description: "小兵张嘎1963年经典抗战电影高清修复版资源下载，讲述白洋淀少年嘎子成长为小八路的故事，包含完整剧情介绍、主要演员、获奖情况以及夸克网盘资源链接，适合怀旧收藏、儿童教育观影。"
@@ -11,15 +10,15 @@ keywords: ["小兵张嘎资源下载", "小兵张嘎高清版", "小兵张嘎电
 summary: "小兵张嘎1963年经典抗战电影高清修复版资源下载，讲述白洋淀少年嘎子的成长故事，包含完整剧情、演员信息和夸克网盘资源链接。"
 slug: "xiaobing-zhangga"
 ---
-{< button href="https://pan.quark.cn/s/f1a184349bd9" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/f1a184349bd9" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/f1a184349bd9
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 电影简介
 

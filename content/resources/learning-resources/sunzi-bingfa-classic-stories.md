@@ -1,4 +1,3 @@
-
 ---
 title: "《孙子兵法》经典故事精讲：从兵家智慧到现代启示"
 description: "《孙子兵法》经典故事深度解读，涵盖田忌赛马、围魏救赵、暗度陈仓等核心典故，解析兵家谋略精髓及其在现代商业、职场、生活中的应用智慧，适合传统文化学习者和策略思维爱好者。"
@@ -11,15 +10,15 @@ keywords: ["孙子兵法故事", "孙子兵法经典典故", "田忌赛马智慧
 summary: "《孙子兵法》经典故事精讲，从田忌赛马、围魏救赵、暗度陈仓等核心典故入手，深入解析兵家谋略精髓，并探讨其在现代商业、职场、生活中的应用智慧，适合传统文化学习者和策略思维爱好者。"
 slug: "sunzi-bingfa-classic-stories"
 ---
-{< button href="https://pan.quark.cn/s/311b6be50427" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/311b6be50427" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/311b6be50427
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 《孙子兵法》经典故事：千年谋略的现代启示
 

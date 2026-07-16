@@ -1,4 +1,3 @@
-
 ---
 title: "Java多线程与高并发入门到精通：从基础到实战完整学习指南"
 description: "Java多线程与高并发从入门到精通完整教程，涵盖线程基础、锁机制、线程池、并发容器、JMM、AQS、CAS等核心知识点，结合实战案例解析高并发场景下的性能优化与调优策略，助力Java开发者系统掌握多线程编程与高并发处理能力。"
@@ -11,15 +10,15 @@ keywords: ["Java多线程入门到精通", "高并发编程教程", "Java并发�
 summary: "Java多线程与高并发从入门到精通完整学习指南，系统覆盖线程基础、锁、线程池、并发容器、JMM、AQS、CAS等核心知识，搭配实战案例解析高并发性能优化，适合Java开发者进阶学习。"
 slug: "java-multithreading-high-concurrency-guide"
 ---
-{< button href="https://pan.quark.cn/s/45ea7673f8bc" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/45ea7673f8bc" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/45ea7673f8bc
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么学习Java多线程与高并发？
 

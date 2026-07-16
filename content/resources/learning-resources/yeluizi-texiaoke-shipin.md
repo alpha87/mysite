@@ -1,4 +1,3 @@
-
 ---
 title: "野路子特效课：像P图一样'P'视频（完结）"
 description: "野路子特效课完整教程，教你像P图一样简单处理视频特效，涵盖抠像、合成、转场、调色等核心技巧，零基础也能快速上手，适合短视频创作者、自媒体博主和剪辑爱好者。"
@@ -11,15 +10,15 @@ keywords: ["野路子特效课", "像P图一样P视频", "视频特效教程", "
 summary: "野路子特效课完整教程，让你像P图一样轻松处理视频特效，从抠像到合成，从转场到调色，零基础也能快速掌握，适合所有短视频创作者。课程已完结，附赠全部素材与案例。"
 slug: "yeluizi-texiaoke-shipin"
 ---
-{< button href="https://pan.quark.cn/s/1c4adc74d993" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1c4adc74d993" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1c4adc74d993
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

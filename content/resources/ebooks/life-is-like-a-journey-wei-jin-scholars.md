@@ -1,4 +1,3 @@
-
 ---
 title: "人生如逆旅：魏晋名士的风度与精神"
 description: "《人生如逆旅：魏晋名士的风度与精神》是一本深入解读魏晋时期名士风骨与精神世界的经典著作，涵盖阮籍、嵇康、王羲之、谢安等代表人物，从历史、文学、哲学多维度剖析魏晋风度的内涵与影响，适合历史爱好者、文学研究者及寻求心灵启迪的读者。"
@@ -11,15 +10,15 @@ keywords: ["人生如逆旅电子书", "魏晋名士书籍", "魏晋风度解读
 summary: "《人生如逆旅：魏晋名士的风度与精神》深入解读魏晋时期名士风骨与精神世界，涵盖阮籍、嵇康、王羲之、谢安等代表人物，从历史、文学、哲学多维度剖析魏晋风度，为读者呈现一个真实而动人的名士时代。"
 slug: "rensheng-ru-nilv-wei-jin-mingshi"
 ---
-{< button href="https://pan.quark.cn/s/49063e783681" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/49063e783681" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/49063e783681
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 内容简介
 

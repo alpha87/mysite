@@ -1,4 +1,3 @@
-
 ---
 title: "2026《高考物理·一遍过合订本》备考资源下载"
 description: "2026年最新版《高考物理·一遍过合订本》完整电子版下载，涵盖高中物理全部知识点、历年真题精讲、高频考点突破与解题技巧，适合高三学生高效备考，助力冲刺物理高分。"
@@ -11,15 +10,15 @@ keywords: ["高考物理一遍过合订本", "2026高考物理", "物理备考�
 summary: "2026年最新版《高考物理·一遍过合订本》完整电子版，覆盖高考物理全部考点，含真题精讲与解题技巧，助你高效备考冲刺高分。"
 slug: "gaokao-physics-2026-yibianguo-heidingben"
 ---
-{< button href="https://pan.quark.cn/s/667fabdd65ae" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/667fabdd65ae" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/667fabdd65ae
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 资料简介
 

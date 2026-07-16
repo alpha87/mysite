@@ -1,4 +1,3 @@
-
 ---
 title: "顶流女性IP实战核心基本功：从0到1打造个人品牌完整指南"
 description: "顶流女性IP打造的核心基本功系统教程，涵盖个人定位、内容创作、私域运营、变现设计等关键环节，帮助女性创业者、自媒体新人从0开始建立可复制的个人品牌体系，提升影响力与商业价值。"
@@ -11,15 +10,15 @@ keywords: ["顶流女性IP", "女性IP实战", "个人品牌打造", "女性创�
 summary: "顶流女性IP打造的核心基本功系统教程，涵盖个人定位、内容创作、私域运营、变现设计等关键环节，帮助女性创业者、自媒体新人从0开始建立可复制的个人品牌体系，提升影响力与商业价值。"
 slug: "top-female-ip-basics"
 ---
-{< button href="https://pan.quark.cn/s/39e9ccad9862" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/39e9ccad9862" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/39e9ccad9862
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么顶流女性IP如此重要？
 

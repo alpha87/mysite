@@ -1,4 +1,3 @@
-
 ---
 title: "从零开始进阶数据分析师：完整学习路线与资源指南"
 description: "从零基础到数据分析师的全流程学习指南，涵盖统计学基础、Python/SQL编程、数据可视化、机器学习入门等核心技能，附赠精选学习资源包，帮助新手系统掌握数据分析必备知识并快速入行。"
@@ -11,15 +10,15 @@ keywords: ["数据分析师学习路线", "零基础数据分析", "数据分析
 summary: "从零基础到数据分析师的全流程学习指南，涵盖统计学基础、Python/SQL编程、数据可视化、机器学习入门等核心技能，附赠精选学习资源包，帮助新手系统掌握数据分析必备知识并快速入行。"
 slug: "data-analyst-journey-from-zero"
 ---
-{< button href="https://pan.quark.cn/s/7c9fd8acdb50" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/7c9fd8acdb50" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/7c9fd8acdb50
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么要学习数据分析？
 

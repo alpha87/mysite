@@ -1,4 +1,3 @@
-
 ---
 title: "华罗庚奥数学习资源：从入门到进阶的奥数教材与习题集"
 description: "华罗庚奥数经典教材与习题资源合集，涵盖小学、初中、高中各阶段奥数学习内容，包括华罗庚学校数学课本、奥数教程、竞赛真题等，帮助数学爱好者系统提升奥数能力。"
@@ -11,15 +10,15 @@ keywords: ["华罗庚奥数", "奥数教材", "华罗庚学校数学课本", "�
 summary: "华罗庚奥数经典教材与习题资源合集，涵盖小学、初中、高中各阶段奥数内容，包含华罗庚学校数学课本、奥数教程、竞赛真题等，适合数学爱好者系统提升奥数能力。"
 slug: "hualuogeng-aoshu-xuexi-ziyuan"
 ---
-{< button href="https://pan.quark.cn/s/eb9436781d98" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/eb9436781d98" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/eb9436781d98
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 华罗庚奥数：一代数学大师的智慧传承
 

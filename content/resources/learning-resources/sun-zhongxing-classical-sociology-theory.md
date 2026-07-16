@@ -1,4 +1,3 @@
-
 ---
 title: "大学孙中兴教授讲古典社会学理论：完整课程资源分享"
 description: "孙中兴教授讲授的古典社会学理论课程完整资源，涵盖韦伯、涂尔干、马克思等经典社会学家思想，适合社会学专业学生、考研复习及对社会学感兴趣的读者学习。包含视频、讲义、笔记等资料。"
@@ -11,15 +10,15 @@ keywords: ["孙中兴古典社会学理论", "古典社会学理论课程", "孙
 summary: "大学孙中兴教授讲授的古典社会学理论课程完整资源分享，涵盖韦伯、涂尔干、马克思等经典社会学家的核心理论，适合学生、考研者及社会学爱好者，提供视频、讲义、笔记等高质量学习资料。"
 slug: "sun-zhongxing-classical-sociology-theory"
 ---
-{< button href="https://pan.quark.cn/s/1f4254b5e040" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1f4254b5e040" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1f4254b5e040
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 大学孙中兴教授是国内社会学界知名的学者，他主讲的《古典社会学理论》课程以深入浅出的方式，系统梳理了从19世纪末到20世纪初西方社会学奠基人的核心思想。这门课程不仅是社会学专业本科生的必修课，也是考研学生备考社会学理论模块的经典参考资源。
 

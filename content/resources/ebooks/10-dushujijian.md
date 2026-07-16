@@ -1,4 +1,3 @@
-
 ---
 title: "10独抒己见：独立观点集锦精华版"
 description: "《10独抒己见》是一本汇集独特个人见解的电子书，涵盖思想、社会、文化、人生等多维度尖锐观点，适合追求独立思考的读者。资源高清PDF版，可直接下载保存。"
@@ -11,15 +10,15 @@ keywords: ["独抒己见电子书", "独立观点PDF", "思想集下载", "夸�
 summary: "《10独抒己见》是一本汇集独特个人见解的电子书，涵盖思想、社会、文化、人生等多维度尖锐观点，适合追求独立思考的读者。资源高清PDF版，可直接下载保存。"
 slug: "10-dushujijian"
 ---
-{< button href="https://pan.quark.cn/s/3dff8eac3e34" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/3dff8eac3e34" target="_blank" >}}
 点击下载资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/3dff8eac3e34
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于《10独抒己见》
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Python实战精讲：萌新系统入门（完结）"
 description: "专为编程小白设计的Python实战课程，从零基础到系统掌握Python核心语法、项目实战与常用库。本课程完整完结，涵盖变量、控制流、函数、面向对象、文件操作、爬虫入门等，助你快速上手Python开发。"
@@ -11,15 +10,15 @@ keywords: ["Python实战精讲", "Python入门教程", "Python系统学习", "�
 summary: "Python实战精讲萌新系统入门完结课程，覆盖变量、控制流、函数、面向对象、文件操作、爬虫入门等全知识点，附实战项目，适合零基础小白系统掌握Python开发。"
 slug: "python-practical-course-beginners"
 ---
-{< button href="https://pan.quark.cn/s/9c2447214150" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/9c2447214150" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/9c2447214150
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 本课程是专为编程萌新打造的系统性Python实战精讲，已全部完结，无需等待更新。从最基础的变量类型开始，一步步带你掌握条件判断、循环、函数、列表与字典、文件读写、异常处理、模块使用等核心知识。课程采用“理论+实战”双驱动模式，每章均搭配可运行的小项目，让你在动手过程中巩固理解。
 

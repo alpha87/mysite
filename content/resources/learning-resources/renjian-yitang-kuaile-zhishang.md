@@ -10,15 +10,15 @@ keywords: ["人间一趟快乐至上", "人生短暂快乐至上", "快乐生活
 summary: "人生只有一次，把快乐放在首位。文章分享快乐至上的生活态度，并提供励志电子书、冥想音频等资源，助你开启幸福之旅。"
 slug: "renjian-yitang-kuaile-zhishang"
 ---
-{< button href="https://pan.quark.cn/s/1710f18ab3b3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1710f18ab3b3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1710f18ab3b3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 人间一趟，快乐至上
 

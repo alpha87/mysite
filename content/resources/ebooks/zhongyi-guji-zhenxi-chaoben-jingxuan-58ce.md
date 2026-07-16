@@ -1,4 +1,3 @@
-
 ---
 title: "《中医古籍珍稀抄本精选》系列58册电子版下载"
 description: "《中医古籍珍稀抄本精选》系列共58册，涵盖中医经典、临床验方、本草方剂等珍稀手抄本，是中医学习与研究者必备的电子书资源。本资源提供夸克网盘下载，方便收藏与查阅。"
@@ -11,15 +10,15 @@ keywords: ["中医古籍珍稀抄本精选", "中医古籍下载", "珍稀中医
 summary: "《中医古籍珍稀抄本精选》系列58册电子版，包含大量中医珍稀手抄本，涵盖经典、方剂、临床等，适合中医从业者、爱好者收藏学习。夸克网盘下载。"
 slug: "zhongyi-guji-zhenxi-chaoben-jingxuan-58ce"
 ---
-{< button href="https://pan.quark.cn/s/dc1cc5028d5f" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/dc1cc5028d5f" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/dc1cc5028d5f
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 《中医古籍珍稀抄本精选》系列是一套极为珍贵的中医文献汇编，全套共58册，收录了从明清至近代众多中医名家的手抄本、孤本、善本。这些抄本内容涵盖《黄帝内经》《伤寒论》《金匮要略》等经典的各家注解，以及大量民间流传的验方、秘方、本草图谱、针灸手法、内科杂病诊治心得等，内容极其丰富。
 

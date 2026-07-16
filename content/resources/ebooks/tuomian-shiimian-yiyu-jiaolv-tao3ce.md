@@ -1,4 +1,3 @@
-
 ---
 title: "摆脱：失眠、抑郁、焦虑（套装共3册）——心理自助经典读物"
 description: "《摆脱：失眠、抑郁、焦虑》套装共3册，涵盖失眠管理、抑郁缓解和焦虑控制三大主题，提供实用心理自助技巧与认知行为疗法。适合高压人群、情绪困扰者阅读，帮助重建健康睡眠、平衡情绪、缓解焦虑。"
@@ -11,15 +10,15 @@ keywords: ["摆脱失眠抑郁焦虑", "心理自助书籍", "失眠管理", "�
 summary: "《摆脱：失眠、抑郁、焦虑》套装共3册，系统讲解三大常见心理问题，融合认知行为疗法与实用技巧，帮助读者科学应对失眠、抑郁和焦虑，恢复身心健康。"
 slug: "tuomian-shiimian-yiyu-jiaolv-tao3ce"
 ---
-{< button href="https://pan.quark.cn/s/2cc5a82d9562" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/2cc5a82d9562" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/2cc5a82d9562
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 

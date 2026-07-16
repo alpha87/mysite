@@ -1,4 +1,3 @@
-
 ---
 title: "黎叔教做菜《B站24味》全套视频教程：从零学会24道经典家常菜"
 description: "黎叔教做菜《B站24味》完整合集，涵盖24道经典家常菜的详细教学视频，从食材处理、刀工切配、火候掌控到调味技巧，手把手教您做出酒店级美味，适合厨房新手和想提升厨艺的家庭烹饪爱好者。"
@@ -11,15 +10,15 @@ keywords: ["黎叔教做菜B站24味", "美食视频教程", "家常菜教学", 
 summary: "黎叔教做菜《B站24味》全套视频教程，包含24道经典家常菜的完整教学，系统讲解食材处理、刀工切配、火候掌控和调味秘诀，让您轻松掌握酒店级菜品制作方法。"
 slug: "lishu-jiaozuocai-bangong-24wei"
 ---
-{< button href="https://pan.quark.cn/s/bb47392112c3" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/bb47392112c3" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/bb47392112c3
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 黎叔教做菜《B站24味》——从零学会24道经典家常菜
 

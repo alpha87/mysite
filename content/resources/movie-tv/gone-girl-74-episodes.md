@@ -1,4 +1,3 @@
-
 ---
 title: "《消失的爱人》全集74集｜国产悬疑剧资源分享"
 description: "国产悬疑剧《消失的爱人》全74集资源分享，剧情围绕妻子失踪引发的层层谜团，家庭伦理与人性博弈交织，高清画质，夸克网盘永久保存，随看随存。"
@@ -11,15 +10,15 @@ keywords: ["消失的爱人全集", "消失的爱人电视剧", "国产悬疑剧
 summary: "国产悬疑剧《消失的爱人》全74集资源，夸克网盘直达链接，保存即永久，追剧必备。"
 slug: "xiaoshi-de-airen-74-ji"
 ---
-{< button href="https://pan.quark.cn/s/22668925429b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/22668925429b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/22668925429b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧情简介
 

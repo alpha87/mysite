@@ -1,4 +1,3 @@
-
 ---
 title: "人生拒绝清单：告别内耗、无效社交与拖延的终极指南"
 description: "人生拒绝清单完整电子书，系统梳理现代人需要拒绝的20种消耗性行为，包括精神内耗、无效社交、拖延症、讨好型人格等，提供可操作的拒绝策略与心理建设方法，帮助读者建立边界感，专注于真正重要的事。"
@@ -11,15 +10,15 @@ keywords: ["人生拒绝清单", "拒绝内耗", "拒绝无效社交", "拒绝�
 summary: "人生拒绝清单完整电子书，系统梳理现代人需要拒绝的20种消耗性行为，包含精神内耗、无效社交、拖延症、讨好型人格等，提供可操作的拒绝策略，帮助你建立边界感，专注于真正重要的事。"
 slug: "life-no-list"
 ---
-{< button href="https://pan.quark.cn/s/c645ad8d9e72" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/c645ad8d9e72" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/c645ad8d9e72
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 为什么你需要一份“人生拒绝清单”？
 

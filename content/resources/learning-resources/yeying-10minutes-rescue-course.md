@@ -1,4 +1,3 @@
-
 ---
 title: "夜鹰10分钟救命课（完结）：关键时刻能救命的急救知识"
 description: "夜鹰10分钟救命课全集完结，包含心脏骤停、窒息、溺水、外伤出血、癫痫等常见急症的现场急救方法，由知名急救科普专家夜鹰主讲，手把手教学，零基础也能快速掌握，是家庭必备的急救学习资源。"
@@ -11,15 +10,15 @@ keywords: ["夜鹰急救课", "10分钟救命课", "急救科普", "现场急救
 summary: "夜鹰10分钟救命课全集完结，系统讲解心脏骤停、窒息、溺水、外伤出血、癫痫等常见急症的现场急救方法，由急救科普专家夜鹰主讲，零基础可学，是家庭必备的急救学习资源。"
 slug: "yeying-10minutes-rescue-course"
 ---
-{< button href="https://pan.quark.cn/s/1b9bdbee640b" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/1b9bdbee640b" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/1b9bdbee640b
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 课程简介
 

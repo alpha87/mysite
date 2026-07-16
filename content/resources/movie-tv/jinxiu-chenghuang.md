@@ -1,4 +1,3 @@
-
 ---
 title: "锦秀成凰（99集）"
 description: "锦秀成凰99集全集资源，一部融合古装、权谋、甜宠的精彩短剧，剧情跌宕起伏，人物刻画生动。提供夸克网盘高清下载，一键保存全集。"
@@ -11,15 +10,15 @@ keywords: ["锦秀成凰全集", "锦秀成凰99集", "锦秀成凰短剧", "古
 summary: "锦秀成凰99集全集资源介绍，精彩古装短剧，权谋与甜宠并存，提供夸克网盘高清下载链接，一键保存永久有效。"
 slug: "jinxiu-chenghuang"
 ---
-{< button href="https://pan.quark.cn/s/85b018e932ab" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/85b018e932ab" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/85b018e932ab
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 剧集简介
 

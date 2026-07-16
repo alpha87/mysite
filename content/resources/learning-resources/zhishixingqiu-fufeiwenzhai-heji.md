@@ -1,4 +1,3 @@
-
 ---
 title: "《精选知识星球付费文》136篇合集：高价值付费内容一站式收藏"
 description: "136篇精选知识星球付费文章合集，覆盖认知提升、副业赚钱、投资理财、个人成长等核心领域，每篇均为顶级星主付费内容，帮你节省数千元学费，快速获取高价值信息。"
@@ -11,15 +10,15 @@ keywords: ["知识星球付费文章合集", "付费内容", "星主精华", "�
 summary: "136篇精选知识星球付费文章合集，涵盖认知提升、副业赚钱、投资理财、个人成长等核心领域，每篇均为顶级星主付费内容，帮你节省数千元学费，快速获取高价值信息。"
 slug: "zhishixingqiu-fufeiwenzhai-heji"
 ---
-{< button href="https://pan.quark.cn/s/d431ef22da56" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/d431ef22da56" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/d431ef22da56
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 简介
 

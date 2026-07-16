@@ -1,4 +1,3 @@
-
 ---
 title: "《贴身保镖》英剧全季资源分享｜高分悬疑动作剧"
 description: "高分英剧《贴身保镖》(Bodyguard)全季资源下载，包含夸克网盘链接。剧情围绕政治与恐怖主义交织的悬疑故事，主演理查德·麦登精彩演绎，豆瓣评分8.5+，适合悬疑、动作、政治题材爱好者。"
@@ -11,15 +10,15 @@ keywords: ["贴身保镖英剧", "Bodyguard下载", "高分英剧推荐", "BBC�
 summary: "高分英剧《贴身保镖》(Bodyguard)全季资源分享，豆瓣评分8.5+，政治悬疑与动作元素完美结合。附带夸克网盘链接，保存即永久有效。"
 slug: "personal-bodyguard"
 ---
-{< button href="https://pan.quark.cn/s/ece130fb90f0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/ece130fb90f0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/ece130fb90f0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 英剧《贴身保镖》简介
 

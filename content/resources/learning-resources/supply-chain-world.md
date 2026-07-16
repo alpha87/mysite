@@ -1,4 +1,3 @@
- 
 ---
 title: "带你走进供应链的世界：从入门到精通完整指南"
 description: "供应链管理完整学习指南，涵盖供应链基础概念、核心流程、最佳实践及数字化转型趋势，适合初学者和从业者系统掌握供应链知识，附赠实战资源包。"
@@ -11,15 +10,15 @@ keywords: ["供应链世界", "供应链管理教程", "供应链基础概念", 
 summary: "带你走进供应链的世界，系统学习供应链管理核心知识，从基础概念到数字化转型，覆盖采购、生产、物流、库存、销售全链路，附赠实战资源包，助你快速成为供应链专家。"
 slug: "supply-chain-world"
 ---
-{< button href="https://pan.quark.cn/s/4c2c61efd8ce" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/4c2c61efd8ce" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/4c2c61efd8ce
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 供应链的世界，你真的懂吗？
 

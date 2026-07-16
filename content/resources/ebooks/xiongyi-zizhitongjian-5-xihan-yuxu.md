@@ -1,4 +1,3 @@
-
 ---
 title: "熊逸·讲透资治通鉴5·西汉余绪：深度解读汉代政治智慧"
 description: "熊逸《讲透资治通鉴》系列第五卷——西汉余绪，深入剖析西汉中后期政治演变、权力斗争与历史规律，适合历史爱好者、管理者及国学学习者，助你从千年兴衰中汲取处世智慧。"
@@ -11,15 +10,15 @@ keywords: ["熊逸讲透资治通鉴", "资治通鉴第五卷", "西汉余绪", 
 summary: "熊逸《讲透资治通鉴》第五卷西汉余绪，深度解析西汉中后期政治演变与历史规律，适合历史爱好者和管理者，从千年兴衰中领悟处世智慧。"
 slug: "xiongyi-touzi-zizhitongjian-5-xihan-yuxu"
 ---
-{< button href="https://pan.quark.cn/s/18c53daab4c0" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/18c53daab4c0" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/18c53daab4c0
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 关于本书
 

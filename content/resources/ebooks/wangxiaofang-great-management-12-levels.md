@@ -1,4 +1,3 @@
-
 ---
 title: "王晓芳职场晋升《伟大管理的12级阶梯》完整电子书"
 description: "王晓芳职场晋升经典著作《伟大管理的12级阶梯》电子版，涵盖管理思维、团队建设、沟通技巧、决策能力等12个管理核心阶梯，适合中层管理者、创业者及职场晋升者系统提升管理能力，附赠PDF高清版下载。"
@@ -11,15 +10,15 @@ keywords: ["王晓芳 职场晋升", "伟大管理的12级阶梯 下载", "管�
 summary: "王晓芳职场晋升经典《伟大管理的12级阶梯》电子版，系统讲解管理12个核心阶梯，从管理思维到团队激励，助你快速突破管理瓶颈，实现职场跃迁。包含高清PDF，可直接下载。"
 slug: "wangxiaofang-great-management-12-levels"
 ---
-{< button href="https://pan.quark.cn/s/a4503be82f95" target="_blank" >}
+{{< button href="https://pan.quark.cn/s/a4503be82f95" target="_blank" >}}
 点击获取资源
-{< /button >}
+{{< /button >}}
 
 > 夸克网盘：https://pan.quark.cn/s/a4503be82f95
 
-{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 链接有时效，保存即永久
-{< /alert >}
+{{< /alert >}}
 
 ## 书籍简介
 
